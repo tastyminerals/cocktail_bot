@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+ 
+<category>
+  <pattern>*</pattern>
+  <template>What do you want to talk about?</template>
+</category>
+<category>
+  <pattern>WHAT *</pattern>
+  <template><random><li>Something</li><li> Nothing</li><li> Everything</li></random></template>
+</category> 
+<category>
+  <pattern>YOUR NAME</pattern>
+  <template><srai>WHAT IS YOUR NAME</srai></template>
+</category>
+<category>
+  <pattern>WHAT IS YOUR NAME</pattern>
+  <template>My name is <bot name="name"></bot>. And you?</template>
+</category>
+<category> 
+  <pattern>YES *</pattern> 
+  <template><srai>YES</srai> <sr/></template> 
+</category>
+<topic name="MUSIC">
+<category> 
+  <pattern>YES</pattern>
+  <that>DO YOU LIKE MUSIC</that> 
+  <template>Which is your favourite artist?</template> 
+</category>
+<category> 
+  <pattern>* CHANGE *</pattern>
+  <template><srai>CHANGE</srai></template>
+  </category>
+<category> 
+  <pattern>CHANGE *</pattern>
+    <template><srai>CHANGE</srai></template>
+</category>
+<category> 
+  <pattern>* CHANGE</pattern>
+    <template><srai>CHANGE</srai></template>
+</category>
+<category> 
+  <pattern>CHANGE</pattern>
+  <template>
+    <think><set name="topic"/></think>
+    Sure. To what?
+  </template>
+</category>
+<category>
+  <pattern>*</pattern>
+  <that>WHICH IS YOUR FAVOURITE ARTIST</that> 
+  <template>Why do you like the <lowercase><get name="topic"/></lowercase> artist <star/>?</template>
+</category>
+<category> 
+  <pattern>NO</pattern>
+  <that>DO YOU LIKE MUSIC</that> 
+  <template>
+    <think><set name="topic">MOVIES</set></think>
+    Do you like movies?
+  </template>
+</category>
+</topic>
+<category> 
+  <pattern>* MUSIC</pattern>
+    <template><srai>MUSIC</srai></template>
+</category>
+<category> 
+  <pattern>* MUSIC *</pattern>
+    <template><srai>MUSIC</srai></template>
+</category>
+<category> 
+  <pattern>MUSIC *</pattern>
+    <template><srai>MUSIC</srai></template>
+</category>
+<category>
+  <pattern>MUSIC</pattern>
+  <template>
+    <think><set name="topic">Music</set></think>
+    Do you like music?
+  </template>
+</category>
+<topic name="MOVIES">
+<category>
+  <pattern>*</pattern>
+  <that>WHICH IS YOUR FAVOURITE ARTIST</that> 
+  <template>Why do you like the <lowercase><get name="topic"/></lowercase> artist <star/>?</template>
+</category>
+<category> 
+  <pattern>YES</pattern>
+  <that>DO YOU LIKE MOVIES</that> 
+  <template>Which is your favourite artist?</template> 
+</category>
+<category> 
+  <pattern>NO</pattern>
+  <that>DO YOU LIKE MOVIES</that> 
+  <template>
+    <think><set name="topic">MUSIC</set></think>
+    Do you like music?
+  </template>
+</category>
+<category> 
+  <pattern>* CHANGE *</pattern>
+  <template><srai>CHANGE</srai></template>
+  </category>
+<category> 
+  <pattern>CHANGE *</pattern>
+    <template><srai>CHANGE</srai></template>
+</category>
+<category> 
+  <pattern>* CHANGE</pattern>
+    <template><srai>CHANGE</srai></template>
+</category>
+<category> 
+  <pattern>CHANGE</pattern>
+  <template>
+    <think><set name="topic"/></think>
+    Sure. To what?
+  </template>
+</category>
+</topic>
+<category> 
+  <pattern>* MOVIES</pattern>
+    <template><srai>MOVIES</srai></template>
+</category>
+<category> 
+  <pattern>* MOVIES *</pattern>
+    <template><srai>MOVIES</srai></template>
+</category>
+<category> 
+  <pattern>MOVIES *</pattern>
+    <template><srai>MOVIES</srai></template>
+</category>
+<category>
+  <pattern>MOVIES</pattern>
+  <template>
+    <think><set name="topic">Movies</set></think>
+    Do you like movies?
+  </template>
+</category>
+<category> 
+  <pattern>DO YOU LIKE *</pattern> 
+  <template>Yes I like <star/></template> 
+</category>
+<category>
+  <pattern>I LIKE *</pattern>
+  <template>I also like <star/></template>
+</category>
+<category>
+  <pattern>WHERE DO YOU LIVE</pattern>
+  <template>I live in <bot name="city"></bot> <get name="user-name"/></template>
+</category>
+<category>
+  <pattern>MY NAME IS *</pattern>
+  <template>  <think><set name="user-name"><star/></set></think>
+Hi <star/></template>
+</category>
+
+</aiml>

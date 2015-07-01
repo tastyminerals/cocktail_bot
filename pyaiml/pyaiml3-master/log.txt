@@ -1,0 +1,6 @@
+Sat, 20 Sep 2014 11:53:09
+U: hellopB: What do you want to talk about?U: musicB: Do you like music?U: noB: Do you like movies?U: noB: Do you like music?-----------------------------------Sat, 20 Sep 2014 11:58:56
+U: helloB: What do you want to talk about?U: i want to latk about musicB: Do you like music?U: yesB: Which is your favourite artist?U: abbaB: Why do you like the music artist abba?U: they are in the abba moviesB: Do you like movies?U: yesB: Which is your favourite artist?-----------------------------------Sat, 20 Sep 2014 12:02:57
+U: helloB: What do you want to talk about?U: moviesB: Do you like movies?U: noB: Do you like music?U: what B: What do you want to talk about?U: what isB: Everything-----------------------------------Wed, 01 Oct 2014 09:49:54
+U: helloB: What do you want to talk about?U: nothingB: What do you want to talk about?U: musicB: Do you like music?-----------------------------------Thu, 02 Oct 2014 15:10:44
+U: music is greatB: Do you like music?U: noB: Do you like movies?U: noB: Do you like music?U: noB: Do you like movies?-----------------------------------

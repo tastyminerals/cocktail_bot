@@ -1,0 +1,22 @@
+<aiml version="1.0">
+
+<!-- This category works with the Standard AIML Set -->
+<category>
+<pattern>LOAD AIML B</pattern>
+<template>
+
+<!-- Load standard AIML set -->
+<learn>standard/std-*.aiml</learn>
+</template>
+</category>
+
+<category>
+<pattern>LOAD R1D1</pattern>
+<template>
+
+<!-- Load my patterns -->
+<learn>r1d1.aiml</learn>
+</template>
+</category>
+
+</aiml>
