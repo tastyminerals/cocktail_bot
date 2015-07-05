@@ -184,7 +184,7 @@
 
     <!-- SHELL commands -->
     <category>
-        <pattern>SHELL</pattern>
-        <template>It's <system>python2 shell.py</system></template>
+        <pattern>SHELL *</pattern>
+        <template>It's <system>python2 shell.py <star/></system></template>
     </category>
 </aiml>
