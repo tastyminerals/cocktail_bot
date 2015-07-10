@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- difference between _ and * -->
 <aiml versions="1.0.1" encoding="UTF-8">
     <category>
-        <pattern>* LIKE *</pattern>
+        <pattern>_ LIKE *</pattern>
         <template>
             <star index="1"/> like <star index="2"/> indeed, what do you do with <star index="2"/>?
         </template>
@@ -11,7 +12,7 @@
         <template>I <star/> too</template>
     </category>
     <category>
-        <pattern>TELL ME WHAT IS ROBOT</pattern> <!-- Do not insert "?" in the end this pattern -->
+        <pattern>TELL ME WHAT IS ROBOT</pattern> <!-- patterns are punctuation agnostic <Do not insert "?" in the end this pattern> -->
         <template>It is me :D</template>
     </category>
 
@@ -175,14 +176,16 @@
     <category>
         <pattern>HOW ARE YOU</pattern>
         <template>
-            <think><set name="mood">COOL</set></think>
+            <think>
+                <set name="mood">COOL</set>
+            </think>
             <condition name="mood" value="HAPPY">I am happy, yeah!</condition>
             <condition name="mood" value="COOL">I am very cool</condition>
             <condition name="mood" value="BAD">I am bad</condition>
         </template>
     </category>
 
-    <!-- SHELL commands -->
+    <!-- SHELL commands, if output is in AIML format it WILL be interpreted -->
     <category>
         <pattern>SHELL *</pattern>
         <template>It's <system>python2 shell.py <star/></system></template>
