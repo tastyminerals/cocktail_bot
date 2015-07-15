@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <data>
-    <cocktail name="Appletini (Apple Martini)">
+    <cocktail name="Appletini">
         <prime>vodka</prime>
         <description>
             An apple martini (appletini for short) is a cocktail containing vodka and one or more of apple juice, apple cider, apple liqueur, or apple brandy.
@@ -8,7 +8,6 @@
             Typically, the apple vodka is shaken or stirred with a sweet and sour mix and then strained into a cocktail glass.
             The appletini is a variation of the vodka martini, which diverges in taste from the typical dry martini by adding apple juice and/or apple liqueur, or apple schnapps.
             It tends to be served in the standard martini glass, but truly differs from the martini in taste, since it is a fruity tasting drink with the apple flavor usually masking the vodka.
-            Since the drink is fairly new in origin, and popularized by shows like Sex in the City, Scrubs, and The Colbert Report, there is considerable variation as to how the drink is made.
         </description>
         <history></history>
         <trivia>
@@ -31,12 +30,15 @@
             If you are looking for a crisp, refreshing, sweet and slightly tangy apple flavor -- look no further.
         </comments>
         <ingredients>
-            40ml (3 parts) Vodka
-            15ml (1 part) Apple schnapps / Calvados
-            15ml (1 part) Cointreau
+            INGREDIENTS:
+            40ml (3 parts) Vodka,
+            15ml (1 part) Apple schnapps / Calvados,
+            15ml (1 part) Cointreau.
         </ingredients>
         <mixing>
-            Mix in a shaker, then pour into a chilled glass. Garnish and serve.
+            MIXING:
+            Mix in a shaker, then pour into a chilled glass.
+            Garnish and serve.
         </mixing>
     </cocktail>
     <cocktail name="Pina Colada">
@@ -74,12 +76,16 @@
             I think I need to make this and bring back those happy memories of fun and sun
         </comments>
         <ingredients>
-            3 cl (one part) white rum
-            3 cl (one part) coconut milk
-            9 cl (3 parts) pineapple juice
+            INGREDIENTS:
+            3 cl (one part) white rum,
+            3 cl (one part) coconut milk,
+            9 cl (3 parts) pineapple juice.
         </ingredients>
         <mixing>
-            Put all ingredients into an electric blender with 2 cups of crushed ice. Blend at a high speed for a short length of time. Strain into a collins glass and serve with a straw.
+            MIXING:
+            Put all ingredients into an electric blender with 2 cups of crushed ice.
+            Blend at a high speed for a short length of time.
+            Strain into a collins glass and serve with a straw.
         </mixing>
     </cocktail>
     <cocktail name="Long Island Iced Tea">
@@ -87,7 +93,7 @@
         <description>
             A Long Island Iced Tea is a type of alcoholic mixed drink typically made with, among other ingredients, tequila, vodka, light rum, triple sec, and gin.
             It is so named because of the resemblance to the color and taste of iced tea.
-            A popular version mixes equal parts vodka, gin, tequila, rum, and triple sec with 1½ parts sour mix and a splash of cola, which gives the drink the same amber hue as its namesake.
+            A popular version mixes equal parts vodka, gin, tequila, rum, and triple sec with 1.5 parts sour mix and a splash of cola, which gives the drink the same amber hue as its namesake.
             Most variants use equal parts of the main liquors, but include a smaller amount of triple sec (or other orange-flavored liqueur).
             Close variants often replace the sour mix with lemon juice, replace the cola with diet cola or actual iced tea, or add white crème de menthe; however, most variants do not include any tea.
         </description>
@@ -117,16 +123,18 @@
             taste like non-alcoholic iced tea
         </comments>
         <ingredients>
-            1.5 cl Tequila
-            1.5 cl Vodka
-            1.5 cl White rum
-            1.5 cl Triple sec
-            1.5 cl Gin
-            2.5 cl Lemon juice
-            3.0 cl Gomme Syrup
-            1 dash of Cola
+            INGREDIENTS:
+            1.5 cl Tequila,
+            1.5 cl Vodka,
+            1.5 cl White rum,
+            1.5 cl Triple sec,
+            1.5 cl Gin,
+            2.5 cl Lemon juice,
+            3.0 cl Gomme Syrup,
+            1 dash of Cola.
         </ingredients>
         <mixing>
+            MIXING:
             Mix ingredients together over ice in a glass.
             Pour into shaker and give ONE brisk shake.
             Pour back into glass and make sure there is a touch of fizz at the top.
@@ -148,12 +156,14 @@
         <trivia></trivia>
         <comments></comments>
         <ingredients>
-            15ml each vodka, gin, white rum and tequila
-            15ml freshly squeezed lemon juice
-            about 70ml orange juice
+            INGREDIENTS:
+            15ml each vodka, gin, white rum and tequila,
+            15ml freshly squeezed lemon juice,
+            about 70ml orange juice.
         </ingredients>
         <mixing>
-            stir in a large glass and top up with use
+            MIXING:
+            Stir in a large glass and top up with use.
         </mixing>
     </cocktail>
     <cocktail name="Pina Colada">
@@ -191,12 +201,16 @@
             I think I need to make this and bring back those happy memories of fun and sun
         </comments>
         <ingredients>
-            3 cl (one part) white rum
-            3 cl (one part) coconut milk
-            9 cl (3 parts) pineapple juice
+            INGREDIENTS:
+            3 cl (one part) white rum,
+            3 cl (one part) coconut milk,
+            9 cl (3 parts) pineapple juice.
         </ingredients>
         <mixing>
-            Put all ingredients into an electric blender with 2 cups of crushed ice. Blend at a high speed for a short length of time. Strain into a collins glass and serve with a straw.
+            MIXING:
+            Put all ingredients into an electric blender with 2 cups of crushed ice.
+            Blend at a high speed for a short length of time.
+            Strain into a collins glass and serve with a straw.
         </mixing>
     </cocktail>
     <cocktail name="Margarita">
@@ -219,7 +233,7 @@
             The most important ingredient for this drink is tequila.
             You want to use something decent, but not overly fancy.
             a cocktail consisting of tequila, triple sec (such as Cointreau) and lime or lemon juice, often served with salt on the rim of the glass.
-            But one thing is clear: the Margarita is basically a “sour,” like the Whiskey Sour, the Sidecar, and the Classic Daiquiri. All these drinks are made with liquor + citrus (lemon or lime) + something sweet to temper the sourness of the citrus (simple syrup or triple sec).
+            But one thing is clear: the Margarita is basically a "sour," like the Whiskey Sour, the Sidecar, and the Classic Daiquiri. All these drinks are made with liquor + citrus (lemon or lime) + something sweet to temper the sourness of the citrus (simple syrup or triple sec).
             I find it works better with the lime's tartness and gives a smoothness to the Margarita.
         </trivia>
         <comments>
@@ -238,11 +252,13 @@
             Just another level of refreshing.
         </comments>
         <ingredients>
-            3.5 cL (7 parts) tequila
-            2 cL (4 parts) Cointreau
-            1.5 cL (3 parts) lime juice
+            INGREDIENTS:
+            3.5 cL (7 parts) tequila,
+            2 cL (4 parts) Cointreau,
+            1.5 cL (3 parts) lime juice.
         </ingredients>
         <mixing>
+            MIXING:
             Rub rim of cocktail glass with lime juice, dip rim in salt.
             Shake all ingredients with ice, strain into the salt-rimmed glass, and serve.
         </mixing>
@@ -251,17 +267,17 @@
         <prime>cachaca</prime>
         <description>
             is Brazil's national cocktail, made with cachaca (sugar cane hard liquor), sugar and lime.
-            Cachaça is Brazil's most common distilled alcoholic beverage (also known as Pinga or Caninha).
+            Cachaca is Brazil's most common distilled alcoholic beverage (also known as Pinga or Caninha).
             Although both rum and cachaca are made from sugarcane derived products, specifically in cachaca, the alcohol results from the fermentation of fresh sugarcane juice that is afterwards distilled, while rum is usually made from by-products from refineries, such as molasses.
         </description>
         <history>
-            Although the real origin of caipirinha as we know it today is unknown, according to one account it began around 1918 in the state of Sao Paulo with a popular recipe made with lime, garlic and honey, indicated for patients with the Spanish flu; Today it is still being used as a remedy for the common cold.
+            Although the real origin of caipirinha as we know it today is unknown, according to one account it began around 1918 in the state of Sao Paulo with a popular recipe made with lime, garlic and honey, indicated for patients with the Spanish flu.
             As it was quite common to add some distilled spirits to home remedies in order to expedite the therapeutic effect, rum was commonly used.
             Until one day someone decided to remove the garlic and honey.
         </history>
         <trivia>
             The caipirinha is the strongest national cocktail of Brazil, and is imbibed in restaurants, bars, and many households throughout the country.
-            Once almost unknown outside Brazil, the drink has become more popular and more widely available in recent years, in large part due to the rising availability of first-rate brands of cachaça outside Brazil.
+            Once almost unknown outside Brazil, the drink has become more popular and more widely available in recent years, in large part due to the rising availability of first-rate brands of cachaca outside Brazil.
             The word caipirinha is the diminutive version of the word caipira, which refers to someone from the countryside, being an almost exact equivalent of the American English hillbilly or the Lowland Scots teuchter.
             The word may be used as either a masculine or a feminine noun, but when referring to this drink it is only feminine (usage of diminutives is common in Brazil).
             In the Brazilian vocabulary, the word caipirinha is mostly associated with the drink itself rather than the class of person.
@@ -272,7 +288,7 @@
             Cachaca is made from cane sugar.
             Making this cocktail requires muddling sugar with lime wedges.
             Balancing the amount of sugar in this drink is tricky.
-            Cachaça has a sweetish (almost fruity) and herbal flavor with a slight aftertaste that reminds me a bit of tequila.
+            Cachaca has a sweetish (almost fruity) and herbal flavor with a slight aftertaste that reminds me a bit of tequila.
             It's a tad harsh, so I wouldn't want to drink the white version neat or on the rocks
             The Caipirinha takes quite well to experimentation, so it's a drink you can play with a bit.
             So feel free to add more lime if you find that the amount specified in the recipe isn't sufficient.
@@ -289,11 +305,13 @@
             well, maybe 2 sips. ;-) Great tasting drink, though.
         </comments>
         <ingredients>
-            5 cl cachaca
-            Half a lime cut into 4 wedges
-            2 teaspoons white sugar
+            INGREDIENTS:
+            5 cl cachaca,
+            Half a lime cut into 4 wedges,
+            2 teaspoons white sugar.
         </ingredients>
         <mixing>
+            MIXING:
             The drink is prepared by smashing the fruit and the sugar together, and adding the liquor.
             This can be made into a single glass, usually large, that can be shared amongst people, or into a larger jar, from where it is served in individual glasses.
         </mixing>
@@ -305,7 +323,7 @@
             As a bourbon-based cocktail, it is associated with the American South and the cuisine of the Southern United States in general, and the Kentucky Derby in particular.
             The Kentucky Derby is among the most famous horse races in the US (and part of the Triple Crown Series that also includes the Preakness Stakes and the Belmont Stakes).
             Traditionally held the first Saturday in May, it's the first big US race of the season.
-            This ice-cold cocktail traditionally is served in a silver cup — which the imbiber holds by the bottom and top edges in order not to disturb the frosty coating of condensation that develops on the outside.
+            This ice cold cocktail traditionally is served in a silver cup — which the imbiber holds by the bottom and top edges in order not to disturb the frosty coating of condensation that develops on the outside.
         </description>
         <history>
             The origins of the mint julep are clouded and may never be definitively known.
@@ -335,19 +353,23 @@
             On the day of the race I had to order a mint Julep
         </comments>
         <ingredients>
-            6 cL Bourbon whiskey
-            4 mint leaves
-            1 teaspoon powdered sugar
-            2 teaspoons water
+            INGREDIENTS:
+            6 cL Bourbon whiskey,
+            4 mint leaves,
+            1 teaspoon powdered sugar,
+            2 teaspoons water.
         </ingredients>
         <mixing>
-            In a highball glass gently muddle the mint, sugar and water. Fill the glass with cracked ice, add Bourbon and stir well until the glass is well frosted. Garnish with a mint sprig.
+            MIXING:
+            In a highball glass gently muddle the mint, sugar and water.
+            Fill the glass with cracked ice, add Bourbon and stir well until the glass is well frosted.
+            Garnish with a mint sprig.
         </mixing>
     </cocktail>
     <cocktail name="Mai Tai">
         <prime>rum</prime>
         <description>
-            The Mai Tai is an alcoholic cocktail based on rum, Curaçao liqueur, and lime juice, associated with Polynesian-style settings.
+            The Mai Tai is an alcoholic cocktail based on rum, Curacao liqueur, and lime juice, associated with Polynesian-style settings.
             The Mai Tai is perfect as a summer cocktail: sultry, yet cooling and refreshing at the same time.
             So, lest you harbor suspicions about the Mai Tai because of its parasol persuasion, let me hasten to add that this is arguably one of the world's top ten drinks.
             A real Mai Tai contains just a few ingredients.
@@ -355,7 +377,7 @@
         </description>
         <history>
             It is said to have been invented by the proprietor of Trader Vic's of Oakland, California in 1944.
-            He created the drink for some friends who were visiting from Tahiti and after one of them exclaimed that the drink was “Maita'i”, or very good in Tahitian, the name stuck.
+            He created the drink for some friends who were visiting from Tahiti and after one of them exclaimed that the drink was "Maita'i", or very good in Tahitian, the name stuck.
             A rival restaurant, Don the Beachcomber, also claims to have invented the cocktail in 1933 with a more complex version of the drink.
             The truth probably lies somewhere in between, but California was more than likely the birthplace of the popular cocktail.
         </history>
@@ -377,13 +399,15 @@
             Cowabunga, dude.
         </comments>
         <ingredients>
-            4 cl (8 parts) white rum
-            2 cl (4 parts) dark rum
-            1.5 cl (3 parts) orange curaçao
-            1.5 cl (3 parts) Orgeat syrup
-            1 cl (2 parts) fresh lime juice
+            INGREDIENTS:
+            4 cl (8 parts) white rum,
+            2 cl (4 parts) dark rum,
+            1.5 cl (3 parts) orange curacao,
+            1.5 cl (3 parts) Orgeat syrup,
+            1 cl (2 parts) fresh lime juice.
         </ingredients>
         <mixing>
+            MIXING:
             Shake all ingredients with ice.
             Strain into glass.
             Garnish and serve with straw.
@@ -402,8 +426,7 @@
             The cocktail has a relatively low alcohol content (about 10 percent alcohol by volume).
         </description>
         <history>
-            Havana is the birthplace of the Mojito, although the exact origin of this classic cocktail is the
-            subject of debate.
+            Havana is the birthplace of the Mojito, although the exact origin of this classic cocktail is the subject of debate.
             One story traces the Mojito to a similar 16th century drink known as "El Draque", after Francis Drake.
             In 1586, after his successful raid at Cartagena de Indias Drake's ships sailed towards Havana but there was an epidemic of dysentery and scurvy on board.
             It was known that the local South American Indians had remedies for various tropical illnesses; so a small boarding party went ashore on Cuba and came back with ingredients for a medicine which was effective.
@@ -438,13 +461,15 @@
             Mint leaves and lime wedges are used to garnish the glass.
         </comments>
         <ingredients>
-            4 cl (4 parts) White rum
-            3 cl (3 parts) Fresh lime juice
-            6 leaves of Mint
-            2 teaspoons Sugar
-            Soda Water
+            INGREDIENTS:
+            4 cl (4 parts) White rum,
+            3 cl (3 parts) Fresh lime juice,
+            6 leaves of Mint,
+            2 teaspoons Sugar,
+            Soda Water.
         </ingredients>
         <mixing>
+            MIXING:
             Mint sprigs muddled with sugar and lime juice.
             White rum added and topped with soda water.
             Garnished with sprig of mint leaves.
@@ -463,7 +488,8 @@
         <history></history>
         <trivia>
             Cosmo was further popularized among young women by its frequent mention on the television program Sex and the City, where Sarah Jessica Parker's character, Carrie Bradshaw, commonly ordered the drink when out with her girlfriends.
-            The film adaptation made a reference to its popularity when Miranda asks why they stopped drinking them, Carrie replies "because everyone else started."</trivia>
+            The film adaptation made a reference to its popularity when Miranda asks why they stopped drinking them, Carrie replies "because everyone else started."
+        </trivia>
         <comments>
             sweet, fruity, juicy
             it is strong and its quite sweet
@@ -474,12 +500,14 @@
             The best Cosmopolitans I've had have tiny ice crystals floating on top.
         </comments>
         <ingredients>
-            4 cl Vodka Citron
-            1.5 cl Cointreau
-            1.5 cl Fresh lime juice
+            INGREDIENTS:
+            4 cl Vodka Citron,
+            1.5 cl Cointreau,
+            1.5 cl Fresh lime juice,
             3 cl Cranberry juice
         </ingredients>
         <mixing>
+            MIXING:
             Add all ingredients into cocktail shaker filled with ice.
             Shake well and double strain into large cocktail glass.
             Garnish with lime wheel.
@@ -501,10 +529,12 @@
         </trivia>
         <comments></comments>
         <ingredients>
-            10 parts beer
-            1 part vodka (Ratio varies according to taste.)
+            INGREDIENTS:
+            10 parts beer,
+            1 part vodka (Ratio varies according to taste).
         </ingredients>
         <mixing>
+            MIXING:
             Mix thoroughly and drink quickly.
         </mixing>
     </cocktail>
@@ -523,11 +553,14 @@
         <trivia></trivia>
         <comments></comments>
         <ingredients>
-            5 cL (1 part) vodka
-            10 cL (2 parts) orange juice
+            INGREDIENTS:
+            5 cL (1 part) vodka,
+            10 cL (2 parts) orange juice.
         </ingredients>
         <mixing>
-            Mix in a highball glass with ice. Garnish and serve.
+            MIXING:
+            Mix in a highball glass with ice.
+            Garnish and serve.
         </mixing>
     </cocktail>
     <cocktail name="Bloody Mary">
@@ -542,7 +575,7 @@
             He was working at the New York Bar in Paris at the time, which later became Harry's New York Bar
         </history>
         <trivia>
-            The Bloody Mary is famed as a “hair of the dog” remedy (meaning that if you consume too much alcohol the night before, it's supposed to help assuage your pain the next morning).
+            The Bloody Mary is famed as a "hair of the dog" remedy (meaning that if you consume too much alcohol the night before, it's supposed to help assuage your pain the next morning).
             The name "Bloody Mary" is associated with a number of historical figures — particularly Queen Mary I of England, who was nicknamed as such in Foxe's Book of Martyrs for attempting to re-establish the Catholic Church in England — and fictional women from folklore.
             Some drink aficionados believe the inspiration for the name was Hollywood star Mary Pickford.
             Others trace the name to a waitress named Mary who worked at a Chicago bar called the Bucket of Blood.
@@ -566,11 +599,13 @@
             They almost become a meal in and of themselves
         </comments>
         <ingredients>
-            4.5 cl (3 parts) Vodka
-            9 cl (6 parts) Tomato juice
-            1.5 cl (1 part) Lemon juice
+            INGREDIENTS:
+            4.5 cl (3 parts) Vodka,
+            9 cl (6 parts) Tomato juice,
+            1.5 cl (1 part) Lemon juice.
         </ingredients>
         <mixing>
+            MIXING:
             Add dashes of Worcestershire Sauce, Tabasco, salt and pepper into highball glass, then pour all ingredients into highball with ice cubes.
             Stir gently.
             Garnish with celery stalk and lemon wedge (optional).
@@ -599,9 +634,9 @@
             The Big Lebowski was written, produced, and directed by the Coen brothers — Joel and Ethan.
             The Dude (played by Jeff Bridges) is an unemployed slacker living in Los Angeles.
             Other than drinking White Russians, his chief interests are bowling and hanging out.
-            The Dude refers to White Russian Cocktails as “Caucasians.”
-            “Careful, Man, There's a Beverage Here”
-            “They bowl, too,” said Mrs K R. “In fact, part of the event takes place in a bowling alley.”
+            The Dude refers to White Russian Cocktails as "Caucasians."
+            "Careful, Man, There's a Beverage Here"
+            "They bowl, too," said Mrs K R. "In fact, part of the event takes place in a bowling alley."
             I think I prefer the White Russian to them all because it is smooth and creamy and oh so delicious.
             Yes indeed, heavy in calories but oh so worth it!
             Drinkable desserts are fun-- and the boozy ones are a party in the mouth.
@@ -612,11 +647,13 @@
             This seems like a sweet tasty drink.
         </comments>
         <ingredients>
-            5 cl (5 parts) Vodka
-            2 cl (2 parts) Coffee liqueur
-            3 cl (3 parts) fresh cream
+            INGREDIENTS:
+            5 cl (5 parts) Vodka,
+            2 cl (2 parts) Coffee liqueur,
+            3 cl (3 parts) fresh cream.
         </ingredients>
         <mixing>
+            MIXING:
             Pour coffee liqueur and vodka into an Old Fashioned glass filled with ice.
             Float fresh cream on top and stir slowly.
         </mixing>
@@ -639,10 +676,10 @@
         <trivia></trivia>
         <comments></comments>
         <ingredients>
-            N/A
+            You don't wanna drink this.
         </ingredients>
         <mixing>
-            N/A
+            Seriouly.
         </mixing>
     </cocktail>
     <cocktail name="Porn Star Martini">
@@ -677,20 +714,22 @@
             Our Pornstar Martini is classy, refined and just a little bit wild.
         </comments>
         <ingredients>
-            25ml Passion fruit flavoured vodka
-            25ml Vanilla flavoured vodka
-            50ml passion fruit puree
-            50ml orange juice
-            2 spoons caster sugar
-            1⁄2 a passion fruit to garnish
-            25ml Prosecco
+            INGREDIENTS:
+            25ml Passion fruit flavoured vodka,
+            25ml Vanilla flavoured vodka,
+            50ml passion fruit puree,
+            50ml orange juice,
+            2 spoons caster sugar,
+            0.5 a passion fruit to garnish,
+            25ml Prosecco.
         </ingredients>
         <mixing>
-            Add vodka (both flavours), orange juice, passion fruit puree and the sugar to a cocktail shaker
-            Stir until sugar is dissolved
-            Add ice and shake vigorously for 7-10 seconds
-            Strain into a martini glass
-            Garnish with half a passion fruit and serve with a shot of prosecco
+            MIXING:
+            Add vodka (both flavours), orange juice, passion fruit puree and the sugar to a cocktail shaker.
+            Stir until sugar is dissolved.
+            Add ice and shake vigorously for 7-10 seconds.
+            Strain into a martini glass.
+            Garnish with half a passion fruit and serve with a shot of prosecco.
         </mixing>
     </cocktail>
     <cocktail name="Corpse Reviver #2">
@@ -714,14 +753,16 @@
             The "corpse-reviver" was one such class, so named because it could — figuratively speaking — bring a drinker back from the "dead."
         </comments>
         <ingredients>
-            3/4 oz gin (I suggest Plymouth's)
-            3/4 oz Cointreau
-            3/4 oz Lillet Blanc (available in good liquor stores)
-            3/4 oz lemon juice
-            1 or 2 drops of Pernod, Ricard, or absinthe - or any other pastis (anise-flavored liqueur)
-            1 stemless cherry for garnish (optional)
+            INGREDIENTS:
+            3/4 oz gin (I suggest Plymouth's),
+            3/4 oz Cointreau,
+            3/4 oz Lillet Blanc (available in good liquor stores),
+            3/4 oz lemon juice,
+            1 or 2 drops of Pernod, Ricard, or absinthe - or any other pastis (anise-flavored liqueur),
+            1 stemless cherry for garnish (optional).
         </ingredients>
         <mixing>
+            MIXING:
             Stir with ice, strain into a chilled cocktail glass.
         </mixing>
     </cocktail>

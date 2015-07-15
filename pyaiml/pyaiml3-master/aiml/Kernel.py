@@ -908,10 +908,8 @@ class Kernel:
                 sys.stderr.write(err)
             return "There was an error while computing my response.  Please inform my botmaster."
         time.sleep(0.01) # I'm told this works around a potential IOError exception.
-        # for line in out:
-        #     response += line + "\n"
-        # response = ''.join(response.strip().splitlines())
-        response = ' '.join([line.strip() for line in out])
+        response = ''.join([line for line in out])
+        # response = ' '.join([line.strip() for line in out])
         return response
 
     # <template>

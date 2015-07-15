@@ -15,6 +15,9 @@ non-cooperative behavior handling
 TODO
 DONE 1. Plan chatbot domain and behaviour.
 cocktail-adviser
-2. Read about AIML and become familiar with the syntax.
-3. Create a list of most popular cocktails with descriptions and recipes.
-4. Create a small extensible database.
+DONE 2. Read about AIML and become familiar with the syntax.
+DONE 3. Create a list of most popular cocktails with descriptions and recipes.
+SKIPPED 4. Create a small extensible database.
+
+DONE 1. Implement tf-idf weighting of cocktails.xml and test query.
+2. Create dialogue rules

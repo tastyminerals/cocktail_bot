@@ -18,7 +18,7 @@ import sys
 
 
 # @profile
-def init_cocktails_database(dbfile, tf_file, idf_file):
+def init_cocktails_database(dbfile, tf_file=False, idf_file=False):
     """
     This function reads DB_FILE, does basic text normalization steps and
     converts all data into a bad of words model. The scipt also writes tf and
@@ -84,7 +84,7 @@ def init_cocktails_database(dbfile, tf_file, idf_file):
     # we flatten our wordsbag and calc term frequency in all docs
     # we take DB_FILE name without extension and add .tf extension to it
     total = Counter(list(i2 for i1 in wordsbag.values() for i2 in i1))
-    if tf_file not in os.listdir(os.getcwd()):
+    if tf_file and tf_file not in os.listdir(os.getcwd()):
         with open(tf_file, 'a') as afile:
             for d in wordsbag:
                 # caclulating tf-values and writing them to file
@@ -94,7 +94,7 @@ def init_cocktails_database(dbfile, tf_file, idf_file):
                 afile.write('\n')
 
     # we take DB_FILE name without extension and add .idf extension to it
-    if idf_file not in os.listdir(os.getcwd()):
+    if idf_file and idf_file not in os.listdir(os.getcwd()):
         dn = len(wordsbag)
         with open(idf_file, 'a') as afile:
             for t in total:
@@ -230,6 +230,7 @@ def main(user_query, verbosity=0):
         mix = docs_db[relevant[-1]]['mixing']
         hist = docs_db[relevant[-1]]['history']
         triv = docs_db[relevant[-1]]['trivia']
+        print('\n')
         print(''.join([">>>", relevant[-1], "<<<"]))
         print(single_spaces.sub(' ', desc))
         print(ing)
@@ -242,6 +243,7 @@ def main(user_query, verbosity=0):
         desc = docs_db[relevant[-1]]['description']
         ing = docs_db[relevant[-1]]['ingredients']
         mix = docs_db[relevant[-1]]['mixing']
+        print('\n')
         print(''.join([">>>", relevant[-1], "<<<"]))
         print(single_spaces.sub(' ', desc))
         print(ing)

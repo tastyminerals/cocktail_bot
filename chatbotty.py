@@ -12,11 +12,15 @@ import json
 class Chatbotty_helper:
     def __init__(self, path):
         self.path_to_brains = path
+        self.small_brains = {}
         self._prepare_brains()
     def _prepare_brains(self):
         with open(self.path_to_brains, 'r') as jfile:
-            brains = json.load(jfile)
-        print(brains)
+            self.small_brains = json.load(jfile)
+    def sayhi(self):
+        print(self.small_brains.get('sayhi'))
+    def say(self, key):
+        print(self.small_brains.get(key))
 
 class Chatbotty:
     def __init__(self):
@@ -33,13 +37,13 @@ def wake_the_bot():
     """
     bot = Chatbotty()
     bot.include('cocktail_brains.aiml')
-    help_bot = Chatbotty_helper('small_brains.json')
-    
+    helpy = Chatbotty_helper('small_brains.json')
+    helpy.sayhi()
     while True:
         master = input('>')
-        print(master)        
+        print(master)
         bot.entertain(master)
-    
+
 
 if __name__ == '__main__':
     wake_the_bot()

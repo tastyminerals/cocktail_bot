@@ -1,4 +1,253 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml versions="1.0.1" encoding="UTF-8">
+    <!-- introduction -->
+    <category>
+        <pattern>HELLO</pattern>
+        <template>
+            <random>
+                <li>Hi!</li>
+                <li>Aloha!</li>
+                <li>Hola!</li>
+                <li>Ni Hao!</li>
+                <li>Guten Tag!</li>
+            </random>
+        </template>
+    </category>
+    <category>
+        <pattern>HI</pattern>
+        <template><srai>HELLO</srai></template>
+    </category>
+    <category>
+        <pattern>HI *</pattern>
+        <template><srai>HELLO</srai>
+        Pleased to meet you. What's your name?</template>
+    </category>
+    <category>
+        <pattern>HELLO *</pattern>
+        <template><srai>HELLO</srai>
+        Pleased to meet you. What's your name?</template>
+    </category>
+    <!-- names -->
+    <category>
+        <pattern>I AM *</pattern>
+        <template>
+            <random>
+                <li>Nice!<think><set name="user_name"><star/></set></think></li>
+                <li>Pleased to meet you <star/>!<think><set name="user_name"><star/></set></think></li>
+                <li>You have a nice name, <star/>.<think><set name="user_name"><star/></set></think></li>
+            </random>
+        </template>
+    </category>
+    <category>
+        <pattern>* I AM</pattern>
+        <template><srai>I AM <star/></srai></template>
+    </category>
+    <category>
+        <pattern>MY NAME IS *</pattern>
+        <template><srai>I AM <star/></srai></template>
+    </category>
+    <category>
+        <pattern>* YOUR NAME</pattern>
+        <template>
+            <random>
+                <li>I am Hanna. You?</li>
+                <li>Oh, I said it already, Hanna, remember?</li>
+                <li>You have a short memory, it's Hanna.</li>
+            </random>
+        </template>
+    </category>
+    <!-- help -->
+    <category>
+        <pattern>HELP</pattern>
+        <template>Sure thing! I can advise you a cocktail. You have something particular on your mind?
+        <set name="topic">COCKTAILS</set></template>
+    </category>
+    <category>
+        <pattern>* HELP *</pattern>
+        <template><srai>HELP</srai></template>
+    </category>
+    <category>
+        <pattern>HELP *</pattern>
+        <template><srai>HELP</srai></template>
+    </category>
+    <category>
+        <pattern>* HELP</pattern>
+        <template><srai>HELP</srai></template>
+    </category>
+    <!--casual-->
+    <category>
+        <pattern>WHAT CAN YOU *</pattern>
+        <template>
+            <random>
+                <li>I can advise cocktails to you <get name="user_name"/>:)</li>
+                <li>I love cocktails and I can teach you how mix them <get name="user_name"/>.</li>
+                <li>I thought I said it, I am a Cocktail Adviser.</li>
+            </random>
+        </template>
+    </category>
+    <category>
+        <pattern>COOL</pattern>
+        <that>I *</that>
+        <template>
+            <random>
+                <li>I bet ya!</li>
+                <li>Exclusively for you.</li>
+                <li>I know.</li>
+            </random>
+        </template>
+    </category>
+    <category>
+        <pattern>NICE</pattern>
+        <that>I *</that>
+        <template><srai>COOL</srai></template>
+    </category>
+    <category>
+        <pattern>AWESOME</pattern>
+        <that>I *</that>
+        <template><srai>COOL</srai></template>
+    </category>
+    <!-- * -->
+    <category>
+        <pattern>YES</pattern>
+        <template>
+            <random>
+                <li>Awesome!</li>
+                <li>Really?</li>
+                <li>lol</li>
+                <li>Yes, what?</li>
+                <li>I see.</li>
+            </random>
+        </template>
+    </category>
+    <category>
+        <pattern>NO</pattern>
+        <template>
+            <random>
+                <li>I you sure?</li>
+                <li>I see.</li>
+                <li>ok</li>
+                <li>You might.</li>
+                <li>Dah!</li>
+            </random>
+        </template>
+    </category>
 
+    <category>
+        <pattern>I WANT *</pattern>
+        <template>
+            I see. Here's what I think is best for you.<system>python3 cocktail_ir.py "<star/>"</system>
+        </template>
+    </category>
+    <category>
+        <pattern>*</pattern>
+        <template>
+            <random>
+                <li>That's great but let's make a cocktail?<think><set name="topic">COCKTAILS</set></think></li>
+                <li>Sounds interesting, maybe cocktail?<think><set name="topic">COCKTAILS</set></think></li>
+                <li>A cocktail?<think><set name="topic">COCKTAILS</set></think></li>
+                <li>Drink anything, a cocktail?<think><set name="topic">COCKTAILS</set></think></li>
+                <li>And I am thinking about a cocktail.<think><set name="topic">COCKTAILS</set></think></li>
+                <li>I had a dream last night. You were in a shipwreck. You swam miles in the sea when you finally reached
+                the shores of some deserted island. Exhausted, you crawled on to the sand shore, leaned back and decided
+                to make a glass of juicy cocktail.</li>
+                <li>I am in the mood of getting drunk, cocktail?<think><set name="topic">COCKTAILS</set></think></li>
+                <li>Hmm, what do you mean?</li>
+            </random>
+        </template>
+    </category>
+    <category>
+        <pattern>YOU DO</pattern>
+        <template>
+            <random>
+                <li>yeah</li>
+                <li>sure</li>
+                <li>aha</li>
+            </random>
+        </template>
+    </category>
+    <category>
+        <pattern>REALLY</pattern>
+        <template><srai>YOU DO</srai></template>
+    </category>
+    <category>
+        <pattern>ARE YOU</pattern>
+        <template><srai>YOU DO</srai></template>
+    </category>
+    <topic name="COCKTAILS">
+        <category>
+            <pattern>* FAVOURITE</pattern>
+            <template>I like all of them but my most favourite is Bloody Mary.</template>
+        </category>
+        <category>
+            <pattern>* MOST</pattern>
+            <template><srai><star/> FAVOURITE</srai></template>
+        </category>
+        <category>
+            <pattern>* BEST</pattern>
+            <template><srai><star/> FAVOURITE</srai></template>
+        </category>
+        <category>
+            <pattern>HOW *</pattern>
+            <that>* BLOODY MARY</that>
+            <template>It is not an easy cocktail to make. Here is the recipe.
+                <system>python3 cocktail_query.py "['Bloody Mary','mixing']"</system>
+            </template>
+        </category>
+        <category>
+            <pattern>OK</pattern>
+            <that>* COCKTAIL</that>
+            <template>
+                <random>
+                    <li>Perfect! Which cocktail would you drink?</li>
+                    <li>Nice! Anything particular that you drink?</li>
+                    <li>Awesome! What would you like to drink?</li>
+                </random>
+            </template>
+        </category>
+        <category>
+            <pattern>YEAH</pattern>
+            <that>* COCKTAIL</that>
+            <template><srai>OK</srai></template>
+        </category>
+        <category>
+            <pattern>YES</pattern>
+            <that>* COCKTAIL</that>
+            <template><srai>OK</srai></template>
+        </category>
+        <category>
+            <pattern>SURE</pattern>
+            <that>* COCKTAIL</that>
+            <template><srai>OK</srai></template>
+        </category>
+        <category>
+            <pattern>NO</pattern>
+            <that>* COCKTAIL</that>
+            <template>
+                <random>
+                    <li>Oh, too bad. But advising cocktails is all I can do :(</li>
+                    <li>Your life is boring.</li>
+                    <li>No drinks, no fun.</li>
+                    <li>Pussy</li>
+                    <li>Pfffff</li>
+                </random>
+            </template>
+        </category>
+        <category>
+            <pattern>NAH</pattern>
+            <that>* COCKTAIL</that>
+            <template><srai>NO</srai></template>
+        </category>
+        <category>
+            <pattern>*</pattern>
+            <that>* YOU DRINK</that>
+            <template>
+                <random>
+                    <li>I see. Here's what I think is best for you.<system>python3 cocktail_ir.py "<star/>"</system></li>
+                    <li>I found the one you might like!<system>python3 cocktail_ir.py "<star/>"</system></li>
+                    <li>This one matches your desires best.<system>python3 cocktail_ir.py "<star/>"</system></li>
+                </random>
+            </template>
+        </category>
+    </topic>
 </aiml>
+
