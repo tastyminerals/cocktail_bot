@@ -159,7 +159,7 @@
         <category>
             <pattern>I WANT *</pattern>
             <template>
-                I see. Here's what I think is best for you.<system>python3 cocktail_ir.py "<star/>"</system>
+                I see. Here's what I think is best for you.<system>python3 cocktail_query.py -q "<star/>"</system>
             </template>
         </category>
         <category>
@@ -180,22 +180,44 @@
             </template>
         </category>
         <category>
-            <pattern>YOU DO</pattern>
+            <pattern>REALLY</pattern>
             <template>
                 <random>
                     <li>yeah</li>
                     <li>sure</li>
                     <li>aha</li>
+                    <li>You bet</li>
+                    <li>yep</li>
                 </random>
             </template>
         </category>
         <category>
-            <pattern>REALLY</pattern>
-            <template><srai>YOU DO</srai></template>
+            <pattern>YOU DO</pattern>
+            <template><srai>REALLY</srai></template>
         </category>
         <category>
             <pattern>ARE YOU</pattern>
-            <template><srai>YOU DO</srai></template>
+            <template><srai>REALLY</srai></template>
+        </category>
+        <category>
+            <pattern>NOT BAD</pattern>
+            <template><srai>REALLY</srai></template>
+        </category>
+        <category>
+            <pattern>NICE</pattern>
+            <template><srai>REALLY</srai></template>
+        </category>
+        <category>
+            <pattern>* NICE</pattern>
+            <template><srai>REALLY</srai></template>
+        </category>
+        <category>
+            <pattern>COOL</pattern>
+            <template><srai>REALLY</srai></template>
+        </category>
+        <category>
+            <pattern>* COOL</pattern>
+            <template><srai>REALLY</srai></template>
         </category>
         <category>
             <pattern>COCKTAIL</pattern>
@@ -220,6 +242,84 @@
             <template><srai>COCKTAIL</srai></template>
         </category>
     </topic>
+    <!-- specials -->
+    <category>
+        <pattern>* BOY * GIRL</pattern>
+        <template>I am a cocktail adviser and I have no interest in genders.</template>
+    </category>
+    <category>
+        <pattern>* MALE * FEMALE</pattern>
+        <template><srai><star/> BOY <star/> GIRL</srai></template>
+    </category>
+        <category>
+        <pattern>* MAN * WOMAN</pattern>
+        <template><srai><star/> BOY <star/> GIRL</srai></template>
+    </category>
+    <category>
+        <pattern>TELL * COCKTAIL</pattern>
+        <template>
+            <random>
+                <li>I know something you might find amusing. <system>python3 cocktail_query.py --trivia</system></li>
+                <li>I know some interesting facts. <system>python3 cocktail_query.py --trivia</system></li>
+                <li>I know something interesting. <system>python3 cocktail_query.py --trivia</system></li>
+            </random>
+        </template>
+    </category>
+    <category>
+        <pattern>TELL * COCKTAILS</pattern>
+        <template><srai>TELL <star/> COCKTAIL</srai></template>
+    </category>
+    <category>
+        <pattern>SAY * COCKTAIL</pattern>
+        <template><srai>TELL <star/> COCKTAIL</srai></template>
+    </category>
+    <category>
+        <pattern>* KNOW * COCKTAIL</pattern>
+        <template><srai>TELL <star/> COCKTAIL</srai></template>
+    </category>
+    <category>
+        <pattern>ENTERTAIN *</pattern>
+        <template><srai>TELL <star/> COCKTAIL</srai></template>
+    </category>
+    <category>
+        <pattern>AMUSE *</pattern>
+        <template><srai>TELL <star/> COCKTAIL</srai></template>
+    </category>
+    <category>
+        <pattern>* COOL</pattern>
+        <that>I KNOW *</that>
+        <template><srai>REALLY</srai></template>
+    </category>
+    <category>
+        <pattern>* INCREDIBLE</pattern>
+        <that>I KNOW *</that>
+        <template><srai>REALLY</srai></template>
+    </category>
+    <category>
+        <pattern>* AWESOME</pattern>
+        <that>I KNOW *</that>
+        <template><srai>REALLY</srai></template>
+    </category>
+    <category>
+        <pattern>WOW</pattern>
+        <that>I KNOW *</that>
+        <template><srai>REALLY</srai></template>
+    </category>
+    <category>
+        <pattern>WOW *</pattern>
+        <that>I KNOW *</that>
+        <template><srai>REALLY</srai></template>
+    </category>
+    <category>
+        <pattern>* INTERESTING</pattern>
+        <that>I KNOW *</that>
+        <template><srai>REALLY</srai></template>
+    </category>
+    <category>
+        <pattern>INTERESTING</pattern>
+        <that>I KNOW *</that>
+        <template><srai>REALLY</srai></template>
+    </category>
     <topic name="COCKTAILS">
         <category>
             <pattern>* FAVOURITE</pattern>
@@ -237,7 +337,7 @@
             <pattern>HOW *</pattern>
             <that>* BLOODY MARY</that>
             <template>It is not an easy cocktail to make. Here is the recipe.
-                <system>python3 cocktail_query.py "['Bloody Mary','mixing']"</system>
+                <system>python3 cocktail_query.py -q "['Bloody Mary','mixing']"</system>
             </template>
         </category>
         <category>
@@ -289,10 +389,9 @@
             <that>* YOU DRINK</that>
             <template>
                 <random>
-                    <li>I see. Here's what I think is best for you.<system>python3 cocktail_ir.py "<star/>"</system></li>
-                    <li>I found the one you might like!<system>python3 cocktail_ir.py "<star/>"</system></li>
-                    <li>This one matches your desires best.<system>python3 cocktail_ir.py "<star/>"</system></li>
-                    <think><set name="topic">CASUAL</set></think>
+                    <li>I see. Here's what I think is best for you.<system>python3 cocktail_query.py -q "<star/>"</system></li>
+                    <li>I found the one you might like!<system>python3 cocktail_query.py -q "<star/>"</system></li>
+                    <li>This one matches your desires best.<system>python3 cocktail_query.py -q "<star/>"</system></li>
                 </random>
             </template>
         </category>

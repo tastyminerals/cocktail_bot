@@ -181,9 +181,9 @@ def calculate_similarity(docdict, invdict, idfdict, query):
     # taking stopwords from nltk
     stop = stopwords.words('english')
     # creating translation table to remove punctuation
-    transpunct = {ord(c): None for c in string.punctuation}
+    trans = {ord(c): None for c in string.punctuation}
     # normalizing query
-    sq = [sst.stem(term) for term in query.lower().translate(transpunct).split()
+    sq = [sst.stem(term) for term in query.lower().translate(trans).split()
           if term not in stop]
     # FIX: add query expansion with synonyms
     # create query vector
@@ -192,20 +192,20 @@ def calculate_similarity(docdict, invdict, idfdict, query):
     # calculating tf values for the query, 0.4+(1-0.4) is smoothing with a=0.4
     qtf = dict((q, (0.4+((1-0.4)*qcnts[q])/maxqt)) for q in sq)
     # fill query vector with tfidf values
-    qvector = [(qtf[t] * idfdict[t]) for t in qtf if t in idfdict]
+    qvec = [(qtf[t] * idfdict[t]) for t in qtf if t in idfdict]
     invdocvecs = defaultdict(list)
     # fill doc vectors with tfidf values only for those terms that are in query
     [invdocvecs[d].append(invdict[t][d]) for t in qtf for d in invdict[t]]
     # balancing document vectors with zeros
     [invdocvecs[d].extend([0 for _ in
-                           range(abs(len(qvector)-len(invdocvecs[d])))])
+                           range(abs(len(qvec)-len(invdocvecs[d])))])
      for d in docdict]
     # find the doc with the highest cos sim
-    max_sim = max(slow_sim(qvector, invdocvecs[doc], doc) for doc in invdocvecs)
+    max_sim = max(slow_sim(qvec, invdocvecs[doc], doc) for doc in invdocvecs)
     return max_sim
 
 
-def main(user_query, verbosity=0):
+def process_query(user_query, verbosity=0):
     """
     Main runner function that calls the required ruitines
 
@@ -253,4 +253,4 @@ def main(user_query, verbosity=0):
 if __name__ == '__main__':
     # define database file path below, db file should be in xml format
     DB_FILE = os.path.join(os.getcwd(), 'cocktails.xml')
-    main(sys.argv[1], sys.argv[-1])
+    process_query(sys.argv[1], sys.argv[-1])
