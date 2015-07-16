@@ -2,6 +2,10 @@
 <!-- difference between _ and * -->
 <aiml versions="1.0.1" encoding="UTF-8">
     <category>
+        <pattern>I DO NOT</pattern>
+        <template>MATCH!</template>
+    </category>
+    <category>
         <pattern>_ LIKE *</pattern>
         <template>
             <star index="1"/> like <star index="2"/> indeed, what do you do with <star index="2"/>?

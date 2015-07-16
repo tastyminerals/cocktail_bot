@@ -4,17 +4,17 @@ This script implements information extraction model that uses cosine similarity
 and tf-idf statistics. It uses cocktails.xml as a data source. The script
 evaluates user query and returns the most relevant document.
 """
+
 import os
-import re
 import string
 import xml.etree.cElementTree as cet
 import numpy as np
-
 import math
+import sys
 from collections import Counter, defaultdict
 from nltk.stem import SnowballStemmer
 from nltk.corpus import stopwords
-import sys
+from nltk.corpus import wordnet as wn
 
 
 # @profile
@@ -106,6 +106,33 @@ def init_cocktails_database(dbfile, tf_file=False, idf_file=False):
     return docs
 
 
+def expand_with_wordnet(query):
+    """
+    This function expands every contentful word in the query with its wordnet
+    definition. The word itself is not removed. Stop words are removed from the
+    word definition as well.
+    (Contentful means that it is not a stopword or punctuation sign)
+
+    INPUT:
+        query   --  user query that is a simple string
+    OUTPUT:
+        expanded_query  --  user query + definitions of contentful words
+    """
+    stop = stopwords.words('english')
+    contentful_tokens = [tok for tok in query.split() if tok not in stop]
+    # take the first definition for the current word
+    defs = []
+    for token in contentful_tokens:
+        syn = wn.synsets(token, pos=wn.ADJ)[:1]
+        # we take into account only adj defs
+        # if not syn:
+            # syn = wn.synsets(token, pos=wn.NOUN)[:1]
+        if syn:
+            defs.append(syn[0].definition())
+    expanded = ' '.join([query, ' '.join(defs)])
+    return expanded
+
+
 # @profile
 def init_db_vectors(tf_file, idf_file):
     """
@@ -169,6 +196,7 @@ def calculate_similarity(docdict, invdict, idfdict, query):
             float   --  similarity score
             d   --  document id
         """
+        np.seterr(divide='ignore', invalid='ignore')  # in case of NaN
         # query norm
         qnorm = math.sqrt(sum([pow(x, 2) for x in v1]))
         # doc norm
@@ -176,6 +204,7 @@ def calculate_similarity(docdict, invdict, idfdict, query):
         return np.dot(v1, v2) / (qnorm * dnorm), d
 
     # first, we preprocess query and expand it with synonyms
+    # query = expand_with_wordnet(query)
     # initializing SnowballStemmer from nltk
     sst = SnowballStemmer('english')
     # taking stopwords from nltk
@@ -215,42 +244,31 @@ def process_query(user_query, verbosity=0):
         std.out --  prints the cocktail advice
     """
     # initializing database
-    tf_fpath = os.path.basename(DB_FILE).rsplit('.', 1)[0] + '.tf'
-    idf_fpath = os.path.basename(DB_FILE).rsplit('.', 1)[0] + '.idf'
-    docs_db = init_cocktails_database(DB_FILE, tf_fpath, idf_fpath)
+    db_file = os.path.join(os.getcwd(), 'cocktails.xml')
+    tf_fpath = os.path.basename(db_file).rsplit('.', 1)[0] + '.tf'
+    idf_fpath = os.path.basename(db_file).rsplit('.', 1)[0] + '.idf'
+    docs_db = init_cocktails_database(db_file, tf_fpath, idf_fpath)
     # creating document dicts and vectors
     doc_dict, inv_dict, idf_dict = init_db_vectors(tf_fpath, idf_fpath)
     # calculating the most relevant document
     relevant = calculate_similarity(doc_dict, inv_dict, idf_dict, user_query)
-    # pretty print the advise
-    single_spaces = re.compile(r'[\n]?[ ]+')
     if verbosity == 1:
         desc = docs_db[relevant[-1]]['description']
         ing = docs_db[relevant[-1]]['ingredients']
         mix = docs_db[relevant[-1]]['mixing']
         hist = docs_db[relevant[-1]]['history']
         triv = docs_db[relevant[-1]]['trivia']
-        print('\n')
-        print(''.join([">>>", relevant[-1], "<<<"]))
-        print(single_spaces.sub(' ', desc))
-        print(ing)
-        print(mix)
-        print('HISTORY:')
-        print(single_spaces.sub(' ', hist))
-        print('TRIVIA:')
-        print(single_spaces.sub(' ', triv))
     else:
         desc = docs_db[relevant[-1]]['description']
         ing = docs_db[relevant[-1]]['ingredients']
         mix = docs_db[relevant[-1]]['mixing']
-        print('\n')
-        print(''.join([">>>", relevant[-1], "<<<"]))
-        print(single_spaces.sub(' ', desc))
-        print(ing)
-        print(mix)
+        hist = ''
+        triv = ''
+    cocktail = relevant[-1]
+    return cocktail, desc, ing, mix, hist, triv
+
 
 
 if __name__ == '__main__':
     # define database file path below, db file should be in xml format
-    DB_FILE = os.path.join(os.getcwd(), 'cocktails.xml')
     process_query(sys.argv[1], sys.argv[-1])

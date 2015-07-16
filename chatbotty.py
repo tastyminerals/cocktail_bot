@@ -37,6 +37,7 @@ def wake_the_bot():
     """
     bot = Chatbotty()
     bot.include('cocktail_brains.aiml')
+    # bot.include('demo.aiml')
     helpy = Chatbotty_helper('small_brains.json')
     helpy.sayhi()
     while True:
