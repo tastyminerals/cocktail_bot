@@ -12,6 +12,7 @@ import numpy as np
 import math
 import sys
 from collections import Counter, defaultdict
+from nltk import word_tokenize, pos_tag
 from nltk.stem import SnowballStemmer
 from nltk.corpus import stopwords
 from nltk.corpus import wordnet as wn
@@ -81,15 +82,17 @@ def init_cocktails_database(dbfile, tf_file=False, idf_file=False):
                            if tok not in stop)
                 for doc, text in dirtywordsbag.items()}
     # we now create tf and tfidf files from db_file if they do not exist
-    # we flatten our wordsbag and calc term frequency in all docs
+    # we flatten our wordsbag and calc term frequency of every word for each doc
     # we take db_file name without extension and add .tf extension to it
-    # FIXIT: THIS IS INCORRECT! maxFreq of word within one doc
-    #total = Counter(list(i2 for i1 in wordsbag.values() for i2 in i1))
+    # max_freqs is a dict where {doc id: freq of most occurring token, ...}
+    max_freqs = {doc: Counter(tokens).most_common()[0] 
+                 for doc, tokens in wordsbag.items()}
     if tf_file and tf_file not in os.listdir(os.getcwd()):
         with open(tf_file, 'a') as afile:
             for d in wordsbag:
                 # calculating tf-values and writing them to file
-                vlst = ['\t'.join([d, t, str(Counter(wordsbag[d])[t]/total[t])])  # FIXIT: INCORRECT
+                tf_str = str(Counter(wordsbag[d])[t]/max_freqs[d][1])
+                vlst = ['\t'.join([d, t, tf_str])
                         for t in wordsbag[d]]
                 afile.write('\n'.join(vlst))
                 afile.write('\n')
@@ -130,32 +133,30 @@ def wordnet_sim(query, db):
     query_nopunct = query.lower().translate(transnone)    
     query_stems = [sst.stem(token) for token in query_nopunct.split() 
                    if token not in stop]
-    doc_scores = defaultdict(int)
+    doc_scores = defaultdict(float)
     for doc in db:
         for block, text in db[doc].items():
             # normalize block text
+            if not text:
+                continue
             text_nopunct = text.lower().translate(transnone)
             text = [sst.stem(t) for t in text_nopunct.split() if t not in stop]
             # here we can finetune the block score multiplicators
             # some blocks are more important than the others
             if block == 'description':
                 for s in query_stems:
-                    if s in text:
-                        doc_scores[doc] += 2
+                    doc_scores[doc] += text.count(s) / len(text)
             elif block == 'trivia':
                 for s in query_stems:
-                    if s in text:
-                        doc_scores[doc] += 1
+                    doc_scores[doc] += text.count(s) / len(text) * 0.5
             elif block == 'history':
                 for s in query_stems:
-                    if s in text:
-                        doc_scores[doc] += 1
+                    doc_scores[doc] += text.count(s) / len(text) * 0.5
             elif block == 'comments':
                 for s in query_stems:
-                    if s in text:
-                        doc_scores[doc] += 2
-    print(doc_scores)
-    maxdoc = max(maxdoc, key=lambda x: maxdoc[x])
+                    doc_scores[doc] += text.count(s) / len(text) * 2
+    maxdoc = max(doc_scores, key=lambda x: doc_scores[x])
+    # debug = sorted([(k,v) for k,v in doc_scores.items()], key=lambda x: x[1])
     return maxdoc
     
             
@@ -176,13 +177,18 @@ def expand_with_wordnet(query):
     # take the first definition for the current word
     defs = []
     for token in contentful_tokens:
-        syn = wn.synsets(token, pos=wn.ADJ)[:1]
+        syn1 = wn.synsets(token, pos=wn.ADJ)[:1]
+        syn2 = wn.synsets(token, pos=wn.NOUN)[:1]
         # we take into account only adj defs
-        # if not syn:
-            # syn = wn.synsets(token, pos=wn.NOUN)[:1]
-        if syn:
-            defs.append(syn[0].definition())
-    expanded = ' '.join([query, ' '.join(defs)])
+        if syn1:
+            defs.append(token)
+            def_tokenized = word_tokenize(syn1[0].definition())
+            [defs.append(t[0]) for t in pos_tag(def_tokenized) if t[1] in ['NN', 'JJ']]
+        elif syn2:
+            defs.append(token)
+            def_tokenized = word_tokenize(syn2[0].definition())
+            [defs.append(t[0]) for t in pos_tag(def_tokenized) if t[1] in ['NN', 'JJ']]
+    expanded = ' '.join(defs)
     return expanded
 
 
@@ -235,7 +241,7 @@ def calculate_similarity(docdict, invdict, idfdict, query):
         idfdict  --  a dict of {term: {doc: tfidf, ...}}
         query   --  user query string
     OUTPUT:
-        ???
+        maxsim  --  tuple with sim score and doc id
     """
     def slow_sim(v1, v2, d):
         """
@@ -246,8 +252,7 @@ def calculate_similarity(docdict, invdict, idfdict, query):
             v2  --  second vector of tfidf values
             d   --  document id
         OUTPUT:
-            float   --  similarity score
-            d   --  document id
+            float, d   --  tuple of similarity score, document id
         """
         np.seterr(divide='ignore', invalid='ignore')  # in case of NaN
         # query norm
@@ -267,7 +272,6 @@ def calculate_similarity(docdict, invdict, idfdict, query):
     # normalizing query
     sq = [sst.stem(term) for term in query.lower().translate(trans).split()
           if term not in stop]
-    # FIX: add query expansion with synonyms
     # create query vector
     qcnts = Counter(sq)
     maxqt = qcnts.most_common(1)[0][1]
@@ -287,12 +291,18 @@ def calculate_similarity(docdict, invdict, idfdict, query):
     return max_sim
 
 
-def process_query(user_query, verbosity=0):
+def process_query(user_query, verbosity=0, analyzer='tfidf'):
     """
     Main runner function that calls the required ruitines
+    In this function we decide which similarity measures we use
+    tf-idf and cosine similarity versus expanding the user query
+    with wordnet word definitions and running weighted counts of
+    query words occurrences.
 
     INPUT:
         user_query  --  unformatted user query
+        verbosity   --  number of text blocks shown to user
+        analyzer  --  specifies which similarity model to use (default tfidf)
     OUTPUT:
         std.out --  prints the cocktail advice
     """
@@ -302,15 +312,17 @@ def process_query(user_query, verbosity=0):
     idf_fpath = os.path.basename(db_file).rsplit('.', 1)[0] + '.idf'
     docs_db = init_cocktails_database(db_file, tf_fpath, idf_fpath)
     
-    # we have two options ananlyze similarity using tf-idf or wordnet word defs
-    # 1. WORDNET 
-    relevant = wordnet_sim(expand_with_wordnet(user_query))            
-    # 2. TF-IDF
-    # creating document dicts and vectors
-    doc_dict, inv_dict, idf_dict = init_db_vectors(tf_fpath, idf_fpath)
-    # calculating the most relevant document
-    relevant = calculate_similarity(doc_dict, inv_dict, idf_dict, user_query)
-    
+    if analyzer == 'wordnet':
+        # 1. WORDNET 
+        relevant = wordnet_sim(expand_with_wordnet(user_query), docs_db)
+        #relevant = wordnet_sim(user_query, docs_db)
+    elif analyzer == 'tfidf':
+        # 2. TF-IDF
+        # creating document dicts and vectors
+        doc_dict, inv_dict, idf_dict = init_db_vectors(tf_fpath, idf_fpath)
+        # calculating the most relevant document
+        relevant = calculate_similarity(doc_dict, inv_dict, idf_dict, user_query)
+    print(relevant)
     if verbosity == 1:
         desc = docs_db[relevant[-1]]['description']
         ing = docs_db[relevant[-1]]['ingredients']
@@ -330,5 +342,4 @@ def process_query(user_query, verbosity=0):
 
 if __name__ == '__main__':
     # define database file path below, db file should be in xml format
-    #process_query(sys.argv[1], sys.argv[-1])
-    process_query("Hello world")
+    process_query(sys.argv[1], sys.argv[-1])
