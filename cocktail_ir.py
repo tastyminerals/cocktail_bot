@@ -20,18 +20,18 @@ from nltk.corpus import wordnet as wn
 # @profile
 def init_cocktails_database(dbfile, tf_file=False, idf_file=False):
     """
-    This function reads DB_FILE, does basic text normalization steps and
+    This function reads db_file, does basic text normalization steps and
     converts all data into a bad of words model. The scipt also writes tf and
     tfidf index files for faster processing.
 
     INPUT:
-        DB_FILE --  full path to cocktails database
+        db_file --  full path to cocktails database
         tf_file --  filename with .tf extension
         idf_file    --  filename with .idf extension
     OUTPUT:
         cocktails.tf    --  file containing term freq values
         cocktails.tfidf --  file containing term freq - inverted doc freq values
-        docs    --  dict representation of DB_FILE
+        docs    --  dict representation of db_file
         # wordsbag    --  normalized dictionary of terms per doc
     """
     # parsing xml file and creating its dict representation
@@ -66,7 +66,7 @@ def init_cocktails_database(dbfile, tf_file=False, idf_file=False):
     stop = stopwords.words('english')
     # creating translation table to remove punctuation
     transpunct = {ord(c): None for c in string.punctuation}
-    # first we remove any puntuation and concatenate specific nodes into one
+    # first we remove any punctuation and concatenate specific nodes into one
     dirtywordsbag = {}
     for doc in docs:
         dirtywordsbag[doc] = ""
@@ -80,20 +80,21 @@ def init_cocktails_database(dbfile, tf_file=False, idf_file=False):
     wordsbag = {doc: tuple(sst.stem(tok) for tok in text.split()
                            if tok not in stop)
                 for doc, text in dirtywordsbag.items()}
-    # we now create tf and tfidf files from DB_FILE if they do not exist
+    # we now create tf and tfidf files from db_file if they do not exist
     # we flatten our wordsbag and calc term frequency in all docs
-    # we take DB_FILE name without extension and add .tf extension to it
-    total = Counter(list(i2 for i1 in wordsbag.values() for i2 in i1))
+    # we take db_file name without extension and add .tf extension to it
+    # FIXIT: THIS IS INCORRECT! maxFreq of word within one doc
+    #total = Counter(list(i2 for i1 in wordsbag.values() for i2 in i1))
     if tf_file and tf_file not in os.listdir(os.getcwd()):
         with open(tf_file, 'a') as afile:
             for d in wordsbag:
-                # caclulating tf-values and writing them to file
-                vlst = ['\t'.join([d, t, str(Counter(wordsbag[d])[t]/total[t])])
+                # calculating tf-values and writing them to file
+                vlst = ['\t'.join([d, t, str(Counter(wordsbag[d])[t]/total[t])])  # FIXIT: INCORRECT
                         for t in wordsbag[d]]
                 afile.write('\n'.join(vlst))
                 afile.write('\n')
 
-    # we take DB_FILE name without extension and add .idf extension to it
+    # we take db_file name without extension and add .idf extension to it
     if idf_file and idf_file not in os.listdir(os.getcwd()):
         dn = len(wordsbag)
         with open(idf_file, 'a') as afile:
@@ -106,6 +107,58 @@ def init_cocktails_database(dbfile, tf_file=False, idf_file=False):
     return docs
 
 
+def wordnet_sim(query, db):
+    """
+    This function imlements simple wordnet definition lookup and compares it
+    with a different block of text. For every word match between the definition
+    token and text token doc receives +1.
+
+    INPUT:
+    query  --  string that represents user query expanded with word net defs
+    db  --  dict representation of database xml file
+    
+    OUTPUT:
+    maxdoc  --  the document with the highest score
+    """
+    # initializing SnowballStemmer from nltk
+    sst = SnowballStemmer('english')
+    # taking stopwords from nltk
+    stop = stopwords.words('english')
+    # creating translation table to remove punctuation
+    transnone = {ord(c): None for c in string.punctuation}
+    # first we remove any punctuation and concatenate specific nodes into one
+    query_nopunct = query.lower().translate(transnone)    
+    query_stems = [sst.stem(token) for token in query_nopunct.split() 
+                   if token not in stop]
+    doc_scores = defaultdict(int)
+    for doc in db:
+        for block, text in db[doc].items():
+            # normalize block text
+            text_nopunct = text.lower().translate(transnone)
+            text = [sst.stem(t) for t in text_nopunct.split() if t not in stop]
+            # here we can finetune the block score multiplicators
+            # some blocks are more important than the others
+            if block == 'description':
+                for s in query_stems:
+                    if s in text:
+                        doc_scores[doc] += 2
+            elif block == 'trivia':
+                for s in query_stems:
+                    if s in text:
+                        doc_scores[doc] += 1
+            elif block == 'history':
+                for s in query_stems:
+                    if s in text:
+                        doc_scores[doc] += 1
+            elif block == 'comments':
+                for s in query_stems:
+                    if s in text:
+                        doc_scores[doc] += 2
+    print(doc_scores)
+    maxdoc = max(maxdoc, key=lambda x: maxdoc[x])
+    return maxdoc
+    
+            
 def expand_with_wordnet(query):
     """
     This function expands every contentful word in the query with its wordnet
@@ -248,10 +301,16 @@ def process_query(user_query, verbosity=0):
     tf_fpath = os.path.basename(db_file).rsplit('.', 1)[0] + '.tf'
     idf_fpath = os.path.basename(db_file).rsplit('.', 1)[0] + '.idf'
     docs_db = init_cocktails_database(db_file, tf_fpath, idf_fpath)
+    
+    # we have two options ananlyze similarity using tf-idf or wordnet word defs
+    # 1. WORDNET 
+    relevant = wordnet_sim(expand_with_wordnet(user_query))            
+    # 2. TF-IDF
     # creating document dicts and vectors
     doc_dict, inv_dict, idf_dict = init_db_vectors(tf_fpath, idf_fpath)
     # calculating the most relevant document
     relevant = calculate_similarity(doc_dict, inv_dict, idf_dict, user_query)
+    
     if verbosity == 1:
         desc = docs_db[relevant[-1]]['description']
         ing = docs_db[relevant[-1]]['ingredients']
@@ -271,4 +330,5 @@ def process_query(user_query, verbosity=0):
 
 if __name__ == '__main__':
     # define database file path below, db file should be in xml format
-    process_query(sys.argv[1], sys.argv[-1])
+    #process_query(sys.argv[1], sys.argv[-1])
+    process_query("Hello world")
