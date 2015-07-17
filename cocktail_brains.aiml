@@ -174,7 +174,7 @@
         <template>
             <random>
                 <li>I can advise cocktails to you <get name="user_name"/>:)</li>
-                <li>I love cocktails and I can teach you how mix them <get name="user_name"/>.</li>
+                <li>I love cocktails and I can teach you how to mix them <get name="user_name"/>.</li>
                 <li>I thought I said it, I am a Cocktail Adviser.</li>
             </random>
         </template>
@@ -274,7 +274,7 @@
                 <li>I had a dream last night. You were in a shipwreck. You swam miles in the sea when you finally reached
                 the shores of some deserted island. Exhausted, you crawled on to the sand shore, leaned back and decided
                 to make a glass of juicy cocktail.</li>
-                <li>I am in the mood of getting drunk, cocktail?<think><set name="topic">COCKTAILS</set></think></li>
+                <li>I am in the mood of getting a drink, cocktail?<think><set name="topic">COCKTAILS</set></think></li>
                 <li>Hmm, what do you mean?</li>
                 <li>Do you know that bots can drink cocktails?</li>
                 <!-- FIXIT POSSIBLE BRANCH UPDATES -->
