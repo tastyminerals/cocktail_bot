@@ -100,6 +100,20 @@
     </category>
     <!--casual-->
     <category>
+    <pattern>WHAT * I DO</pattern>
+    <template><srai>CAN YOU ADVISE</srai></template>
+    </category>
+    <category>
+    <pattern>WHAT * I SAY</pattern>
+    <template>
+        <random>
+            <li>You can talk about cocktails, I know nothing about other things :)</li>
+            <li>You can say nothing but you'll never know how to make a cocktail.</li>
+            <li>Say "I love cocktails"!</li>
+        </random>
+    </template>
+    </category>
+    <category>
         <pattern>CAN YOU *</pattern>
         <template>
             <random>
