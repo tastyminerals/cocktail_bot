@@ -46,7 +46,8 @@ def make_query(db, argz):
         que --  string that represents a tuple or a list
     """
     if argz.query:
-        cocktail, desc, ing, mix, hist, triv = process_query(argz.query)
+        results_tuple = process_query(argz.query, argz.analyser)
+        cocktail, desc, ing, mix, hist, triv = results_tuple
         # pretty print the advise, # FIXIT: move it to cocktail_query.py
         single_spaces = re.compile(r'[\n]?[ ]+')
         print('\n')
@@ -97,5 +98,8 @@ if __name__ == '__main__':
     prs.add_argument('-t', '--trivia', action='store_true',
                      help='Return a random trivia about one of the cocktails.',
                      required=False)
+    prs.add_argument('-a', '--analyser', default='TFIDF',
+                     help='Specify which similarity analyzer to use: TFIDF or\
+                     WORDNET', required=False)                     
     arguments = prs.parse_args()
     connect_db(DB_FILE, arguments)

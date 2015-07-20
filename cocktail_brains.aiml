@@ -117,8 +117,8 @@
         <pattern>CAN YOU *</pattern>
         <template>
             <random>
-                <li>I can, it is already on the new features list.</li>
-                <li>I can, next version maybe.</li>
+                <li>I can't, but it is already on the new features list.</li>
+                <li>I can't, next version maybe.</li>
                 <li>I could, but not anymore. I am a cocktail adviser now.</li>
                 <li>I can only advise cocktails to you <get name="user_name"/>.</li>
                 <li>I know no magic tricks.</li>
@@ -168,6 +168,10 @@
         </template>
     </category>
     <category>
+        <pattern>CAN YOU ADVISE ME ONE</pattern>
+        <template><srai>CAN YOU ADVISE</srai></template>
+    </category>
+    <category>
         <pattern>CAN YOU ADVISE ME</pattern>
         <template><srai>CAN YOU ADVISE</srai></template>
     </category>
@@ -184,12 +188,16 @@
         <template><srai>CAN YOU ADVISE</srai></template>
     </category>
     <category>
+        <pattern>CAN YOU ADVISE * COCKTAIL</pattern>
+        <template><srai>CAN YOU ADVISE</srai></template>
+    </category>
+    <category>
         <pattern>WHAT CAN YOU *</pattern>
         <template>
             <random>
                 <li>I can advise cocktails to you <get name="user_name"/>:)</li>
                 <li>I love cocktails and I can teach you how to mix them <get name="user_name"/>.</li>
-                <li>I thought I said it, I am a Cocktail Adviser.</li>
+                <li>I thought I said it, I am a cocktail adviser.</li>
             </random>
         </template>
     </category>
@@ -272,9 +280,12 @@
     <category>
         <pattern>I WANT *</pattern>
         <template>
-            I see. Here's what I think is best for you.<system>python3 cocktail_query.py -q "<star/>"</system>
-            <think><set name="want"><star/></set></think>
-        </template>
+                <random>
+                    <li>I see. Here's what I think is best for you. <system>python cocktail_query.py -q "<star/>" -a "TFIDF"</system></li>
+                    <li>I found the one you might like! <system>python cocktail_query.py -q "<star/>" -a "TFIDF"</system></li>
+                    <li>This one matches your desires best. <system>python cocktail_query.py -q "<star/>" -a "TFIDF"</system></li>
+                </random>
+            </template>
     </category>
     <category>
         <pattern>*</pattern>
@@ -346,7 +357,51 @@
             <random>
                 <li>I know.</li>
                 <li>Heh.</li>
-                <li>I am learning.</li>
+                <li>Created using most recent AI technology!</li>
+            </random>
+        </template>
+    </category>
+    <category>
+        <pattern>WHY COCKTAILS</pattern>
+        <template>
+            <random>
+                <li>It is a pleasure to drink cocktails and a real fun to make them.</li>
+                <li>Drinking beer, wine or whiskey is just plain boooring.</li>
+                <li>What do you think?<think><set name="topic">WHYCOCKTAILS</set></think></li>
+            </random>
+        </template>
+    </category>
+    <category>
+        <pattern>WHY COCKTAIL</pattern>
+        <template><srai>WHY COCKTAILS</srai></template>
+    </category>
+    <category>
+        <pattern>WHY * COCKTAILS</pattern>
+        <template><srai>WHY COCKTAILS</srai></template>
+    </category>
+    <category>
+        <pattern>WHY * COCKTAIL</pattern>
+        <template><srai>WHY COCKTAILS</srai></template>
+    </category>
+    <category>
+        <pattern>WHY</pattern>
+        <that>* BOOORING</that>
+        <template>
+            <random>
+                <li>I thought you could tell me.</li>
+                <li>I don't know, just boring.</li>
+                <li>I feel old whywhen I drink whiskey.</li>
+            </random>
+        </template>
+    </category>
+    <category>
+        <pattern>WHY *</pattern>
+        <that>* BOOORING</that>
+        <template>
+            <random>
+                <li>I thought you could tell me.</li>
+                <li>I don't know, just boring.</li>
+                <li>I feel old whywhen I drink whiskey.</li>
             </random>
         </template>
     </category>
@@ -498,6 +553,14 @@
     </category>
     <!-- specials -->
     <category>
+        <pattern>WHO ARE YOU</pattern>
+        <template>I am Hanna. A cocktail adviser!</template>
+    </category>
+    <category>
+        <pattern>WHO * YOU</pattern>
+        <template>I was created thanks to HCI course!</template>
+    </category>
+    <category>
         <pattern>* BOY * GIRL</pattern>
         <template>I am a cocktail adviser and I have no interest in genders.</template>
     </category>
@@ -513,12 +576,18 @@
         <pattern>TELL * COCKTAIL</pattern>
         <template>
             <random>
-                <li>I know something you might find amusing about <system>python3 cocktail_query.py --trivia</system>
-                <think><set name="topic">COCKTAILS</set></think></li>
-                <li>I know some interesting facts about <system>python3 cocktail_query.py --trivia</system>
-                <think><set name="topic">COCKTAILS</set></think></li>
-                <li>I know something interesting about <system>python3 cocktail_query.py --trivia</system>
-                <think><set name="topic">COCKTAILS</set></think></li>
+                <li>I know something you might find amusing about <system>python cocktail_query.py --trivia</system>
+                    <think><set name="topic">COCKTAILS</set></think>
+                    <think><set name="analyser">TFIDF</set></think>
+                </li>
+                <li>I know some interesting facts about <system>python cocktail_query.py --trivia</system>
+                    <think><set name="topic">COCKTAILS</set></think>
+                    <think><set name="analyser">TFIDF</set></think>
+                </li>
+                <li>I know something interesting about <system>python cocktail_query.py --trivia</system>
+                    <think><set name="topic">COCKTAILS</set></think>
+                    <think><set name="analyser">TFIDF</set></think>
+                </li>
             </random>
         </template>
     </category>
@@ -625,6 +694,29 @@
     <!-- COCKTAILS -->
     <topic name="COCKTAILS">
         <category>
+            <pattern>HOW ARE YOU</pattern>
+            <template>
+                <think>
+                    <set name="mood">COOL</set>
+                </think>
+                <condition name="mood" value="HAPPY">I am happy, yeah!</condition>
+                <condition name="mood" value="COOL">I am very cool</condition>
+                <condition name="mood" value="BAD">I am bad</condition>
+            </template>
+        </category>
+        <category>
+            <pattern>HANNA USE TFIDF</pattern>
+            <template>Got it! <set name="analyser">TFIDF</set></template>
+        </category>
+        <category>
+            <pattern>HANNA USE WORDNET</pattern>
+            <template>Ok, wordnet it is! <set name="analyser">WORDNET</set></template>
+        </category>
+        <category>
+            <pattern>HANNA WHAT ARE YOU USING</pattern>
+            <template>I am using <get name="analyser"/></template>
+        </category>
+        <category>
             <pattern>* FAVOURITE</pattern>
             <template>I like all of them but my most favourite is Bloody Mary.</template>
         </category>
@@ -640,7 +732,7 @@
             <pattern>HOW *</pattern>
             <that>* BLOODY MARY</that>
             <template>It is not an easy cocktail to make. Here is the recipe.
-                <system>python3 cocktail_query.py -q "['Bloody Mary','mixing']"</system>
+                <system>python cocktail_query.py -q "['Bloody Mary','mixing']"</system>
             </template>
         </category>
         <category>
@@ -731,9 +823,9 @@
             <that>* DRINK</that>
             <template>
                 <random>
-                    <li>I see. Here's what I think is best for you.<system>python3 cocktail_query.py -q "<star/>"</system></li>
-                    <li>I found the one you might like!<system>python3 cocktail_query.py -q "<star/>"</system></li>
-                    <li>This one matches your desires best.<system>python3 cocktail_query.py -q "<star/>"</system></li>
+                    <li>I see. Here's what I think is best for you. <system>python cocktail_query.py -q "<star/>" -a "<get name="analyser"/>"</system></li>
+                    <li>I found the one you might like! <system>python cocktail_query.py -q "<star/>" -a "<get name="analyser"/>"</system></li>
+                    <li>This one matches your desires best. <system>python cocktail_query.py -q "<star/>" -a "<get name="analyser"/>"</system></li>
                 </random>
             </template>
         </category>
@@ -860,6 +952,7 @@
             <template><srai>I <star/></srai></template>
         </category>
     </topic>
+    <!-- system -->
     <!--unfishined stuff-->
     <category>
         <pattern>* RELAX * YOU</pattern>
