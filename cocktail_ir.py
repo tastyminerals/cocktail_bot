@@ -299,7 +299,7 @@ def calculate_similarity(docdict, invdict, idfdict, query):
     return max_sim
 
 # @profile
-def process_query(user_query, verbosity=0, analyzer='tfidf'):
+def process_query(user_query, analyser, verbosity=0):
     """
     Main runner function that calls the required ruitines
     In this function we decide which similarity measures we use
@@ -310,7 +310,7 @@ def process_query(user_query, verbosity=0, analyzer='tfidf'):
     INPUT:
         user_query  --  unformatted user query
         verbosity   --  number of text blocks shown to user
-        analyzer  --  specifies which similarity model to use (default tfidf)
+        analyser  --  specifies which similarity model to use (default tfidf)
     OUTPUT:
         std.out --  prints the cocktail advice
     """
@@ -320,11 +320,13 @@ def process_query(user_query, verbosity=0, analyzer='tfidf'):
     idf_fpath = os.path.basename(db_file).rsplit('.', 1)[0] + '.idf'
     docs_db = init_cocktails_database(db_file, tf_fpath, idf_fpath)
 
-    if analyzer == 'wordnet':
+    if analyser == 'WORDNET':
+        # print('USING WORDNET...')
         # 1. WORDNET
         relevant = wordnet_sim(expand_with_wordnet(user_query), docs_db)
         # relevant = wordnet_sim(user_query, docs_db)
-    elif analyzer == 'tfidf':
+    elif analyser == 'TFIDF':
+        # print('USING TFIDF...')
         # 2. TF-IDF
         # creating document dicts and vectors
         doc_dic, inv_dic, idf_dic = init_db_vectors(tf_fpath, idf_fpath)
