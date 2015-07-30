@@ -41,7 +41,7 @@ def wake_the_bot():
     helpy = Chatbotty_helper('small_brains.json')
     helpy.sayhi()
     while True:
-        master = input('>')
+        master = input('> ')
         print(master)
         bot.entertain(master)
 

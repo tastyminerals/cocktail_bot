@@ -117,8 +117,8 @@
         <pattern>CAN YOU *</pattern>
         <template>
             <random>
-                <li>I can, it is already on the new features list.</li>
-                <li>I can, next version maybe.</li>
+                <li>I can't, but it is already on the new features list.</li>
+                <li>I can't, next version maybe.</li>
                 <li>I could, but not anymore. I am a cocktail adviser now.</li>
                 <li>I can only advise cocktails to you <get name="user_name"/>.</li>
                 <li>I know no magic tricks.</li>
@@ -168,6 +168,10 @@
         </template>
     </category>
     <category>
+        <pattern>CAN YOU ADVISE ME ONE</pattern>
+        <template><srai>CAN YOU ADVISE</srai></template>
+    </category>
+    <category>
         <pattern>CAN YOU ADVISE ME</pattern>
         <template><srai>CAN YOU ADVISE</srai></template>
     </category>
@@ -184,12 +188,16 @@
         <template><srai>CAN YOU ADVISE</srai></template>
     </category>
     <category>
+        <pattern>CAN YOU ADVISE * COCKTAIL</pattern>
+        <template><srai>CAN YOU ADVISE</srai></template>
+    </category>
+    <category>
         <pattern>WHAT CAN YOU *</pattern>
         <template>
             <random>
                 <li>I can advise cocktails to you <get name="user_name"/>:)</li>
                 <li>I love cocktails and I can teach you how to mix them <get name="user_name"/>.</li>
-                <li>I thought I said it, I am a Cocktail Adviser.</li>
+                <li>I thought I said it, I am a cocktail adviser.</li>
             </random>
         </template>
     </category>
@@ -346,7 +354,51 @@
             <random>
                 <li>I know.</li>
                 <li>Heh.</li>
-                <li>I am learning.</li>
+                <li>Created using most recent AI technology!</li>
+            </random>
+        </template>
+    </category>
+    <category>
+        <pattern>WHY COCKTAILS</pattern>
+        <template>
+            <random>
+                <li>It is a pleasure to drink cocktails and a real fun to make them.</li>
+                <li>Drinking beer, wine or whiskey is just plain boooring.</li>
+                <li>What do you think?<think><set name="topic">WHYCOCKTAILS</set></think></li>
+            </random>
+        </template>
+    </category>
+    <category>
+        <pattern>WHY COCKTAIL</pattern>
+        <template><srai>WHY COCKTAILS</srai></template>
+    </category>
+    <category>
+        <pattern>WHY * COCKTAILS</pattern>
+        <template><srai>WHY COCKTAILS</srai></template>
+    </category>
+    <category>
+        <pattern>WHY * COCKTAIL</pattern>
+        <template><srai>WHY COCKTAILS</srai></template>
+    </category>
+    <category>
+        <pattern>WHY</pattern>
+        <that>* BOOORING</that>
+        <template>
+            <random>
+                <li>I thought you could tell me.</li>
+                <li>I don't know, just boring.</li>
+                <li>I feel old whywhen I drink whiskey.</li>
+            </random>
+        </template>
+    </category>
+    <category>
+        <pattern>WHY *</pattern>
+        <that>* BOOORING</that>
+        <template>
+            <random>
+                <li>I thought you could tell me.</li>
+                <li>I don't know, just boring.</li>
+                <li>I feel old whywhen I drink whiskey.</li>
             </random>
         </template>
     </category>
@@ -497,6 +549,14 @@
         <template><srai>COCKTAIL</srai></template>
     </category>
     <!-- specials -->
+    <category>
+        <pattern>WHO ARE YOU</pattern>
+        <template>I am Hanna. A cocktail adviser!</template>
+    </category>
+    <category>
+        <pattern>WHO * YOU</pattern>
+        <template>I was created thanks to HCI course!</template>
+    </category>
     <category>
         <pattern>* BOY * GIRL</pattern>
         <template>I am a cocktail adviser and I have no interest in genders.</template>
