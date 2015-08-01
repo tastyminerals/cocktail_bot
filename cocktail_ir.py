@@ -127,6 +127,7 @@ def wordnet_sim(query, db):
     OUTPUT:
     maxdoc  --  the document with the highest score
     """
+    print('QUERY:', query)
     # initializing SnowballStemmer from nltk
     sst = SnowballStemmer('english')
     # taking stopwords from nltk
@@ -194,6 +195,8 @@ def expand_with_wordnet(query):
             defs.append(token)
             def_tokenized = word_tokenize(syn2[0].definition())
             [defs.append(t[0]) for t in pos_tag(def_tokenized) if t[1] in ['NN', 'JJ']]
+    # expansion can add some EXCLUDED words back in the query
+    defs = set(defs) - set(EXCLUDED)  # removing again
     expanded = ' '.join(defs)
     return expanded
 
@@ -325,6 +328,7 @@ def process_query(user_query, analyser, verbosity=0):
         # 1. WORDNET
         relevant = wordnet_sim(expand_with_wordnet(user_query), docs_db)
         # relevant = wordnet_sim(user_query, docs_db)
+        print('RELEVANT:', relevant)
     elif analyser == 'TFIDF':
         # print('USING TFIDF...')
         # 2. TF-IDF
@@ -332,6 +336,7 @@ def process_query(user_query, analyser, verbosity=0):
         doc_dic, inv_dic, idf_dic = init_db_vectors(tf_fpath, idf_fpath)
         # calculating the most relevant document
         relevant = calculate_similarity(doc_dic, inv_dic, idf_dic, user_query)
+        print('RELEVANT:', relevant)
     if verbosity == 1:
         desc = docs_db[relevant[-1]]['description']
         ing = docs_db[relevant[-1]]['ingredients']
@@ -348,7 +353,8 @@ def process_query(user_query, analyser, verbosity=0):
     return cocktail, desc, ing, mix, hist, triv
 
 
-EXCLUDED = ['I', 'want', 'something', 'this', 'it', 'like', 'love', 'drink']
+EXCLUDED = ['I', 'want', 'something', 'this', 'it', 'like', 'love', 'drink', 
+            'color']
 
 if __name__ == '__main__':
     # define database file path below, db file should be in xml format
