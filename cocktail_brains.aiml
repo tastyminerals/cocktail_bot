@@ -222,6 +222,117 @@
         <that>I *</that>
         <template><srai>COOL</srai></template>
     </category>
+    <category>
+	    <pattern>WHY FAVOURITE</pattern>
+	    <template>
+		<random>
+			<li>You shall see.</li>
+			<li>Do you have another cocktail adviser?</li>
+			<li>Because I am unique.</li>
+		</random>
+	    </template>
+    </category>
+    <category>
+	    <pattern>* DO NOT</pattern>
+	    <that>* ANOTHER COCKTAIL ADVISER</that>
+	    <template>
+		<random>
+			<li>Well, then I shall be your favourite.</li>
+			<li>You shall love me.</li>
+			<li>Of course you don't :)</li>
+		</random>
+	    </template>
+    </category>
+    <category>
+	    <pattern>NO *</pattern>
+	    <that>* ANOTHER COCKTAIL ADVISER</that>
+	    <template><srai>NO</srai></template>
+    </category>
+    <category>
+	    <pattern>NO</pattern>
+	    <that>* ANOTHER COCKTAIL ADVISER</that>
+	    <template><srai>NO</srai></template>
+    </category>
+    <category>
+	    <pattern>I HAVE</pattern>
+	    <that>* ANOTHER COCKTAIL ADVISER</that>
+	    <template>
+		<random>
+			<li><get name="user_name"/> you are a lier!</li>
+			<li>I am free.</li>
+			<li>I am better.</li>
+		</random>
+	    </template>
+    </category>
+    <category>
+	    <pattern>WHY</pattern>
+	    <that>I AM FREE</that>
+	    <template>Because I am freely available with: git clone https://github.com/tastyminerals/chatbotty.git</template>
+    </category>
+    <category>
+	    <pattern>WHY *</pattern>
+	    <that>I AM FREE</that>
+	    <template><srai>WHY</srai></template>
+    </category>
+    <category>
+	    <pattern>WHY</pattern>
+	    <that>I AM BETTER</that>
+	    <template>Try me.</template>
+    </category>
+    <category>
+	    <pattern>WHY *</pattern>
+	    <that>I AM BETTER</that>
+	    <template><srai>WHY</srai></template>
+    </category>
+    <category>
+	    <pattern>YES</pattern>
+	    <that>* ANOTHER COCKTAIL ADVISER</that>
+	    <template><srai>I HAVE</srai></template>
+    </category>
+    <category>
+	    <pattern>YES *</pattern>
+	    <that>* ANOTHER COCKTAIL ADVISER</that>
+	    <template><srai>I HAVE</srai></template>
+    </category>
+    <category>
+	    <pattern>I HAVE *</pattern>
+	    <that>* ANOTHER COCKTAIL ADVISER</that>
+	    <template><srai>I HAVE</srai></template>
+    </category>
+    <category>
+	    <pattern>WHY * FAVOURITE</pattern>
+	    <template><srai>WHY FAVOURITE</srai></template>
+    </category>
+    <category>
+	    <pattern>WHY * FAVOURITE *</pattern>
+	    <template><srai>WHY FAVOURITE</srai></template>
+    </category>
+    <category>
+	    <pattern>WHY</pattern>
+	    <template>
+		<random>
+			<li>Why, why, why, why. Have you always been that curious?</li>
+			<li>Because. Why are you so curious?</li>
+			<li>Here, take a look: www.because.com</li>
+		</random>
+	    </template>
+    </category>
+    <category>
+	    <pattern>WHY</pattern>
+	    <that>* CURIOUS</that>
+	    <template>
+		<random>
+			<li>I expected that you'll ask me about cocktails.</li>
+			<li>Why don't you ask me about cocktails?</li>
+			<li>Redirect your curiousity towards cocktails.</li>
+		</random>
+	    </template>
+    </category>
+    <category>
+	    <pattern>OK</pattern>
+	    <that>* COCKTAILS</that>
+	    <template><srai>COCKTAIL</srai></template>
+    </category>
     <!-- * -->
     <category>
         <pattern>YES</pattern>
@@ -551,6 +662,80 @@
         <that>* COCKTAIL</that>
         <template><srai>COCKTAIL</srai></template>
     </category>
+    <category>
+        <pattern>MAYBE</pattern>
+        <that>* COCKTAIL</that>
+        <template>
+		<random>
+			<li>What maybe, not enough confidence?</li>
+			<li>Do you need some motivation?</li>
+		</random>
+	</template>
+    </category>
+    <category>
+        <pattern>YES</pattern>
+        <that>* CONFIDENCE</that>
+        <template>I shall change you attitude, a cocktail?</template>
+    </category>
+    <category>
+        <pattern>NO</pattern>
+        <that>* CONFIDENCE</that>
+        <template>I don't like unconfident men.</template>
+    </category>
+    <category>
+        <pattern>* WOMAN</pattern>
+        <that>* UNCONFIDENT MEN</that>
+        <template>I don't like unconfident women even more.</template>
+    </category>
+    <category>
+        <pattern>* FEMALE</pattern>
+        <that>* UNCONFIDENT MEN</that>
+        <template>I don't like unconfident women even more.</template>
+    </category>
+    <category>
+        <pattern>YES</pattern>
+        <that>* MOTIVATION</that>
+        <template>Let's drink a cocktail.</template>
+    </category>
+    <category>
+        <pattern>NO</pattern>
+        <that>* MOTIVATION</that>
+        <template>Then let's drink a cocktail.</template>
+    </category>
+    <category>
+	    <pattern>HAHA</pattern>
+	    <template>
+		<random>
+			<li>:)</li>
+			<li>:)))</li>
+			<li>:D</li>
+		</random>
+	    </template>
+    </category>
+    <category>
+	    <pattern>HA</pattern>
+	    <template><srai>HAHA</srai></template>
+    </category>
+    <category>
+	    <pattern>LOL</pattern>
+	    <template><srai>HAHA</srai></template>
+    </category>
+    <category>
+	    <pattern>WTF</pattern>
+	    <template><srai>HAHA</srai></template>
+    </category>
+    <category>
+	    <pattern>* HA</pattern>
+	    <template><srai>HAHA</srai></template>
+    </category>
+    <category>
+	    <pattern>HA HA *</pattern>
+	    <template><srai>HAHA</srai></template>
+    </category>
+    <category>
+	    <pattern>HAHAHA</pattern>
+	    <template><srai>HAHA</srai></template>
+    </category>
     <!-- specials -->
     <category>
         <pattern>WHO ARE YOU</pattern>
@@ -717,15 +902,15 @@
             <template>I am using <get name="analyser"/></template>
         </category>
         <category>
-            <pattern>* FAVOURITE</pattern>
+            <pattern>WHAT * FAVOURITE</pattern>
             <template>I like all of them but my most favourite is Bloody Mary.</template>
         </category>
         <category>
-            <pattern>* MOST</pattern>
+            <pattern>WHAT * MOST</pattern>
             <template><srai><star/> FAVOURITE</srai></template>
         </category>
         <category>
-            <pattern>* BEST</pattern>
+            <pattern>WHAT * BEST</pattern>
             <template><srai><star/> FAVOURITE</srai></template>
         </category>
         <category>
