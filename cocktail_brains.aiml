@@ -75,6 +75,10 @@
         <template><srai>HELP</srai></template>
     </category>
     <category>
+        <pattern>CAN YOU HELP *</pattern>
+        <template><srai>HELP</srai></template>
+    </category>
+    <category>
         <pattern>THANKS</pattern>
         <template>
             <random>
@@ -189,6 +193,10 @@
     </category>
     <category>
         <pattern>CAN YOU ADVISE * COCKTAIL</pattern>
+        <template><srai>CAN YOU ADVISE</srai></template>
+    </category>
+    <category>
+        <pattern>CAN YOU ADVISE * COCKTAIL *</pattern>
         <template><srai>CAN YOU ADVISE</srai></template>
     </category>
     <category>
@@ -793,6 +801,14 @@
         <template><srai>TELL <star/> COCKTAIL</srai></template>
     </category>
     <category>
+        <pattern>TELL * INTERESTING *</pattern>
+        <template><srai>TELL <star/> COCKTAIL</srai></template>
+    </category>
+    <category>
+        <pattern>TELL * INTERESTING</pattern>
+        <template><srai>TELL <star/> COCKTAIL</srai></template>
+    </category>
+    <category>
         <pattern>AMUSE *</pattern>
         <template><srai>TELL <star/> COCKTAIL</srai></template>
     </category>
@@ -876,6 +892,29 @@
         <that>* PISS ME OFF</that>
         <template><srai>REALLY</srai></template>
     </category>
+    <category>
+	<pattern>WHAT * FAVOURITE</pattern>
+	<template>I like all of them but my most favourite is Bloody Mary.</template>
+    </category>
+    <category>
+	<pattern>WHAT * FAVOURITE COCKTAIL</pattern>
+	<template>I like all of them but my most favourite is Bloody Mary.</template>
+    </category>
+    <category>
+	<pattern>WHAT * MOST</pattern>
+	<template><srai><star/> FAVOURITE</srai></template>
+    </category>
+    <category>
+	<pattern>WHAT * BEST</pattern>
+	<template><srai><star/> FAVOURITE</srai></template>
+    </category>
+    <category>
+	<pattern>HOW *</pattern>
+	<that>* BLOODY MARY</that>
+	<template>It is not an easy cocktail to make. Here is the recipe.
+	    <system>python cocktail_query.py -q "['Bloody Mary','mixing']"</system>
+	</template>
+    </category>
     <!-- COCKTAILS -->
     <topic name="COCKTAILS">
         <category>
@@ -900,25 +939,6 @@
         <category>
             <pattern>HANNA WHAT ARE YOU USING</pattern>
             <template>I am using <get name="analyser"/></template>
-        </category>
-        <category>
-            <pattern>WHAT * FAVOURITE</pattern>
-            <template>I like all of them but my most favourite is Bloody Mary.</template>
-        </category>
-        <category>
-            <pattern>WHAT * MOST</pattern>
-            <template><srai><star/> FAVOURITE</srai></template>
-        </category>
-        <category>
-            <pattern>WHAT * BEST</pattern>
-            <template><srai><star/> FAVOURITE</srai></template>
-        </category>
-        <category>
-            <pattern>HOW *</pattern>
-            <that>* BLOODY MARY</that>
-            <template>It is not an easy cocktail to make. Here is the recipe.
-                <system>python cocktail_query.py -q "['Bloody Mary','mixing']"</system>
-            </template>
         </category>
         <category>
             <pattern>OK</pattern>
