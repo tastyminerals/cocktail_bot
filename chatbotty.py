@@ -23,6 +23,7 @@ class Chatbotty_helper:
     def say(self, key):
         print(self.small_brains.get(key))
 
+
 class Chatbotty:
     def __init__(self):
         self.chatbot = aiml.Kernel()

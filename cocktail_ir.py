@@ -127,7 +127,7 @@ def wordnet_sim(query, db):
     OUTPUT:
     maxdoc  --  the document with the highest score
     """
-    print('QUERY:', query)
+    # print('QUERY:', query)
     # initializing SnowballStemmer from nltk
     sst = SnowballStemmer('english')
     # taking stopwords from nltk
@@ -150,7 +150,7 @@ def wordnet_sim(query, db):
             # some blocks are more important than the others
             if block == 'description':
                 for s in query_stems:
-                    doc_scores[doc] += text.count(s) / len(text)
+                    doc_scores[doc] += text.count(s) / len(text) * 2
             elif block == 'trivia':
                 for s in query_stems:
                     doc_scores[doc] += text.count(s) / len(text) * 0.5
@@ -159,7 +159,7 @@ def wordnet_sim(query, db):
                     doc_scores[doc] += text.count(s) / len(text) * 0.5
             elif block == 'comments':
                 for s in query_stems:
-                    doc_scores[doc] += text.count(s) / len(text) * 2
+                    doc_scores[doc] += text.count(s) / len(text)
     maxdoc = max(doc_scores, key=lambda x: doc_scores[x])
     debug = sorted([(k,v) for k,v in doc_scores.items()], key=lambda x: x[1])
     return (debug, maxdoc)
@@ -313,7 +313,7 @@ def process_query(user_query, analyser, verbosity=0):
     INPUT:
         user_query  --  unformatted user query
         verbosity   --  number of text blocks shown to user
-        analyser  --  specifies which similarity model to use (default tfidf)
+        analyser  --  specifies which similarity model to use (default wordnet)
     OUTPUT:
         std.out --  prints the cocktail advice
     """
@@ -322,13 +322,15 @@ def process_query(user_query, analyser, verbosity=0):
     tf_fpath = os.path.basename(db_file).rsplit('.', 1)[0] + '.tf'
     idf_fpath = os.path.basename(db_file).rsplit('.', 1)[0] + '.idf'
     docs_db = init_cocktails_database(db_file, tf_fpath, idf_fpath)
-
+    # setting default here because aiml returns undetectable empty str ''
+    if analyser == '':
+        analyser = 'WORDNET'
     if analyser == 'WORDNET':
         # print('USING WORDNET...')
         # 1. WORDNET
         relevant = wordnet_sim(expand_with_wordnet(user_query), docs_db)
         # relevant = wordnet_sim(user_query, docs_db)
-        print('RELEVANT:', relevant)
+        # print('RELEVANT:', relevant)
     elif analyser == 'TFIDF':
         # print('USING TFIDF...')
         # 2. TF-IDF
@@ -336,7 +338,7 @@ def process_query(user_query, analyser, verbosity=0):
         doc_dic, inv_dic, idf_dic = init_db_vectors(tf_fpath, idf_fpath)
         # calculating the most relevant document
         relevant = calculate_similarity(doc_dic, inv_dic, idf_dic, user_query)
-        print('RELEVANT:', relevant)
+        # print('RELEVANT:', relevant)
     if verbosity == 1:
         desc = docs_db[relevant[-1]]['description']
         ing = docs_db[relevant[-1]]['ingredients']

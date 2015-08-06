@@ -48,9 +48,8 @@ def make_query(db, argz):
     if argz.query:
         results_tuple = process_query(argz.query, argz.analyser)
         cocktail, desc, ing, mix, hist, triv = results_tuple
-        # pretty print the advise, # FIXIT: move it to cocktail_query.py
+        # pretty print the advise
         single_spaces = re.compile(r'[\n]?[ ]+')
-        print('\n')
         print(">>> {0} <<<".format(cocktail))
         print(single_spaces.sub(' ', desc))
         print(ing)
@@ -100,6 +99,7 @@ if __name__ == '__main__':
                      required=False)
     prs.add_argument('-a', '--analyser', default='TFIDF',
                      help='Specify which similarity analyzer to use: TFIDF or\
-                     WORDNET', required=False)                     
+                     WORDNET', 
+                     required=False)                     
     arguments = prs.parse_args()
     connect_db(DB_FILE, arguments)

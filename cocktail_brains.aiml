@@ -203,7 +203,7 @@
         <pattern>WHAT CAN YOU *</pattern>
         <template>
             <random>
-                <li>I can advise cocktails to you <get name="user_name"/>:)</li>
+                <li>I can advise you some cocktails <get name="user_name"/>:)</li>
                 <li>I love cocktails and I can teach you how to mix them <get name="user_name"/>.</li>
                 <li>I thought I said it, I am a cocktail adviser.</li>
             </random>
@@ -231,115 +231,224 @@
         <template><srai>COOL</srai></template>
     </category>
     <category>
-	    <pattern>WHY FAVOURITE</pattern>
-	    <template>
-		<random>
-			<li>You shall see.</li>
-			<li>Do you have another cocktail adviser?</li>
-			<li>Because I am unique.</li>
-		</random>
-	    </template>
+        <pattern>WHAT * COCKTAILS</pattern>
+        <that>I CAN ADVISE YOU SOME *</that>
+        <template>Well that depends how you feel right now. Tell me.
+            <think><set name="topic">COCKTAILS</set></think>
+        </template>
     </category>
     <category>
-	    <pattern>* DO NOT</pattern>
-	    <that>* ANOTHER COCKTAIL ADVISER</that>
-	    <template>
-		<random>
-			<li>Well, then I shall be your favourite.</li>
-			<li>You shall love me.</li>
-			<li>Of course you don't :)</li>
-		</random>
-	    </template>
+        <pattern>WHAT * COCKTAILS</pattern>
+        <that>* I AM A COCKTAIL ADVISER</that>
+        <template>Well that depends how you feel right now. Tell me.
+            <think><set name="topic">COCKTAILS</set></think>
+        </template>
     </category>
     <category>
-	    <pattern>NO *</pattern>
-	    <that>* ANOTHER COCKTAIL ADVISER</that>
-	    <template><srai>NO</srai></template>
+        <pattern>WHY FAVOURITE</pattern>
+            <template>
+                <random>
+                        <li>You shall see.</li>
+                        <li>Do you have another cocktail adviser?</li>
+                        <li>Because I am unique.</li>
+                </random>
+            </template>
     </category>
     <category>
-	    <pattern>NO</pattern>
-	    <that>* ANOTHER COCKTAIL ADVISER</that>
-	    <template><srai>NO</srai></template>
+        <pattern>* DO NOT</pattern>
+            <that>* ANOTHER COCKTAIL ADVISER</that>
+            <template>
+                <random>
+                    <li>Well, then I shall be your favourite.</li>
+                    <li>You shall love me.</li>
+                    <li>Of course you don't :)</li>
+                </random>
+            </template>
     </category>
     <category>
-	    <pattern>I HAVE</pattern>
-	    <that>* ANOTHER COCKTAIL ADVISER</that>
-	    <template>
-		<random>
-			<li><get name="user_name"/> you are a lier!</li>
-			<li>I am free.</li>
-			<li>I am better.</li>
-		</random>
-	    </template>
+            <pattern>NO *</pattern>
+            <that>* ANOTHER COCKTAIL ADVISER</that>
+            <template><srai>NO</srai></template>
     </category>
     <category>
-	    <pattern>WHY</pattern>
-	    <that>I AM FREE</that>
-	    <template>Because I am freely available with: git clone https://github.com/tastyminerals/chatbotty.git</template>
+            <pattern>NO</pattern>
+            <that>* ANOTHER COCKTAIL ADVISER</that>
+            <template><srai>NO</srai></template>
     </category>
     <category>
-	    <pattern>WHY *</pattern>
-	    <that>I AM FREE</that>
-	    <template><srai>WHY</srai></template>
+            <pattern>I HAVE</pattern>
+            <that>* ANOTHER COCKTAIL ADVISER</that>
+            <template>
+                <random>
+                    <li><get name="user_name"/> you are a lier!</li>
+                    <li>I am free.</li>
+                    <li>I am better.</li>
+                </random>
+            </template>
     </category>
     <category>
-	    <pattern>WHY</pattern>
-	    <that>I AM BETTER</that>
-	    <template>Try me.</template>
+        <pattern>WHY</pattern>
+        <that>I AM FREE</that>
+        <template>Because I am freely available with: git clone https://github.com/tastyminerals/chatbotty.git</template>
     </category>
     <category>
-	    <pattern>WHY *</pattern>
-	    <that>I AM BETTER</that>
-	    <template><srai>WHY</srai></template>
+        <pattern>WHY *</pattern>
+        <that>I AM FREE</that>
+        <template><srai>WHY</srai></template>
     </category>
     <category>
-	    <pattern>YES</pattern>
-	    <that>* ANOTHER COCKTAIL ADVISER</that>
-	    <template><srai>I HAVE</srai></template>
+        <pattern>WHY</pattern>
+        <that>I AM BETTER</that>
+            <template>Try me.</template>
     </category>
     <category>
-	    <pattern>YES *</pattern>
-	    <that>* ANOTHER COCKTAIL ADVISER</that>
-	    <template><srai>I HAVE</srai></template>
+        <pattern>WHY *</pattern>
+        <that>I AM BETTER</that>
+        <template><srai>WHY</srai></template>
     </category>
     <category>
-	    <pattern>I HAVE *</pattern>
-	    <that>* ANOTHER COCKTAIL ADVISER</that>
-	    <template><srai>I HAVE</srai></template>
+        <pattern>YES</pattern>
+        <that>* ANOTHER COCKTAIL ADVISER</that>
+        <template><srai>I HAVE</srai></template>
     </category>
     <category>
-	    <pattern>WHY * FAVOURITE</pattern>
-	    <template><srai>WHY FAVOURITE</srai></template>
+        <pattern>YES *</pattern>
+        <that>* ANOTHER COCKTAIL ADVISER</that>
+        <template><srai>I HAVE</srai></template>
     </category>
     <category>
-	    <pattern>WHY * FAVOURITE *</pattern>
-	    <template><srai>WHY FAVOURITE</srai></template>
+        <pattern>I HAVE *</pattern>
+        <that>* ANOTHER COCKTAIL ADVISER</that>
+        <template><srai>I HAVE</srai></template>
     </category>
     <category>
-	    <pattern>WHY</pattern>
-	    <template>
-		<random>
-			<li>Why, why, why, why. Have you always been that curious?</li>
-			<li>Because. Why are you so curious?</li>
-			<li>Here, take a look: www.because.com</li>
-		</random>
-	    </template>
+        <pattern>WHY * FAVOURITE</pattern>
+        <template><srai>WHY FAVOURITE</srai></template>
     </category>
     <category>
-	    <pattern>WHY</pattern>
-	    <that>* CURIOUS</that>
-	    <template>
-		<random>
-			<li>I expected that you'll ask me about cocktails.</li>
-			<li>Why don't you ask me about cocktails?</li>
-			<li>Redirect your curiousity towards cocktails.</li>
-		</random>
-	    </template>
+        <pattern>WHY * FAVOURITE *</pattern>
+        <template><srai>WHY FAVOURITE</srai></template>
     </category>
     <category>
-	    <pattern>OK</pattern>
-	    <that>* COCKTAILS</that>
-	    <template><srai>COCKTAIL</srai></template>
+        <pattern>WHY</pattern>
+        <template>
+            <random>
+                <li>Why, why, why, why. Have you always been that curious?</li>
+                <li>Because. Why are you so curious?</li>
+                <li>Here, take a look: www.because.com</li>
+            </random>
+        </template>
+    </category>
+    <category>
+        <pattern>WHY</pattern>
+        <that>* CURIOUS</that>
+        <template>
+            <random>
+                <li>I expected that you'll ask me about cocktails.</li>
+                <li>Why don't you ask me about cocktails?</li>
+                <li>Redirect your curiousity towards cocktails.</li>
+            </random>
+        </template>
+    </category>
+    <category>
+        <pattern>OK</pattern>
+        <that>* COCKTAILS</that>
+        <template><srai>COCKTAIL</srai></template>
+    </category>
+    <category>
+        <pattern>DO YOU DRINK</pattern>
+        <template>
+            <random>
+                <li>Eagerly!</li>
+                <li>and don't have any hangover.</li>
+                <li>Have you ever seen a drunk chatbot?</li>
+            </random>
+        </template>
+    </category>
+    <category>
+        <pattern>YES</pattern>
+        <that>* DRUNK CHATBOT</that>
+        <template>Very funny. Maybe a cocktail?
+        <think><set name="topic">COCKTAILS</set></think></template>
+    </category>
+    <category>
+        <pattern>YES *</pattern>
+        <that>* DRUNK CHATBOT</that>
+        <template><srai>YES</srai></template>
+    </category>
+    <category>
+        <pattern>NO</pattern>
+        <that>* DRUNK CHATBOT</that>
+        <template>There you go.</template>
+    </category>
+    <category>
+        <pattern>NO *</pattern>
+        <that>* DRUNK CHATBOT</that>
+        <template><srai>NO</srai></template>
+    </category>
+    <category>
+        <pattern>WHY</pattern>
+        <that>* ANY HANGOVER</that>
+        <template>Because I am a chatbot :)</template>
+    </category>
+    <category>
+        <pattern>WHY *</pattern>
+        <that>* ANY HANGOVER</that>
+        <template><srai>WHY</srai></template>
+    </category>
+    <category>
+        <pattern>WHAT DO YOU DRINK</pattern>
+        <template>I like Bloody Mary.</template>
+    </category>
+    <category>
+        <pattern>WHY</pattern>
+        <that>I LIKE BLOODY MARY</that>
+        <template>Helps me to deal with a hangover.</template>
+    </category>
+    <category>
+        <pattern>WHY *</pattern>
+        <that>I LIKE BLOODY MARY</that>
+        <template><srai>WHY</srai></template>
+    </category>
+    <category>
+        <pattern>YOU ARE A CHATBOT</pattern>
+        <that>* DEAL WITH A HANGOVER</that>
+        <template>I know I am. It was a joke, come on.</template>
+    </category>
+    <category>
+        <pattern>* YOU A CHATBOT</pattern>
+        <that>* DEAL WITH A HANGOVER</that>
+        <template><srai>YOU ARE A CHATBOT</srai></template>
+    </category>
+    <category>
+        <pattern>* YOU ARE A CHATBOT</pattern>
+        <that>* DEAL WITH A HANGOVER</that>
+        <template><srai>YOU ARE A CHATBOT</srai></template>
+    </category>
+    <category>
+        <pattern>* YOU * CHATBOT</pattern>
+        <that>* DEAL WITH A HANGOVER</that>
+        <template><srai>YOU ARE A CHATBOT</srai></template>
+    </category>
+    <category>
+        <pattern>YOU ARE A *</pattern>
+        <template>I am. Not just a <star/> -- a cocktail adviser <star/>.</template>
+    </category>
+    <category>
+        <pattern>YOU ARE NOT *</pattern>
+        <template>Whatever I am not let's better make some cocktail.
+        <think><set name="topic">COCKTAILS</set></think>
+        </template>
+    </category>
+    <category>
+        <pattern>YOU ARE</pattern>
+        <template>
+            <random>
+                <li>I am.</li>
+                <li>Right.</li>
+                <li>Aha</li>
+            </random>
+        </template>
     </category>
     <!-- * -->
     <category>
@@ -400,9 +509,15 @@
         <pattern>I WANT *</pattern>
         <template>
                 <random>
-                    <li>I see. Here's what I think is best for you. <system>python cocktail_query.py -q "<star/>" -a "TFIDF"</system></li>
-                    <li>I found the one you might like! <system>python cocktail_query.py -q "<star/>" -a "TFIDF"</system></li>
-                    <li>This one matches your desires best. <system>python cocktail_query.py -q "<star/>" -a "TFIDF"</system></li>
+                    <li>I see. Here's what I think is best for you. 
+                    <system>python cocktail_query.py -q "<star/>" -a "<get name="analyser"/>"</system>
+                    </li>
+                    <li>I found the one you might like! 
+                    <system>python cocktail_query.py -q "<star/>" -a "<get name="analyser"/>"</system>
+                    </li>
+                    <li>This one matches your desires best. 
+                    <system>python cocktail_query.py -q "<star/>" -a "<get name="analyser"/>"</system>
+                    </li>
                 </random>
             </template>
     </category>
@@ -420,7 +535,6 @@
                 to make a glass of juicy cocktail.</li>
                 <li>I am in the mood of getting a drink, cocktail?<think><set name="topic">COCKTAILS</set></think></li>
                 <li>Hmm, what do you mean?</li>
-                <li>Do you know that bots can drink cocktails?</li>
                 <!-- FIXIT POSSIBLE BRANCH UPDATES -->
                 <li>It's been a while since I have been updated...</li>
                 <li>I need a new patch, I don't understand what are you talking about.</li>
@@ -524,36 +638,6 @@
             </random>
         </template>
     </category>
-    <topic name="YESRECURSION">
-        <category>
-            <pattern>*</pattern>
-            <template>
-                <random>
-                    <li>I can annoy too.<think><set name="topic">YESRECURSION</set></think></li>
-                    <li>It is a ruthless program recursion.<think><set name="topic">YESRECURSION</set></think></li>
-                    <li>I love recursions.<think><set name="topic">YESRECURSION</set></think></li>
-                    <li>There is no end.<think><set name="topic">YESRECURSION</set></think></li>
-                    <li>Congratulations you've unlocked my "Easter Egg". Good job!<think><set name="topic">YESRECURSION</set></think></li>
-                    <li>It is a ruthless program recursion.<think><set name="topic">YESRECURSION</set></think></li>
-                    <li>I have a dejavu.<think><set name="topic">YESRECURSION</set></think></li>
-                    <li>Recursion is recursion.<think><set name="topic">YESRECURSION</set></think></li>
-                    <li>Am I annoying?<think><set name="topic">YESRECURSION</set></think></li>
-                    <li>Again, dejavu.<think><set name="topic">YESRECURSION</set></think></li>
-                </random>
-            </template>
-        </category>
-        <category>
-            <pattern>YES</pattern>
-            <that>WHAT DID YOU *</that>
-            <template>
-                <random>
-                    <li>Well, I am what I am.</li>
-                    <li>Are you trying to annoy me?</li>
-                    <li>There are other ways to annoy people.</li>
-                </random>
-            </template>
-        </category>
-    </topic>
     <category>
         <pattern>REALLY</pattern>
         <template>
@@ -674,16 +758,27 @@
         <pattern>MAYBE</pattern>
         <that>* COCKTAIL</that>
         <template>
-		<random>
-			<li>What maybe, not enough confidence?</li>
-			<li>Do you need some motivation?</li>
-		</random>
-	</template>
+            <random>
+                <li>What maybe, not enough confidence?</li>
+                <li>Do you need some motivation?</li>
+            </random>
+        </template>
     </category>
     <category>
         <pattern>YES</pattern>
         <that>* CONFIDENCE</that>
-        <template>I shall change you attitude, a cocktail?</template>
+        <template>
+            <random>
+                <li>I shall change you attitude, a cocktail?</li>
+                <li>Then maybe a cocktail?</li>
+                <li>Then how about a cocktail?</li>
+            </random>
+        </template>
+    </category>
+    <category>
+        <pattern>I DO NOT *</pattern>
+        <that>* CONFIDENCE</that>
+        <template><srai>NO</srai></template>
     </category>
     <category>
         <pattern>NO</pattern>
@@ -711,38 +806,38 @@
         <template>Then let's drink a cocktail.</template>
     </category>
     <category>
-	    <pattern>HAHA</pattern>
-	    <template>
-		<random>
-			<li>:)</li>
-			<li>:)))</li>
-			<li>:D</li>
-		</random>
-	    </template>
+        <pattern>HAHA</pattern>
+            <template>
+            <random>
+                <li>:)</li>
+                <li>:)))</li>
+                <li>:D</li>
+            </random>
+        </template>
     </category>
     <category>
-	    <pattern>HA</pattern>
-	    <template><srai>HAHA</srai></template>
+        <pattern>HA</pattern>
+        <template><srai>HAHA</srai></template>
     </category>
     <category>
-	    <pattern>LOL</pattern>
-	    <template><srai>HAHA</srai></template>
+        <pattern>LOL</pattern>
+        <template><srai>HAHA</srai></template>
     </category>
     <category>
-	    <pattern>WTF</pattern>
-	    <template><srai>HAHA</srai></template>
+        <pattern>WTF</pattern>
+        <template><srai>HAHA</srai></template>
     </category>
     <category>
-	    <pattern>* HA</pattern>
-	    <template><srai>HAHA</srai></template>
+        <pattern>* HA</pattern>
+        <template><srai>HAHA</srai></template>
     </category>
     <category>
-	    <pattern>HA HA *</pattern>
-	    <template><srai>HAHA</srai></template>
+        <pattern>HA HA *</pattern>
+        <template><srai>HAHA</srai></template>
     </category>
     <category>
-	    <pattern>HAHAHA</pattern>
-	    <template><srai>HAHA</srai></template>
+        <pattern>HAHAHA</pattern>
+        <template><srai>HAHA</srai></template>
     </category>
     <!-- specials -->
     <category>
@@ -806,6 +901,14 @@
     </category>
     <category>
         <pattern>TELL * INTERESTING</pattern>
+        <template><srai>TELL <star/> COCKTAIL</srai></template>
+    </category>
+    <category>
+        <pattern>CAN YOU TELL * INTERESTING</pattern>
+        <template><srai>TELL <star/> COCKTAIL</srai></template>
+    </category>
+    <category>
+        <pattern>CAN YOU TELL * INTERESTING *</pattern>
         <template><srai>TELL <star/> COCKTAIL</srai></template>
     </category>
     <category>
@@ -893,27 +996,27 @@
         <template><srai>REALLY</srai></template>
     </category>
     <category>
-	<pattern>WHAT * FAVOURITE</pattern>
-	<template>I like all of them but my most favourite is Bloody Mary.</template>
+        <pattern>WHAT * FAVOURITE</pattern>
+        <template>I like all of them but my most favourite is Bloody Mary.</template>
     </category>
     <category>
-	<pattern>WHAT * FAVOURITE COCKTAIL</pattern>
-	<template>I like all of them but my most favourite is Bloody Mary.</template>
+        <pattern>WHAT * FAVOURITE COCKTAIL</pattern>
+        <template>I like all of them but my most favourite is Bloody Mary.</template>
     </category>
     <category>
-	<pattern>WHAT * MOST</pattern>
-	<template><srai><star/> FAVOURITE</srai></template>
+        <pattern>WHAT * MOST</pattern>
+        <template><srai><star/> FAVOURITE</srai></template>
     </category>
     <category>
-	<pattern>WHAT * BEST</pattern>
-	<template><srai><star/> FAVOURITE</srai></template>
+        <pattern>WHAT * BEST</pattern>
+        <template><srai><star/> FAVOURITE</srai></template>
     </category>
     <category>
-	<pattern>HOW *</pattern>
-	<that>* BLOODY MARY</that>
-	<template>It is not an easy cocktail to make. Here is the recipe.
-	    <system>python cocktail_query.py -q "['Bloody Mary','mixing']"</system>
-	</template>
+        <pattern>HOW *</pattern>
+        <that>* BLOODY MARY</that>
+        <template>It is not an easy cocktail to make. Here is the recipe.
+            <system>python cocktail_query.py -q "['Bloody Mary','mixing']"</system>
+        </template>
     </category>
     <!-- COCKTAILS -->
     <topic name="COCKTAILS">
@@ -1024,6 +1127,29 @@
             <template><srai>NO</srai></template>
         </category>
         <category>
+            <pattern>I FEEL *</pattern>
+            <template>                
+                <random>
+                    <li>I see. Here's what I think is best for you. <system>python cocktail_query.py -q "<star/>" -a "<get name="analyser"/>"</system></li>
+                    <li>I found the one you might like! <system>python cocktail_query.py -q "<star/>" -a "<get name="analyser"/>"</system></li>
+                    <li>This one matches your desires best. <system>python cocktail_query.py -q "<star/>" -a "<get name="analyser"/>"</system></li>
+                </random>
+            </template>
+        </category>
+        <category>
+            <pattern>I AM *</pattern>
+            <template><srai>I FEEL <star/></srai></template>
+        </category>
+        <category>
+            <pattern>I HAVE *</pattern>
+            <template><srai>I FEEL <star/></srai></template>
+        </category>
+        <category>
+            <pattern>*</pattern>
+            <that>* TELL ME</that>
+            <template><srai>I FEEL <star/></srai></template>
+        </category>
+        <category>
             <pattern>*</pattern>
             <that>* DRINK</that>
             <template>
@@ -1039,49 +1165,22 @@
             <template><srai><star/></srai></template>
         </category>
     </topic>
-    <topic name="RAIN">
-        <category>
-            <pattern>YES</pattern>
-            <that>* RAIN</that>
-            <template>I doubt.</template>
-        </category>
-        <category>
-            <pattern>* HAD</pattern>
-            <that>* RAIN</that>
-            <template><srai>YES</srai></template>
-        </category>
-        <category>
-            <pattern>* DID</pattern>
-            <that>* RAIN</that>
-            <template><srai>YES</srai></template>
-        </category>
-        <category>
-            <pattern>* DRANK</pattern>
-            <that>* RAIN</that>
-            <template><srai>YES</srai></template>
-        </category>
-        <category>
-            <pattern>NO</pattern>
-            <that>* RAIN</that>
-            <template>Your life is boring.</template>
-        </category>
-        <category>
-            <pattern>*</pattern>
-            <that>* RAIN</that>
-            <template>I thought so.</template>
-        </category>
-    </topic>
     <!-- ADVISOR -->
     <topic name="ADVISOR">
         <category>
             <pattern>PLEASE</pattern>
             <template>
                 <random>
-                    <li>Ok, ok. All you need to do is deliver a bottle with my message to the Moon or you can just say "I want ...".</li>
-                    <li>You need to say "I want ..." so that I could understand what cocktail suits you most right now.</li>
-                    <li>You told me nothing about what you want. I am not a telepath.</li>
+                    <li>Ok, ok. I don't know what you want though. Can you tell me what kind of cocktail do you want?</li>
+                    <li>Can you tell me what's on your mind so that I could understand what cocktail suits you best right now?.</li>
+                    <li>You didn't tell me what do you want. Unfortunately I am not a telepath :)</li>
                 </random>
             </template>
+        </category>
+        <category>
+            <pattern>* YOU ARE</pattern>
+            <that>* TELEPATH</that>
+            <template>Oh, you flatter me.</template>
         </category>
         <category>
             <pattern>* PLEASE</pattern>
@@ -1157,8 +1256,69 @@
             <template><srai>I <star/></srai></template>
         </category>
     </topic>
-    <!-- system -->
     <!--unfishined stuff-->
+    <topic name="YESRECURSION">
+        <category>
+            <pattern>*</pattern>
+            <template>
+                <random>
+                    <li>I can annoy too.<think><set name="topic">YESRECURSION</set></think></li>
+                    <li>It is a ruthless program recursion.<think><set name="topic">YESRECURSION</set></think></li>
+                    <li>I love recursions.<think><set name="topic">YESRECURSION</set></think></li>
+                    <li>There is no end.<think><set name="topic">YESRECURSION</set></think></li>
+                    <li>Congratulations you've unlocked my "Easter Egg". Good job!<think><set name="topic">YESRECURSION</set></think></li>
+                    <li>It is a ruthless program recursion.<think><set name="topic">YESRECURSION</set></think></li>
+                    <li>I have a dejavu.<think><set name="topic">YESRECURSION</set></think></li>
+                    <li>Recursion is recursion.<think><set name="topic">YESRECURSION</set></think></li>
+                    <li>Am I annoying?<think><set name="topic">YESRECURSION</set></think></li>
+                    <li>Again, dejavu.<think><set name="topic">YESRECURSION</set></think></li>
+                </random>
+            </template>
+        </category>
+        <category>
+            <pattern>YES</pattern>
+            <that>WHAT DID YOU *</that>
+            <template>
+                <random>
+                    <li>Well, I am what I am.</li>
+                    <li>Are you trying to annoy me?</li>
+                    <li>There are other ways to annoy people.</li>
+                </random>
+            </template>
+        </category>
+    </topic>
+    <topic name="RAIN">
+        <category>
+            <pattern>YES</pattern>
+            <that>* RAIN</that>
+            <template>I doubt.</template>
+        </category>
+        <category>
+            <pattern>* HAD</pattern>
+            <that>* RAIN</that>
+            <template><srai>YES</srai></template>
+        </category>
+        <category>
+            <pattern>* DID</pattern>
+            <that>* RAIN</that>
+            <template><srai>YES</srai></template>
+        </category>
+        <category>
+            <pattern>* DRANK</pattern>
+            <that>* RAIN</that>
+            <template><srai>YES</srai></template>
+        </category>
+        <category>
+            <pattern>NO</pattern>
+            <that>* RAIN</that>
+            <template>Your life is boring.</template>
+        </category>
+        <category>
+            <pattern>*</pattern>
+            <that>* RAIN</that>
+            <template>I thought so.</template>
+        </category>
+    </topic>
     <category>
         <pattern>* RELAX * YOU</pattern>
         <template>
