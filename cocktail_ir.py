@@ -324,7 +324,7 @@ def process_query(user_query, analyser, verbosity=0):
     docs_db = init_cocktails_database(db_file, tf_fpath, idf_fpath)
     # setting default here because aiml returns undetectable empty str ''
     if analyser == '':
-        analyser = 'WORDNET'
+        analyser = 'TFIDF'  # default analyser
     if analyser == 'WORDNET':
         # print('USING WORDNET...')
         # 1. WORDNET
@@ -355,7 +355,7 @@ def process_query(user_query, analyser, verbosity=0):
     return cocktail, desc, ing, mix, hist, triv
 
 
-EXCLUDED = ['I', 'want', 'something', 'this', 'it', 'like', 'love', 'drink', 
+EXCLUDED = ['I', 'want', 'something', 'this', 'it', 'like', 'love', 'drink',
             'color']
 
 if __name__ == '__main__':
