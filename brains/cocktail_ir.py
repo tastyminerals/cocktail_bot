@@ -94,10 +94,8 @@ def init_cocktails_database(dbfile, tf_file=False, idf_file=False):
                 for term in wordsbag[doc]:
                     # calculating tf-values and writing them to file
                     tf_str = str(Counter(wordsbag[doc])[term]/max_freqs[doc][1])
-                    # tf_str = str(Counter(wordsbag[d][t])/)
-                    vlst = ['\t'.join([doc, term, tf_str])
-                            for t in wordsbag[doc]]
-                    afile.write('\n'.join(vlst))
+                    vlst = '\t'.join([doc, term, tf_str])
+                    afile.write(vlst)
                     afile.write('\n')
 
     # we take db_file name without extension and add .idf extension to it
