@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Small chatbot demo using aiml rules
+Cocktail adviser chatbot.
 """
 
 import sys
