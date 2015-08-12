@@ -1020,7 +1020,7 @@
         <template><srai>HAHA</srai></template>
     </category>
     <!-- specials -->
-     <category>
+    <category>
         <pattern>SHALL WE DRINK</pattern>
         <template>
             <random>
@@ -1029,6 +1029,26 @@
                 <li>You don't waste time on talking I see.</li>
             </random>
         </template>
+    </category>
+    <category>
+        <pattern>LETS DRINK</pattern>
+        <template><srai>SHALL WE DRINK</srai></template>
+    </category>
+    <category>
+        <pattern>LET S DRINK</pattern>
+        <template><srai>SHALL WE DRINK</srai></template>
+    </category>
+    <category>
+        <pattern>LET S DRINK *</pattern>
+        <template><srai>SHALL WE DRINK</srai></template>
+    </category>
+    <category>
+        <pattern>* LET S DRINK</pattern>
+        <template><srai>SHALL WE DRINK</srai></template>
+    </category>
+    <category>
+        <pattern>* LET S DRINK *</pattern>
+        <template><srai>SHALL WE DRINK</srai></template>
     </category>
     <category>
         <pattern>WHO ARE YOU</pattern>
