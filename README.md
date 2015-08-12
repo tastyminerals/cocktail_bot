@@ -3,7 +3,8 @@ This is a small chatbot created in order to try out AIML markup language for dia
 This chatbot attempts to imitate a cocktail adviser, it tries to make an intelligble advice based on the information the user provides.
 
 ### installing
-Before running chatbotty make sure you have the following python modules installed.
+You don't need to install it, just make sure you have **python3**.
+Before running chatbotty also check if you have the following python modules installed.
 * **nltk** (Wordnet, SnowballStemmer)
 * **numpy**
 
