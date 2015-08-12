@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Cocktail adviser chatbot.
+Cocktail advisor chatbot.
 """
 
 import sys
