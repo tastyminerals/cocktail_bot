@@ -4,7 +4,7 @@ This chatbot attempts to imitate a cocktail adviser, it tries to make an intelli
 
 ### installing
 You don't need to install it, just make sure you have **python3**.
-Before running chatbotty also check if you have the following python modules installed.
+Before running chatbotty also check if you have the following python3 modules installed.
 * **nltk** (Wordnet, SnowballStemmer)
 * **numpy**
 
