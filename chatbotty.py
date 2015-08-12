@@ -30,16 +30,16 @@ class Chatbotty:
     def include(self, aiml_file):
         self.chatbot.learn(aiml_file)
     def entertain(self, user_input):
-        print(self.chatbot.respond(user_input))
+        print('\033[32m', self.chatbot.respond(user_input), '\033[00m')
 
 
 def wake_the_bot():
     """
     This function is a bot chat session initializer.
     """
+    os.chdir('brains')
     bot = Chatbotty()
     bot.include('cocktail_brains.aiml')
-    # bot.include('demo.aiml')
     helpy = Chatbotty_helper('small_brains.json')
     helpy.sayhi()
     while True:

@@ -2,7 +2,6 @@
 """
 This script reads cocktail database and retrieves various information from it
 """
-
 import argparse
 import ast
 import random
@@ -33,7 +32,7 @@ def tell_trivia(db):
     # retrieve all trivia blocks
     trivias = dict((key, val['trivia']) for key, val in db.items() if val)
     choice = random.choice(list(trivias.keys()))
-    print('"{0}".\n'.format(choice))
+    print('"{0}".'.format(choice))
     print(prettify(trivias[choice]))
     print('\n')
 

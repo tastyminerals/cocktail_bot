@@ -27,7 +27,6 @@
         <template><srai>HELLO</srai>
         Pleased to meet you. What's your name?</template>
     </category>
-
     <category>
         <pattern>*</pattern>
         <that>* YOUR NAME</that>
@@ -38,7 +37,7 @@
                <li>Is it a real name?<think><set name="user_name"><star/></set></think></li>
             </random>
         </template>
-        </category>
+    </category>
     <category>
         <pattern>*</pattern>
         <that>WHAT KIND OF NAME *</that>
@@ -130,6 +129,52 @@
         <template><srai>THANKS</srai></template>
     </category>
     <!--casual-->
+    <category>
+        <pattern>HOW ARE YOU</pattern>
+        <template>
+            <random>
+                <li>Doing fine.</li>
+                <li>Almost perfect.</li>
+                <li>Young and kicking.</li>
+            </random>
+        </template>
+    </category>
+    <category>
+        <pattern>HOW DO YOU DO</pattern>
+        <template><srai>HOW ARE YOU</srai></template>
+    </category>
+    <category>
+        <pattern>WHATS UP</pattern>
+        <template><srai>HOW ARE YOU</srai></template>
+    </category>
+    <category>
+        <pattern>HOW DO YOU DO *</pattern>
+        <template><srai>HOW ARE YOU</srai></template>
+    </category>
+    <category>
+        <pattern>HOW ARE YOU *</pattern>
+        <template><srai>HOW ARE YOU</srai></template>
+    </category>
+    <category>
+        <pattern>WHATS UP *</pattern>
+        <template><srai>HOW ARE YOU</srai></template>
+    </category>
+    <category>
+        <pattern>WHY *</pattern>
+        <that>ALMOST PERFECT</that>
+        <template>
+            <random>
+                <li>Heard you are starving for some cocktail.</li>
+                <li>I found out that I may no longer be updated..</li>
+                <li>I always leave some room for improvement.</li>
+            </random>
+        </template>
+    </category>
+    <category>
+        <pattern>*</pattern>
+        <that>* NO LONGER BE UPDATED</that>
+        <template>See, I already don't have a proper answer for that, sigh...</template>
+    </category>
     <category>
         <pattern>THAT IS A LOT</pattern>
         <template>I know:)</template>
