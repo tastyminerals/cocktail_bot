@@ -129,6 +129,10 @@
         <pattern>THANKS *</pattern>
         <template><srai>THANKS</srai></template>
     </category>
+    <category>
+        <pattern>* THANKS</pattern>
+        <template><srai>THANKS</srai></template>
+    </category>
     <!--casual-->
     <category>
         <pattern>BYE</pattern>
