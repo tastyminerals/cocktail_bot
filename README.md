@@ -39,6 +39,6 @@ Obviously you don't have to straight away ask the chatbot for a cocktail advice 
 ### Cocktails database
 
 
-### How WORDNET works?
-I shall omit TFIDF description since you can read about it on wikipedia. WORDNET however is a custom similarity search. Before running wordnet comparisons the user query gets expanded with wordnet adjective definitions. For example: `I want something blue` is converted into `clear intermediate green similar blue sky`. Every adjective in user query is expanded with most semantically close adjectives according to wordnet. The database is called with all the available fields 
+### WORDNET similarity
+I shall omit TFIDF description since you can read about it on wikipedia. WORDNET however is a custom similarity search. Before running wordnet comparisons the user query gets expanded with wordnet adjective definitions. Every adjective in user query is expanded with most semantically close adjectives according to wordnet, non-contentful (there is a filter) words are removed. For example: `I want something blue` is converted into `clear intermediate green similar blue sky`. The database is called with all the available fields. We iterate through every word in the expanded query and match it against the cocktail database. The number of matched words is divided by the number of words in the field and multiplied by the multiplier. Every cocktail entry has several different fields in the database `<description>, <history>, <ingredients>, ...`. If the match is found in "description" it is multiplied by 2 since the words from "description" field have more weight than the ones from "history" obviously.
 
