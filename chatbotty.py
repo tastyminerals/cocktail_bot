@@ -31,7 +31,7 @@ class Chatbotty:
     def include(self, aiml_file):
         self.chatbot.learn(aiml_file)
     def entertain(self, user_input):
-        print('\033[32m', self.chatbot.respond(user_input), '\033[00m')
+        print('\033[34m', self.chatbot.respond(user_input), '\033[00m')
 
 
 def wake_the_bot():

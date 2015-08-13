@@ -11,6 +11,7 @@
                 <li>Ni Hao!</li>
                 <li>Guten Tag!</li>
             </random>
+            <think><set name="analyser">TFIDF</set></think>
         </template>
     </category>
     <category>
@@ -1386,6 +1387,10 @@
             <template>I am using <get name="analyser"/></template>
         </category>
         <category>
+            <pattern>HANNA WHAT DO YOU USE</pattern>
+            <template><srai>HANNA WHAT ARE YOU USING</srai></template>
+        </category>
+        <category>
             <pattern>OK</pattern>
             <that>* COCKTAIL</that>
             <template>
@@ -1659,6 +1664,23 @@
     <category>
         <pattern>* NOT LOOK LIKE *</pattern>
         <template><srai>IT IS NOT WHAT I WANTED</srai></template>
+    </category>
+    <!-- system -->
+    <category>
+        <pattern>HANNA USE TFIDF</pattern>
+        <template>Got it! <set name="analyser">TFIDF</set></template>
+    </category>
+    <category>
+        <pattern>HANNA USE WORDNET</pattern>
+        <template>Ok, wordnet it is! <set name="analyser">WORDNET</set></template>
+    </category>
+    <category>
+        <pattern>HANNA WHAT ARE YOU USING</pattern>
+        <template>I am using <get name="analyser"/></template>
+    </category>
+    <category>
+        <pattern>HANNA WHAT DO YOU USE</pattern>
+        <template><srai>HANNA WHAT ARE YOU USING</srai></template>
     </category>
     <!--Easter eggs-->
     <topic name="YESRECURSION">
