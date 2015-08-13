@@ -8,5 +8,10 @@ Before running chatbotty also check if you have the following python3 modules in
 * **nltk** (Wordnet, SnowballStemmer)
 * **numpy**
 
-Once you installed the above start with: `python3 chatbotty.py`
+Once you installed the above start with: 
+* `./chatbotty.py` 
+
+or if your default python is python2
+
+* `python3 chatbotty.py`
 
