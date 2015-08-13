@@ -37,7 +37,18 @@ You are welcome.
 Obviously you don't have to straight away ask the chatbot for a cocktail advice but the final result of the conversation is the recipe.
 
 ### Cocktails database
-
+The chatbot uses **cocktails.xml** file as a "database" where we keep cocktail descriptions, facts and mixing recipies. Every database cocktail entry must have the following fields in order to work as intended:
+```
+<cocktail name="MY COCKTAIL">
+ <description>...</description>
+ <history>...</history>
+ <trivia>...</trivia>
+ <comments>...</comments>
+ <ingredients>...</ingredients>
+ <mixing>...</mixing>
+</cocktail>
+```
+If you want to check how many cocktails are there you can ask the chatbot `how many cocktails do you know?` or something of this sort. If you want to see the list of cocktails ask `what cocktails do you know?`. Moreover you can ask about specific cocktail `what do you know about Appletini?` or `do you know the history of Appletini?`. You can even ask `tell me something funny about Appletini`. The chatbot will query the database and return the requested field.
 
 ### WORDNET similarity
 I shall omit TFIDF description since you can read about it on wikipedia. WORDNET however is a custom similarity search. Before running wordnet comparisons the user query gets expanded with wordnet adjective definitions. Every adjective in user query is expanded with most semantically close adjectives according to wordnet, non-contentful (there is a filter) words are removed. For example: `I want something blue` is converted into `clear intermediate green similar blue sky`. The database is called with all the available fields. We iterate through every word in the expanded query and match it against the cocktail database. The number of matched words is divided by the number of words in the field and multiplied by the multiplier. Every cocktail entry has several different fields in the database `<description>, <history>, <ingredients>, ...`. If the match is found in "description" it is multiplied by 2 since the words from "description" field have more weight than the ones from "history", thus every field has a multiplier. When we caclulate the scores for every cocktail in the database and return the one with the highest value.
