@@ -12,7 +12,7 @@ sys.path.append(os.path.join(os.getcwd(), r'brains'))
 from cocktail_ir import init_cocktails_database, process_query
 
 
-def prettify(message):
+def prettify_lines(message):
     """
     This function formats the message so that if would look nice in console.
 
@@ -68,10 +68,10 @@ def make_query(db, argz):
         print(mix)
         if hist:
             print('HISTORY:')
-            print(single_spaces.sub(' ', hist))
+            print(prettify(hist))
         if triv:
             print('TRIVIA:')
-            print(single_spaces.sub(' ', triv))
+            print(prettify(triv))
         print('\n')
 
 
@@ -83,11 +83,17 @@ def connect_db(argz):
     if argz.cocktails:
         print(', '.join(data.keys()))
     elif argz.howmany:
-        print(len(data), end='')
+        print(len(data), end="")
     elif argz.direct:
+        dlist = ast.literal_eval(argz.direct)
         try:
-            print(prettify(data[argz.direct]['description']))
-            print(prettify(data[argz.direct]['ingredients']))
+            print(prettify(data[dlist[0]][dlist[1]]))
+        except KeyError:
+            print("Are you sure I know anything about this?")
+    elif argz.cocktail:
+        try:
+            print(prettify(data[argz.cocktail]['description']))
+            print(prettify(data[argz.cocktail]['ingredients']))
         except KeyError:
             print("Well, I don't know anything about it. Sorry.")
     elif argz.trivia:
@@ -106,9 +112,13 @@ if __name__ == '__main__':
                      help='Specify you query which shall be analysed for\
                      similarity.',
                      required=False)
+    prs.add_argument('-c', '--cocktail',
+                     help='Use this option if you want to get the description and\
+                     history of a specific cocktail directly.',
+                     required=False)
     prs.add_argument('-d', '--direct',
-                     help='This option is to access db dict representation\
-                     directly.',
+                     help='This option is used to access db dict representation\
+                     directly. It expects a list where [cocktail name, field].',
                      required=False)
     prs.add_argument('-t', '--trivia', action='store_true',
                      help='Return a random trivia about one of the cocktails.',

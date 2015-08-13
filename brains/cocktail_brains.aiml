@@ -131,6 +131,67 @@
     </category>
     <!--casual-->
     <category>
+        <pattern>BYE</pattern>
+        <template>
+            <random>
+                <li>Oh no, it's so sad to see you go.</li>
+                <li>Where are you going? Another cocktail?</li>
+                <li>Don't go!</li>
+            </random>
+        </template>
+    </category>
+    <category>
+        <pattern>GOOD BYE</pattern>
+        <template><srai>BYE</srai></template>
+    </category>
+    <category>
+        <pattern>GOOD BYE *</pattern>
+        <template><srai>BYE</srai></template>
+    </category>
+    <category>
+        <pattern>BYE *</pattern>
+        <template><srai>BYE</srai></template>
+    </category>
+    <category>
+        <pattern>SEE YOU</pattern>
+        <template><srai>BYE</srai></template>
+    </category>
+    <category>
+        <pattern>SEE YOU *</pattern>
+        <template><srai>BYE</srai></template>
+    </category>
+    <category>
+        <pattern>I NEED TO GO</pattern>
+        <template><srai>BYE</srai></template>
+    </category>
+    <category>
+        <pattern>I NEED TO GO *</pattern>
+        <template><srai>BYE</srai></template>
+    </category>
+    <category>
+        <pattern>EXIT</pattern>
+        <template><srai>BYE</srai></template>
+    </category>
+    <category>
+        <pattern>QUIT</pattern>
+        <template><srai>BYE</srai></template>
+    </category>
+    <category>
+        <pattern>*</pattern>
+        <that>* GO</that>
+        <template>Before you go, maybe another cocktail?:)</template>
+    </category>
+    <category>
+        <pattern>NO</pattern>
+        <that>BEFORE YOU GO *</that>
+        <template>bye</template>
+    </category>
+    <category>
+        <pattern>NO *</pattern>
+        <that>BEFORE YOU GO *</that>
+        <template>bye</template>
+    </category>
+    <category>
         <pattern>HOW ARE YOU</pattern>
         <template>
             <random>
@@ -1107,10 +1168,6 @@
         <template><srai>TELL <star/> COCKTAIL</srai></template>
     </category>
     <category>
-        <pattern>TELL * INTERESTING *</pattern>
-        <template><srai>TELL <star/> COCKTAIL</srai></template>
-    </category>
-    <category>
         <pattern>TELL * INTERESTING</pattern>
         <template><srai>TELL <star/> COCKTAIL</srai></template>
     </category>
@@ -1119,7 +1176,7 @@
         <template><srai>TELL <star/> COCKTAIL</srai></template>
     </category>
     <category>
-        <pattern>TELL ME SOMETHING *</pattern>
+        <pattern>TELL ME SOMETHING PLEASE</pattern>
         <template><srai>TELL <star/> COCKTAIL</srai></template>
     </category>
     <category>
@@ -1353,12 +1410,61 @@
     <category>
         <pattern>TELL ME ABOUT *</pattern>
         <template>
-            <system>python3 cocktail_query.py -d "<star index="1"/>"</system>
+            <system>python3 cocktail_query.py -c "<star index="1"/>"</system>
         </template>
     </category>
     <category>
-        <pattern>TELL * ABOUT *</pattern>
-        <template><srai>TELL ME ABOUT <star index="2"/></srai></template>
+        <pattern>HISTORY OF *</pattern>
+        <template>
+            Let me see... <system>python3 cocktail_query.py -d "['<star/>', 'history']"</system>
+        </template>
+    </category>
+    <category>
+        <pattern>ANYTHING FUNNY ABOUT *</pattern>
+        <template>
+            Heh, ok :) <system>python3 cocktail_query.py -d "['<star/>', 'trivia']"</system>
+        </template>
+    </category>
+    <category>
+        <pattern>DO YOU KNOW ANYTHING FUNNY ABOUT *</pattern>
+        <template><srai>ANYTHING FUNNY ABOUT <star/></srai></template>
+    </category>
+    <category>
+        <pattern>* ANYTHING FUNNY ABOUT *</pattern>
+        <template><srai>ANYTHING FUNNY ABOUT <star index="2"/></srai></template>
+    </category>
+    <category>
+        <pattern>TELL ME SOMETHING FUNNY ABOUT *</pattern>
+        <template><srai>ANYTHING FUNNY ABOUT <star/></srai></template>
+    </category>
+    <category>
+        <pattern>TELL ME * INTERESTING ABOUT *</pattern>
+        <template><srai>ANYTHING FUNNY ABOUT <star index="2"/></srai></template>
+    </category>
+
+    <category>
+        <pattern>TELL ME ABOUT THE HISTORY OF *</pattern>
+        <template><srai>HISTORY OF <star/></srai></template>
+    </category>
+    <category>
+        <pattern>WHAT DO YOU KNOW ABOUT THE HISTORY OF *</pattern>
+        <template><srai>HISTORY OF <star/></srai></template>
+    </category>
+    <category>
+        <pattern>TELL ME THE HISTORY OF *</pattern>
+        <template><srai>HISTORY OF <star/></srai></template>
+    </category>
+     <category>
+        <pattern>WHAT IS THE HISTORY OF *</pattern>
+        <template><srai>HISTORY OF <star/></srai></template>
+    </category>
+    <category>
+        <pattern>WHAT S THE HISTORY OF *</pattern>
+        <template><srai>HISTORY OF <star/></srai></template>
+    </category>
+    <category>
+        <pattern>DO YOU KNOW THE HISTORY OF *</pattern>
+        <template><srai>HISTORY OF <star/></srai></template>
     </category>
     <category>
         <pattern>WHAT * ABOUT *</pattern>

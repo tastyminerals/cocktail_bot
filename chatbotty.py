@@ -31,7 +31,11 @@ class Chatbotty:
     def include(self, aiml_file):
         self.chatbot.learn(aiml_file)
     def entertain(self, user_input):
-        print('\033[34m', self.chatbot.respond(user_input), '\033[00m')
+        reply = ''.join(['\033[34m', self.chatbot.respond(user_input), '\033[00m'])
+        if reply == '\x1b[34mbye\x1b[00m':
+            sys.exit(0)
+        else:
+            print(reply)
 
 
 def wake_the_bot():
@@ -46,7 +50,6 @@ def wake_the_bot():
     while True:
         master = input('> ')
         bot.entertain(master)
-
 
 if __name__ == '__main__':
     wake_the_bot()
