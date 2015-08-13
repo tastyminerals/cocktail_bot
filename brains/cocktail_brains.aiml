@@ -1118,6 +1118,10 @@
         <template><srai>TELL <star/> COCKTAIL</srai></template>
     </category>
     <category>
+        <pattern>TELL ME SOMETHING *</pattern>
+        <template><srai>TELL <star/> COCKTAIL</srai></template>
+    </category>
+    <category>
         <pattern>SAY SOMETHING</pattern>
         <template><srai>TELL <star/> COCKTAIL</srai></template>
     </category>
