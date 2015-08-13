@@ -47,6 +47,8 @@ def prettify(description):
         pretty -- prettified description string
     """
     single_spaces = re.compile(r'[\n]?[ ]+')
+    if not description:
+        return 'There is no information about it :('
     return single_spaces.sub(' ', description)
 
 

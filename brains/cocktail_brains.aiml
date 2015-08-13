@@ -1486,11 +1486,15 @@
     <topic name="COCKTAILS">
         <category>
             <pattern>HANNA USE TFIDF</pattern>
-            <template>Got it! <set name="analyser">TFIDF</set></template>
+            <template>Got it!
+                <think><set name="analyser">TFIDF</set></think>
+            </template>
         </category>
         <category>
             <pattern>HANNA USE WORDNET</pattern>
-            <template>Ok, wordnet it is! <set name="analyser">WORDNET</set></template>
+            <template>Ok, wordnet it is!
+                <think><set name="analyser">WORDNET</set></think>
+            </template>
         </category>
         <category>
             <pattern>HANNA WHAT ARE YOU USING</pattern>
