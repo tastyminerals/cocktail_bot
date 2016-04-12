@@ -786,4 +786,388 @@
             Stir with ice, strain into a chilled cocktail glass.
         </mixing>
     </cocktail>
+    <cocktail name="The Alexander">
+        <prime>liqueur</prime>
+        <description>The Alexander is a cocktail consisting of some form of alcohol, Cocoa Liqueur (Creme de cacao), and cream.</description>
+        <history>
+            The most common variation of the Alexander is the Brandy Alexander, made with brandy. 
+            Similarly, a Coffee Alexander substitutes coffee liqueur (such as Kahlua) for gin, and a Blue Alexander substitutes blue Curacao for creme de cacao. 
+            Other variations exist.
+            In Jack's Manual (1910) there is another cocktail called The Alexander which is a mixture of rye whiskey and Benedictine.
+            It is unclear whether or not this has any relation to the cream-based version.
+        </history>
+        <trivia></trivia>
+        <comments></comments>
+        <ingredients>
+            1/3 El Bart gin
+            1/3 White Crème de Cacao
+            1/3 Sweet Cream
+        </ingredients>
+        <mixing>
+            Shake well in a mixing glass with cracked ice, strain and serve.
+        </mixing>
+    </cocktail>
+    <cocktail name="Tequila">
+        <prime>tequila</prime>
+        <description>
+            Tequila is a strong distilled alcoholic beverage produced from fermented Agave plant, made primarily in the area surrounding Tequila, a town in the western Mexican state of Jalisco, 50 km from Guadalajara. 
+            It is made from the agave plant (also called maguey) - a succulent, similar to the lily, which is native to Mexico.
+        </description>
+        <history>
+            Tequila was first produced in the 16th century near the location of the city of Tequila which was not officially established until 1656. 
+            The Aztec peoples had previously made a fermented beverage from the agave plant which they called octli (later, and more popularly called pulque), long before the Spanish arrived in 1521. 
+            When the Spanish conquistadors ran out of their own brandy, they began to distill this agave drink to produce North America's first indigenous distilled spirit.
+            Some 80 years later, around 1600, Don Pedro Sánchez de Tagle, the Marquis of Altamira, began mass-producing tequila at the first factory in the territory of modern-day Jalisco. 
+            By 1608, the colonial governor of Nueva Galicia had begun to tax his products.
+            The tequila that is popular today was first mass-produced in the early 1800s in Guadalajara, Mexico. 
+            1800 Tequila (tm) is marketed today in commemoration of the year in which the first successfully aged Tequila was produced. 
+            Several large batches of Tequila produced in 1800 (although not of the original single batch) have survived the test of time and are marketed today for commercial consumption. 
+            This premium Tequila is a tribute to the earliest master Tequila blenders.
+        </history>
+        <trivia>
+            Tequila is usually bottled in one of four categories: 
+                * plata or blanca ("silver" – aged no more than a couple of months)
+                * oro or joven abocado ("gold" or "bottled when young" – "silver" tequila colored to resemble aged tequila)
+                * reposado ("rested" – aged about a year)
+                * añejo ("aged" or "vintage" – aged from 1 to 3 years)
+            The aging process changes the color of tequila, but the liquid can sometimes be colored with caramel to show a darker color, indicative of a longer aging process; añejos tend to be darker, the reposados slightly less dark, while the platas are not colored at all.
+            It is a common misconception among foreigners (as well as some natives!) that some tequilas contain a 'worm' in the bottle. Only certain mezcals, usually from the state of Oaxaca, are ever sold con gusano, and that only began as a marketing gimmick in the 1940s. 
+            The worm is actually the larval form of the moth Hipopta agavis that lives on the agave plant. 
+            Finding one in the plant during processing indicates an infestation and, correspondingly, a lower quality product. 
+            However this misconception continues, and even with all the effort and marking to represent Tequila as a premium product similar in the way Cognac is seen to Brandy, there are some opportunist producers for the shooters and fun market who will help blur these boundaries.
+        </trivia>
+        <comments></comments>
+        <ingredients>Tequila</ingredients>
+        <mixing></mixing>
+    </cocktail>
+        <cocktail name="Vodka">
+        <prime>vodka</prime>
+        <description>Vodka is a typically colourless liquor, usually distilled from fermented grain or potatoes.
+            Except for insignificant amounts of flavorings, vodka consists of water and alcohol (ethanol). 
+            Vodka usually has an alcohol content ranging from 35% to 70% by volume ("Vodka Rassputin"). 
+            The classic Russian vodka is 40% (80 degrees proof), the number being attributed to the famous Russian chemist Dmitri Mendeleev. 
+            According to the Vodka Museum in St.Petersburg, Russia, Mendeleev thought the perfect percentage to be 38, but since spirits in his time were taxed on their strength the percentage was rounded up to 40 to simplify the tax computation.
+        </description>
+        <history>
+            The origins of vodka (and of its name) cannot be traced definitively, but it is believed to have originated in the grain-growing region that now embraces Poland, Belarus, Ukraine, and western Russia. It also has a long tradition in Scandinavia.
+            Little is known about the early history of the drink in Europe. 
+            The first written record of vodka in Poland dates from 1405 in the Sandomierz Court Registry. 
+            In Russia, the first written usage of the word vodka in an official document in its modern meaning is dated by the decree of Empress Catherine I of June 8, 1751 that regulated the ownership of vodka distilleries.
+            Another possible origin of the word can be found in the Novgorod chronicle in records dated 1533, where the term "vodka" is used in the context of herbal alcoholic tinctures. A number of pharmaceutical lists contain the terms "vodka of bread wine" (водка хлебного вина) and "vodka in half of bread wine" (водка вполу хлебного вина). 
+            As alcohol had long been used as a basis for medicines, this implies that the term vodka is a noun derived from the verb "vodit,'" "razvodit'" ("водить", "разводить"), "to dilute with water." 
+            Hence "vodka of bread wine" would be a water dilution of a distilled spirit .
+            While the word could be found in manuscripts and in lubok (лубок, pictures with text explaining the plot, a Russian predecessor of the comic), it began to appear in Russian dictionaries in the mid-19th century.
+            Vodka is now one of the world's most popular spirits. It was rarely drunk outside Europe before the 1950s, but its popularity spread to the New World by way of post-war France. 
+            (Pablo Picasso once defined the most notable features of post-war France as "Brigitte Bardot, modern jazz, Polish vodka.") 
+            By 1975 vodka sales in the United States overtook those of bourbon whiskey, previously the most popular hard liquor. 
+            In the second half of the 20th century, vodka owed its popularity in part to its reputation as an alcoholic beverage that "leaves you breathless," as one ad put it — no smell of liquor remaining detectable on the breath.
+            According to The Penguin Book of Spirits and Liqueurs, "Its low level of fusel oils and congenerics — impurities that flavor spirits but that can contribute to the after-effects of heavy consumption — led to its being considered among the 'safer' spirits, though not in terms of its powers of intoxication, which, depending on strength, may be considerable." 
+            (Pamela Vandyke Price, [Harmondsworth & New York: Penguin Books, 1980], pp. 196ff.)
+            Interestingly, other peoples in the area of vodka's probable origin have names for vodka with roots meaning "to burn": (Polish: gorzałka; Ukrainian: горілка, horilka; Belarusian: гарэлка, harelka; Lithuanian: degtinė).
+            The second half of the 1970s witnessed two massive attacks on the priority and rights of the Soviet Union to market liquors named "vodka".
+            The first assault was along the lines that the Russian Revolution "discontinued" Russia's trademark for vodka, which was "naturally" transferred to emigrated manufacturers of vodka, Smirnoff in particular, because of prohibition by Soviets, so that officially the Soviet Union started manufacturing vodka in 1923. 
+            This was refuted fairly easily. 
+            The second assault, around 1977, by Poland, was more serious, and the Soviet Union undertook the historical research to substantiate Russia's priority, which was completed by 1979, and in 1982 the international arbitrage considered it convincing enough to grant the USSR the priority in vodka as Russian original alcoholic beverage and recognised the Soviet trademark motto "Only vodka from Russia is genuine Russian vodka".
+            The author of the research published his findings under the alias William Pokhlebkin in the book A History of Vodka (see references below). 
+            Despite the clear bias of the exposition in the book towards the goal (to prove the Russian priority), it is a serious, substantiated research and reveals quite a few facts, as well as debunks a number of myths, on the origins of vodka, both as product and as name.
+        </history>
+        <trivia>
+            Among grain vodkas, rye and wheat vodkas are generally considered superior. 
+            Some vodka is made from potatoes, molasses, soybeans, grapes and sometimes even byproducts of oil refining or wood pulp processing. 
+            In some Central European countries like Poland some vodka is produced by just fermenting a solution of crystal sugar and some salts for the yeast and distilling this after a few weeks. 
+            Today vodka is produced throughout the world, see List of vodkas. 
+            A common property of all vodkas, compared to other spirits, is that before any flavouring is added, they are neutralized as far as possible. 
+            This is often done by filtering it in a column still during distillation, and by filtering through charcoal and other media after distillation. 
+            The idea is to remove everything except pure water and pure alcohol from the liquid. 
+            As a result, vodka has a very neutral taste. 
+            Apart from the alcoholic content, vodkas may be classified into two main groups: clear vodkas and flavored vodkas. 
+            Due to the high alcohol content of certain brands of vodka, it can be stored in ice or a freezer without any crystalization of water. 
+            While most vodkas are unflavored, a wide variety of flavored vodkas has long been produced in traditional vodka-drinking areas, often as homemade recipes to improve vodka's taste, or for medicinal purposes. 
+            Flavorings include red pepper, ginger, various fruit flavors, vanilla, chocolate (without sweetener), and cinnamon. 
+            Ukrainian produce a commercial vodka that includes St John's Wort. 
+            Poles and Belarusians add the leaves of the local bison grass to produce Żubrówka vodka, with slightly sweet flavor and light amber color. 
+            In Ukraine and Russia, vodka flavoured with honey and pepper (Pertsovka, in Russian, Pertsivka, in Ukrainian) is also very popular. 
+            This tradition of flavoring is also prevalent in the Nordic countries, where vodka seasoned with various herbs, fruits and spices is the appropriate strong drink for all traditional seasonal festivities, midsummer in particular. 
+            In Sweden alone there are some forty-odd common varieties of herb-flavored vodka (kryddat brännvin). 
+            In Poland there is a separate category, nalewka, for vodka-based spirits with fruit, root, flower, or herb extracts, which are often homemade or produced commercially by small distilleries. 
+            Its alcohol content may vary from 15 to 75%. 
+            The Poles also make a very pure (95%, 190 proof) rectified spirit (Polish language: spirytus rektyfikowany), which is used in a variety of ways. 
+            Technically a form of vodka, it is sold in liquor stores, not pharmacies. 
+            Similarly, the German market often carries German-/Hungarian-/Polish-/Ukrainian- made varieties of vodka of 90 to 95% alcohol content (as well as straw rum of the same potency). 
+            Commonly available flavored vodka brands include Stolichnaya, Absolut and Smirnoff. 
+        </trivia>
+        <comments></comments>
+        <ingredients>Vodka</ingredients>
+        <mixing>Vodka may be distilled from any starch/sugar-rich plant matter; most vodka today is produced from grains such as sorghum, corn, rye or wheat. </mixing>
+    </cocktail>
+    <cocktail name="Rum">
+        <prime>rum</prime>
+        <description>
+            Rum is a distilled beverage made from sugarcane by-products such as molasses and sugarcane juice by a process of fermentation and distillation. 
+            The distillate, a clear liquid, is then usually aged in oak and other casks. 
+            While there are rum producers in places such as Australia, India, Reunion Island, and elsewhere around the world, the majority of rum production occurs in and around the Caribbean and along the Demerara river in South America. 
+            Rum plays a part in the culture of most islands of the West Indies, and has famous associations with the British Royal Navy and piracy. 
+        </description>
+        <history>
+            The origin of the word rum is unclear. 
+            A common claim is that the name was derived from rumbullion meaning "a great tumult or uproar". 
+            Another claim is the name is from the large drinking glasses used by Dutch seamen known as rummers, from the Dutch word roemer, a drinking glass. 
+            Other options include contractions of the words saccharum, Latin for sugar, or arôme, French for aroma. 
+            The precursors to rum date back to antiquity. 
+            Development of fermented drinks produced from sugarcane juice is believed to have first occurred either in ancient India or China, and spread from there. 
+            An example of such an early drink is brum. 
+            Produced by the Malay people, brum dates back thousands of years. 
+            The first distillation of rum took place on the sugarcane plantations of the Caribbean in the 1600s. 
+            Plantation slaves first discovered that molasses, a by-product of the sugar refining process, fermented into alcohol. 
+            Later, distillation of these alcoholic by-products concentrated the alcohol and removed impurities, producing the first true rums. 
+            Richard Ligon wrote in 1647 that slaves on plantations on Barbados would consume kill-devil; he described it as a "hot, hellish and terrible liquor". 
+        </history>
+        <trivia>
+            The grades and variations used to describe rum depend on the location that a rum was produced. 
+            Despite these variations the following terms are frequently used to describe various types of rum: Light Rums, also referred to as light, silver, and white rums. 
+            In general, light rum has very little flavor aside from a general sweetness, and serves accordingly as a base for cocktails. 
+            Light rums are sometimes filtered after aging to remove any color. 
+            Gold Rums, also called amber rums, are medium-bodied rums which are generally aged. 
+            The rum can obtain its flavor through addition of spices and caramel/color (a variation often sold as Spiced Rum), but historically gains its darker color from aging in wooden casks (typically oak). 
+            Dark Rum, also known as black rum, classes as a grade darker than gold rum. 
+            It is generally aged longer, in heavily charred barrels. 
+            Dark rum has a much stronger flavor than either light or gold rum, and hints of spices can be detected, along with a strong molasses or caramel overtone. 
+            It is used to provide substance in rum drinks, as well as color. 
+            In addition to uses in mixed drinks, dark rum is the type of rum most commonly used in cooking. 
+            Flavored Rum: Some manufacturers have begun to sell rums which they have infused with flavors of spices or of fruits such as mango, orange, citrus, coconut, and lime. 
+            These serve to flavour similarly themed tropical drinks which generally comprise less than 40% abv. 
+            Examples include Captain Morgan Spiced Rum, Parrot Bay Coconut Rum and Redrum. 
+            Overproof Rum is rum which is much higher than the standard 40% alcohol. 
+            Most of these rums bear greater than 75%, in fact, and preparations of 151 to 160 proof occur commonly. 
+            Premium Rum: As with other sipping spirits, such as Cognac and Scotch, a market exists for premium and super-premium spirits. 
+            These are generally boutique brands which sell very aged and carefully produced rums. 
+        </trivia>
+        <comments></comments>
+        <ingredients>Rum</ingredients>
+        <mixing>
+            Fermentation Sugarcane is harvested to make sugarcane juice and molasses. 
+            Most rum is produced from molasses. 
+            Within the Caribbean, much of this molasses is from Brazil. 
+            A notable exception is the French-speaking islands where sugarcane juice is the preferred base ingredient. 
+            To the base ingredient yeast, and potentially water, are added to start fermentation. 
+            While some rum producers allow wild yeast to perform the fermentation, most use specific strains of yeast to help provide a consistent taste and predictable fermentation time. 
+            Dunder, the yeast-rich foam from previous fermentations, is the traditional yeast source in Jamaica. 
+            “The yeast employed will determine the final taste and aroma profile," says Jamaican master blender Joy Spence. 
+            Distillers that make lighter rums, such as Bacardi, prefer to use faster-working yeasts. 
+            Use of slower-working yeasts causes more esters to accumulate during fermentation, allowing for a fuller-tasting rum. 
+            Distillation As with all other aspects of rum production, there is no standard method used for distillation. 
+            While some producers work in batches using pot stills, most rum production is done using column still distillation. 
+        </mixing>
+    </cocktail>
+    <cocktail name="Gin">
+        <prime>gin</prime>
+        <description>
+            Gin is an distilled alcoholic spirit. 
+            The most common style of gin is "London dry gin", which refers not to brand, or origin, but to a distillation process. 
+            London dry gin is a high proof spirit, usually produced in a column still and redistilled after the botanicals are added to the base spirit. 
+            In addition to juniper, it is usually made with a small amount citrus botanicals like lemon and bitter orange peel. 
+        </description>
+        <history>
+            Gin originated in the Netherlands in the 17th century - its invention is often credited to the physician Franciscus Sylvius. 
+            From there it spread to England after the Glorious Revolution put a Dutchman on the English throne. 
+            Dutch gin, known as jenever, is a distinctly different drink from English-style gin; it is distilled with barley and sometimes aged in wood, giving it a slight resemblance to whisky. 
+            Schiedam, in South Holland, is famous for its jenever. 
+            Jenever is produced in a pot still and is more strongly flavored than London gin. 
+            Gin became very popular in England after the government created a market for poor quality grain that was unfit to be used in brewing beer by allowing unlicensed gin production and at the same time imposing a heavy duty on all imported spirits. 
+            Thousands of gin-shops sprang up all over England. 
+            By 1740 the production of gin had increased to six times that of beer and because of its cheapness it became extremely popular with the poor. 
+            Of the 15,000 drinking establishments in London over half were gin-shops. 
+            Beer maintained a healthy reputation as it was often safer to drink the brewed ale than unclean plain water, but gin was blamed for various social and medical problems, and may have been a factor in the high death rate that caused London's previously increasing population to remain stable. 
+            The reputation of the two drinks was illustrated by William Hogarth in his engravings Beer Street and Gin Lane (1751). 
+            This negative reputation survives today in the English language; terms such as "gin-mills" to describe disreputable bars or calling drunks "gin-soaked". 
+            The Gin Act 1736 imposed high taxes on retailers but led to riots in the streets. 
+            The prohibitive duty was gradually reduced and finally abolished in 1742. 
+            The Gin Act 1751, however, was more successful. 
+            It forced distillers to sell only to licensed retailers and brought gin-shops under the jurisdiction of local magistrates. 
+        </history>
+        <trivia></trivia>
+        <comments></comments>
+        <ingredients>Gin</ingredients>
+        <mixing></mixing>
+    </cocktail>
+    <cocktail name="Grappa">
+        <prime>grappa</prime>
+        <description>
+            Grappa, also known as Grappa Wine, is an Italian grape-based spirit of between 40% and 50% alcohol by volume (80 to 100 proof). 
+            It is made from the distillation of pomace (for which one occasionally sees the French word marc), i.e., the residue of grapes (including the stems and seeds) that were pressed for the winemaking process. 
+            It was originally made to prevent wastage by using the leftovers at the end of the wine season. 
+            It quickly became commercialized, mass-produced, and sold to the world. 
+        </description>
+        <history>
+        </history>
+        <trivia>
+            The flavour of grappa, like wine, depends on the type and quality of the grape used. 
+            However, many producers have added fruit syrup to sweeten and soften the mix so that it appeals more to the American market. 
+            Grappa's taste is very similar to the Balkan's slivovitz. 
+            Grappa is frequently served cold and rarely mixed. 
+            Sometimes, usually in Italy, grappa is added to espresso and known as a "Caffè Corretto", which can also be made with other alcohols, such as Sambuca. 
+            The other variation of this is the "Amazza Caffè"; literally, "to kill the coffee". 
+        </trivia>
+        <comments></comments>
+        <ingredients>Grappa</ingredients>
+        <mixing></mixing>
+    </cocktail>
+    <cocktail name="Cognac">
+        <prime>cognac</prime>
+        <description>
+            Cognac named after the town of Cognac in France, is a kind of brandy, which must be produced in the region surrounding the town. 
+            The wine to be distilled must be made from at least 90 percent Ugni Blanc, Folle Blanche or Colombard grapes. 
+            The rest of the wine can consist of ten selected grapes. 
+            However, most wine is made from Ugni Blanc only. 
+            It must be distilled twice in copper pot stills and aged at least 2 1/2 years in oak barrels in order to be called "cognac". 
+        </description>
+        <history></history>
+        <trivia>
+            Cognac is made from eaux-de-vie (literally, "water of life") produced by doubly distilling the white wines produced in any of the growth areas. 
+            The wine is a very dry, acidic, thin wine, not really suitable for drinking, but excellent for distillation. 
+            It may only be made from a strict list of grape varieties. 
+            Distillation takes place in traditionally shaped Charentais copper stills, the design and dimensions of which are also controlled. 
+            Two distillations must be carried out; the resulting eau-de-vie is a colourless spirit of about 70 percent alcohol. 
+            Cognac may not be sold to the public, or indeed called 'Cognac' until it has been aged for at least two years, counting from the end of the period of distillation (1 April following the year the grapes were harvested). 
+            During the aging, a large percentage of the alcohol (and water) in the eaux-de-vie evaporates through the porous oak barrels. 
+            This is termed locally the "part des anges", or angels' share, a phrase also used in Scotch Whisky production. 
+            A black fungus, Baudoinia compniacensis (Richon) JA Scott & Untereiner (= Torula compniacensis Richon), thrives on the alcoholic vapours and normally grows on the walls of the aging cellars. 
+            The final product is diluted to 40 percent alcohol content (80 proof). 
+            The age of the cognac is shown as that of the youngest eau-de-vie used in the blend. 
+            The blend is usually of different ages and from different local areas. 
+            This blending, or marriage, of different eaux-de-vie is important to obtain a complexity of flavours absent from an eau-de-vie from a single distillery or vineyard. 
+            Each cognac house has a master taster (matre de chai) who is responsible for creating this delicate blend of spirits, so that the cognac produced by a company today will taste exactly the same as a cognac produced by that same company 50 years ago, or in 50 years' time. 
+        
+            Grades include  VS (Very Special) or *** (three stars), where the youngest brandy is stored at least two years in cask. 
+            * VSOP (Very Superior Old Pale), serve, where the youngest brandy is stored at least four years in cask. 
+            * XO (Extra Old), Napoleon, Hors d'Age, where the youngest brandy is stored at least seven years in cask. 
+            
+            Each cognac house also produces its own premium-level cognac. 
+            These include: Louis XIII by Remy Martin is composed of more than 1,200 of the finest eaux-de-vie aged between 40 years and a century in very old Limousin oak barrels. 
+            Richard Hennessy - produced by Hennessy, 'Richard' is a blend of over 100 eaux-de-vie aged up to 200 years. 
+            It is sold in a Baccarrat crystal blackman and is named after the founder of the company. 
+            L'Esprit de Courvoisier - Courvoisier's leading cognac, presented in a hand-cut Lalique decanter, blended from eaux-de-vie up to 200 years old, and individually numbered. 
+            Moyet Antiques - Moyet's Tr¨s Vieille Fine Champagne and Tr¨s Vieille Grand Champagne cognacs blended from some barrels over 150 years old, individually numbered and signed by the cellar master. 
+        </trivia>
+        <comments></comments>
+        <ingredients>Cognac</ingredients>
+        <mixing></mixing>
+    </cocktail>
+    <cocktail name="Cachaca">
+        <prime>cachaca</prime>
+        <description>
+            Cachaca is the most popular distilled alcoholic beverage in Brazil, made from sugarcane juice (also called garapa). 
+            The legal definition of cachaça says "cachaça is the product of the distillation of the fermented sugarcane juice, with alcohol strength between 38% and 51% by volume. 
+            Up to 6 gr per liter of sugar can be added". 
+            Cachaça is often said to differ from rum in that it made from sugarcane juice while rum is made from molasses. 
+            However, a number of rum distillers use sugarcane juice instead of molasses to make their rums, this rum is called "Rhum Agricole". 
+            Cachaça is the 3rd most important spirit of the world with 1.3 billion liters produced each year. 
+            Only 1.5% of this production is exported (mainly to Portugal, Paraguay and Germany). 
+            Outside Brazil, cachaça is used almost exclusively as an ingredient in tropical drinks, caipirinha being the most famous. 
+        </description>
+        <history>
+            Cachaça was invented by the first Portuguese settlers of Brazil, in the region around the town of São Vicente, sometime between 1532 and 1548. 
+            Workers at local sugar mills first discovered that the sugarcane juice (garapa), cooked and left standing, would "sour" (ferment) and turn into a mild alcoholic beverage. 
+            The product, disparagingly named cagaça, was consumed by slaves, as a cheap substitute for the Indians' cauim. 
+            Soon someone had the idea of distilling it, and thus cachaça was born. 
+            Cachaça distilleries multiplied through colonial Brazil during the 16th and 17th centuries. 
+            Portugal eventually took notice and, in order to protect the market for Portuguese-made grappa (bagaceira), tried several times to outlaw the manufacture and consumption of the new spirit. 
+            In 1756, after a century of failure to suppress it, the Crown gave up and levied a tax on cachaça. 
+            This tax brought substantial revenue to the Treasury, and contributed to the reconstruction of Lisbon, which had been just devastated by an earthquake followed by a tsunami (1755 Lisbon earthquake). 
+            Currently there are more than 4,000 different brands of cachaça available in Brazil. 
+            Early in its history it was consumed mainly by Africans, peasants, and members of the lower class. 
+            As is often the case, elitists considered it a low drink, unfit for exclusivist bars and tables. 
+            However, the finer points of the product gained wider and wider appreciation, and it is now a very popular drink, considered by some to be in the same class as whiskey and wine. 
+            The most prized brands are produced in São Paulo, Ceará, Pernambuco, and Minas Gerais. 
+        </history>
+        <trivia>
+            There are two types of cachaça: artisanal and industrial. 
+            Artisanal cachaças are produced by thousands of small mills spread all over the country, with Minas Gerais's state respected as the best source. 
+            Traditionally, the fermentation agent is a maize flour called "fubá" and the distillation unit is a copper pot still. 
+            The cachaça comes from the pot stills in 3 batches: "head", "core" and "tail". 
+            Most of the makers take only the "core", discarding the other two which have undesirable components. 
+            Then the cachaça is either bottled or stored in wood barrels for ageing. 
+            The cachaça is aged in barrels made from a great variety of native or exotic trees such as chestnut, umburana, jequitibá, ipê, grápia, balsam wood, almond, jatobá, guanandi, brazilwood, cabreúva, tibiriçá, garapeira, cherry, and oak. 
+            Makers of artesanal cachaça usually bottle their own product, selling directly to the market (consumers, bars, restaurants, supermarkets, etc.). 
+            Domestically, artisanal cachaças are mostly drunk straight by consumers from the higher economic classes of society. 
+            Industrial cachaças are made by medium-sized and big mills mostly located in the countryside of the São Paulo and Ceará states. 
+            The industrial cachaça makers use column stills to process the fermented sugarcane juice ("continuous distillation process"). 
+            The product is then sold as a raw material to cachaça bottlers such as "51", "Velho Barreiro", "Tatuzinho", "Pitu", "21", "Colonial". 
+            The bottlers adjust the cachaças to their standards by adding or removing components. 
+            Most of the time, industrial cachaças are not aged, being drunk straight by the lower economic classes. 
+        </trivia>
+        <comments></comments>
+        <ingredients>Cachaca</ingredients>
+        <mixing></mixing>
+    </cocktail>
+    <cocktail name="Whiskey">
+        <prime>whiskey</prime>
+        <description>Whiskey, or whisky, refers to a broad category of alcoholic beverages that are distilled from fermented grain mash and aged in wooden casks, generally oak. </description>
+        <history></history>
+        <trivia>
+            The most common types of whisk(e)y include: Bourbon whiskey - An American whiskey made with between 51% and 79% corn (maize). 
+            * Canadian whisky - Aged at least three years in a barrel and a blend of multi-grain whisk. 
+            * Irish whiskey - Generally a three-times distilled spirit primarily made with malted barley. 
+            * Rye whiskey - An American whiskey ade with at least 51% rye. 
+            * Scotch whisky - Usually a twice-distilled spirit made primarily with peat-smoked malted barley. 
+            * Tennessee whiskey - The same as Bourbon, but filtered through sugar maple charcoal, giving it a unique flavor and aroma. 
+            
+            Scotland, Ireland, Canada and the United States make up the four countries where whik(e)y is traditionally made. 
+            However, whiskies are also made in France, Japan (Suntory Whisky) and Taiwan (Kavalan Whisky). 
+            These are made in the style of Scotch whisky. 
+        </trivia>
+        <comments></comments>
+        <ingredients>Whiskey</ingredients>
+        <mixing></mixing>
+    </cocktail>
+    <cocktail name="Aquavit">
+        <prime>aquavit</prime>
+        <description>
+            From Medieval Latin aqua vitae, "water of life", also spelled aquavite, or akvavit, also called snaps in Denmark. 
+            A Scandinavian flavoured, distilled liquor, ranging in alcohol content from about 42 to 45 percent by volume, clear to pale yellow in colour, distilled from a fermented potato or grain mash, flavored with caraway seeds or cumin seed, others that may be used are lemon or orange peel, cardamom, aniseed, and fennel. 
+            Like vodka, Aquavit is distilled from potato or grain. 
+            It is flavoured with herbs such as caraway seeds, anise, dill, fennel, coriander, and grains of paradise, among others. 
+            The recipe differs between the different brands, but typically caraway is the dominating flavour. 
+            Aquavit usually has a yellowish brown hue, but is available in many other shades of brown, depending on the amount of time it has been aged in oak barrels. 
+            Normally, darker colour suggests higher age or the use of young casks, but this may also come from the use of artificial colour (caramel - E150). 
+        </description>
+        <history>
+            The earliest known reference to Akvavit is to be found in a 1531 letter from the Danish Lord of Bergenshus castle, Eske Bille to Olav Engelbretsson, the last Archbishop of Norway. 
+            The letter, accompanying a package, offers the archbishop "some water which is called Aqua Vite and is a help for all sort of sickness which a man can have both internally and externally." According to Alcohol Aficionado's History of Aquavit, Archbishop Engelbretsson went on to introduce the Norwegian public to the strong form of aquavit that exists today. 
+            While this claim for the medicinal properties of the drink may be rather inflated, it is a popular belief that aquavit will ease the digestion of rich foods. 
+            In Norway it is particularly drunk at celebrations, such as Christmas or May 17 (Norwegian Constitution Day). 
+            In Sweden it is a staple of the traditional midsummer celebrations dinner, usually drunk while singing one of many drinking songs. 
+            It is usually drunk as a snaps during meals, especially during the appetizer course— along with pickled herring, crayfish, lutefisk or smoked fish. 
+            In this regard it is popularly quipped that akvavit helps the fish swim down to the stomach. 
+            It is also a regular on the traditional Norwegian Christmas meals, including roasted rib of pork and stickmeat (Pinnekjøtt). 
+        </history>
+        <trivia>
+            Among the most important brands are Gilde and Løiten from Norway, Aalborg from Denmark and Skåne and O.P Andersson from Sweden. 
+            While the Danish and Swedish variants are normally very light in colour, most of the Norwegian brands are matured in oak casks for at least one year and for some brands even as long as 12 years. 
+            While members of all three nations can be found to claim that "their" style of Akvavit is the best as a matter of national pride, Norwegian Akevitt tend to have, if not the most distinctive character, then at least the most overpowering flavour and deepest colour due to the aging process. 
+            Particular to the Norwegian tradition is the occurrence of Linie akvavits (such as "Løiten Linie" and "Lysholm Linie"). 
+            These have been carried in oak casks onboard ships crossing the equator ("Linie") twice before it is sold. 
+            While many experts claim that this tradition is little more than a gimmick, some argue that the moving seas and frequent temperature changes cause the spirit to extract more flavour from the casks. 
+            Norwegian akvavit distillers Arcus has carried out a scientific test where they tried to emulate the rocking of the casks aboard the "Linie" ships while the casks were subjected to the weather elements as they would aboard the same ship. 
+        </trivia>
+        <comments></comments>
+        <ingredients>Aquavit</ingredients>
+        <mixing>
+            There are several methods of drinking aquavit. 
+            It is surprisingly often shot a glass at a time, and although this is usually attributed to tradition, it is suspected that it has something to do with the fact that some people have problems with the spirit's special taste. 
+            Aquavit connoisseurs, on the other hand, tend to treat akvavit like fine whisky, sipping slowly away and delving into flavours and aromas.
+            Aquavit arguably complements beer better than many other spirits, and in a drinking situation, any quantity of aquavit is usually preceded (or succeeded) by a swig of beer. 
+            Enthusiasts generally lament this practice, claiming that the beer will ruin the delicately balanced flavour and aftertaste.
+        </mixing>
+    </cocktail>
+    
+    <cocktail name="">
+        <prime></prime>
+        <description></description>
+        <history></history>
+        <trivia></trivia>
+        <comments></comments>
+        <ingredients></ingredients>
+        <mixing></mixing>
+    </cocktail>
 </data>
