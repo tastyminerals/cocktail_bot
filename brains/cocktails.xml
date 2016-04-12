@@ -862,7 +862,6 @@
             By 1975 vodka sales in the United States overtook those of bourbon whiskey, previously the most popular hard liquor. 
             In the second half of the 20th century, vodka owed its popularity in part to its reputation as an alcoholic beverage that "leaves you breathless," as one ad put it — no smell of liquor remaining detectable on the breath.
             According to The Penguin Book of Spirits and Liqueurs, "Its low level of fusel oils and congenerics — impurities that flavor spirits but that can contribute to the after-effects of heavy consumption — led to its being considered among the 'safer' spirits, though not in terms of its powers of intoxication, which, depending on strength, may be considerable." 
-            (Pamela Vandyke Price, [Harmondsworth & New York: Penguin Books, 1980], pp. 196ff.)
             Interestingly, other peoples in the area of vodka's probable origin have names for vodka with roots meaning "to burn": (Polish: gorzałka; Ukrainian: горілка, horilka; Belarusian: гарэлка, harelka; Lithuanian: degtinė).
             The second half of the 1970s witnessed two massive attacks on the priority and rights of the Soviet Union to market liquors named "vodka".
             The first assault was along the lines that the Russian Revolution "discontinued" Russia's trademark for vodka, which was "naturally" transferred to emigrated manufacturers of vodka, Smirnoff in particular, because of prohibition by Soviets, so that officially the Soviet Union started manufacturing vodka in 1923. 
@@ -1031,7 +1030,7 @@
             Cognac may not be sold to the public, or indeed called 'Cognac' until it has been aged for at least two years, counting from the end of the period of distillation (1 April following the year the grapes were harvested). 
             During the aging, a large percentage of the alcohol (and water) in the eaux-de-vie evaporates through the porous oak barrels. 
             This is termed locally the "part des anges", or angels' share, a phrase also used in Scotch Whisky production. 
-            A black fungus, Baudoinia compniacensis (Richon) JA Scott & Untereiner (= Torula compniacensis Richon), thrives on the alcoholic vapours and normally grows on the walls of the aging cellars. 
+            A black fungus, Baudoinia compniacensis (Richon) JA Scott and Untereiner (Torula compniacensis Richon), thrives on the alcoholic vapours and normally grows on the walls of the aging cellars. 
             The final product is diluted to 40 percent alcohol content (80 proof). 
             The age of the cognac is shown as that of the youngest eau-de-vie used in the blend. 
             The blend is usually of different ages and from different local areas. 
@@ -1159,15 +1158,5 @@
             Aquavit arguably complements beer better than many other spirits, and in a drinking situation, any quantity of aquavit is usually preceded (or succeeded) by a swig of beer. 
             Enthusiasts generally lament this practice, claiming that the beer will ruin the delicately balanced flavour and aftertaste.
         </mixing>
-    </cocktail>
-    
-    <cocktail name="">
-        <prime></prime>
-        <description></description>
-        <history></history>
-        <trivia></trivia>
-        <comments></comments>
-        <ingredients></ingredients>
-        <mixing></mixing>
     </cocktail>
 </data>

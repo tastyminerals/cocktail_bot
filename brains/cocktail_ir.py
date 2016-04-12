@@ -144,6 +144,8 @@ def wordnet_sim(query, db):
                 continue
             text_nopunct = text.lower().translate(transnone)
             text = [sst.stem(t) for t in text_nopunct.split() if t not in stop]
+            if len(text) == 0:
+                text += ' '
             # here we can finetune the block score multiplicators
             # some blocks are more important than the others
             if block == 'description':

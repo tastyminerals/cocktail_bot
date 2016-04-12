@@ -1,1012 +1,1119 @@
-Long Island Iced Tea	restaur	0.058823529411764705
-Long Island Iced Tea	substitut	0.058823529411764705
-Long Island Iced Tea	brandi	0.058823529411764705
-Long Island Iced Tea	tequila	0.17647058823529413
-Long Island Iced Tea	variant	0.23529411764705882
-Long Island Iced Tea	drink	0.5882352941176471
-Long Island Iced Tea	altern	0.058823529411764705
-Long Island Iced Tea	name	0.11764705882352941
-Long Island Iced Tea	texa	0.058823529411764705
-Long Island Iced Tea	ice	0.7058823529411765
-Long Island Iced Tea	tea	1.0
-Long Island Iced Tea	georgia	0.058823529411764705
-Long Island Iced Tea	ice	0.7058823529411765
-Long Island Iced Tea	tea	1.0
-Long Island Iced Tea	tokyo	0.058823529411764705
-Long Island Iced Tea	tea	1.0
-Long Island Iced Tea	three	0.058823529411764705
-Long Island Iced Tea	mile	0.058823529411764705
-Long Island Iced Tea	island	0.47058823529411764
-Long Island Iced Tea	adio	0.058823529411764705
-Long Island Iced Tea	mother	0.058823529411764705
-Long Island Iced Tea	fucker	0.058823529411764705
-Long Island Iced Tea	drink	0.5882352941176471
-Long Island Iced Tea	much	0.058823529411764705
-Long Island Iced Tea	higher	0.058823529411764705
-Long Island Iced Tea	alcohol	0.23529411764705882
-Long Island Iced Tea	concentr	0.058823529411764705
-Long Island Iced Tea	approxim	0.058823529411764705
-Long Island Iced Tea	22	0.058823529411764705
-Long Island Iced Tea	percent	0.058823529411764705
-Long Island Iced Tea	highbal	0.058823529411764705
-Long Island Iced Tea	drink	0.5882352941176471
-Long Island Iced Tea	due	0.058823529411764705
-Long Island Iced Tea	relat	0.11764705882352941
-Long Island Iced Tea	small	0.11764705882352941
-Long Island Iced Tea	amount	0.11764705882352941
-Long Island Iced Tea	mixer	0.11764705882352941
-Long Island Iced Tea	long	0.47058823529411764
-Long Island Iced Tea	island	0.47058823529411764
-Long Island Iced Tea	order	0.058823529411764705
-Long Island Iced Tea	extra	0.058823529411764705
-Long Island Iced Tea	long	0.47058823529411764
-Long Island Iced Tea	increas	0.058823529411764705
-Long Island Iced Tea	alcohol	0.23529411764705882
-Long Island Iced Tea	mixer	0.11764705882352941
-Long Island Iced Tea	ratio	0.058823529411764705
-Long Island Iced Tea	long	0.47058823529411764
-Long Island Iced Tea	island	0.47058823529411764
-Long Island Iced Tea	ice	0.7058823529411765
-Long Island Iced Tea	tea	1.0
-Long Island Iced Tea	contain	0.058823529411764705
-Long Island Iced Tea	twoounc	0.058823529411764705
-Long Island Iced Tea	mix	0.4117647058823529
-Long Island Iced Tea	spirit	0.058823529411764705
-Long Island Iced Tea	make	0.11764705882352941
-Long Island Iced Tea	relat	0.11764705882352941
-Long Island Iced Tea	potent	0.058823529411764705
-Long Island Iced Tea	drink	0.5882352941176471
-Long Island Iced Tea	although	0.058823529411764705
-Long Island Iced Tea	halfounc	0.058823529411764705
-Long Island Iced Tea	liquor	0.11764705882352941
-Long Island Iced Tea	portion	0.058823529411764705
-Long Island Iced Tea	may	0.058823529411764705
-Long Island Iced Tea	seem	0.058823529411764705
-Long Island Iced Tea	small	0.11764705882352941
-Long Island Iced Tea	signific	0.058823529411764705
-Long Island Iced Tea	cumul	0.058823529411764705
-Long Island Iced Tea	affect	0.058823529411764705
-Long Island Iced Tea	stealth	0.058823529411764705
-Long Island Iced Tea	drink	0.5882352941176471
-Long Island Iced Tea	goe	0.058823529411764705
-Long Island Iced Tea	easi	0.058823529411764705
-Long Island Iced Tea	high	0.058823529411764705
-Long Island Iced Tea	alcohol	0.23529411764705882
-Long Island Iced Tea	content	0.058823529411764705
-Long Island Iced Tea	sneak	0.058823529411764705
-Long Island Iced Tea	also	0.17647058823529413
-Long Island Iced Tea	great	0.058823529411764705
-Long Island Iced Tea	premix	0.058823529411764705
-Long Island Iced Tea	make	0.11764705882352941
-Long Island Iced Tea	pitcher	0.058823529411764705
-Long Island Iced Tea	serv	0.17647058823529413
-Long Island Iced Tea	parti	0.058823529411764705
-Long Island Iced Tea	summertim	0.058823529411764705
-Long Island Iced Tea	ideal	0.058823529411764705
-Long Island Iced Tea	time	0.058823529411764705
-Long Island Iced Tea	serv	0.17647058823529413
-Long Island Iced Tea	long	0.47058823529411764
-Long Island Iced Tea	island	0.47058823529411764
-Long Island Iced Tea	ice	0.7058823529411765
-Long Island Iced Tea	tea	1.0
-Long Island Iced Tea	tast	0.35294117647058826
-Long Island Iced Tea	reminisc	0.058823529411764705
-Long Island Iced Tea	ice	0.7058823529411765
-Long Island Iced Tea	tea	1.0
-Long Island Iced Tea	even	0.058823529411764705
-Long Island Iced Tea	though	0.058823529411764705
-Long Island Iced Tea	there	0.058823529411764705
-Long Island Iced Tea	tea	1.0
-Long Island Iced Tea	drink	0.5882352941176471
-Long Island Iced Tea	also	0.17647058823529413
-Long Island Iced Tea	share	0.058823529411764705
-Long Island Iced Tea	similar	0.058823529411764705
-Long Island Iced Tea	tast	0.35294117647058826
-Long Island Iced Tea	tea	1.0
-Long Island Iced Tea	think	0.058823529411764705
-Long Island Iced Tea	tast	0.35294117647058826
-Long Island Iced Tea	like	0.23529411764705882
-Long Island Iced Tea	artifici	0.058823529411764705
-Long Island Iced Tea	sweeten	0.058823529411764705
-Long Island Iced Tea	tea	1.0
-Long Island Iced Tea	beverag	0.058823529411764705
-Long Island Iced Tea	ie	0.058823529411764705
-Long Island Iced Tea	nestea	0.058823529411764705
-Long Island Iced Tea	someth	0.058823529411764705
-Long Island Iced Tea	like	0.23529411764705882
-Long Island Iced Tea	tast	0.35294117647058826
-Long Island Iced Tea	like	0.23529411764705882
-Long Island Iced Tea	sweet	0.058823529411764705
-Long Island Iced Tea	ice	0.7058823529411765
-Long Island Iced Tea	tea	1.0
-Long Island Iced Tea	made	0.11764705882352941
-Long Island Iced Tea	mix	0.4117647058823529
-Long Island Iced Tea	serv	0.17647058823529413
-Long Island Iced Tea	cheap	0.058823529411764705
-Long Island Iced Tea	bar	0.058823529411764705
-Long Island Iced Tea	diner	0.058823529411764705
-Long Island Iced Tea	tast	0.35294117647058826
-Long Island Iced Tea	like	0.23529411764705882
-Long Island Iced Tea	nonalcohol	0.058823529411764705
-Long Island Iced Tea	ice	0.7058823529411765
-Long Island Iced Tea	tea	1.0
-Long Island Iced Tea	long	0.47058823529411764
-Long Island Iced Tea	island	0.47058823529411764
-Long Island Iced Tea	ice	0.7058823529411765
-Long Island Iced Tea	tea	1.0
-Long Island Iced Tea	type	0.058823529411764705
-Long Island Iced Tea	alcohol	0.23529411764705882
-Long Island Iced Tea	mix	0.4117647058823529
-Long Island Iced Tea	drink	0.5882352941176471
-Long Island Iced Tea	typic	0.058823529411764705
-Long Island Iced Tea	made	0.11764705882352941
-Long Island Iced Tea	among	0.058823529411764705
-Long Island Iced Tea	ingredi	0.058823529411764705
-Long Island Iced Tea	tequila	0.17647058823529413
-Long Island Iced Tea	vodka	0.11764705882352941
-Long Island Iced Tea	light	0.058823529411764705
-Long Island Iced Tea	rum	0.11764705882352941
-Long Island Iced Tea	tripl	0.23529411764705882
-Long Island Iced Tea	sec	0.23529411764705882
-Long Island Iced Tea	gin	0.11764705882352941
-Long Island Iced Tea	name	0.11764705882352941
-Long Island Iced Tea	resembl	0.058823529411764705
-Long Island Iced Tea	color	0.058823529411764705
-Long Island Iced Tea	tast	0.35294117647058826
-Long Island Iced Tea	ice	0.7058823529411765
-Long Island Iced Tea	tea	1.0
-Long Island Iced Tea	popular	0.058823529411764705
-Long Island Iced Tea	version	0.058823529411764705
-Long Island Iced Tea	mix	0.4117647058823529
-Long Island Iced Tea	equal	0.11764705882352941
-Long Island Iced Tea	part	0.17647058823529413
-Long Island Iced Tea	vodka	0.11764705882352941
-Long Island Iced Tea	gin	0.11764705882352941
-Long Island Iced Tea	tequila	0.17647058823529413
-Long Island Iced Tea	rum	0.11764705882352941
-Long Island Iced Tea	tripl	0.23529411764705882
-Long Island Iced Tea	sec	0.23529411764705882
-Long Island Iced Tea	15	0.058823529411764705
-Long Island Iced Tea	part	0.17647058823529413
-Long Island Iced Tea	sour	0.11764705882352941
-Long Island Iced Tea	mix	0.4117647058823529
-Long Island Iced Tea	splash	0.058823529411764705
-Long Island Iced Tea	cola	0.17647058823529413
-Long Island Iced Tea	give	0.058823529411764705
-Long Island Iced Tea	drink	0.5882352941176471
-Long Island Iced Tea	amber	0.058823529411764705
-Long Island Iced Tea	hue	0.058823529411764705
-Long Island Iced Tea	namesak	0.058823529411764705
-Long Island Iced Tea	variant	0.23529411764705882
-Long Island Iced Tea	use	0.058823529411764705
-Long Island Iced Tea	equal	0.11764705882352941
-Long Island Iced Tea	part	0.17647058823529413
-Long Island Iced Tea	main	0.058823529411764705
-Long Island Iced Tea	liquor	0.11764705882352941
-Long Island Iced Tea	includ	0.17647058823529413
-Long Island Iced Tea	smaller	0.058823529411764705
-Long Island Iced Tea	amount	0.11764705882352941
-Long Island Iced Tea	tripl	0.23529411764705882
-Long Island Iced Tea	sec	0.23529411764705882
-Long Island Iced Tea	orangeflavor	0.058823529411764705
-Long Island Iced Tea	liqueur	0.058823529411764705
-Long Island Iced Tea	close	0.058823529411764705
-Long Island Iced Tea	variant	0.23529411764705882
-Long Island Iced Tea	often	0.058823529411764705
-Long Island Iced Tea	replac	0.11764705882352941
-Long Island Iced Tea	sour	0.11764705882352941
-Long Island Iced Tea	mix	0.4117647058823529
-Long Island Iced Tea	lemon	0.058823529411764705
-Long Island Iced Tea	juic	0.058823529411764705
-Long Island Iced Tea	replac	0.11764705882352941
-Long Island Iced Tea	cola	0.17647058823529413
-Long Island Iced Tea	diet	0.058823529411764705
-Long Island Iced Tea	cola	0.17647058823529413
-Long Island Iced Tea	actual	0.058823529411764705
-Long Island Iced Tea	ice	0.7058823529411765
-Long Island Iced Tea	tea	1.0
-Long Island Iced Tea	add	0.058823529411764705
-Long Island Iced Tea	white	0.058823529411764705
-Long Island Iced Tea	crème	0.058823529411764705
-Long Island Iced Tea	de	0.058823529411764705
-Long Island Iced Tea	menth	0.058823529411764705
-Long Island Iced Tea	howev	0.11764705882352941
-Long Island Iced Tea	variant	0.23529411764705882
-Long Island Iced Tea	includ	0.17647058823529413
-Long Island Iced Tea	tea	1.0
-Long Island Iced Tea	disput	0.058823529411764705
-Long Island Iced Tea	origin	0.17647058823529413
-Long Island Iced Tea	long	0.47058823529411764
-Long Island Iced Tea	island	0.47058823529411764
-Long Island Iced Tea	ice	0.7058823529411765
-Long Island Iced Tea	tea	1.0
-Long Island Iced Tea	howev	0.11764705882352941
-Long Island Iced Tea	numer	0.058823529411764705
-Long Island Iced Tea	sourc	0.058823529411764705
-Long Island Iced Tea	attribut	0.058823529411764705
-Long Island Iced Tea	origin	0.17647058823529413
-Long Island Iced Tea	one	0.058823529411764705
-Long Island Iced Tea	two	0.058823529411764705
-Long Island Iced Tea	inventor	0.058823529411764705
-Long Island Iced Tea	1920s	0.058823529411764705
-Long Island Iced Tea	1970s	0.058823529411764705
-Long Island Iced Tea	long	0.47058823529411764
-Long Island Iced Tea	island	0.47058823529411764
-Long Island Iced Tea	ice	0.7058823529411765
-Long Island Iced Tea	tea	1.0
-Long Island Iced Tea	appear	0.058823529411764705
-Long Island Iced Tea	literatur	0.058823529411764705
-Long Island Iced Tea	earli	0.058823529411764705
-Long Island Iced Tea	1961	0.058823529411764705
-Long Island Iced Tea	robert	0.058823529411764705
-Long Island Iced Tea	rosebud	0.058823529411764705
-Long Island Iced Tea	butt	0.17647058823529413
-Long Island Iced Tea	claim	0.11764705882352941
-Long Island Iced Tea	invent	0.058823529411764705
-Long Island Iced Tea	drink	0.5882352941176471
-Long Island Iced Tea	entri	0.058823529411764705
-Long Island Iced Tea	contest	0.058823529411764705
-Long Island Iced Tea	creat	0.058823529411764705
-Long Island Iced Tea	new	0.11764705882352941
-Long Island Iced Tea	mix	0.4117647058823529
-Long Island Iced Tea	drink	0.5882352941176471
-Long Island Iced Tea	includ	0.17647058823529413
-Long Island Iced Tea	tripl	0.23529411764705882
-Long Island Iced Tea	sec	0.23529411764705882
-Long Island Iced Tea	1972	0.058823529411764705
-Long Island Iced Tea	work	0.058823529411764705
-Long Island Iced Tea	oak	0.11764705882352941
-Long Island Iced Tea	beach	0.11764705882352941
-Long Island Iced Tea	inn	0.11764705882352941
-Long Island Iced Tea	long	0.47058823529411764
-Long Island Iced Tea	island	0.47058823529411764
-Long Island Iced Tea	ny	0.058823529411764705
-Long Island Iced Tea	various	0.058823529411764705
-Long Island Iced Tea	local	0.11764705882352941
-Long Island Iced Tea	new	0.11764705882352941
-Long Island Iced Tea	york	0.058823529411764705
-Long Island Iced Tea	refer	0.058823529411764705
-Long Island Iced Tea	echo	0.058823529411764705
-Long Island Iced Tea	butt	0.17647058823529413
-Long Island Iced Tea	claim	0.11764705882352941
-Long Island Iced Tea	local	0.11764705882352941
-Long Island Iced Tea	rumor	0.058823529411764705
-Long Island Iced Tea	also	0.17647058823529413
-Long Island Iced Tea	ascrib	0.058823529411764705
-Long Island Iced Tea	origin	0.17647058823529413
-Long Island Iced Tea	either	0.058823529411764705
-Long Island Iced Tea	butt	0.17647058823529413
-Long Island Iced Tea	anoth	0.058823529411764705
-Long Island Iced Tea	bartend	0.058823529411764705
-Long Island Iced Tea	oak	0.11764705882352941
-Long Island Iced Tea	beach	0.11764705882352941
-Long Island Iced Tea	inn	0.11764705882352941
-Long Island Iced Tea	chris	0.058823529411764705
-Long Island Iced Tea	bendicksen	0.058823529411764705
-Margarita	know	0.0625
-Margarita	jimmi	0.0625
-Margarita	buffett	0.0625
-Margarita	song	0.0625
-Margarita	margaritavill	0.0625
-Margarita	import	0.0625
-Margarita	ingredi	0.0625
-Margarita	drink	0.4375
-Margarita	tequila	0.3125
-Margarita	want	0.0625
-Margarita	use	0.0625
-Margarita	someth	0.125
-Margarita	decent	0.125
-Margarita	over	0.0625
-Margarita	fanci	0.0625
-Margarita	cocktail	0.4375
-Margarita	consist	0.125
-Margarita	tequila	0.3125
-Margarita	tripl	0.125
-Margarita	sec	0.125
-Margarita	cointreau	0.0625
-Margarita	lime	0.5
-Margarita	lemon	0.125
-Margarita	juic	0.1875
-Margarita	often	0.125
-Margarita	serv	0.375
-Margarita	salt	0.125
-Margarita	rim	0.125
-Margarita	glass	0.4375
-Margarita	one	0.375
-Margarita	thing	0.0625
-Margarita	clear	0.0625
-Margarita	margarita	1.0
-Margarita	basic	0.0625
-Margarita	sour	0.375
-Margarita	like	0.1875
-Margarita	whiskey	0.0625
-Margarita	sour	0.375
-Margarita	sidecar	0.0625
-Margarita	classic	0.125
-Margarita	daiquiri	0.0625
-Margarita	drink	0.4375
-Margarita	made	0.125
-Margarita	liquor	0.0625
-Margarita	citrus	0.125
-Margarita	lemon	0.125
-Margarita	lime	0.5
-Margarita	someth	0.125
-Margarita	sweet	0.25
-Margarita	temper	0.0625
-Margarita	sour	0.375
-Margarita	citrus	0.125
-Margarita	simpl	0.125
-Margarita	syrup	0.0625
-Margarita	tripl	0.125
-Margarita	sec	0.125
-Margarita	find	0.125
-Margarita	work	0.0625
-Margarita	better	0.125
-Margarita	lime	0.5
-Margarita	tart	0.0625
-Margarita	give	0.125
-Margarita	smooth	0.0625
-Margarita	margarita	1.0
-Margarita	simplest	0.0625
-Margarita	exampl	0.0625
-Margarita	balanc	0.1875
-Margarita	sweet	0.25
-Margarita	sour	0.375
-Margarita	sinc	0.0625
-Margarita	well	0.0625
-Margarita	known	0.0625
-Margarita	simpl	0.125
-Margarita	cocktail	0.4375
-Margarita	youd	0.0625
-Margarita	think	0.0625
-Margarita	get	0.125
-Margarita	decent	0.125
-Margarita	margarita	1.0
-Margarita	would	0.0625
-Margarita	easi	0.0625
-Margarita	margarita	1.0
-Margarita	recip	0.1875
-Margarita	one	0.375
-Margarita	easier	0.0625
-Margarita	cocktail	0.4375
-Margarita	recip	0.1875
-Margarita	consid	0.0625
-Margarita	base	0.0625
-Margarita	cocktail	0.4375
-Margarita	tradit	0.1875
-Margarita	margarita	1.0
-Margarita	serv	0.375
-Margarita	ice	0.3125
-Margarita	salti	0.1875
-Margarita	rim	0.125
-Margarita	peopl	0.0625
-Margarita	like	0.1875
-Margarita	frozen	0.125
-Margarita	give	0.125
-Margarita	slight	0.125
-Margarita	sweeter	0.0625
-Margarita	less	0.0625
-Margarita	potent	0.0625
-Margarita	tast	0.25
-Margarita	sweet	0.25
-Margarita	tangi	0.0625
-Margarita	tradit	0.1875
-Margarita	margarita	1.0
-Margarita	made	0.125
-Margarita	lime	0.5
-Margarita	juic	0.1875
-Margarita	sweeten	0.0625
-Margarita	often	0.125
-Margarita	sour	0.375
-Margarita	mix	0.125
-Margarita	tequila	0.3125
-Margarita	alcohol	0.0625
-Margarita	strong	0.0625
-Margarita	tast	0.25
-Margarita	salti	0.1875
-Margarita	super	0.0625
-Margarita	yummi	0.0625
-Margarita	one	0.375
-Margarita	properti	0.0625
-Margarita	crystallin	0.0625
-Margarita	fructos	0.125
-Margarita	caus	0.0625
-Margarita	cool	0.0625
-Margarita	sensat	0.0625
-Margarita	tongu	0.0625
-Margarita	crystal	0.0625
-Margarita	melt	0.0625
-Margarita	fresh	0.0625
-Margarita	squeez	0.0625
-Margarita	lime	0.5
-Margarita	juic	0.1875
-Margarita	must	0.0625
-Margarita	period	0.0625
-Margarita	end	0.0625
-Margarita	stori	0.1875
-Margarita	unless	0.0625
-Margarita	commit	0.0625
-Margarita	youll	0.0625
-Margarita	never	0.0625
-Margarita	abl	0.0625
-Margarita	produc	0.0625
-Margarita	truli	0.0625
-Margarita	great	0.0625
-Margarita	margarita	1.0
-Margarita	margarita	1.0
-Margarita	balanc	0.1875
-Margarita	tast	0.25
-Margarita	like	0.1875
-Margarita	salt	0.125
-Margarita	lick	0.0625
-Margarita	found	0.0625
-Margarita	farm	0.0625
-Margarita	still	0.0625
-Margarita	find	0.125
-Margarita	salti	0.1875
-Margarita	tri	0.125
-Margarita	mix	0.125
-Margarita	bit	0.0625
-Margarita	sugar	0.0625
-Margarita	better	0.125
-Margarita	yet	0.0625
-Margarita	fructos	0.125
-Margarita	anoth	0.0625
-Margarita	level	0.0625
-Margarita	refresh	0.125
-Margarita	margarita	1.0
-Margarita	get	0.125
-Margarita	lot	0.0625
-Margarita	love	0.0625
-Margarita	us	0.0625
-Margarita	part	0.1875
-Margarita	that	0.0625
-Margarita	slight	0.125
-Margarita	sour	0.375
-Margarita	wonder	0.0625
-Margarita	refresh	0.125
-Margarita	lime	0.5
-Margarita	tast	0.25
-Margarita	part	0.1875
-Margarita	drink	0.4375
-Margarita	becom	0.125
-Margarita	synonym	0.0625
-Margarita	carefre	0.0625
-Margarita	easygo	0.0625
-Margarita	lifestyl	0.0625
-Margarita	drink	0.4375
-Margarita	serv	0.375
-Margarita	shaken	0.125
-Margarita	ice	0.3125
-Margarita	rock	0.0625
-Margarita	blend	0.0625
-Margarita	ice	0.3125
-Margarita	frozen	0.125
-Margarita	margarita	1.0
-Margarita	without	0.0625
-Margarita	ice	0.3125
-Margarita	straight	0.0625
-Margarita	although	0.0625
-Margarita	becom	0.125
-Margarita	accept	0.125
-Margarita	serv	0.375
-Margarita	margarita	1.0
-Margarita	wide	0.0625
-Margarita	varieti	0.0625
-Margarita	glass	0.4375
-Margarita	type	0.0625
-Margarita	rang	0.0625
-Margarita	cocktail	0.4375
-Margarita	wine	0.0625
-Margarita	glass	0.4375
-Margarita	pint	0.0625
-Margarita	glass	0.4375
-Margarita	even	0.0625
-Margarita	larg	0.0625
-Margarita	schooner	0.0625
-Margarita	drink	0.4375
-Margarita	tradit	0.1875
-Margarita	serv	0.375
-Margarita	eponym	0.0625
-Margarita	margarita	1.0
-Margarita	glass	0.4375
-Margarita	steppeddiamet	0.0625
-Margarita	variant	0.0625
-Margarita	cocktail	0.4375
-Margarita	glass	0.4375
-Margarita	champagn	0.0625
-Margarita	coup	0.0625
-Margarita	somewhat	0.0625
-Margarita	resembl	0.0625
-Margarita	invert	0.0625
-Margarita	sombrero	0.0625
-Margarita	one	0.375
-Margarita	earliest	0.0625
-Margarita	stori	0.1875
-Margarita	margarita	1.0
-Margarita	invent	0.125
-Margarita	1938	0.0625
-Margarita	carlo	0.25
-Margarita	danni	0.0625
-Margarita	herrera	0.0625
-Margarita	restaur	0.0625
-Margarita	rancho	0.0625
-Margarita	la	0.0625
-Margarita	gloria	0.0625
-Margarita	halfway	0.0625
-Margarita	tijuana	0.0625
-Margarita	rosarito	0.0625
-Margarita	mexico	0.125
-Margarita	creat	0.0625
-Margarita	custom	0.0625
-Margarita	former	0.0625
-Margarita	ziegfeld	0.0625
-Margarita	dancer	0.0625
-Margarita	marjori	0.0625
-Margarita	king	0.0625
-Margarita	allerg	0.0625
-Margarita	mani	0.0625
-Margarita	spirit	0.0625
-Margarita	tequila	0.3125
-Margarita	common	0.0625
-Margarita	accept	0.125
-Margarita	origin	0.0625
-Margarita	stori	0.1875
-Margarita	margarita	1.0
-Margarita	invent	0.125
-Margarita	octob	0.0625
-Margarita	1941	0.0625
-Margarita	hussong	0.0625
-Margarita	cantina	0.125
-Margarita	ensenada	0.0625
-Margarita	mexico	0.125
-Margarita	bartend	0.0625
-Margarita	carlo	0.25
-Margarita	orozco	0.0625
-Margarita	one	0.375
-Margarita	afternoon	0.0625
-Margarita	margarita	1.0
-Margarita	henkel	0.0625
-Margarita	daughter	0.0625
-Margarita	german	0.0625
-Margarita	ambassador	0.0625
-Margarita	visit	0.0625
-Margarita	cantina	0.125
-Margarita	carlo	0.25
-Margarita	experi	0.0625
-Margarita	drink	0.4375
-Margarita	offer	0.0625
-Margarita	one	0.375
-Margarita	cocktail	0.4375
-Margarita	consist	0.125
-Margarita	equal	0.0625
-Margarita	part	0.1875
-Margarita	tequila	0.3125
-Margarita	mexican	0.0625
-Margarita	orang	0.0625
-Margarita	liqueur	0.0625
-Margarita	call	0.0625
-Margarita	controy	0.0625
-Margarita	aka	0.0625
-Margarita	naranja	0.0625
-Margarita	unit	0.0625
-Margarita	state	0.0625
-Margarita	lime	0.5
-Margarita	shaken	0.125
-Margarita	serv	0.375
-Margarita	ice	0.3125
-Margarita	saltrim	0.0625
-Margarita	glass	0.4375
-Margarita	first	0.0625
-Margarita	tri	0.125
-Margarita	drink	0.4375
-Margarita	carlo	0.25
-Margarita	decid	0.0625
-Margarita	name	0.0625
-Margarita	margarita	1.0
-Margarita	born	0.0625
-Margarita	littl	0.0625
-Margarita	addit	0.0625
-Margarita	sweet	0.25
-Margarita	help	0.0625
-Margarita	balanc	0.1875
-Margarita	recip	0.1875
-Margarita	bridg	0.0625
-Margarita	gap	0.0625
-Margarita	classic	0.125
-Margarita	lime	0.5
-Margarita	slushi	0.0625
-Mai Tai	imposs	0.09090909090909091
-Mai Tai	duplic	0.09090909090909091
-Mai Tai	trader	0.18181818181818182
-Mai Tai	vic	0.18181818181818182
-Mai Tai	origin	0.09090909090909091
-Mai Tai	mai	1.0
-Mai Tai	tai	1.0
-Mai Tai	use	0.09090909090909091
-Mai Tai	17yearold	0.09090909090909091
-Mai Tai	wray	0.09090909090909091
-Mai Tai	nephew	0.09090909090909091
-Mai Tai	rum	0.36363636363636365
-Mai Tai	longer	0.09090909090909091
-Mai Tai	avail	0.09090909090909091
-Mai Tai	mai	1.0
-Mai Tai	tai	1.0
-Mai Tai	also	0.2727272727272727
-Mai Tai	promin	0.09090909090909091
-Mai Tai	featur	0.09090909090909091
-Mai Tai	elvi	0.09090909090909091
-Mai Tai	presley	0.09090909090909091
-Mai Tai	film	0.09090909090909091
-Mai Tai	blue	0.09090909090909091
-Mai Tai	hawaii	0.09090909090909091
-Mai Tai	today	0.09090909090909091
-Mai Tai	mai	1.0
-Mai Tai	tai	1.0
-Mai Tai	synonym	0.09090909090909091
-Mai Tai	tiki	0.18181818181818182
-Mai Tai	cultur	0.09090909090909091
-Mai Tai	past	0.09090909090909091
-Mai Tai	present	0.09090909090909091
-Mai Tai	richard	0.09090909090909091
-Mai Tai	m	0.09090909090909091
-Mai Tai	nixon	0.09090909090909091
-Mai Tai	also	0.2727272727272727
-Mai Tai	hit	0.09090909090909091
-Mai Tai	high	0.09090909090909091
-Mai Tai	point	0.09090909090909091
-Mai Tai	1950s	0.09090909090909091
-Mai Tai	60s	0.09090909090909091
-Mai Tai	disappear	0.09090909090909091
-Mai Tai	speak	0.18181818181818182
-Mai Tai	70s	0.09090909090909091
-Mai Tai	fit	0.09090909090909091
-Mai Tai	mai	1.0
-Mai Tai	tai	1.0
-Mai Tai	favorit	0.09090909090909091
-Mai Tai	cocktail	0.5454545454545454
-Mai Tai	umbrella	0.2727272727272727
-Mai Tai	option	0.09090909090909091
-Mai Tai	cocktail	0.5454545454545454
-Mai Tai	straw	0.18181818181818182
-Mai Tai	make	0.09090909090909091
-Mai Tai	enjoy	0.09090909090909091
-Mai Tai	higher	0.09090909090909091
-Mai Tai	qualiti	0.18181818181818182
-Mai Tai	rum	0.36363636363636365
-Mai Tai	better	0.09090909090909091
-Mai Tai	drink	0.8181818181818182
-Mai Tai	tast	0.09090909090909091
-Mai Tai	jamaican	0.09090909090909091
-Mai Tai	rum	0.36363636363636365
-Mai Tai	ideal	0.09090909090909091
-Mai Tai	mai	1.0
-Mai Tai	tai	1.0
-Mai Tai	mai	1.0
-Mai Tai	tai	1.0
-Mai Tai	requir	0.09090909090909091
-Mai Tai	orgeat	0.09090909090909091
-Mai Tai	syrup	0.18181818181818182
-Mai Tai	sweet	0.09090909090909091
-Mai Tai	syrup	0.18181818181818182
-Mai Tai	flavor	0.09090909090909091
-Mai Tai	almond	0.09090909090909091
-Mai Tai	orang	0.09090909090909091
-Mai Tai	rose	0.09090909090909091
-Mai Tai	water	0.09090909090909091
-Mai Tai	world	0.18181818181818182
-Mai Tai	best	0.09090909090909091
-Mai Tai	umbrella	0.2727272727272727
-Mai Tai	drink	0.8181818181818182
-Mai Tai	speak	0.18181818181818182
-Mai Tai	straw	0.18181818181818182
-Mai Tai	that	0.09090909090909091
-Mai Tai	one	0.36363636363636365
-Mai Tai	garnish	0.18181818181818182
-Mai Tai	think	0.09090909090909091
-Mai Tai	necessari	0.09090909090909091
-Mai Tai	drink	0.8181818181818182
-Mai Tai	common	0.09090909090909091
-Mai Tai	garnish	0.18181818181818182
-Mai Tai	mai	1.0
-Mai Tai	tai	1.0
-Mai Tai	includ	0.09090909090909091
-Mai Tai	lime	0.2727272727272727
-Mai Tai	wedg	0.18181818181818182
-Mai Tai	empti	0.09090909090909091
-Mai Tai	lime	0.2727272727272727
-Mai Tai	shell	0.09090909090909091
-Mai Tai	half	0.09090909090909091
-Mai Tai	chuck	0.09090909090909091
-Mai Tai	glass	0.09090909090909091
-Mai Tai	nice	0.09090909090909091
-Mai Tai	spot	0.09090909090909091
-Mai Tai	color	0.09090909090909091
-Mai Tai	pineappl	0.09090909090909091
-Mai Tai	wedg	0.18181818181818182
-Mai Tai	maraschino	0.09090909090909091
-Mai Tai	cherri	0.09090909090909091
-Mai Tai	mint	0.09090909090909091
-Mai Tai	sprig	0.09090909090909091
-Mai Tai	cours	0.09090909090909091
-Mai Tai	umbrella	0.2727272727272727
-Mai Tai	happen	0.09090909090909091
-Mai Tai	tiki	0.18181818181818182
-Mai Tai	mug	0.09090909090909091
-Mai Tai	lurk	0.09090909090909091
-Mai Tai	somewher	0.18181818181818182
-Mai Tai	cupboard	0.09090909090909091
-Mai Tai	well	0.18181818181818182
-Mai Tai	haul	0.09090909090909091
-Mai Tai	serv	0.09090909090909091
-Mai Tai	drink	0.8181818181818182
-Mai Tai	cowabunga	0.09090909090909091
-Mai Tai	dude	0.09090909090909091
-Mai Tai	mai	1.0
-Mai Tai	tai	1.0
-Mai Tai	alcohol	0.09090909090909091
-Mai Tai	cocktail	0.5454545454545454
-Mai Tai	base	0.09090909090909091
-Mai Tai	rum	0.36363636363636365
-Mai Tai	curacao	0.09090909090909091
-Mai Tai	liqueur	0.09090909090909091
-Mai Tai	lime	0.2727272727272727
-Mai Tai	juic	0.09090909090909091
-Mai Tai	associ	0.09090909090909091
-Mai Tai	polynesianstyl	0.09090909090909091
-Mai Tai	set	0.09090909090909091
-Mai Tai	mai	1.0
-Mai Tai	tai	1.0
-Mai Tai	perfect	0.09090909090909091
-Mai Tai	summer	0.09090909090909091
-Mai Tai	cocktail	0.5454545454545454
-Mai Tai	sultri	0.09090909090909091
-Mai Tai	yet	0.09090909090909091
-Mai Tai	cool	0.09090909090909091
-Mai Tai	refresh	0.09090909090909091
-Mai Tai	time	0.09090909090909091
-Mai Tai	lest	0.09090909090909091
-Mai Tai	harbor	0.09090909090909091
-Mai Tai	suspicion	0.09090909090909091
-Mai Tai	mai	1.0
-Mai Tai	tai	1.0
-Mai Tai	parasol	0.09090909090909091
-Mai Tai	persuas	0.09090909090909091
-Mai Tai	let	0.09090909090909091
-Mai Tai	hasten	0.09090909090909091
-Mai Tai	add	0.09090909090909091
-Mai Tai	arguabl	0.09090909090909091
-Mai Tai	one	0.36363636363636365
-Mai Tai	world	0.18181818181818182
-Mai Tai	top	0.09090909090909091
-Mai Tai	ten	0.09090909090909091
-Mai Tai	drink	0.8181818181818182
-Mai Tai	real	0.09090909090909091
-Mai Tai	mai	1.0
-Mai Tai	tai	1.0
-Mai Tai	contain	0.09090909090909091
-Mai Tai	ingredi	0.18181818181818182
-Mai Tai	ingredi	0.18181818181818182
-Mai Tai	qualiti	0.18181818181818182
-Mai Tai	import	0.18181818181818182
-Mai Tai	drink	0.8181818181818182
-Mai Tai	choos	0.09090909090909091
-Mai Tai	proper	0.09090909090909091
-Mai Tai	one	0.36363636363636365
-Mai Tai	import	0.18181818181818182
-Mai Tai	consider	0.09090909090909091
-Mai Tai	well	0.18181818181818182
-Mai Tai	discuss	0.09090909090909091
-Mai Tai	note	0.09090909090909091
-Mai Tai	said	0.09090909090909091
-Mai Tai	invent	0.18181818181818182
-Mai Tai	proprietor	0.09090909090909091
-Mai Tai	trader	0.18181818181818182
-Mai Tai	vic	0.18181818181818182
-Mai Tai	oakland	0.09090909090909091
-Mai Tai	california	0.18181818181818182
-Mai Tai	1944	0.09090909090909091
-Mai Tai	creat	0.09090909090909091
-Mai Tai	drink	0.8181818181818182
-Mai Tai	friend	0.09090909090909091
-Mai Tai	visit	0.09090909090909091
-Mai Tai	tahiti	0.09090909090909091
-Mai Tai	one	0.36363636363636365
-Mai Tai	exclaim	0.09090909090909091
-Mai Tai	drink	0.8181818181818182
-Mai Tai	maitai	0.09090909090909091
-Mai Tai	good	0.09090909090909091
-Mai Tai	tahitian	0.09090909090909091
-Mai Tai	name	0.09090909090909091
-Mai Tai	stuck	0.09090909090909091
-Mai Tai	rival	0.09090909090909091
-Mai Tai	restaur	0.09090909090909091
-Mai Tai	beachcomb	0.09090909090909091
-Mai Tai	also	0.2727272727272727
-Mai Tai	claim	0.09090909090909091
-Mai Tai	invent	0.18181818181818182
-Mai Tai	cocktail	0.5454545454545454
-Mai Tai	1933	0.09090909090909091
-Mai Tai	complex	0.09090909090909091
-Mai Tai	version	0.09090909090909091
-Mai Tai	drink	0.8181818181818182
-Mai Tai	truth	0.09090909090909091
-Mai Tai	probabl	0.09090909090909091
-Mai Tai	lie	0.09090909090909091
-Mai Tai	somewher	0.18181818181818182
-Mai Tai	california	0.18181818181818182
-Mai Tai	like	0.09090909090909091
-Mai Tai	birthplac	0.09090909090909091
-Mai Tai	popular	0.09090909090909091
-Mai Tai	cocktail	0.5454545454545454
-Screwdriver	screwdriv	0.6
-Screwdriver	popular	0.4
-Screwdriver	alcohol	0.2
-Screwdriver	highbal	0.2
-Screwdriver	drink	1.0
-Screwdriver	made	0.4
-Screwdriver	orang	1.0
-Screwdriver	juic	0.8
-Screwdriver	vodka	0.6
-Screwdriver	basic	0.2
-Screwdriver	drink	1.0
-Screwdriver	simpli	0.2
-Screwdriver	two	0.2
-Screwdriver	ingredi	0.2
-Screwdriver	mani	0.4
-Screwdriver	variat	0.4
-Screwdriver	common	0.2
-Screwdriver	one	0.8
-Screwdriver	made	0.4
-Screwdriver	one	0.8
-Screwdriver	part	0.8
-Screwdriver	vodka	0.6
-Screwdriver	one	0.8
-Screwdriver	part	0.8
-Screwdriver	kind	0.2
-Screwdriver	orang	1.0
-Screwdriver	soda	0.2
-Screwdriver	one	0.8
-Screwdriver	part	0.8
-Screwdriver	orang	1.0
-Screwdriver	juic	0.8
-Screwdriver	mani	0.4
-Screwdriver	variat	0.4
-Screwdriver	differ	0.4
-Screwdriver	name	0.2
-Screwdriver	differ	0.4
-Screwdriver	part	0.8
-Screwdriver	world	0.2
-Screwdriver	intern	0.4
-Screwdriver	bartend	0.2
-Screwdriver	associ	0.2
-Screwdriver	design	0.2
-Screwdriver	cocktail	0.4
-Screwdriver	iba	0.2
-Screwdriver	offici	0.2
-Screwdriver	cocktail	0.4
-Screwdriver	drink	1.0
-Screwdriver	appear	0.2
-Screwdriver	literatur	0.2
-Screwdriver	earli	0.2
-Screwdriver	1938	0.2
-Screwdriver	answer	0.2
-Screwdriver	famous	0.2
-Screwdriver	smirnoff	0.4
-Screwdriver	screwdriv	0.6
-Screwdriver	pour	0.2
-Screwdriver	jigger	0.2
-Screwdriver	smirnoff	0.4
-Screwdriver	vodka	0.6
-Screwdriver	ice	0.2
-Screwdriver	cube	0.2
-Screwdriver	fill	0.2
-Screwdriver	glass	0.2
-Screwdriver	orang	1.0
-Screwdriver	juic	0.8
-Screwdriver	serv	0.2
-Screwdriver	later	0.2
-Screwdriver	claim	0.2
-Screwdriver	drink	1.0
-Screwdriver	invent	0.2
-Screwdriver	american	0.4
-Screwdriver	aviat	0.2
-Screwdriver	screwdriv	0.6
-Screwdriver	half	0.2
-Screwdriver	orang	1.0
-Screwdriver	juic	0.8
-Screwdriver	halfvodka	0.2
-Screwdriver	drink	1.0
-Screwdriver	popular	0.4
-Screwdriver	intern	0.4
-Screwdriver	american	0.4
-Screwdriver	aviatorscost	0.2
-Screwdriver	dollar	0.2
-Screwdriver	includ	0.2
-Screwdriver	customari	0.2
-Screwdriver	barman	0.2
-Screwdriver	tip	0.2
-Californication	outdon	0.16666666666666666
-Californication	california	0.16666666666666666
-Californication	put	0.16666666666666666
-Californication	twist	0.3333333333333333
-Californication	long	0.3333333333333333
-Californication	island	0.3333333333333333
-Californication	ice	0.16666666666666666
-Californication	tea	0.16666666666666666
-Californication	creation	0.16666666666666666
-Californication	californ	0.6666666666666666
-Californication	golden	0.16666666666666666
-Californication	state	0.16666666666666666
-Californication	variat	0.16666666666666666
-Californication	popular	0.16666666666666666
-Californication	long	0.3333333333333333
-Californication	island	0.3333333333333333
-Californication	cocktail	0.5
-Californication	californ	0.6666666666666666
-Californication	mixtur	0.3333333333333333
-Californication	rum	0.16666666666666666
-Californication	vodka	0.16666666666666666
-Californication	tequila	0.16666666666666666
-Californication	gin	0.16666666666666666
-Californication	finish	0.3333333333333333
-Californication	orang	1.0
-Californication	liqueur	0.3333333333333333
-Californication	lemon	0.16666666666666666
-Californication	juic	0.5
-Californication	orang	1.0
-Californication	juic	0.5
-Californication	tast	0.16666666666666666
-Californication	strong	0.16666666666666666
-Californication	sweet	0.16666666666666666
-Californication	mix	0.16666666666666666
-Californication	drink	0.16666666666666666
-Californication	finish	0.3333333333333333
-Californication	either	0.16666666666666666
-Californication	piec	0.16666666666666666
-Californication	orang	1.0
-Californication	twist	0.3333333333333333
-Californication	peel	0.16666666666666666
-Californication	orang	1.0
-Californication	rind	0.16666666666666666
-Californication	californ	0.6666666666666666
-Californication	subtl	0.16666666666666666
-Californication	cocktail	0.5
-Californication	citrus	0.16666666666666666
-Californication	flavor	0.16666666666666666
-Californication	impart	0.16666666666666666
-Californication	orang	1.0
-Californication	liqueur	0.3333333333333333
-Californication	orang	1.0
-Californication	juic	0.5
-Californication	attempt	0.16666666666666666
-Californication	disguis	0.16666666666666666
-Californication	punch	0.16666666666666666
-Californication	pack	0.16666666666666666
-Californication	mixtur	0.3333333333333333
-Californication	spirit	0.16666666666666666
-Californication	name	0.3333333333333333
-Californication	cocktail	0.5
-Californication	californ	0.6666666666666666
-Californication	base	0.16666666666666666
-Californication	term	0.16666666666666666
-Californication	promin	0.16666666666666666
-Californication	lyric	0.16666666666666666
-Californication	song	0.16666666666666666
-Californication	rock	0.16666666666666666
-Californication	group	0.16666666666666666
-Californication	red	0.16666666666666666
-Californication	hot	0.16666666666666666
-Californication	chili	0.16666666666666666
-Californication	pepper	0.16666666666666666
-Californication	also	0.16666666666666666
-Californication	televis	0.16666666666666666
-Californication	seri	0.16666666666666666
-Californication	run	0.16666666666666666
-Californication	sinc	0.16666666666666666
-Californication	august	0.16666666666666666
-Californication	2007	0.16666666666666666
-Californication	name	0.3333333333333333
+Yorsh	russian	0.4
+Yorsh	yorsh	1.0
+Yorsh	blend	0.2
+Yorsh	vodka	1.0
+Yorsh	beer	1.0
+Yorsh	design	0.2
+Yorsh	make	0.2
+Yorsh	one	0.6
+Yorsh	hair	0.2
+Yorsh	stand	0.2
+Yorsh	end	0.2
+Yorsh	name	0.4
+Yorsh	fish	0.2
+Yorsh	protrud	0.2
+Yorsh	spine	0.2
+Yorsh	fin	0.2
+Yorsh	russia	0.2
+Yorsh	mix	1.0
+Yorsh	vodka	1.0
+Yorsh	anyth	0.2
+Yorsh	els	0.2
+Yorsh	consid	0.2
+Yorsh	wast	0.4
+Yorsh	unless	0.2
+Yorsh	mixer	0.2
+Yorsh	beer	1.0
+Yorsh	produc	0.2
+Yorsh	fearsom	0.2
+Yorsh	beverag	0.2
+Yorsh	known	0.4
+Yorsh	yorsh	1.0
+Yorsh	dedic	0.2
+Yorsh	drinker	0.2
+Yorsh	prepar	0.2
+Yorsh	fatal	0.2
+Yorsh	formula	0.2
+Yorsh	mix	1.0
+Yorsh	vodka	1.0
+Yorsh	beer	1.0
+Yorsh	acquiredtast	0.2
+Yorsh	mix	1.0
+Yorsh	call	0.2
+Yorsh	yorsh	1.0
+Yorsh	known	0.4
+Yorsh	send	0.2
+Yorsh	250	0.2
+Yorsh	pound	0.2
+Yorsh	soldier	0.2
+Yorsh	deep	0.2
+Yorsh	coma	0.2
+Yorsh	yorsh	1.0
+Yorsh	russian	0.4
+Yorsh	mix	1.0
+Yorsh	drink	0.4
+Yorsh	consist	0.2
+Yorsh	beer	1.0
+Yorsh	thorough	0.2
+Yorsh	mix	1.0
+Yorsh	ampl	0.2
+Yorsh	quantiti	0.2
+Yorsh	vodka	1.0
+Yorsh	tradit	0.2
+Yorsh	drunk	0.4
+Yorsh	social	0.2
+Yorsh	set	0.2
+Yorsh	typic	0.2
+Yorsh	toast	0.2
+Yorsh	follow	0.2
+Yorsh	down	0.2
+Yorsh	full	0.2
+Yorsh	glass	0.2
+Yorsh	one	0.6
+Yorsh	go	0.4
+Yorsh	vodka	1.0
+Yorsh	neutral	0.2
+Yorsh	spirit	0.2
+Yorsh	great	0.4
+Yorsh	alter	0.2
+Yorsh	flavor	0.2
+Yorsh	beer	1.0
+Yorsh	great	0.4
+Yorsh	increas	0.2
+Yorsh	alcohol	0.2
+Yorsh	content	0.2
+Yorsh	yorsh	1.0
+Yorsh	meant	0.2
+Yorsh	gulp	0.2
+Yorsh	one	0.6
+Yorsh	go	0.4
+Yorsh	sip	0.2
+Yorsh	want	0.2
+Yorsh	get	0.4
+Yorsh	drunk	0.4
+Yorsh	fast	0.4
+Yorsh	drink	0.4
+Yorsh	crazi	0.2
+Yorsh	thing	0.2
+Yorsh	plan	0.2
+Yorsh	get	0.4
+Yorsh	wast	0.4
+Yorsh	today	0.2
+Yorsh	cheapest	0.2
+Yorsh	cocktail	0.2
+Yorsh	date	0.2
+Yorsh	fast	0.4
+Yorsh	easi	0.2
+Yorsh	cheap	0.2
+Yorsh	name	0.4
+Corpse Reviver #2	corps	1.0
+Corpse Reviver #2	reviv	0.8333333333333334
+Corpse Reviver #2	appear	0.16666666666666666
+Corpse Reviver #2	literatur	0.3333333333333333
+Corpse Reviver #2	earli	0.5
+Corpse Reviver #2	issu	0.16666666666666666
+Corpse Reviver #2	punch	0.16666666666666666
+Corpse Reviver #2	1861	0.16666666666666666
+Corpse Reviver #2	earli	0.5
+Corpse Reviver #2	recip	0.16666666666666666
+Corpse Reviver #2	corps	1.0
+Corpse Reviver #2	reviv	0.8333333333333334
+Corpse Reviver #2	found	0.16666666666666666
+Corpse Reviver #2	literatur	0.3333333333333333
+Corpse Reviver #2	earli	0.5
+Corpse Reviver #2	1903	0.16666666666666666
+Corpse Reviver #2	harri	0.3333333333333333
+Corpse Reviver #2	craddock	0.3333333333333333
+Corpse Reviver #2	four	0.16666666666666666
+Corpse Reviver #2	taken	0.16666666666666666
+Corpse Reviver #2	swift	0.16666666666666666
+Corpse Reviver #2	success	0.16666666666666666
+Corpse Reviver #2	unrev	0.16666666666666666
+Corpse Reviver #2	corps	1.0
+Corpse Reviver #2	corps	1.0
+Corpse Reviver #2	reviv	0.8333333333333334
+Corpse Reviver #2	famili	0.16666666666666666
+Corpse Reviver #2	cocktail	0.6666666666666666
+Corpse Reviver #2	intend	0.16666666666666666
+Corpse Reviver #2	hair	0.3333333333333333
+Corpse Reviver #2	dog	0.3333333333333333
+Corpse Reviver #2	hangov	0.3333333333333333
+Corpse Reviver #2	cure	0.16666666666666666
+Corpse Reviver #2	henc	0.16666666666666666
+Corpse Reviver #2	name	0.3333333333333333
+Corpse Reviver #2	corps	1.0
+Corpse Reviver #2	reviv	0.8333333333333334
+Corpse Reviver #2	cocktail	0.6666666666666666
+Corpse Reviver #2	lost	0.16666666666666666
+Corpse Reviver #2	time	0.16666666666666666
+Corpse Reviver #2	cognac	0.16666666666666666
+Corpse Reviver #2	ginbas	0.16666666666666666
+Corpse Reviver #2	corps	1.0
+Corpse Reviver #2	reviv	0.8333333333333334
+Corpse Reviver #2	cocktail	0.6666666666666666
+Corpse Reviver #2	first	0.16666666666666666
+Corpse Reviver #2	list	0.16666666666666666
+Corpse Reviver #2	savoy	0.16666666666666666
+Corpse Reviver #2	cocktail	0.6666666666666666
+Corpse Reviver #2	handbook	0.16666666666666666
+Corpse Reviver #2	harri	0.3333333333333333
+Corpse Reviver #2	craddock	0.3333333333333333
+Corpse Reviver #2	1930	0.16666666666666666
+Corpse Reviver #2	surviv	0.16666666666666666
+Corpse Reviver #2	day	0.16666666666666666
+Corpse Reviver #2	that	0.16666666666666666
+Corpse Reviver #2	poor	0.16666666666666666
+Corpse Reviver #2	overtippl	0.16666666666666666
+Corpse Reviver #2	soul	0.16666666666666666
+Corpse Reviver #2	desper	0.16666666666666666
+Corpse Reviver #2	search	0.16666666666666666
+Corpse Reviver #2	remedi	0.3333333333333333
+Corpse Reviver #2	sooth	0.16666666666666666
+Corpse Reviver #2	ach	0.16666666666666666
+Corpse Reviver #2	be	0.16666666666666666
+Corpse Reviver #2	unfortun	0.16666666666666666
+Corpse Reviver #2	tippl	0.16666666666666666
+Corpse Reviver #2	way	0.16666666666666666
+Corpse Reviver #2	much	0.16666666666666666
+Corpse Reviver #2	swear	0.16666666666666666
+Corpse Reviver #2	hair	0.3333333333333333
+Corpse Reviver #2	dog	0.3333333333333333
+Corpse Reviver #2	remedi	0.3333333333333333
+Corpse Reviver #2	idea	0.16666666666666666
+Corpse Reviver #2	drink	0.16666666666666666
+Corpse Reviver #2	booz	0.16666666666666666
+Corpse Reviver #2	cancel	0.16666666666666666
+Corpse Reviver #2	hangov	0.3333333333333333
+Corpse Reviver #2	least	0.16666666666666666
+Corpse Reviver #2	dull	0.16666666666666666
+Corpse Reviver #2	pain	0.16666666666666666
+Corpse Reviver #2	corpsereviv	0.16666666666666666
+Corpse Reviver #2	one	0.16666666666666666
+Corpse Reviver #2	class	0.16666666666666666
+Corpse Reviver #2	name	0.3333333333333333
+Corpse Reviver #2	could	0.16666666666666666
+Corpse Reviver #2	figur	0.16666666666666666
+Corpse Reviver #2	speak	0.16666666666666666
+Corpse Reviver #2	bring	0.16666666666666666
+Corpse Reviver #2	drinker	0.16666666666666666
+Corpse Reviver #2	back	0.16666666666666666
+Corpse Reviver #2	dead	0.16666666666666666
+Tequila	tequila	1.0
+Tequila	first	0.29411764705882354
+Tequila	produc	0.35294117647058826
+Tequila	16th	0.058823529411764705
+Tequila	centuri	0.058823529411764705
+Tequila	near	0.058823529411764705
+Tequila	locat	0.058823529411764705
+Tequila	citi	0.058823529411764705
+Tequila	tequila	1.0
+Tequila	offici	0.058823529411764705
+Tequila	establish	0.058823529411764705
+Tequila	1656	0.058823529411764705
+Tequila	aztec	0.058823529411764705
+Tequila	peopl	0.058823529411764705
+Tequila	previous	0.058823529411764705
+Tequila	made	0.17647058823529413
+Tequila	ferment	0.11764705882352941
+Tequila	beverag	0.11764705882352941
+Tequila	agav	0.29411764705882354
+Tequila	plant	0.29411764705882354
+Tequila	call	0.17647058823529413
+Tequila	oct	0.058823529411764705
+Tequila	later	0.11764705882352941
+Tequila	popular	0.11764705882352941
+Tequila	call	0.17647058823529413
+Tequila	pulqu	0.058823529411764705
+Tequila	long	0.058823529411764705
+Tequila	spanish	0.11764705882352941
+Tequila	arriv	0.058823529411764705
+Tequila	1521	0.058823529411764705
+Tequila	spanish	0.11764705882352941
+Tequila	conquistador	0.058823529411764705
+Tequila	ran	0.058823529411764705
+Tequila	brandi	0.11764705882352941
+Tequila	began	0.17647058823529413
+Tequila	distil	0.17647058823529413
+Tequila	agav	0.29411764705882354
+Tequila	drink	0.058823529411764705
+Tequila	produc	0.35294117647058826
+Tequila	north	0.058823529411764705
+Tequila	america	0.058823529411764705
+Tequila	first	0.29411764705882354
+Tequila	indigen	0.058823529411764705
+Tequila	distil	0.17647058823529413
+Tequila	spirit	0.058823529411764705
+Tequila	80	0.058823529411764705
+Tequila	year	0.23529411764705882
+Tequila	later	0.11764705882352941
+Tequila	around	0.058823529411764705
+Tequila	1600	0.058823529411764705
+Tequila	pedro	0.058823529411764705
+Tequila	sánchez	0.058823529411764705
+Tequila	de	0.058823529411764705
+Tequila	tagl	0.058823529411764705
+Tequila	marqui	0.058823529411764705
+Tequila	altamira	0.058823529411764705
+Tequila	began	0.17647058823529413
+Tequila	massproduc	0.11764705882352941
+Tequila	tequila	1.0
+Tequila	first	0.29411764705882354
+Tequila	factori	0.058823529411764705
+Tequila	territori	0.058823529411764705
+Tequila	modernday	0.058823529411764705
+Tequila	jalisco	0.11764705882352941
+Tequila	1608	0.058823529411764705
+Tequila	coloni	0.058823529411764705
+Tequila	governor	0.058823529411764705
+Tequila	nueva	0.058823529411764705
+Tequila	galicia	0.058823529411764705
+Tequila	begun	0.058823529411764705
+Tequila	tax	0.058823529411764705
+Tequila	product	0.17647058823529413
+Tequila	tequila	1.0
+Tequila	popular	0.11764705882352941
+Tequila	today	0.17647058823529413
+Tequila	first	0.29411764705882354
+Tequila	massproduc	0.11764705882352941
+Tequila	earli	0.058823529411764705
+Tequila	1800s	0.058823529411764705
+Tequila	guadalajara	0.11764705882352941
+Tequila	mexico	0.11764705882352941
+Tequila	1800	0.11764705882352941
+Tequila	tequila	1.0
+Tequila	tm	0.058823529411764705
+Tequila	market	0.23529411764705882
+Tequila	today	0.17647058823529413
+Tequila	commemor	0.058823529411764705
+Tequila	year	0.23529411764705882
+Tequila	first	0.29411764705882354
+Tequila	success	0.058823529411764705
+Tequila	age	0.47058823529411764
+Tequila	tequila	1.0
+Tequila	produc	0.35294117647058826
+Tequila	sever	0.058823529411764705
+Tequila	larg	0.058823529411764705
+Tequila	batch	0.11764705882352941
+Tequila	tequila	1.0
+Tequila	produc	0.35294117647058826
+Tequila	1800	0.11764705882352941
+Tequila	although	0.058823529411764705
+Tequila	origin	0.058823529411764705
+Tequila	singl	0.058823529411764705
+Tequila	batch	0.11764705882352941
+Tequila	surviv	0.058823529411764705
+Tequila	test	0.058823529411764705
+Tequila	time	0.058823529411764705
+Tequila	market	0.23529411764705882
+Tequila	today	0.17647058823529413
+Tequila	commerci	0.058823529411764705
+Tequila	consumpt	0.058823529411764705
+Tequila	premium	0.11764705882352941
+Tequila	tequila	1.0
+Tequila	tribut	0.058823529411764705
+Tequila	earliest	0.058823529411764705
+Tequila	master	0.058823529411764705
+Tequila	tequila	1.0
+Tequila	blender	0.058823529411764705
+Tequila	tequila	1.0
+Tequila	usual	0.11764705882352941
+Tequila	bottl	0.17647058823529413
+Tequila	one	0.11764705882352941
+Tequila	four	0.058823529411764705
+Tequila	categori	0.058823529411764705
+Tequila	plata	0.11764705882352941
+Tequila	blanca	0.058823529411764705
+Tequila	silver	0.11764705882352941
+Tequila	–	0.23529411764705882
+Tequila	age	0.47058823529411764
+Tequila	coupl	0.058823529411764705
+Tequila	month	0.058823529411764705
+Tequila	oro	0.058823529411764705
+Tequila	joven	0.058823529411764705
+Tequila	abocado	0.058823529411764705
+Tequila	gold	0.058823529411764705
+Tequila	bottl	0.17647058823529413
+Tequila	young	0.058823529411764705
+Tequila	–	0.23529411764705882
+Tequila	silver	0.11764705882352941
+Tequila	tequila	1.0
+Tequila	color	0.29411764705882354
+Tequila	resembl	0.058823529411764705
+Tequila	age	0.47058823529411764
+Tequila	tequila	1.0
+Tequila	reposado	0.11764705882352941
+Tequila	rest	0.058823529411764705
+Tequila	–	0.23529411764705882
+Tequila	age	0.47058823529411764
+Tequila	year	0.23529411764705882
+Tequila	añejo	0.11764705882352941
+Tequila	age	0.47058823529411764
+Tequila	vintag	0.058823529411764705
+Tequila	–	0.23529411764705882
+Tequila	age	0.47058823529411764
+Tequila	1	0.058823529411764705
+Tequila	3	0.058823529411764705
+Tequila	year	0.23529411764705882
+Tequila	age	0.47058823529411764
+Tequila	process	0.17647058823529413
+Tequila	chang	0.058823529411764705
+Tequila	color	0.29411764705882354
+Tequila	tequila	1.0
+Tequila	liquid	0.058823529411764705
+Tequila	sometim	0.058823529411764705
+Tequila	color	0.29411764705882354
+Tequila	caramel	0.058823529411764705
+Tequila	show	0.058823529411764705
+Tequila	darker	0.11764705882352941
+Tequila	color	0.29411764705882354
+Tequila	indic	0.11764705882352941
+Tequila	longer	0.058823529411764705
+Tequila	age	0.47058823529411764
+Tequila	process	0.17647058823529413
+Tequila	añejo	0.11764705882352941
+Tequila	tend	0.058823529411764705
+Tequila	darker	0.11764705882352941
+Tequila	reposado	0.11764705882352941
+Tequila	slight	0.058823529411764705
+Tequila	less	0.058823529411764705
+Tequila	dark	0.058823529411764705
+Tequila	plata	0.11764705882352941
+Tequila	color	0.29411764705882354
+Tequila	common	0.058823529411764705
+Tequila	misconcept	0.11764705882352941
+Tequila	among	0.058823529411764705
+Tequila	foreign	0.058823529411764705
+Tequila	well	0.058823529411764705
+Tequila	nativ	0.11764705882352941
+Tequila	tequila	1.0
+Tequila	contain	0.058823529411764705
+Tequila	worm	0.11764705882352941
+Tequila	bottl	0.17647058823529413
+Tequila	certain	0.058823529411764705
+Tequila	mezcal	0.058823529411764705
+Tequila	usual	0.11764705882352941
+Tequila	state	0.11764705882352941
+Tequila	oaxaca	0.058823529411764705
+Tequila	ever	0.058823529411764705
+Tequila	sold	0.058823529411764705
+Tequila	con	0.058823529411764705
+Tequila	gusano	0.058823529411764705
+Tequila	began	0.17647058823529413
+Tequila	market	0.23529411764705882
+Tequila	gimmick	0.058823529411764705
+Tequila	1940s	0.058823529411764705
+Tequila	worm	0.11764705882352941
+Tequila	actual	0.058823529411764705
+Tequila	larval	0.058823529411764705
+Tequila	form	0.058823529411764705
+Tequila	moth	0.058823529411764705
+Tequila	hipopta	0.058823529411764705
+Tequila	agavi	0.058823529411764705
+Tequila	live	0.058823529411764705
+Tequila	agav	0.29411764705882354
+Tequila	plant	0.29411764705882354
+Tequila	find	0.058823529411764705
+Tequila	one	0.11764705882352941
+Tequila	plant	0.29411764705882354
+Tequila	process	0.17647058823529413
+Tequila	indic	0.11764705882352941
+Tequila	infest	0.058823529411764705
+Tequila	correspond	0.058823529411764705
+Tequila	lower	0.058823529411764705
+Tequila	qualiti	0.058823529411764705
+Tequila	product	0.17647058823529413
+Tequila	howev	0.058823529411764705
+Tequila	misconcept	0.11764705882352941
+Tequila	continu	0.058823529411764705
+Tequila	even	0.058823529411764705
+Tequila	effort	0.058823529411764705
+Tequila	mark	0.058823529411764705
+Tequila	repres	0.058823529411764705
+Tequila	tequila	1.0
+Tequila	premium	0.11764705882352941
+Tequila	product	0.17647058823529413
+Tequila	similar	0.11764705882352941
+Tequila	way	0.058823529411764705
+Tequila	cognac	0.058823529411764705
+Tequila	seen	0.058823529411764705
+Tequila	brandi	0.11764705882352941
+Tequila	opportunist	0.058823529411764705
+Tequila	produc	0.35294117647058826
+Tequila	shooter	0.058823529411764705
+Tequila	fun	0.058823529411764705
+Tequila	market	0.23529411764705882
+Tequila	help	0.058823529411764705
+Tequila	blur	0.058823529411764705
+Tequila	boundari	0.058823529411764705
+Tequila	tequila	1.0
+Tequila	strong	0.058823529411764705
+Tequila	distil	0.17647058823529413
+Tequila	alcohol	0.058823529411764705
+Tequila	beverag	0.11764705882352941
+Tequila	produc	0.35294117647058826
+Tequila	ferment	0.11764705882352941
+Tequila	agav	0.29411764705882354
+Tequila	plant	0.29411764705882354
+Tequila	made	0.17647058823529413
+Tequila	primarili	0.058823529411764705
+Tequila	area	0.058823529411764705
+Tequila	surround	0.058823529411764705
+Tequila	tequila	1.0
+Tequila	town	0.058823529411764705
+Tequila	western	0.058823529411764705
+Tequila	mexican	0.058823529411764705
+Tequila	state	0.11764705882352941
+Tequila	jalisco	0.11764705882352941
+Tequila	50	0.058823529411764705
+Tequila	km	0.058823529411764705
+Tequila	guadalajara	0.11764705882352941
+Tequila	made	0.17647058823529413
+Tequila	agav	0.29411764705882354
+Tequila	plant	0.29411764705882354
+Tequila	also	0.058823529411764705
+Tequila	call	0.17647058823529413
+Tequila	maguey	0.058823529411764705
+Tequila	succul	0.058823529411764705
+Tequila	similar	0.11764705882352941
+Tequila	lili	0.058823529411764705
+Tequila	nativ	0.11764705882352941
+Tequila	mexico	0.11764705882352941
+Mojito	havana	0.2727272727272727
+Mojito	birthplac	0.09090909090909091
+Mojito	mojito	0.8181818181818182
+Mojito	although	0.09090909090909091
+Mojito	exact	0.09090909090909091
+Mojito	origin	0.36363636363636365
+Mojito	classic	0.09090909090909091
+Mojito	cocktail	0.45454545454545453
+Mojito	subject	0.09090909090909091
+Mojito	debat	0.09090909090909091
+Mojito	one	0.36363636363636365
+Mojito	stori	0.2727272727272727
+Mojito	trace	0.09090909090909091
+Mojito	mojito	0.8181818181818182
+Mojito	similar	0.09090909090909091
+Mojito	16th	0.09090909090909091
+Mojito	centuri	0.09090909090909091
+Mojito	drink	1.0
+Mojito	known	0.2727272727272727
+Mojito	el	0.09090909090909091
+Mojito	draqu	0.09090909090909091
+Mojito	franci	0.09090909090909091
+Mojito	drake	0.18181818181818182
+Mojito	1586	0.09090909090909091
+Mojito	success	0.09090909090909091
+Mojito	raid	0.09090909090909091
+Mojito	cartagena	0.09090909090909091
+Mojito	de	0.18181818181818182
+Mojito	india	0.09090909090909091
+Mojito	drake	0.18181818181818182
+Mojito	ship	0.09090909090909091
+Mojito	sail	0.09090909090909091
+Mojito	toward	0.09090909090909091
+Mojito	havana	0.2727272727272727
+Mojito	epidem	0.09090909090909091
+Mojito	dysenteri	0.18181818181818182
+Mojito	scurvi	0.18181818181818182
+Mojito	board	0.18181818181818182
+Mojito	known	0.2727272727272727
+Mojito	local	0.18181818181818182
+Mojito	south	0.09090909090909091
+Mojito	american	0.09090909090909091
+Mojito	indian	0.09090909090909091
+Mojito	remedi	0.09090909090909091
+Mojito	various	0.09090909090909091
+Mojito	tropic	0.18181818181818182
+Mojito	ill	0.09090909090909091
+Mojito	small	0.09090909090909091
+Mojito	board	0.18181818181818182
+Mojito	parti	0.09090909090909091
+Mojito	went	0.18181818181818182
+Mojito	ashor	0.09090909090909091
+Mojito	cuba	0.18181818181818182
+Mojito	came	0.09090909090909091
+Mojito	back	0.18181818181818182
+Mojito	ingredi	0.5454545454545454
+Mojito	medicin	0.09090909090909091
+Mojito	effect	0.09090909090909091
+Mojito	ingredi	0.5454545454545454
+Mojito	aguardient	0.09090909090909091
+Mojito	de	0.18181818181818182
+Mojito	cana	0.09090909090909091
+Mojito	crude	0.09090909090909091
+Mojito	form	0.09090909090909091
+Mojito	rum	0.5454545454545454
+Mojito	translat	0.09090909090909091
+Mojito	fire	0.09090909090909091
+Mojito	water	0.2727272727272727
+Mojito	sugar	0.5454545454545454
+Mojito	cane	0.18181818181818182
+Mojito	ad	0.2727272727272727
+Mojito	local	0.18181818181818182
+Mojito	tropic	0.18181818181818182
+Mojito	ingredi	0.5454545454545454
+Mojito	lime	0.6363636363636364
+Mojito	sugarcan	0.09090909090909091
+Mojito	juic	0.5454545454545454
+Mojito	mint	0.7272727272727273
+Mojito	drink	1.0
+Mojito	lime	0.6363636363636364
+Mojito	juic	0.5454545454545454
+Mojito	would	0.09090909090909091
+Mojito	great	0.18181818181818182
+Mojito	help	0.09090909090909091
+Mojito	stave	0.09090909090909091
+Mojito	scurvi	0.18181818181818182
+Mojito	dysenteri	0.18181818181818182
+Mojito	tafia	0.09090909090909091
+Mojito	rum	0.5454545454545454
+Mojito	use	0.36363636363636365
+Mojito	soon	0.09090909090909091
+Mojito	becam	0.09090909090909091
+Mojito	wide	0.09090909090909091
+Mojito	avail	0.09090909090909091
+Mojito	british	0.09090909090909091
+Mojito	ca	0.09090909090909091
+Mojito	1650	0.09090909090909091
+Mojito	drink	1.0
+Mojito	call	0.09090909090909091
+Mojito	mojito	0.8181818181818182
+Mojito	time	0.18181818181818182
+Mojito	still	0.18181818181818182
+Mojito	origin	0.36363636363636365
+Mojito	combin	0.18181818181818182
+Mojito	ingredi	0.5454545454545454
+Mojito	sever	0.18181818181818182
+Mojito	stori	0.2727272727272727
+Mojito	exist	0.18181818181818182
+Mojito	regard	0.09090909090909091
+Mojito	cocktail	0.45454545454545453
+Mojito	true	0.09090909090909091
+Mojito	origin	0.36363636363636365
+Mojito	stori	0.2727272727272727
+Mojito	simpli	0.09090909090909091
+Mojito	provid	0.09090909090909091
+Mojito	evid	0.09090909090909091
+Mojito	long	0.18181818181818182
+Mojito	general	0.09090909090909091
+Mojito	recip	0.2727272727272727
+Mojito	exist	0.18181818181818182
+Mojito	great	0.18181818181818182
+Mojito	author	0.09090909090909091
+Mojito	ernest	0.18181818181818182
+Mojito	hemingway	0.18181818181818182
+Mojito	known	0.2727272727272727
+Mojito	develop	0.09090909090909091
+Mojito	quit	0.09090909090909091
+Mojito	tast	0.09090909090909091
+Mojito	refresh	0.36363636363636365
+Mojito	drink	1.0
+Mojito	ernest	0.18181818181818182
+Mojito	hemingway	0.18181818181818182
+Mojito	spent	0.09090909090909091
+Mojito	much	0.09090909090909091
+Mojito	time	0.18181818181818182
+Mojito	cuba	0.18181818181818182
+Mojito	like	0.2727272727272727
+Mojito	mojito	0.8181818181818182
+Mojito	mojito	0.8181818181818182
+Mojito	tradit	0.36363636363636365
+Mojito	cuban	0.18181818181818182
+Mojito	highbal	0.18181818181818182
+Mojito	refresh	0.36363636363636365
+Mojito	cocktail	0.45454545454545453
+Mojito	pack	0.09090909090909091
+Mojito	lot	0.09090909090909091
+Mojito	flavor	0.2727272727272727
+Mojito	pleasur	0.09090909090909091
+Mojito	tall	0.18181818181818182
+Mojito	cool	0.09090909090909091
+Mojito	glass	0.5454545454545454
+Mojito	make	0.2727272727272727
+Mojito	excel	0.09090909090909091
+Mojito	thirst	0.18181818181818182
+Mojito	quencher	0.09090909090909091
+Mojito	long	0.18181818181818182
+Mojito	hot	0.09090909090909091
+Mojito	summer	0.18181818181818182
+Mojito	afternoon	0.09090909090909091
+Mojito	two	0.09090909090909091
+Mojito	still	0.18181818181818182
+Mojito	keep	0.09090909090909091
+Mojito	wit	0.09090909090909091
+Mojito	tradit	0.36363636363636365
+Mojito	mojito	0.8181818181818182
+Mojito	cocktail	0.45454545454545453
+Mojito	consist	0.09090909090909091
+Mojito	five	0.09090909090909091
+Mojito	ingredi	0.5454545454545454
+Mojito	white	0.09090909090909091
+Mojito	rum	0.5454545454545454
+Mojito	sugar	0.5454545454545454
+Mojito	tradit	0.36363636363636365
+Mojito	sugar	0.5454545454545454
+Mojito	cane	0.18181818181818182
+Mojito	juic	0.5454545454545454
+Mojito	lime	0.6363636363636364
+Mojito	juic	0.5454545454545454
+Mojito	sparkl	0.18181818181818182
+Mojito	water	0.2727272727272727
+Mojito	mint	0.7272727272727273
+Mojito	origin	0.36363636363636365
+Mojito	cuban	0.18181818181818182
+Mojito	recip	0.2727272727272727
+Mojito	use	0.36363636363636365
+Mojito	spearmint	0.09090909090909091
+Mojito	yerba	0.09090909090909091
+Mojito	buena	0.09090909090909091
+Mojito	mint	0.7272727272727273
+Mojito	varieti	0.09090909090909091
+Mojito	popular	0.18181818181818182
+Mojito	island	0.09090909090909091
+Mojito	combin	0.18181818181818182
+Mojito	sweet	0.09090909090909091
+Mojito	refresh	0.36363636363636365
+Mojito	citrus	0.09090909090909091
+Mojito	mint	0.7272727272727273
+Mojito	flavor	0.2727272727272727
+Mojito	intend	0.09090909090909091
+Mojito	complement	0.09090909090909091
+Mojito	potent	0.09090909090909091
+Mojito	kick	0.09090909090909091
+Mojito	rum	0.5454545454545454
+Mojito	made	0.09090909090909091
+Mojito	clear	0.09090909090909091
+Mojito	highbal	0.18181818181818182
+Mojito	popular	0.18181818181818182
+Mojito	summer	0.18181818181818182
+Mojito	drink	1.0
+Mojito	cocktail	0.45454545454545453
+Mojito	relat	0.09090909090909091
+Mojito	low	0.09090909090909091
+Mojito	alcohol	0.18181818181818182
+Mojito	content	0.09090909090909091
+Mojito	10	0.18181818181818182
+Mojito	percent	0.09090909090909091
+Mojito	alcohol	0.18181818181818182
+Mojito	volum	0.09090909090909091
+Mojito	also	0.09090909090909091
+Mojito	except	0.09090909090909091
+Mojito	easi	0.18181818181818182
+Mojito	make	0.2727272727272727
+Mojito	tradit	0.36363636363636365
+Mojito	make	0.2727272727272727
+Mojito	drink	1.0
+Mojito	glass	0.5454545454545454
+Mojito	add	0.18181818181818182
+Mojito	ingredi	0.5454545454545454
+Mojito	glass	0.5454545454545454
+Mojito	stir	0.18181818181818182
+Mojito	spoon	0.09090909090909091
+Mojito	drink	1.0
+Mojito	use	0.36363636363636365
+Mojito	tall	0.18181818181818182
+Mojito	glass	0.5454545454545454
+Mojito	hold	0.09090909090909091
+Mojito	10	0.18181818181818182
+Mojito	14	0.09090909090909091
+Mojito	ounc	0.09090909090909091
+Mojito	12	0.09090909090909091
+Mojito	ideal	0.09090909090909091
+Mojito	recip	0.2727272727272727
+Mojito	yield	0.09090909090909091
+Mojito	one	0.36363636363636365
+Mojito	drink	1.0
+Mojito	take	0.09090909090909091
+Mojito	5	0.09090909090909091
+Mojito	minut	0.09090909090909091
+Mojito	prepar	0.18181818181818182
+Mojito	easi	0.18181818181818182
+Mojito	scale	0.09090909090909091
+Mojito	your	0.09090909090909091
+Mojito	serv	0.09090909090909091
+Mojito	thirsti	0.09090909090909091
+Mojito	hord	0.09090909090909091
+Mojito	peopl	0.09090909090909091
+Mojito	like	0.2727272727272727
+Mojito	add	0.18181818181818182
+Mojito	empti	0.09090909090909091
+Mojito	shell	0.09090909090909091
+Mojito	lime	0.6363636363636364
+Mojito	half	0.09090909090909091
+Mojito	one	0.36363636363636365
+Mojito	squeez	0.09090909090909091
+Mojito	juic	0.5454545454545454
+Mojito	bottom	0.18181818181818182
+Mojito	glass	0.5454545454545454
+Mojito	addit	0.09090909090909091
+Mojito	garnish	0.18181818181818182
+Mojito	gorgeous	0.09090909090909091
+Mojito	day	0.09090909090909091
+Mojito	sit	0.09090909090909091
+Mojito	sand	0.09090909090909091
+Mojito	outsid	0.09090909090909091
+Mojito	beach	0.09090909090909091
+Mojito	hut	0.09090909090909091
+Mojito	bar	0.18181818181818182
+Mojito	bay	0.09090909090909091
+Mojito	pig	0.09090909090909091
+Mojito	barman	0.09090909090909091
+Mojito	ask	0.09090909090909091
+Mojito	id	0.09090909090909091
+Mojito	like	0.2727272727272727
+Mojito	mojito	0.8181818181818182
+Mojito	drank	0.09090909090909091
+Mojito	one	0.36363636363636365
+Mojito	sever	0.18181818181818182
+Mojito	went	0.18181818181818182
+Mojito	back	0.18181818181818182
+Mojito	havana	0.2727272727272727
+Mojito	hook	0.09090909090909091
+Mojito	love	0.09090909090909091
+Mojito	fresh	0.09090909090909091
+Mojito	clean	0.09090909090909091
+Mojito	flavor	0.2727272727272727
+Mojito	lime	0.6363636363636364
+Mojito	rum	0.5454545454545454
+Mojito	sugar	0.5454545454545454
+Mojito	drink	1.0
+Mojito	refresh	0.36363636363636365
+Mojito	thirst	0.18181818181818182
+Mojito	quench	0.09090909090909091
+Mojito	mojito	0.8181818181818182
+Mojito	fantast	0.09090909090909091
+Mojito	drink	1.0
+Mojito	undecid	0.09090909090909091
+Mojito	order	0.09090909090909091
+Mojito	someth	0.09090909090909091
+Mojito	bar	0.18181818181818182
+Mojito	prepar	0.18181818181818182
+Mojito	mojito	0.8181818181818182
+Mojito	lime	0.6363636363636364
+Mojito	juic	0.5454545454545454
+Mojito	ad	0.2727272727272727
+Mojito	sugar	0.5454545454545454
+Mojito	syrup	0.09090909090909091
+Mojito	mint	0.7272727272727273
+Mojito	leav	0.36363636363636365
+Mojito	mixtur	0.18181818181818182
+Mojito	gentl	0.09090909090909091
+Mojito	mash	0.09090909090909091
+Mojito	muddler	0.09090909090909091
+Mojito	mint	0.7272727272727273
+Mojito	leav	0.36363636363636365
+Mojito	bruis	0.09090909090909091
+Mojito	releas	0.09090909090909091
+Mojito	essenti	0.09090909090909091
+Mojito	oil	0.09090909090909091
+Mojito	shred	0.09090909090909091
+Mojito	rum	0.5454545454545454
+Mojito	ad	0.2727272727272727
+Mojito	mixtur	0.18181818181818182
+Mojito	briefli	0.09090909090909091
+Mojito	stir	0.18181818181818182
+Mojito	dissolv	0.09090909090909091
+Mojito	sugar	0.5454545454545454
+Mojito	lift	0.09090909090909091
+Mojito	mint	0.7272727272727273
+Mojito	leav	0.36363636363636365
+Mojito	bottom	0.18181818181818182
+Mojito	better	0.09090909090909091
+Mojito	present	0.09090909090909091
+Mojito	final	0.09090909090909091
+Mojito	drink	1.0
+Mojito	top	0.09090909090909091
+Mojito	whole	0.09090909090909091
+Mojito	ice	0.09090909090909091
+Mojito	cube	0.09090909090909091
+Mojito	sparkl	0.18181818181818182
+Mojito	soda	0.09090909090909091
+Mojito	water	0.2727272727272727
+Mojito	mint	0.7272727272727273
+Mojito	leav	0.36363636363636365
+Mojito	lime	0.6363636363636364
+Mojito	wedg	0.09090909090909091
+Mojito	use	0.36363636363636365
+Mojito	garnish	0.18181818181818182
+Mojito	glass	0.5454545454545454
+Gin	gin	1.0
+Gin	origin	0.13333333333333333
+Gin	netherland	0.06666666666666667
+Gin	17th	0.06666666666666667
+Gin	centuri	0.06666666666666667
+Gin	invent	0.06666666666666667
+Gin	often	0.13333333333333333
+Gin	credit	0.06666666666666667
+Gin	physician	0.06666666666666667
+Gin	franciscus	0.06666666666666667
+Gin	sylvius	0.06666666666666667
+Gin	spread	0.06666666666666667
+Gin	england	0.2
+Gin	glorious	0.06666666666666667
+Gin	revolut	0.06666666666666667
+Gin	put	0.06666666666666667
+Gin	dutchman	0.06666666666666667
+Gin	english	0.13333333333333333
+Gin	throne	0.06666666666666667
+Gin	dutch	0.06666666666666667
+Gin	gin	1.0
+Gin	known	0.06666666666666667
+Gin	jenev	0.2
+Gin	distinct	0.06666666666666667
+Gin	differ	0.06666666666666667
+Gin	drink	0.26666666666666666
+Gin	englishstyl	0.06666666666666667
+Gin	gin	1.0
+Gin	distil	0.26666666666666666
+Gin	barley	0.06666666666666667
+Gin	sometim	0.06666666666666667
+Gin	age	0.06666666666666667
+Gin	wood	0.06666666666666667
+Gin	give	0.06666666666666667
+Gin	slight	0.06666666666666667
+Gin	resembl	0.06666666666666667
+Gin	whiski	0.06666666666666667
+Gin	schiedam	0.06666666666666667
+Gin	south	0.06666666666666667
+Gin	holland	0.06666666666666667
+Gin	famous	0.06666666666666667
+Gin	jenev	0.2
+Gin	jenev	0.2
+Gin	produc	0.13333333333333333
+Gin	pot	0.06666666666666667
+Gin	still	0.13333333333333333
+Gin	strong	0.06666666666666667
+Gin	flavor	0.06666666666666667
+Gin	london	0.3333333333333333
+Gin	gin	1.0
+Gin	gin	1.0
+Gin	becam	0.13333333333333333
+Gin	popular	0.13333333333333333
+Gin	england	0.2
+Gin	govern	0.06666666666666667
+Gin	creat	0.06666666666666667
+Gin	market	0.06666666666666667
+Gin	poor	0.13333333333333333
+Gin	qualiti	0.06666666666666667
+Gin	grain	0.06666666666666667
+Gin	unfit	0.06666666666666667
+Gin	use	0.06666666666666667
+Gin	brew	0.13333333333333333
+Gin	beer	0.26666666666666666
+Gin	allow	0.06666666666666667
+Gin	unlicens	0.06666666666666667
+Gin	gin	1.0
+Gin	product	0.13333333333333333
+Gin	time	0.13333333333333333
+Gin	impos	0.13333333333333333
+Gin	heavi	0.06666666666666667
+Gin	duti	0.13333333333333333
+Gin	import	0.06666666666666667
+Gin	spirit	0.26666666666666666
+Gin	thousand	0.06666666666666667
+Gin	ginshop	0.2
+Gin	sprang	0.06666666666666667
+Gin	england	0.2
+Gin	1740	0.06666666666666667
+Gin	product	0.13333333333333333
+Gin	gin	1.0
+Gin	increas	0.13333333333333333
+Gin	six	0.06666666666666667
+Gin	time	0.13333333333333333
+Gin	beer	0.26666666666666666
+Gin	cheap	0.06666666666666667
+Gin	becam	0.13333333333333333
+Gin	extrem	0.06666666666666667
+Gin	popular	0.13333333333333333
+Gin	poor	0.13333333333333333
+Gin	15000	0.06666666666666667
+Gin	drink	0.26666666666666666
+Gin	establish	0.06666666666666667
+Gin	london	0.3333333333333333
+Gin	half	0.06666666666666667
+Gin	ginshop	0.2
+Gin	beer	0.26666666666666666
+Gin	maintain	0.06666666666666667
+Gin	healthi	0.06666666666666667
+Gin	reput	0.2
+Gin	often	0.13333333333333333
+Gin	safer	0.06666666666666667
+Gin	drink	0.26666666666666666
+Gin	brew	0.13333333333333333
+Gin	ale	0.06666666666666667
+Gin	unclean	0.06666666666666667
+Gin	plain	0.06666666666666667
+Gin	water	0.06666666666666667
+Gin	gin	1.0
+Gin	blame	0.06666666666666667
+Gin	various	0.06666666666666667
+Gin	social	0.06666666666666667
+Gin	medic	0.06666666666666667
+Gin	problem	0.06666666666666667
+Gin	may	0.06666666666666667
+Gin	factor	0.06666666666666667
+Gin	high	0.2
+Gin	death	0.06666666666666667
+Gin	rate	0.06666666666666667
+Gin	caus	0.06666666666666667
+Gin	london	0.3333333333333333
+Gin	previous	0.06666666666666667
+Gin	increas	0.13333333333333333
+Gin	popul	0.06666666666666667
+Gin	remain	0.06666666666666667
+Gin	stabl	0.06666666666666667
+Gin	reput	0.2
+Gin	two	0.06666666666666667
+Gin	drink	0.26666666666666666
+Gin	illustr	0.06666666666666667
+Gin	william	0.06666666666666667
+Gin	hogarth	0.06666666666666667
+Gin	engrav	0.06666666666666667
+Gin	beer	0.26666666666666666
+Gin	street	0.13333333333333333
+Gin	gin	1.0
+Gin	lane	0.06666666666666667
+Gin	1751	0.13333333333333333
+Gin	negat	0.06666666666666667
+Gin	reput	0.2
+Gin	surviv	0.06666666666666667
+Gin	today	0.06666666666666667
+Gin	english	0.13333333333333333
+Gin	languag	0.06666666666666667
+Gin	term	0.06666666666666667
+Gin	ginmil	0.06666666666666667
+Gin	describ	0.06666666666666667
+Gin	disreput	0.06666666666666667
+Gin	bar	0.06666666666666667
+Gin	call	0.06666666666666667
+Gin	drunk	0.06666666666666667
+Gin	ginsoak	0.06666666666666667
+Gin	gin	1.0
+Gin	act	0.13333333333333333
+Gin	1736	0.06666666666666667
+Gin	impos	0.13333333333333333
+Gin	high	0.2
+Gin	tax	0.06666666666666667
+Gin	retail	0.13333333333333333
+Gin	led	0.06666666666666667
+Gin	riot	0.06666666666666667
+Gin	street	0.13333333333333333
+Gin	prohibit	0.06666666666666667
+Gin	duti	0.13333333333333333
+Gin	gradual	0.06666666666666667
+Gin	reduc	0.06666666666666667
+Gin	final	0.06666666666666667
+Gin	abolish	0.06666666666666667
+Gin	1742	0.06666666666666667
+Gin	gin	1.0
+Gin	act	0.13333333333333333
+Gin	1751	0.13333333333333333
+Gin	howev	0.06666666666666667
+Gin	success	0.06666666666666667
+Gin	forc	0.06666666666666667
+Gin	distil	0.26666666666666666
+Gin	sell	0.06666666666666667
+Gin	licens	0.06666666666666667
+Gin	retail	0.13333333333333333
+Gin	brought	0.06666666666666667
+Gin	ginshop	0.2
+Gin	jurisdict	0.06666666666666667
+Gin	local	0.06666666666666667
+Gin	magistr	0.06666666666666667
+Gin	gin	1.0
+Gin	distil	0.26666666666666666
+Gin	alcohol	0.06666666666666667
+Gin	spirit	0.26666666666666666
+Gin	common	0.06666666666666667
+Gin	style	0.06666666666666667
+Gin	gin	1.0
+Gin	london	0.3333333333333333
+Gin	dri	0.13333333333333333
+Gin	gin	1.0
+Gin	refer	0.06666666666666667
+Gin	brand	0.06666666666666667
+Gin	origin	0.13333333333333333
+Gin	distil	0.26666666666666666
+Gin	process	0.06666666666666667
+Gin	london	0.3333333333333333
+Gin	dri	0.13333333333333333
+Gin	gin	1.0
+Gin	high	0.2
+Gin	proof	0.06666666666666667
+Gin	spirit	0.26666666666666666
+Gin	usual	0.13333333333333333
+Gin	produc	0.13333333333333333
+Gin	column	0.06666666666666667
+Gin	still	0.13333333333333333
+Gin	redistil	0.06666666666666667
+Gin	botan	0.13333333333333333
+Gin	ad	0.06666666666666667
+Gin	base	0.06666666666666667
+Gin	spirit	0.26666666666666666
+Gin	addit	0.06666666666666667
+Gin	junip	0.06666666666666667
+Gin	usual	0.13333333333333333
+Gin	made	0.06666666666666667
+Gin	small	0.06666666666666667
+Gin	amount	0.06666666666666667
+Gin	citrus	0.06666666666666667
+Gin	botan	0.13333333333333333
+Gin	like	0.06666666666666667
+Gin	lemon	0.06666666666666667
+Gin	bitter	0.06666666666666667
+Gin	orang	0.06666666666666667
+Gin	peel	0.06666666666666667
+Mint Julep	origin	0.16666666666666666
+Mint Julep	mint	1.0
+Mint Julep	julep	0.5833333333333334
+Mint Julep	cloud	0.08333333333333333
+Mint Julep	may	0.16666666666666666
+Mint Julep	never	0.08333333333333333
+Mint Julep	definit	0.08333333333333333
+Mint Julep	known	0.16666666666666666
+Mint Julep	origin	0.16666666666666666
+Mint Julep	southern	0.16666666666666666
+Mint Julep	unit	0.16666666666666666
+Mint Julep	state	0.16666666666666666
+Mint Julep	probabl	0.25
+Mint Julep	eighteenth	0.08333333333333333
+Mint Julep	centuri	0.08333333333333333
+Mint Julep	us	0.25
+Mint Julep	senat	0.08333333333333333
+Mint Julep	henri	0.08333333333333333
+Mint Julep	clay	0.08333333333333333
+Mint Julep	kentucki	0.25
+Mint Julep	introduc	0.08333333333333333
+Mint Julep	drink	0.6666666666666666
+Mint Julep	washington	0.08333333333333333
+Mint Julep	dc	0.08333333333333333
+Mint Julep	round	0.08333333333333333
+Mint Julep	robin	0.08333333333333333
+Mint Julep	bar	0.08333333333333333
+Mint Julep	famous	0.16666666666666666
+Mint Julep	willard	0.08333333333333333
+Mint Julep	hotel	0.08333333333333333
+Mint Julep	resid	0.08333333333333333
+Mint Julep	citi	0.08333333333333333
+Mint Julep	term	0.08333333333333333
+Mint Julep	julep	0.5833333333333334
+Mint Julep	general	0.16666666666666666
+Mint Julep	defin	0.08333333333333333
+Mint Julep	sweet	0.16666666666666666
+Mint Julep	drink	0.6666666666666666
+Mint Julep	particular	0.16666666666666666
+Mint Julep	one	0.08333333333333333
+Mint Julep	use	0.16666666666666666
+Mint Julep	vehicl	0.08333333333333333
+Mint Julep	medicin	0.08333333333333333
+Mint Julep	word	0.16666666666666666
+Mint Julep	deriv	0.08333333333333333
+Mint Julep	persian	0.08333333333333333
+Mint Julep	word	0.16666666666666666
+Mint Julep	golab	0.08333333333333333
+Mint Julep	mean	0.08333333333333333
+Mint Julep	rose	0.08333333333333333
+Mint Julep	water	0.16666666666666666
 Mint Julep	well	0.16666666666666666
 Mint Julep	usual	0.08333333333333333
 Mint Julep	muddl	0.08333333333333333
@@ -1060,6 +1167,81 @@ Mint Julep	flavor	0.25
 Mint Julep	standard	0.08333333333333333
 Mint Julep	recip	0.16666666666666666
 Mint Julep	produc	0.08333333333333333
+Mint Julep	mint	1.0
+Mint Julep	julep	0.5833333333333334
+Mint Julep	mix	0.08333333333333333
+Mint Julep	alcohol	0.08333333333333333
+Mint Julep	drink	0.6666666666666666
+Mint Julep	cocktail	0.25
+Mint Julep	consist	0.08333333333333333
+Mint Julep	primarili	0.08333333333333333
+Mint Julep	bourbon	0.5
+Mint Julep	spirit	0.16666666666666666
+Mint Julep	water	0.16666666666666666
+Mint Julep	crush	0.08333333333333333
+Mint Julep	shave	0.08333333333333333
+Mint Julep	ice	0.25
+Mint Julep	fresh	0.08333333333333333
+Mint Julep	mint	1.0
+Mint Julep	bourbonbas	0.08333333333333333
+Mint Julep	cocktail	0.25
+Mint Julep	associ	0.16666666666666666
+Mint Julep	american	0.08333333333333333
+Mint Julep	south	0.08333333333333333
+Mint Julep	cuisin	0.08333333333333333
+Mint Julep	southern	0.16666666666666666
+Mint Julep	unit	0.16666666666666666
+Mint Julep	state	0.16666666666666666
+Mint Julep	general	0.16666666666666666
+Mint Julep	kentucki	0.25
+Mint Julep	derbi	0.16666666666666666
+Mint Julep	particular	0.16666666666666666
+Mint Julep	kentucki	0.25
+Mint Julep	derbi	0.16666666666666666
+Mint Julep	among	0.08333333333333333
+Mint Julep	famous	0.16666666666666666
+Mint Julep	hors	0.16666666666666666
+Mint Julep	race	0.3333333333333333
+Mint Julep	us	0.25
+Mint Julep	part	0.08333333333333333
+Mint Julep	tripl	0.08333333333333333
+Mint Julep	crown	0.08333333333333333
+Mint Julep	seri	0.08333333333333333
+Mint Julep	also	0.08333333333333333
+Mint Julep	includ	0.16666666666666666
+Mint Julep	preak	0.08333333333333333
+Mint Julep	stake	0.16666666666666666
+Mint Julep	belmont	0.08333333333333333
+Mint Julep	stake	0.16666666666666666
+Mint Julep	tradit	0.16666666666666666
+Mint Julep	held	0.08333333333333333
+Mint Julep	first	0.16666666666666666
+Mint Julep	saturday	0.08333333333333333
+Mint Julep	may	0.16666666666666666
+Mint Julep	first	0.16666666666666666
+Mint Julep	big	0.08333333333333333
+Mint Julep	us	0.25
+Mint Julep	race	0.3333333333333333
+Mint Julep	season	0.08333333333333333
+Mint Julep	ice	0.25
+Mint Julep	cold	0.08333333333333333
+Mint Julep	cocktail	0.25
+Mint Julep	tradit	0.16666666666666666
+Mint Julep	serv	0.16666666666666666
+Mint Julep	silver	0.25
+Mint Julep	cup	0.16666666666666666
+Mint Julep	imbib	0.08333333333333333
+Mint Julep	hold	0.08333333333333333
+Mint Julep	bottom	0.16666666666666666
+Mint Julep	top	0.08333333333333333
+Mint Julep	edg	0.08333333333333333
+Mint Julep	order	0.16666666666666666
+Mint Julep	disturb	0.08333333333333333
+Mint Julep	frosti	0.08333333333333333
+Mint Julep	coat	0.08333333333333333
+Mint Julep	condens	0.08333333333333333
+Mint Julep	develop	0.08333333333333333
+Mint Julep	outsid	0.08333333333333333
 Mint Julep	add	0.08333333333333333
 Mint Julep	good	0.16666666666666666
 Mint Julep	hand	0.08333333333333333
@@ -1167,240 +1349,3286 @@ Mint Julep	race	0.3333333333333333
 Mint Julep	order	0.16666666666666666
 Mint Julep	mint	1.0
 Mint Julep	julep	0.5833333333333334
-Mint Julep	mint	1.0
-Mint Julep	julep	0.5833333333333334
-Mint Julep	mix	0.08333333333333333
-Mint Julep	alcohol	0.08333333333333333
-Mint Julep	drink	0.6666666666666666
-Mint Julep	cocktail	0.25
-Mint Julep	consist	0.08333333333333333
-Mint Julep	primarili	0.08333333333333333
-Mint Julep	bourbon	0.5
-Mint Julep	spirit	0.16666666666666666
-Mint Julep	water	0.16666666666666666
-Mint Julep	crush	0.08333333333333333
-Mint Julep	shave	0.08333333333333333
-Mint Julep	ice	0.25
-Mint Julep	fresh	0.08333333333333333
-Mint Julep	mint	1.0
-Mint Julep	bourbonbas	0.08333333333333333
-Mint Julep	cocktail	0.25
-Mint Julep	associ	0.16666666666666666
-Mint Julep	american	0.08333333333333333
-Mint Julep	south	0.08333333333333333
-Mint Julep	cuisin	0.08333333333333333
-Mint Julep	southern	0.16666666666666666
-Mint Julep	unit	0.16666666666666666
-Mint Julep	state	0.16666666666666666
-Mint Julep	general	0.16666666666666666
-Mint Julep	kentucki	0.25
-Mint Julep	derbi	0.16666666666666666
-Mint Julep	particular	0.16666666666666666
-Mint Julep	kentucki	0.25
-Mint Julep	derbi	0.16666666666666666
-Mint Julep	among	0.08333333333333333
-Mint Julep	famous	0.16666666666666666
-Mint Julep	hors	0.16666666666666666
-Mint Julep	race	0.3333333333333333
-Mint Julep	us	0.25
-Mint Julep	part	0.08333333333333333
-Mint Julep	tripl	0.08333333333333333
-Mint Julep	crown	0.08333333333333333
-Mint Julep	seri	0.08333333333333333
-Mint Julep	also	0.08333333333333333
-Mint Julep	includ	0.16666666666666666
-Mint Julep	preak	0.08333333333333333
-Mint Julep	stake	0.16666666666666666
-Mint Julep	belmont	0.08333333333333333
-Mint Julep	stake	0.16666666666666666
-Mint Julep	tradit	0.16666666666666666
-Mint Julep	held	0.08333333333333333
-Mint Julep	first	0.16666666666666666
-Mint Julep	saturday	0.08333333333333333
-Mint Julep	may	0.16666666666666666
-Mint Julep	first	0.16666666666666666
-Mint Julep	big	0.08333333333333333
-Mint Julep	us	0.25
-Mint Julep	race	0.3333333333333333
-Mint Julep	season	0.08333333333333333
-Mint Julep	ice	0.25
-Mint Julep	cold	0.08333333333333333
-Mint Julep	cocktail	0.25
-Mint Julep	tradit	0.16666666666666666
-Mint Julep	serv	0.16666666666666666
-Mint Julep	silver	0.25
-Mint Julep	cup	0.16666666666666666
-Mint Julep	imbib	0.08333333333333333
-Mint Julep	hold	0.08333333333333333
-Mint Julep	bottom	0.16666666666666666
-Mint Julep	top	0.08333333333333333
-Mint Julep	edg	0.08333333333333333
-Mint Julep	order	0.16666666666666666
-Mint Julep	disturb	0.08333333333333333
-Mint Julep	frosti	0.08333333333333333
-Mint Julep	coat	0.08333333333333333
-Mint Julep	condens	0.08333333333333333
-Mint Julep	develop	0.08333333333333333
-Mint Julep	outsid	0.08333333333333333
-Mint Julep	origin	0.16666666666666666
-Mint Julep	mint	1.0
-Mint Julep	julep	0.5833333333333334
-Mint Julep	cloud	0.08333333333333333
-Mint Julep	may	0.16666666666666666
-Mint Julep	never	0.08333333333333333
-Mint Julep	definit	0.08333333333333333
-Mint Julep	known	0.16666666666666666
-Mint Julep	origin	0.16666666666666666
-Mint Julep	southern	0.16666666666666666
-Mint Julep	unit	0.16666666666666666
-Mint Julep	state	0.16666666666666666
-Mint Julep	probabl	0.25
-Mint Julep	eighteenth	0.08333333333333333
-Mint Julep	centuri	0.08333333333333333
-Mint Julep	us	0.25
-Mint Julep	senat	0.08333333333333333
-Mint Julep	henri	0.08333333333333333
-Mint Julep	clay	0.08333333333333333
-Mint Julep	kentucki	0.25
-Mint Julep	introduc	0.08333333333333333
-Mint Julep	drink	0.6666666666666666
-Mint Julep	washington	0.08333333333333333
-Mint Julep	dc	0.08333333333333333
-Mint Julep	round	0.08333333333333333
-Mint Julep	robin	0.08333333333333333
-Mint Julep	bar	0.08333333333333333
-Mint Julep	famous	0.16666666666666666
-Mint Julep	willard	0.08333333333333333
-Mint Julep	hotel	0.08333333333333333
-Mint Julep	resid	0.08333333333333333
-Mint Julep	citi	0.08333333333333333
-Mint Julep	term	0.08333333333333333
-Mint Julep	julep	0.5833333333333334
-Mint Julep	general	0.16666666666666666
-Mint Julep	defin	0.08333333333333333
-Mint Julep	sweet	0.16666666666666666
-Mint Julep	drink	0.6666666666666666
-Mint Julep	particular	0.16666666666666666
-Mint Julep	one	0.08333333333333333
-Mint Julep	use	0.16666666666666666
-Mint Julep	vehicl	0.08333333333333333
-Mint Julep	medicin	0.08333333333333333
-Mint Julep	word	0.16666666666666666
-Mint Julep	deriv	0.08333333333333333
-Mint Julep	persian	0.08333333333333333
-Mint Julep	word	0.16666666666666666
-Mint Julep	golab	0.08333333333333333
-Mint Julep	mean	0.08333333333333333
-Mint Julep	rose	0.08333333333333333
-Mint Julep	water	0.16666666666666666
-Yorsh	russian	0.4
-Yorsh	yorsh	1.0
-Yorsh	blend	0.2
-Yorsh	vodka	1.0
-Yorsh	beer	1.0
-Yorsh	design	0.2
-Yorsh	make	0.2
-Yorsh	one	0.6
-Yorsh	hair	0.2
-Yorsh	stand	0.2
-Yorsh	end	0.2
-Yorsh	name	0.4
-Yorsh	fish	0.2
-Yorsh	protrud	0.2
-Yorsh	spine	0.2
-Yorsh	fin	0.2
-Yorsh	russia	0.2
-Yorsh	mix	1.0
-Yorsh	vodka	1.0
-Yorsh	anyth	0.2
-Yorsh	els	0.2
-Yorsh	consid	0.2
-Yorsh	wast	0.4
-Yorsh	unless	0.2
-Yorsh	mixer	0.2
-Yorsh	beer	1.0
-Yorsh	produc	0.2
-Yorsh	fearsom	0.2
-Yorsh	beverag	0.2
-Yorsh	known	0.4
-Yorsh	yorsh	1.0
-Yorsh	dedic	0.2
-Yorsh	drinker	0.2
-Yorsh	prepar	0.2
-Yorsh	fatal	0.2
-Yorsh	formula	0.2
-Yorsh	mix	1.0
-Yorsh	vodka	1.0
-Yorsh	beer	1.0
-Yorsh	acquiredtast	0.2
-Yorsh	mix	1.0
-Yorsh	call	0.2
-Yorsh	yorsh	1.0
-Yorsh	known	0.4
-Yorsh	send	0.2
-Yorsh	250	0.2
-Yorsh	pound	0.2
-Yorsh	soldier	0.2
-Yorsh	deep	0.2
-Yorsh	coma	0.2
-Yorsh	want	0.2
-Yorsh	get	0.4
-Yorsh	drunk	0.4
-Yorsh	fast	0.4
-Yorsh	drink	0.4
-Yorsh	crazi	0.2
-Yorsh	thing	0.2
-Yorsh	plan	0.2
-Yorsh	get	0.4
-Yorsh	wast	0.4
-Yorsh	today	0.2
-Yorsh	cheapest	0.2
-Yorsh	cocktail	0.2
-Yorsh	date	0.2
-Yorsh	fast	0.4
-Yorsh	easi	0.2
-Yorsh	cheap	0.2
-Yorsh	name	0.4
-Yorsh	yorsh	1.0
-Yorsh	russian	0.4
-Yorsh	mix	1.0
-Yorsh	drink	0.4
-Yorsh	consist	0.2
-Yorsh	beer	1.0
-Yorsh	thorough	0.2
-Yorsh	mix	1.0
-Yorsh	ampl	0.2
-Yorsh	quantiti	0.2
-Yorsh	vodka	1.0
-Yorsh	tradit	0.2
-Yorsh	drunk	0.4
-Yorsh	social	0.2
-Yorsh	set	0.2
-Yorsh	typic	0.2
-Yorsh	toast	0.2
-Yorsh	follow	0.2
-Yorsh	down	0.2
-Yorsh	full	0.2
-Yorsh	glass	0.2
-Yorsh	one	0.6
-Yorsh	go	0.4
-Yorsh	vodka	1.0
-Yorsh	neutral	0.2
-Yorsh	spirit	0.2
-Yorsh	great	0.4
-Yorsh	alter	0.2
-Yorsh	flavor	0.2
-Yorsh	beer	1.0
-Yorsh	great	0.4
-Yorsh	increas	0.2
-Yorsh	alcohol	0.2
-Yorsh	content	0.2
-Yorsh	yorsh	1.0
-Yorsh	meant	0.2
-Yorsh	gulp	0.2
-Yorsh	one	0.6
-Yorsh	go	0.4
-Yorsh	sip	0.2
+White Russian	tradit	0.1111111111111111
+White Russian	cocktail	0.5555555555555556
+White Russian	known	0.2222222222222222
+White Russian	black	0.1111111111111111
+White Russian	russian	0.8888888888888888
+White Russian	first	0.1111111111111111
+White Russian	appear	0.1111111111111111
+White Russian	1949	0.1111111111111111
+White Russian	becom	0.1111111111111111
+White Russian	white	0.6666666666666666
+White Russian	russian	0.8888888888888888
+White Russian	addit	0.1111111111111111
+White Russian	cream	1.0
+White Russian	neither	0.1111111111111111
+White Russian	drink	1.0
+White Russian	russian	0.8888888888888888
+White Russian	origin	0.1111111111111111
+White Russian	name	0.1111111111111111
+White Russian	due	0.1111111111111111
+White Russian	vodka	0.4444444444444444
+White Russian	primari	0.1111111111111111
+White Russian	ingredi	0.1111111111111111
+White Russian	unclear	0.1111111111111111
+White Russian	drink	1.0
+White Russian	preced	0.1111111111111111
+White Russian	white	0.6666666666666666
+White Russian	russian	0.8888888888888888
+White Russian	signatur	0.1111111111111111
+White Russian	drink	1.0
+White Russian	dude	0.5555555555555556
+White Russian	protagonist	0.1111111111111111
+White Russian	cult	0.1111111111111111
+White Russian	classic	0.2222222222222222
+White Russian	big	0.2222222222222222
+White Russian	lebowski	0.2222222222222222
+White Russian	movi	0.2222222222222222
+White Russian	dude	0.5555555555555556
+White Russian	refer	0.2222222222222222
+White Russian	caucasian	0.2222222222222222
+White Russian	cocktail	0.5555555555555556
+White Russian	promin	0.1111111111111111
+White Russian	film	0.1111111111111111
+White Russian	connect	0.1111111111111111
+White Russian	reviv	0.1111111111111111
+White Russian	popular	0.1111111111111111
+White Russian	white	0.6666666666666666
+White Russian	russian	0.8888888888888888
+White Russian	sweet	0.4444444444444444
+White Russian	cocktail	0.5555555555555556
+White Russian	classic	0.2222222222222222
+White Russian	made	0.1111111111111111
+White Russian	vodka	0.4444444444444444
+White Russian	coffe	0.1111111111111111
+White Russian	liqueur	0.1111111111111111
+White Russian	eg	0.1111111111111111
+White Russian	kahlua	0.3333333333333333
+White Russian	tia	0.1111111111111111
+White Russian	maria	0.1111111111111111
+White Russian	cream	1.0
+White Russian	serv	0.1111111111111111
+White Russian	ice	0.5555555555555556
+White Russian	old	0.1111111111111111
+White Russian	fashion	0.1111111111111111
+White Russian	glass	0.1111111111111111
+White Russian	modern	0.1111111111111111
+White Russian	time	0.1111111111111111
+White Russian	mani	0.1111111111111111
+White Russian	establish	0.1111111111111111
+White Russian	substitut	0.1111111111111111
+White Russian	milk	0.1111111111111111
+White Russian	cream	1.0
+White Russian	like	0.5555555555555556
+White Russian	liquid	0.1111111111111111
+White Russian	ice	0.5555555555555556
+White Russian	cream	1.0
+White Russian	key	0.1111111111111111
+White Russian	charact	0.1111111111111111
+White Russian	movi	0.2222222222222222
+White Russian	slacker	0.2222222222222222
+White Russian	known	0.2222222222222222
+White Russian	dude	0.5555555555555556
+White Russian	drink	1.0
+White Russian	often	0.1111111111111111
+White Russian	mix	0.1111111111111111
+White Russian	vodka	0.4444444444444444
+White Russian	kahlua	0.3333333333333333
+White Russian	sweet	0.4444444444444444
+White Russian	cream	1.0
+White Russian	drink	1.0
+White Russian	tast	0.2222222222222222
+White Russian	like	0.5555555555555556
+White Russian	boozi	0.3333333333333333
+White Russian	ice	0.5555555555555556
+White Russian	cream	1.0
+White Russian	big	0.2222222222222222
+White Russian	lebowski	0.2222222222222222
+White Russian	written	0.1111111111111111
+White Russian	produc	0.1111111111111111
+White Russian	direct	0.1111111111111111
+White Russian	coen	0.1111111111111111
+White Russian	brother	0.1111111111111111
+White Russian	joel	0.1111111111111111
+White Russian	ethan	0.1111111111111111
+White Russian	dude	0.5555555555555556
+White Russian	play	0.1111111111111111
+White Russian	jeff	0.1111111111111111
+White Russian	bridg	0.1111111111111111
+White Russian	unemploy	0.1111111111111111
+White Russian	slacker	0.2222222222222222
+White Russian	live	0.1111111111111111
+White Russian	los	0.1111111111111111
+White Russian	angel	0.1111111111111111
+White Russian	drink	1.0
+White Russian	white	0.6666666666666666
+White Russian	russian	0.8888888888888888
+White Russian	chief	0.1111111111111111
+White Russian	interest	0.1111111111111111
+White Russian	bowl	0.3333333333333333
+White Russian	hang	0.1111111111111111
+White Russian	dude	0.5555555555555556
+White Russian	refer	0.2222222222222222
+White Russian	white	0.6666666666666666
+White Russian	russian	0.8888888888888888
+White Russian	cocktail	0.5555555555555556
+White Russian	caucasian	0.2222222222222222
+White Russian	care	0.1111111111111111
+White Russian	man	0.1111111111111111
+White Russian	there	0.1111111111111111
+White Russian	beverag	0.1111111111111111
+White Russian	bowl	0.3333333333333333
+White Russian	said	0.1111111111111111
+White Russian	mrs	0.1111111111111111
+White Russian	k	0.1111111111111111
+White Russian	r	0.1111111111111111
+White Russian	fact	0.1111111111111111
+White Russian	part	0.1111111111111111
+White Russian	event	0.1111111111111111
+White Russian	take	0.1111111111111111
+White Russian	place	0.1111111111111111
+White Russian	bowl	0.3333333333333333
+White Russian	alley	0.1111111111111111
+White Russian	think	0.1111111111111111
+White Russian	prefer	0.1111111111111111
+White Russian	white	0.6666666666666666
+White Russian	russian	0.8888888888888888
+White Russian	smooth	0.1111111111111111
+White Russian	creami	0.2222222222222222
+White Russian	oh	0.2222222222222222
+White Russian	delici	0.3333333333333333
+White Russian	yes	0.1111111111111111
+White Russian	inde	0.1111111111111111
+White Russian	heavi	0.1111111111111111
+White Russian	calori	0.1111111111111111
+White Russian	oh	0.2222222222222222
+White Russian	worth	0.1111111111111111
+White Russian	drinkabl	0.1111111111111111
+White Russian	dessert	0.1111111111111111
+White Russian	fun	0.1111111111111111
+White Russian	boozi	0.3333333333333333
+White Russian	one	0.1111111111111111
+White Russian	parti	0.1111111111111111
+White Russian	mouth	0.1111111111111111
+White Russian	like	0.5555555555555556
+White Russian	drink	1.0
+White Russian	melt	0.1111111111111111
+White Russian	ice	0.5555555555555556
+White Russian	cream	1.0
+White Russian	terrif	0.1111111111111111
+White Russian	throw	0.1111111111111111
+White Russian	back	0.1111111111111111
+White Russian	recip	0.1111111111111111
+White Russian	vodka	0.4444444444444444
+White Russian	kahlua	0.3333333333333333
+White Russian	sweet	0.4444444444444444
+White Russian	cream	1.0
+White Russian	drink	1.0
+White Russian	tast	0.2222222222222222
+White Russian	like	0.5555555555555556
+White Russian	boozi	0.3333333333333333
+White Russian	ice	0.5555555555555556
+White Russian	cream	1.0
+White Russian	creami	0.2222222222222222
+White Russian	dreami	0.1111111111111111
+White Russian	good	0.1111111111111111
+White Russian	cocktail	0.5555555555555556
+White Russian	delici	0.3333333333333333
+White Russian	realli	0.1111111111111111
+White Russian	delici	0.3333333333333333
+White Russian	milkshak	0.1111111111111111
+White Russian	seem	0.1111111111111111
+White Russian	like	0.5555555555555556
+White Russian	sweet	0.4444444444444444
+White Russian	tasti	0.1111111111111111
+White Russian	drink	1.0
+Cachaca	cachaça	1.0
+Cachaca	invent	0.045454545454545456
+Cachaca	first	0.09090909090909091
+Cachaca	portugues	0.045454545454545456
+Cachaca	settler	0.045454545454545456
+Cachaca	brazil	0.22727272727272727
+Cachaca	region	0.045454545454545456
+Cachaca	around	0.045454545454545456
+Cachaca	town	0.045454545454545456
+Cachaca	são	0.13636363636363635
+Cachaca	vicent	0.045454545454545456
+Cachaca	sometim	0.045454545454545456
+Cachaca	1532	0.045454545454545456
+Cachaca	1548	0.045454545454545456
+Cachaca	worker	0.045454545454545456
+Cachaca	local	0.045454545454545456
+Cachaca	sugar	0.09090909090909091
+Cachaca	mill	0.13636363636363635
+Cachaca	first	0.09090909090909091
+Cachaca	discov	0.045454545454545456
+Cachaca	sugarcan	0.2727272727272727
+Cachaca	juic	0.2727272727272727
+Cachaca	garapa	0.09090909090909091
+Cachaca	cook	0.045454545454545456
+Cachaca	left	0.045454545454545456
+Cachaca	stand	0.045454545454545456
+Cachaca	would	0.045454545454545456
+Cachaca	sour	0.045454545454545456
+Cachaca	ferment	0.18181818181818182
+Cachaca	turn	0.045454545454545456
+Cachaca	mild	0.045454545454545456
+Cachaca	alcohol	0.13636363636363635
+Cachaca	beverag	0.09090909090909091
+Cachaca	product	0.2727272727272727
+Cachaca	disparag	0.045454545454545456
+Cachaca	name	0.045454545454545456
+Cachaca	cagaça	0.045454545454545456
+Cachaca	consum	0.18181818181818182
+Cachaca	slave	0.045454545454545456
+Cachaca	cheap	0.045454545454545456
+Cachaca	substitut	0.045454545454545456
+Cachaca	indian	0.045454545454545456
+Cachaca	cauim	0.045454545454545456
+Cachaca	soon	0.045454545454545456
+Cachaca	someon	0.045454545454545456
+Cachaca	idea	0.045454545454545456
+Cachaca	distil	0.2727272727272727
+Cachaca	thus	0.045454545454545456
+Cachaca	cachaça	1.0
+Cachaca	born	0.045454545454545456
+Cachaca	cachaça	1.0
+Cachaca	distilleri	0.045454545454545456
+Cachaca	multipli	0.045454545454545456
+Cachaca	coloni	0.09090909090909091
+Cachaca	brazil	0.22727272727272727
+Cachaca	16th	0.045454545454545456
+Cachaca	17th	0.045454545454545456
+Cachaca	centuri	0.09090909090909091
+Cachaca	portug	0.09090909090909091
+Cachaca	eventu	0.045454545454545456
+Cachaca	took	0.045454545454545456
+Cachaca	notic	0.045454545454545456
+Cachaca	order	0.045454545454545456
+Cachaca	protect	0.045454545454545456
+Cachaca	market	0.09090909090909091
+Cachaca	portuguesemad	0.045454545454545456
+Cachaca	grappa	0.045454545454545456
+Cachaca	bagaceira	0.045454545454545456
+Cachaca	tri	0.045454545454545456
+Cachaca	sever	0.045454545454545456
+Cachaca	time	0.09090909090909091
+Cachaca	outlaw	0.045454545454545456
+Cachaca	manufactur	0.045454545454545456
+Cachaca	consumpt	0.045454545454545456
+Cachaca	new	0.045454545454545456
+Cachaca	spirit	0.09090909090909091
+Cachaca	1756	0.045454545454545456
+Cachaca	centuri	0.09090909090909091
+Cachaca	failur	0.045454545454545456
+Cachaca	suppress	0.045454545454545456
+Cachaca	crown	0.045454545454545456
+Cachaca	gave	0.045454545454545456
+Cachaca	levi	0.045454545454545456
+Cachaca	tax	0.09090909090909091
+Cachaca	cachaça	1.0
+Cachaca	tax	0.09090909090909091
+Cachaca	brought	0.045454545454545456
+Cachaca	substanti	0.045454545454545456
+Cachaca	revenu	0.045454545454545456
+Cachaca	treasuri	0.045454545454545456
+Cachaca	contribut	0.045454545454545456
+Cachaca	reconstruct	0.045454545454545456
+Cachaca	lisbon	0.09090909090909091
+Cachaca	devast	0.045454545454545456
+Cachaca	earthquak	0.09090909090909091
+Cachaca	follow	0.045454545454545456
+Cachaca	tsunami	0.045454545454545456
+Cachaca	1755	0.045454545454545456
+Cachaca	lisbon	0.09090909090909091
+Cachaca	earthquak	0.09090909090909091
+Cachaca	current	0.045454545454545456
+Cachaca	4000	0.045454545454545456
+Cachaca	differ	0.09090909090909091
+Cachaca	brand	0.09090909090909091
+Cachaca	cachaça	1.0
+Cachaca	avail	0.045454545454545456
+Cachaca	brazil	0.22727272727272727
+Cachaca	earli	0.045454545454545456
+Cachaca	histori	0.045454545454545456
+Cachaca	consum	0.18181818181818182
+Cachaca	main	0.09090909090909091
+Cachaca	african	0.045454545454545456
+Cachaca	peasant	0.045454545454545456
+Cachaca	member	0.045454545454545456
+Cachaca	lower	0.09090909090909091
+Cachaca	class	0.18181818181818182
+Cachaca	often	0.09090909090909091
+Cachaca	case	0.045454545454545456
+Cachaca	elitist	0.045454545454545456
+Cachaca	consid	0.09090909090909091
+Cachaca	low	0.045454545454545456
+Cachaca	drink	0.13636363636363635
+Cachaca	unfit	0.045454545454545456
+Cachaca	exclusivist	0.045454545454545456
+Cachaca	bar	0.09090909090909091
+Cachaca	tabl	0.045454545454545456
+Cachaca	howev	0.09090909090909091
+Cachaca	finer	0.045454545454545456
+Cachaca	point	0.045454545454545456
+Cachaca	product	0.2727272727272727
+Cachaca	gain	0.045454545454545456
+Cachaca	wider	0.09090909090909091
+Cachaca	wider	0.09090909090909091
+Cachaca	appreci	0.045454545454545456
+Cachaca	popular	0.09090909090909091
+Cachaca	drink	0.13636363636363635
+Cachaca	consid	0.09090909090909091
+Cachaca	class	0.18181818181818182
+Cachaca	whiskey	0.045454545454545456
+Cachaca	wine	0.045454545454545456
+Cachaca	prize	0.045454545454545456
+Cachaca	brand	0.09090909090909091
+Cachaca	produc	0.13636363636363635
+Cachaca	são	0.13636363636363635
+Cachaca	paulo	0.09090909090909091
+Cachaca	ceará	0.09090909090909091
+Cachaca	pernambuco	0.045454545454545456
+Cachaca	mina	0.09090909090909091
+Cachaca	gerai	0.045454545454545456
+Cachaca	two	0.09090909090909091
+Cachaca	type	0.045454545454545456
+Cachaca	cachaça	1.0
+Cachaca	artisan	0.13636363636363635
+Cachaca	industri	0.18181818181818182
+Cachaca	artisan	0.13636363636363635
+Cachaca	cachaça	1.0
+Cachaca	produc	0.13636363636363635
+Cachaca	thousand	0.045454545454545456
+Cachaca	small	0.045454545454545456
+Cachaca	mill	0.13636363636363635
+Cachaca	spread	0.045454545454545456
+Cachaca	countri	0.045454545454545456
+Cachaca	mina	0.09090909090909091
+Cachaca	geraiss	0.045454545454545456
+Cachaca	state	0.09090909090909091
+Cachaca	respect	0.045454545454545456
+Cachaca	best	0.045454545454545456
+Cachaca	sourc	0.045454545454545456
+Cachaca	tradit	0.045454545454545456
+Cachaca	ferment	0.18181818181818182
+Cachaca	agent	0.045454545454545456
+Cachaca	maiz	0.045454545454545456
+Cachaca	flour	0.045454545454545456
+Cachaca	call	0.13636363636363635
+Cachaca	fubá	0.045454545454545456
+Cachaca	distil	0.2727272727272727
+Cachaca	unit	0.045454545454545456
+Cachaca	copper	0.045454545454545456
+Cachaca	pot	0.09090909090909091
+Cachaca	still	0.13636363636363635
+Cachaca	cachaça	1.0
+Cachaca	come	0.045454545454545456
+Cachaca	pot	0.09090909090909091
+Cachaca	still	0.13636363636363635
+Cachaca	3	0.045454545454545456
+Cachaca	batch	0.045454545454545456
+Cachaca	head	0.045454545454545456
+Cachaca	core	0.09090909090909091
+Cachaca	tail	0.045454545454545456
+Cachaca	maker	0.13636363636363635
+Cachaca	take	0.045454545454545456
+Cachaca	core	0.09090909090909091
+Cachaca	discard	0.045454545454545456
+Cachaca	two	0.09090909090909091
+Cachaca	undesir	0.045454545454545456
+Cachaca	compon	0.09090909090909091
+Cachaca	cachaça	1.0
+Cachaca	either	0.045454545454545456
+Cachaca	bottl	0.09090909090909091
+Cachaca	store	0.045454545454545456
+Cachaca	wood	0.09090909090909091
+Cachaca	barrel	0.09090909090909091
+Cachaca	age	0.13636363636363635
+Cachaca	cachaça	1.0
+Cachaca	age	0.13636363636363635
+Cachaca	barrel	0.09090909090909091
+Cachaca	made	0.22727272727272727
+Cachaca	great	0.045454545454545456
+Cachaca	varieti	0.045454545454545456
+Cachaca	nativ	0.045454545454545456
+Cachaca	exot	0.045454545454545456
+Cachaca	tree	0.045454545454545456
+Cachaca	chestnut	0.045454545454545456
+Cachaca	umburana	0.045454545454545456
+Cachaca	jequitibá	0.045454545454545456
+Cachaca	ipê	0.045454545454545456
+Cachaca	grápia	0.045454545454545456
+Cachaca	balsam	0.045454545454545456
+Cachaca	wood	0.09090909090909091
+Cachaca	almond	0.045454545454545456
+Cachaca	jatobá	0.045454545454545456
+Cachaca	guanandi	0.045454545454545456
+Cachaca	brazilwood	0.045454545454545456
+Cachaca	cabreúva	0.045454545454545456
+Cachaca	tibiriçá	0.045454545454545456
+Cachaca	garapeira	0.045454545454545456
+Cachaca	cherri	0.045454545454545456
+Cachaca	oak	0.045454545454545456
+Cachaca	maker	0.13636363636363635
+Cachaca	artesan	0.045454545454545456
+Cachaca	cachaça	1.0
+Cachaca	usual	0.045454545454545456
+Cachaca	bottl	0.09090909090909091
+Cachaca	product	0.2727272727272727
+Cachaca	sell	0.045454545454545456
+Cachaca	direct	0.045454545454545456
+Cachaca	market	0.09090909090909091
+Cachaca	consum	0.18181818181818182
+Cachaca	bar	0.09090909090909091
+Cachaca	restaur	0.045454545454545456
+Cachaca	supermarket	0.045454545454545456
+Cachaca	etc	0.045454545454545456
+Cachaca	domest	0.045454545454545456
+Cachaca	artisan	0.13636363636363635
+Cachaca	cachaça	1.0
+Cachaca	most	0.09090909090909091
+Cachaca	drunk	0.09090909090909091
+Cachaca	straight	0.09090909090909091
+Cachaca	consum	0.18181818181818182
+Cachaca	higher	0.045454545454545456
+Cachaca	econom	0.09090909090909091
+Cachaca	class	0.18181818181818182
+Cachaca	societi	0.045454545454545456
+Cachaca	industri	0.18181818181818182
+Cachaca	cachaça	1.0
+Cachaca	made	0.22727272727272727
+Cachaca	mediums	0.045454545454545456
+Cachaca	big	0.045454545454545456
+Cachaca	mill	0.13636363636363635
+Cachaca	most	0.09090909090909091
+Cachaca	locat	0.045454545454545456
+Cachaca	countrysid	0.045454545454545456
+Cachaca	são	0.13636363636363635
+Cachaca	paulo	0.09090909090909091
+Cachaca	ceará	0.09090909090909091
+Cachaca	state	0.09090909090909091
+Cachaca	industri	0.18181818181818182
+Cachaca	cachaça	1.0
+Cachaca	maker	0.13636363636363635
+Cachaca	use	0.13636363636363635
+Cachaca	column	0.045454545454545456
+Cachaca	still	0.13636363636363635
+Cachaca	process	0.09090909090909091
+Cachaca	ferment	0.18181818181818182
+Cachaca	sugarcan	0.2727272727272727
+Cachaca	juic	0.2727272727272727
+Cachaca	continu	0.045454545454545456
+Cachaca	distil	0.2727272727272727
+Cachaca	process	0.09090909090909091
+Cachaca	product	0.2727272727272727
+Cachaca	sold	0.045454545454545456
+Cachaca	raw	0.045454545454545456
+Cachaca	materi	0.045454545454545456
+Cachaca	cachaça	1.0
+Cachaca	bottler	0.09090909090909091
+Cachaca	51	0.09090909090909091
+Cachaca	velho	0.045454545454545456
+Cachaca	barreiro	0.045454545454545456
+Cachaca	tatuzinho	0.045454545454545456
+Cachaca	pitu	0.045454545454545456
+Cachaca	21	0.045454545454545456
+Cachaca	coloni	0.09090909090909091
+Cachaca	bottler	0.09090909090909091
+Cachaca	adjust	0.045454545454545456
+Cachaca	cachaça	1.0
+Cachaca	standard	0.045454545454545456
+Cachaca	ad	0.09090909090909091
+Cachaca	remov	0.045454545454545456
+Cachaca	compon	0.09090909090909091
+Cachaca	time	0.09090909090909091
+Cachaca	industri	0.18181818181818182
+Cachaca	cachaça	1.0
+Cachaca	age	0.13636363636363635
+Cachaca	drunk	0.09090909090909091
+Cachaca	straight	0.09090909090909091
+Cachaca	lower	0.09090909090909091
+Cachaca	econom	0.09090909090909091
+Cachaca	class	0.18181818181818182
+Cachaca	cachaca	0.045454545454545456
+Cachaca	popular	0.09090909090909091
+Cachaca	distil	0.2727272727272727
+Cachaca	alcohol	0.13636363636363635
+Cachaca	beverag	0.09090909090909091
+Cachaca	brazil	0.22727272727272727
+Cachaca	made	0.22727272727272727
+Cachaca	sugarcan	0.2727272727272727
+Cachaca	juic	0.2727272727272727
+Cachaca	also	0.045454545454545456
+Cachaca	call	0.13636363636363635
+Cachaca	garapa	0.09090909090909091
+Cachaca	legal	0.045454545454545456
+Cachaca	definit	0.045454545454545456
+Cachaca	cachaça	1.0
+Cachaca	say	0.045454545454545456
+Cachaca	cachaça	1.0
+Cachaca	product	0.2727272727272727
+Cachaca	distil	0.2727272727272727
+Cachaca	ferment	0.18181818181818182
+Cachaca	sugarcan	0.2727272727272727
+Cachaca	juic	0.2727272727272727
+Cachaca	alcohol	0.13636363636363635
+Cachaca	strength	0.045454545454545456
+Cachaca	38	0.045454545454545456
+Cachaca	51	0.09090909090909091
+Cachaca	volum	0.045454545454545456
+Cachaca	6	0.045454545454545456
+Cachaca	gr	0.045454545454545456
+Cachaca	per	0.045454545454545456
+Cachaca	liter	0.09090909090909091
+Cachaca	sugar	0.09090909090909091
+Cachaca	ad	0.09090909090909091
+Cachaca	cachaça	1.0
+Cachaca	often	0.09090909090909091
+Cachaca	said	0.045454545454545456
+Cachaca	differ	0.09090909090909091
+Cachaca	rum	0.22727272727272727
+Cachaca	made	0.22727272727272727
+Cachaca	sugarcan	0.2727272727272727
+Cachaca	juic	0.2727272727272727
+Cachaca	rum	0.22727272727272727
+Cachaca	made	0.22727272727272727
+Cachaca	molass	0.09090909090909091
+Cachaca	howev	0.09090909090909091
+Cachaca	number	0.045454545454545456
+Cachaca	rum	0.22727272727272727
+Cachaca	distil	0.2727272727272727
+Cachaca	use	0.13636363636363635
+Cachaca	sugarcan	0.2727272727272727
+Cachaca	juic	0.2727272727272727
+Cachaca	instead	0.045454545454545456
+Cachaca	molass	0.09090909090909091
+Cachaca	make	0.045454545454545456
+Cachaca	rum	0.22727272727272727
+Cachaca	rum	0.22727272727272727
+Cachaca	call	0.13636363636363635
+Cachaca	rhum	0.045454545454545456
+Cachaca	agricol	0.045454545454545456
+Cachaca	cachaça	1.0
+Cachaca	3rd	0.045454545454545456
+Cachaca	import	0.045454545454545456
+Cachaca	spirit	0.09090909090909091
+Cachaca	world	0.045454545454545456
+Cachaca	13	0.045454545454545456
+Cachaca	billion	0.045454545454545456
+Cachaca	liter	0.09090909090909091
+Cachaca	produc	0.13636363636363635
+Cachaca	year	0.045454545454545456
+Cachaca	15	0.045454545454545456
+Cachaca	product	0.2727272727272727
+Cachaca	export	0.045454545454545456
+Cachaca	main	0.09090909090909091
+Cachaca	portug	0.09090909090909091
+Cachaca	paraguay	0.045454545454545456
+Cachaca	germani	0.045454545454545456
+Cachaca	outsid	0.045454545454545456
+Cachaca	brazil	0.22727272727272727
+Cachaca	cachaça	1.0
+Cachaca	use	0.13636363636363635
+Cachaca	almost	0.045454545454545456
+Cachaca	exclus	0.045454545454545456
+Cachaca	ingredi	0.045454545454545456
+Cachaca	tropic	0.045454545454545456
+Cachaca	drink	0.13636363636363635
+Cachaca	caipirinha	0.045454545454545456
+Cachaca	famous	0.045454545454545456
+Screwdriver	drink	1.0
+Screwdriver	appear	0.2
+Screwdriver	literatur	0.2
+Screwdriver	earli	0.2
+Screwdriver	1938	0.2
+Screwdriver	answer	0.2
+Screwdriver	famous	0.2
+Screwdriver	smirnoff	0.4
+Screwdriver	screwdriv	0.6
+Screwdriver	pour	0.2
+Screwdriver	jigger	0.2
+Screwdriver	smirnoff	0.4
+Screwdriver	vodka	0.6
+Screwdriver	ice	0.2
+Screwdriver	cube	0.2
+Screwdriver	fill	0.2
+Screwdriver	glass	0.2
+Screwdriver	orang	1.0
+Screwdriver	juic	0.8
+Screwdriver	serv	0.2
+Screwdriver	later	0.2
+Screwdriver	claim	0.2
+Screwdriver	drink	1.0
+Screwdriver	invent	0.2
+Screwdriver	american	0.4
+Screwdriver	aviat	0.2
+Screwdriver	screwdriv	0.6
+Screwdriver	half	0.2
+Screwdriver	orang	1.0
+Screwdriver	juic	0.8
+Screwdriver	halfvodka	0.2
+Screwdriver	drink	1.0
+Screwdriver	popular	0.4
+Screwdriver	intern	0.4
+Screwdriver	american	0.4
+Screwdriver	aviatorscost	0.2
+Screwdriver	dollar	0.2
+Screwdriver	includ	0.2
+Screwdriver	customari	0.2
+Screwdriver	barman	0.2
+Screwdriver	tip	0.2
+Screwdriver	screwdriv	0.6
+Screwdriver	popular	0.4
+Screwdriver	alcohol	0.2
+Screwdriver	highbal	0.2
+Screwdriver	drink	1.0
+Screwdriver	made	0.4
+Screwdriver	orang	1.0
+Screwdriver	juic	0.8
+Screwdriver	vodka	0.6
+Screwdriver	basic	0.2
+Screwdriver	drink	1.0
+Screwdriver	simpli	0.2
+Screwdriver	two	0.2
+Screwdriver	ingredi	0.2
+Screwdriver	mani	0.4
+Screwdriver	variat	0.4
+Screwdriver	common	0.2
+Screwdriver	one	0.8
+Screwdriver	made	0.4
+Screwdriver	one	0.8
+Screwdriver	part	0.8
+Screwdriver	vodka	0.6
+Screwdriver	one	0.8
+Screwdriver	part	0.8
+Screwdriver	kind	0.2
+Screwdriver	orang	1.0
+Screwdriver	soda	0.2
+Screwdriver	one	0.8
+Screwdriver	part	0.8
+Screwdriver	orang	1.0
+Screwdriver	juic	0.8
+Screwdriver	mani	0.4
+Screwdriver	variat	0.4
+Screwdriver	differ	0.4
+Screwdriver	name	0.2
+Screwdriver	differ	0.4
+Screwdriver	part	0.8
+Screwdriver	world	0.2
+Screwdriver	intern	0.4
+Screwdriver	bartend	0.2
+Screwdriver	associ	0.2
+Screwdriver	design	0.2
+Screwdriver	cocktail	0.4
+Screwdriver	iba	0.2
+Screwdriver	offici	0.2
+Screwdriver	cocktail	0.4
+Rum	origin	0.02702702702702703
+Rum	word	0.08108108108108109
+Rum	rum	1.0
+Rum	unclear	0.02702702702702703
+Rum	common	0.08108108108108109
+Rum	claim	0.05405405405405406
+Rum	name	0.05405405405405406
+Rum	deriv	0.02702702702702703
+Rum	rumbullion	0.02702702702702703
+Rum	mean	0.02702702702702703
+Rum	great	0.02702702702702703
+Rum	tumult	0.02702702702702703
+Rum	uproar	0.02702702702702703
+Rum	anoth	0.02702702702702703
+Rum	claim	0.05405405405405406
+Rum	name	0.05405405405405406
+Rum	larg	0.02702702702702703
+Rum	drink	0.1891891891891892
+Rum	glass	0.05405405405405406
+Rum	use	0.16216216216216217
+Rum	dutch	0.05405405405405406
+Rum	seamen	0.02702702702702703
+Rum	known	0.05405405405405406
+Rum	rummer	0.02702702702702703
+Rum	dutch	0.05405405405405406
+Rum	word	0.08108108108108109
+Rum	roemer	0.02702702702702703
+Rum	drink	0.1891891891891892
+Rum	glass	0.05405405405405406
+Rum	option	0.02702702702702703
+Rum	includ	0.05405405405405406
+Rum	contract	0.02702702702702703
+Rum	word	0.08108108108108109
+Rum	saccharum	0.02702702702702703
+Rum	latin	0.02702702702702703
+Rum	sugar	0.05405405405405406
+Rum	arôm	0.02702702702702703
+Rum	french	0.02702702702702703
+Rum	aroma	0.02702702702702703
+Rum	precursor	0.02702702702702703
+Rum	rum	1.0
+Rum	date	0.05405405405405406
+Rum	back	0.05405405405405406
+Rum	antiqu	0.02702702702702703
+Rum	develop	0.02702702702702703
+Rum	ferment	0.08108108108108109
+Rum	drink	0.1891891891891892
+Rum	produc	0.16216216216216217
+Rum	sugarcan	0.10810810810810811
+Rum	juic	0.05405405405405406
+Rum	believ	0.02702702702702703
+Rum	first	0.10810810810810811
+Rum	occur	0.08108108108108109
+Rum	either	0.05405405405405406
+Rum	ancient	0.02702702702702703
+Rum	india	0.05405405405405406
+Rum	china	0.02702702702702703
+Rum	spread	0.02702702702702703
+Rum	exampl	0.05405405405405406
+Rum	earli	0.02702702702702703
+Rum	drink	0.1891891891891892
+Rum	brum	0.05405405405405406
+Rum	produc	0.16216216216216217
+Rum	malay	0.02702702702702703
+Rum	peopl	0.02702702702702703
+Rum	brum	0.05405405405405406
+Rum	date	0.05405405405405406
+Rum	back	0.05405405405405406
+Rum	thousand	0.02702702702702703
+Rum	year	0.02702702702702703
+Rum	first	0.10810810810810811
+Rum	distil	0.13513513513513514
+Rum	rum	1.0
+Rum	took	0.02702702702702703
+Rum	place	0.05405405405405406
+Rum	sugarcan	0.10810810810810811
+Rum	plantat	0.08108108108108109
+Rum	caribbean	0.05405405405405406
+Rum	1600s	0.02702702702702703
+Rum	plantat	0.08108108108108109
+Rum	slave	0.05405405405405406
+Rum	first	0.10810810810810811
+Rum	discov	0.02702702702702703
+Rum	molass	0.08108108108108109
+Rum	byproduct	0.08108108108108109
+Rum	sugar	0.05405405405405406
+Rum	refin	0.02702702702702703
+Rum	process	0.05405405405405406
+Rum	ferment	0.08108108108108109
+Rum	alcohol	0.10810810810810811
+Rum	later	0.02702702702702703
+Rum	distil	0.13513513513513514
+Rum	alcohol	0.10810810810810811
+Rum	byproduct	0.08108108108108109
+Rum	concentr	0.02702702702702703
+Rum	alcohol	0.10810810810810811
+Rum	remov	0.05405405405405406
+Rum	impur	0.02702702702702703
+Rum	produc	0.16216216216216217
+Rum	first	0.10810810810810811
+Rum	true	0.02702702702702703
+Rum	rum	1.0
+Rum	richard	0.02702702702702703
+Rum	ligon	0.02702702702702703
+Rum	wrote	0.02702702702702703
+Rum	1647	0.02702702702702703
+Rum	slave	0.05405405405405406
+Rum	plantat	0.08108108108108109
+Rum	barbado	0.02702702702702703
+Rum	would	0.02702702702702703
+Rum	consum	0.02702702702702703
+Rum	killdevil	0.02702702702702703
+Rum	describ	0.08108108108108109
+Rum	hot	0.02702702702702703
+Rum	hellish	0.02702702702702703
+Rum	terribl	0.02702702702702703
+Rum	liquor	0.02702702702702703
+Rum	grade	0.05405405405405406
+Rum	variat	0.08108108108108109
+Rum	use	0.16216216216216217
+Rum	describ	0.08108108108108109
+Rum	rum	1.0
+Rum	depend	0.02702702702702703
+Rum	locat	0.02702702702702703
+Rum	rum	1.0
+Rum	produc	0.16216216216216217
+Rum	despit	0.02702702702702703
+Rum	variat	0.08108108108108109
+Rum	follow	0.02702702702702703
+Rum	term	0.02702702702702703
+Rum	frequent	0.02702702702702703
+Rum	use	0.16216216216216217
+Rum	describ	0.08108108108108109
+Rum	various	0.02702702702702703
+Rum	type	0.05405405405405406
+Rum	rum	1.0
+Rum	light	0.13513513513513514
+Rum	rum	1.0
+Rum	also	0.08108108108108109
+Rum	refer	0.02702702702702703
+Rum	light	0.13513513513513514
+Rum	silver	0.02702702702702703
+Rum	white	0.02702702702702703
+Rum	rum	1.0
+Rum	general	0.16216216216216217
+Rum	light	0.13513513513513514
+Rum	rum	1.0
+Rum	littl	0.02702702702702703
+Rum	flavor	0.13513513513513514
+Rum	asid	0.02702702702702703
+Rum	general	0.16216216216216217
+Rum	sweet	0.02702702702702703
+Rum	serv	0.05405405405405406
+Rum	accord	0.02702702702702703
+Rum	base	0.02702702702702703
+Rum	cocktail	0.02702702702702703
+Rum	light	0.13513513513513514
+Rum	rum	1.0
+Rum	sometim	0.02702702702702703
+Rum	filter	0.02702702702702703
+Rum	age	0.16216216216216217
+Rum	remov	0.05405405405405406
+Rum	color	0.08108108108108109
+Rum	gold	0.08108108108108109
+Rum	rum	1.0
+Rum	also	0.08108108108108109
+Rum	call	0.02702702702702703
+Rum	amber	0.02702702702702703
+Rum	rum	1.0
+Rum	mediumbodi	0.02702702702702703
+Rum	rum	1.0
+Rum	general	0.16216216216216217
+Rum	age	0.16216216216216217
+Rum	rum	1.0
+Rum	obtain	0.02702702702702703
+Rum	flavor	0.13513513513513514
+Rum	addit	0.05405405405405406
+Rum	spice	0.13513513513513514
+Rum	caramelcolor	0.02702702702702703
+Rum	variat	0.08108108108108109
+Rum	often	0.02702702702702703
+Rum	sold	0.02702702702702703
+Rum	spice	0.13513513513513514
+Rum	rum	1.0
+Rum	histor	0.02702702702702703
+Rum	gain	0.02702702702702703
+Rum	darker	0.05405405405405406
+Rum	color	0.08108108108108109
+Rum	age	0.16216216216216217
+Rum	wooden	0.02702702702702703
+Rum	cask	0.05405405405405406
+Rum	typic	0.02702702702702703
+Rum	oak	0.05405405405405406
+Rum	dark	0.08108108108108109
+Rum	rum	1.0
+Rum	also	0.08108108108108109
+Rum	known	0.05405405405405406
+Rum	black	0.02702702702702703
+Rum	rum	1.0
+Rum	class	0.02702702702702703
+Rum	grade	0.05405405405405406
+Rum	darker	0.05405405405405406
+Rum	gold	0.08108108108108109
+Rum	rum	1.0
+Rum	general	0.16216216216216217
+Rum	age	0.16216216216216217
+Rum	longer	0.02702702702702703
+Rum	heavili	0.02702702702702703
+Rum	char	0.02702702702702703
+Rum	barrel	0.02702702702702703
+Rum	dark	0.08108108108108109
+Rum	rum	1.0
+Rum	much	0.05405405405405406
+Rum	stronger	0.02702702702702703
+Rum	flavor	0.13513513513513514
+Rum	either	0.05405405405405406
+Rum	light	0.13513513513513514
+Rum	gold	0.08108108108108109
+Rum	rum	1.0
+Rum	hint	0.02702702702702703
+Rum	spice	0.13513513513513514
+Rum	detect	0.02702702702702703
+Rum	along	0.05405405405405406
+Rum	strong	0.02702702702702703
+Rum	molass	0.08108108108108109
+Rum	caramel	0.02702702702702703
+Rum	overton	0.02702702702702703
+Rum	use	0.16216216216216217
+Rum	provid	0.02702702702702703
+Rum	substanc	0.02702702702702703
+Rum	rum	1.0
+Rum	drink	0.1891891891891892
+Rum	well	0.02702702702702703
+Rum	color	0.08108108108108109
+Rum	addit	0.05405405405405406
+Rum	use	0.16216216216216217
+Rum	mix	0.02702702702702703
+Rum	drink	0.1891891891891892
+Rum	dark	0.08108108108108109
+Rum	rum	1.0
+Rum	type	0.05405405405405406
+Rum	rum	1.0
+Rum	common	0.08108108108108109
+Rum	use	0.16216216216216217
+Rum	cook	0.02702702702702703
+Rum	flavor	0.13513513513513514
+Rum	rum	1.0
+Rum	manufactur	0.02702702702702703
+Rum	begun	0.02702702702702703
+Rum	sell	0.05405405405405406
+Rum	rum	1.0
+Rum	infus	0.02702702702702703
+Rum	flavor	0.13513513513513514
+Rum	spice	0.13513513513513514
+Rum	fruit	0.02702702702702703
+Rum	mango	0.02702702702702703
+Rum	orang	0.02702702702702703
+Rum	citrus	0.02702702702702703
+Rum	coconut	0.05405405405405406
+Rum	lime	0.02702702702702703
+Rum	serv	0.05405405405405406
+Rum	flavour	0.02702702702702703
+Rum	similar	0.02702702702702703
+Rum	theme	0.02702702702702703
+Rum	tropic	0.02702702702702703
+Rum	drink	0.1891891891891892
+Rum	general	0.16216216216216217
+Rum	compris	0.02702702702702703
+Rum	less	0.02702702702702703
+Rum	40	0.05405405405405406
+Rum	abv	0.02702702702702703
+Rum	exampl	0.05405405405405406
+Rum	includ	0.05405405405405406
+Rum	captain	0.02702702702702703
+Rum	morgan	0.02702702702702703
+Rum	spice	0.13513513513513514
+Rum	rum	1.0
+Rum	parrot	0.02702702702702703
+Rum	bay	0.02702702702702703
+Rum	coconut	0.05405405405405406
+Rum	rum	1.0
+Rum	redrum	0.02702702702702703
+Rum	overproof	0.02702702702702703
+Rum	rum	1.0
+Rum	rum	1.0
+Rum	much	0.05405405405405406
+Rum	higher	0.02702702702702703
+Rum	standard	0.02702702702702703
+Rum	40	0.05405405405405406
+Rum	alcohol	0.10810810810810811
+Rum	rum	1.0
+Rum	bear	0.02702702702702703
+Rum	greater	0.02702702702702703
+Rum	75	0.02702702702702703
+Rum	fact	0.02702702702702703
+Rum	prepar	0.02702702702702703
+Rum	151	0.02702702702702703
+Rum	160	0.02702702702702703
+Rum	proof	0.02702702702702703
+Rum	occur	0.08108108108108109
+Rum	common	0.08108108108108109
+Rum	premium	0.05405405405405406
+Rum	rum	1.0
+Rum	sip	0.02702702702702703
+Rum	spirit	0.05405405405405406
+Rum	cognac	0.02702702702702703
+Rum	scotch	0.02702702702702703
+Rum	market	0.02702702702702703
+Rum	exist	0.02702702702702703
+Rum	premium	0.05405405405405406
+Rum	superpremium	0.02702702702702703
+Rum	spirit	0.05405405405405406
+Rum	general	0.16216216216216217
+Rum	boutiqu	0.02702702702702703
+Rum	brand	0.02702702702702703
+Rum	sell	0.05405405405405406
+Rum	age	0.16216216216216217
+Rum	care	0.02702702702702703
+Rum	produc	0.16216216216216217
+Rum	rum	1.0
+Rum	rum	1.0
+Rum	distil	0.13513513513513514
+Rum	beverag	0.02702702702702703
+Rum	made	0.02702702702702703
+Rum	sugarcan	0.10810810810810811
+Rum	byproduct	0.08108108108108109
+Rum	molass	0.08108108108108109
+Rum	sugarcan	0.10810810810810811
+Rum	juic	0.05405405405405406
+Rum	process	0.05405405405405406
+Rum	ferment	0.08108108108108109
+Rum	distil	0.13513513513513514
+Rum	distil	0.13513513513513514
+Rum	clear	0.02702702702702703
+Rum	liquid	0.02702702702702703
+Rum	usual	0.02702702702702703
+Rum	age	0.16216216216216217
+Rum	oak	0.05405405405405406
+Rum	cask	0.05405405405405406
+Rum	rum	1.0
+Rum	produc	0.16216216216216217
+Rum	place	0.05405405405405406
+Rum	australia	0.02702702702702703
+Rum	india	0.05405405405405406
+Rum	reunion	0.02702702702702703
+Rum	island	0.05405405405405406
+Rum	elsewher	0.02702702702702703
+Rum	around	0.05405405405405406
+Rum	world	0.02702702702702703
+Rum	major	0.02702702702702703
+Rum	rum	1.0
+Rum	product	0.02702702702702703
+Rum	occur	0.08108108108108109
+Rum	around	0.05405405405405406
+Rum	caribbean	0.05405405405405406
+Rum	along	0.05405405405405406
+Rum	demerara	0.02702702702702703
+Rum	river	0.02702702702702703
+Rum	south	0.02702702702702703
+Rum	america	0.02702702702702703
+Rum	rum	1.0
+Rum	play	0.02702702702702703
+Rum	part	0.02702702702702703
+Rum	cultur	0.02702702702702703
+Rum	island	0.05405405405405406
+Rum	west	0.02702702702702703
+Rum	indi	0.02702702702702703
+Rum	famous	0.02702702702702703
+Rum	associ	0.02702702702702703
+Rum	british	0.02702702702702703
+Rum	royal	0.02702702702702703
+Rum	navi	0.02702702702702703
+Rum	piraci	0.02702702702702703
+Cosmopolitan	juici	0.4
+Cosmopolitan	cosmo	0.4
+Cosmopolitan	popular	0.6
+Cosmopolitan	among	0.2
+Cosmopolitan	young	0.2
+Cosmopolitan	women	0.2
+Cosmopolitan	frequent	0.2
+Cosmopolitan	mention	0.2
+Cosmopolitan	televis	0.2
+Cosmopolitan	program	0.2
+Cosmopolitan	sex	0.2
+Cosmopolitan	citi	0.2
+Cosmopolitan	sarah	0.2
+Cosmopolitan	jessica	0.2
+Cosmopolitan	parker	0.2
+Cosmopolitan	charact	0.2
+Cosmopolitan	carri	0.4
+Cosmopolitan	bradshaw	0.2
+Cosmopolitan	common	0.2
+Cosmopolitan	order	0.2
+Cosmopolitan	drink	0.6
+Cosmopolitan	girlfriend	0.2
+Cosmopolitan	film	0.2
+Cosmopolitan	adapt	0.2
+Cosmopolitan	made	0.4
+Cosmopolitan	refer	0.2
+Cosmopolitan	popular	0.6
+Cosmopolitan	miranda	0.2
+Cosmopolitan	ask	0.2
+Cosmopolitan	stop	0.2
+Cosmopolitan	drink	0.6
+Cosmopolitan	carri	0.4
+Cosmopolitan	repli	0.2
+Cosmopolitan	everyon	0.2
+Cosmopolitan	els	0.2
+Cosmopolitan	start	0.2
+Cosmopolitan	cosmopolitan	1.0
+Cosmopolitan	inform	0.2
+Cosmopolitan	cosmo	0.4
+Cosmopolitan	cocktail	0.2
+Cosmopolitan	made	0.4
+Cosmopolitan	vodka	0.4
+Cosmopolitan	tripl	0.2
+Cosmopolitan	sec	0.2
+Cosmopolitan	cranberri	0.6
+Cosmopolitan	juic	0.6
+Cosmopolitan	fresh	0.2
+Cosmopolitan	squeez	0.2
+Cosmopolitan	sweeten	0.2
+Cosmopolitan	lime	0.2
+Cosmopolitan	juic	0.6
+Cosmopolitan	drink	0.6
+Cosmopolitan	frothi	0.2
+Cosmopolitan	bright	0.2
+Cosmopolitan	pink	0.2
+Cosmopolitan	colour	0.2
+Cosmopolitan	accord	0.2
+Cosmopolitan	intern	0.2
+Cosmopolitan	bartend	0.2
+Cosmopolitan	associ	0.2
+Cosmopolitan	origin	0.2
+Cosmopolitan	recip	0.2
+Cosmopolitan	base	0.2
+Cosmopolitan	vodka	0.4
+Cosmopolitan	citron	0.2
+Cosmopolitan	cosmopolitan	1.0
+Cosmopolitan	relat	0.2
+Cosmopolitan	cranberri	0.6
+Cosmopolitan	cooler	0.2
+Cosmopolitan	like	0.2
+Cosmopolitan	cape	0.2
+Cosmopolitan	codder	0.2
+Cosmopolitan	cosmopolitan	1.0
+Cosmopolitan	gain	0.2
+Cosmopolitan	popular	0.6
+Cosmopolitan	1990s	0.2
+Cosmopolitan	sweet	0.4
+Cosmopolitan	fruiti	0.2
+Cosmopolitan	juici	0.4
+Cosmopolitan	strong	0.2
+Cosmopolitan	quit	0.2
+Cosmopolitan	sweet	0.4
+Cosmopolitan	first	0.2
+Cosmopolitan	alway	0.2
+Cosmopolitan	use	0.2
+Cosmopolitan	cointreau	0.2
+Cosmopolitan	second	0.2
+Cosmopolitan	cranberri	0.6
+Cosmopolitan	juic	0.6
+Cosmopolitan	most	0.2
+Cosmopolitan	color	0.4
+Cosmopolitan	littl	0.2
+Cosmopolitan	bit	0.2
+Cosmopolitan	tast	0.2
+Cosmopolitan	cosmopolitan	1.0
+Cosmopolitan	reddish	0.2
+Cosmopolitan	hue	0.2
+Cosmopolitan	transluc	0.2
+Cosmopolitan	solid	0.2
+Cosmopolitan	red	0.2
+Cosmopolitan	color	0.4
+Cosmopolitan	best	0.2
+Cosmopolitan	cosmopolitan	1.0
+Cosmopolitan	ive	0.2
+Cosmopolitan	tini	0.2
+Cosmopolitan	ice	0.2
+Cosmopolitan	crystal	0.2
+Cosmopolitan	float	0.2
+Cosmopolitan	top	0.2
+Cognac	cognac	1.0
+Cognac	made	0.2857142857142857
+Cognac	eauxdevi	0.42857142857142855
+Cognac	liter	0.07142857142857142
+Cognac	water	0.14285714285714285
+Cognac	life	0.07142857142857142
+Cognac	produc	0.5
+Cognac	doubli	0.07142857142857142
+Cognac	distil	0.5
+Cognac	white	0.07142857142857142
+Cognac	wine	0.42857142857142855
+Cognac	produc	0.5
+Cognac	growth	0.07142857142857142
+Cognac	area	0.14285714285714285
+Cognac	wine	0.42857142857142855
+Cognac	dri	0.07142857142857142
+Cognac	acid	0.07142857142857142
+Cognac	thin	0.07142857142857142
+Cognac	wine	0.42857142857142855
+Cognac	realli	0.07142857142857142
+Cognac	suitabl	0.07142857142857142
+Cognac	drink	0.07142857142857142
+Cognac	excel	0.07142857142857142
+Cognac	distil	0.5
+Cognac	may	0.14285714285714285
+Cognac	made	0.2857142857142857
+Cognac	strict	0.07142857142857142
+Cognac	list	0.07142857142857142
+Cognac	grape	0.2857142857142857
+Cognac	varieti	0.07142857142857142
+Cognac	distil	0.5
+Cognac	take	0.07142857142857142
+Cognac	place	0.07142857142857142
+Cognac	tradit	0.07142857142857142
+Cognac	shape	0.07142857142857142
+Cognac	charentai	0.07142857142857142
+Cognac	copper	0.14285714285714285
+Cognac	still	0.14285714285714285
+Cognac	design	0.07142857142857142
+Cognac	dimens	0.07142857142857142
+Cognac	also	0.21428571428571427
+Cognac	control	0.07142857142857142
+Cognac	two	0.21428571428571427
+Cognac	distil	0.5
+Cognac	must	0.2857142857142857
+Cognac	carri	0.07142857142857142
+Cognac	result	0.07142857142857142
+Cognac	eaudevi	0.21428571428571427
+Cognac	colourless	0.07142857142857142
+Cognac	spirit	0.14285714285714285
+Cognac	70	0.07142857142857142
+Cognac	percent	0.21428571428571427
+Cognac	alcohol	0.2857142857142857
+Cognac	cognac	1.0
+Cognac	may	0.14285714285714285
+Cognac	sold	0.14285714285714285
+Cognac	public	0.07142857142857142
+Cognac	inde	0.07142857142857142
+Cognac	call	0.14285714285714285
+Cognac	cognac	1.0
+Cognac	age	0.5714285714285714
+Cognac	least	0.42857142857142855
+Cognac	two	0.21428571428571427
+Cognac	year	0.8571428571428571
+Cognac	count	0.07142857142857142
+Cognac	end	0.07142857142857142
+Cognac	period	0.07142857142857142
+Cognac	distil	0.5
+Cognac	1	0.07142857142857142
+Cognac	april	0.07142857142857142
+Cognac	follow	0.07142857142857142
+Cognac	year	0.8571428571428571
+Cognac	grape	0.2857142857142857
+Cognac	harvest	0.07142857142857142
+Cognac	age	0.5714285714285714
+Cognac	larg	0.07142857142857142
+Cognac	percentag	0.07142857142857142
+Cognac	alcohol	0.2857142857142857
+Cognac	water	0.14285714285714285
+Cognac	eauxdevi	0.42857142857142855
+Cognac	evapor	0.07142857142857142
+Cognac	porous	0.07142857142857142
+Cognac	oak	0.21428571428571427
+Cognac	barrel	0.2857142857142857
+Cognac	term	0.07142857142857142
+Cognac	local	0.14285714285714285
+Cognac	part	0.07142857142857142
+Cognac	des	0.07142857142857142
+Cognac	ang	0.07142857142857142
+Cognac	angel	0.07142857142857142
+Cognac	share	0.07142857142857142
+Cognac	phrase	0.07142857142857142
+Cognac	also	0.21428571428571427
+Cognac	use	0.14285714285714285
+Cognac	scotch	0.07142857142857142
+Cognac	whiski	0.07142857142857142
+Cognac	product	0.14285714285714285
+Cognac	black	0.07142857142857142
+Cognac	fungus	0.07142857142857142
+Cognac	baudoinia	0.07142857142857142
+Cognac	compniacensi	0.14285714285714285
+Cognac	richon	0.14285714285714285
+Cognac	ja	0.07142857142857142
+Cognac	scott	0.07142857142857142
+Cognac	unterein	0.07142857142857142
+Cognac	torula	0.07142857142857142
+Cognac	compniacensi	0.14285714285714285
+Cognac	richon	0.14285714285714285
+Cognac	thrive	0.07142857142857142
+Cognac	alcohol	0.2857142857142857
+Cognac	vapour	0.07142857142857142
+Cognac	normal	0.07142857142857142
+Cognac	grow	0.07142857142857142
+Cognac	wall	0.07142857142857142
+Cognac	age	0.5714285714285714
+Cognac	cellar	0.14285714285714285
+Cognac	final	0.07142857142857142
+Cognac	product	0.14285714285714285
+Cognac	dilut	0.07142857142857142
+Cognac	40	0.14285714285714285
+Cognac	percent	0.21428571428571427
+Cognac	alcohol	0.2857142857142857
+Cognac	content	0.07142857142857142
+Cognac	80	0.07142857142857142
+Cognac	proof	0.07142857142857142
+Cognac	age	0.5714285714285714
+Cognac	cognac	1.0
+Cognac	shown	0.07142857142857142
+Cognac	youngest	0.2857142857142857
+Cognac	eaudevi	0.21428571428571427
+Cognac	use	0.14285714285714285
+Cognac	blend	0.5
+Cognac	blend	0.5
+Cognac	usual	0.07142857142857142
+Cognac	differ	0.21428571428571427
+Cognac	age	0.5714285714285714
+Cognac	differ	0.21428571428571427
+Cognac	local	0.14285714285714285
+Cognac	area	0.14285714285714285
+Cognac	blend	0.5
+Cognac	marriag	0.07142857142857142
+Cognac	differ	0.21428571428571427
+Cognac	eauxdevi	0.42857142857142855
+Cognac	import	0.07142857142857142
+Cognac	obtain	0.07142857142857142
+Cognac	complex	0.07142857142857142
+Cognac	flavour	0.07142857142857142
+Cognac	absent	0.07142857142857142
+Cognac	eaudevi	0.21428571428571427
+Cognac	singl	0.07142857142857142
+Cognac	distilleri	0.07142857142857142
+Cognac	vineyard	0.07142857142857142
+Cognac	cognac	1.0
+Cognac	hous	0.14285714285714285
+Cognac	master	0.14285714285714285
+Cognac	taster	0.07142857142857142
+Cognac	matr	0.07142857142857142
+Cognac	de	0.14285714285714285
+Cognac	chai	0.07142857142857142
+Cognac	respons	0.07142857142857142
+Cognac	creat	0.07142857142857142
+Cognac	delic	0.07142857142857142
+Cognac	blend	0.5
+Cognac	spirit	0.14285714285714285
+Cognac	cognac	1.0
+Cognac	produc	0.5
+Cognac	compani	0.21428571428571427
+Cognac	today	0.07142857142857142
+Cognac	tast	0.07142857142857142
+Cognac	exact	0.07142857142857142
+Cognac	cognac	1.0
+Cognac	produc	0.5
+Cognac	compani	0.21428571428571427
+Cognac	50	0.14285714285714285
+Cognac	year	0.8571428571428571
+Cognac	ago	0.07142857142857142
+Cognac	50	0.14285714285714285
+Cognac	year	0.8571428571428571
+Cognac	time	0.07142857142857142
+Cognac	grade	0.07142857142857142
+Cognac	includ	0.14285714285714285
+Cognac	vs	0.07142857142857142
+Cognac	special	0.07142857142857142
+Cognac	three	0.07142857142857142
+Cognac	star	0.07142857142857142
+Cognac	youngest	0.2857142857142857
+Cognac	brandi	0.2857142857142857
+Cognac	store	0.21428571428571427
+Cognac	least	0.42857142857142855
+Cognac	two	0.21428571428571427
+Cognac	year	0.8571428571428571
+Cognac	cask	0.21428571428571427
+Cognac	vsop	0.07142857142857142
+Cognac	superior	0.07142857142857142
+Cognac	old	0.35714285714285715
+Cognac	pale	0.07142857142857142
+Cognac	serv	0.07142857142857142
+Cognac	youngest	0.2857142857142857
+Cognac	brandi	0.2857142857142857
+Cognac	store	0.21428571428571427
+Cognac	least	0.42857142857142855
+Cognac	four	0.07142857142857142
+Cognac	year	0.8571428571428571
+Cognac	cask	0.21428571428571427
+Cognac	xo	0.07142857142857142
+Cognac	extra	0.07142857142857142
+Cognac	old	0.35714285714285715
+Cognac	napoleon	0.07142857142857142
+Cognac	hor	0.07142857142857142
+Cognac	dage	0.07142857142857142
+Cognac	youngest	0.2857142857142857
+Cognac	brandi	0.2857142857142857
+Cognac	store	0.21428571428571427
+Cognac	least	0.42857142857142855
+Cognac	seven	0.07142857142857142
+Cognac	year	0.8571428571428571
+Cognac	cask	0.21428571428571427
+Cognac	cognac	1.0
+Cognac	hous	0.14285714285714285
+Cognac	also	0.21428571428571427
+Cognac	produc	0.5
+Cognac	premiumlevel	0.07142857142857142
+Cognac	cognac	1.0
+Cognac	includ	0.14285714285714285
+Cognac	loui	0.07142857142857142
+Cognac	xiii	0.07142857142857142
+Cognac	remi	0.07142857142857142
+Cognac	martin	0.07142857142857142
+Cognac	compos	0.07142857142857142
+Cognac	1200	0.07142857142857142
+Cognac	finest	0.07142857142857142
+Cognac	eauxdevi	0.42857142857142855
+Cognac	age	0.5714285714285714
+Cognac	40	0.14285714285714285
+Cognac	year	0.8571428571428571
+Cognac	centuri	0.07142857142857142
+Cognac	old	0.35714285714285715
+Cognac	limousin	0.07142857142857142
+Cognac	oak	0.21428571428571427
+Cognac	barrel	0.2857142857142857
+Cognac	richard	0.14285714285714285
+Cognac	hennessi	0.14285714285714285
+Cognac	produc	0.5
+Cognac	hennessi	0.14285714285714285
+Cognac	richard	0.14285714285714285
+Cognac	blend	0.5
+Cognac	100	0.07142857142857142
+Cognac	eauxdevi	0.42857142857142855
+Cognac	age	0.5714285714285714
+Cognac	200	0.14285714285714285
+Cognac	year	0.8571428571428571
+Cognac	sold	0.14285714285714285
+Cognac	baccarrat	0.07142857142857142
+Cognac	crystal	0.07142857142857142
+Cognac	blackman	0.07142857142857142
+Cognac	name	0.14285714285714285
+Cognac	founder	0.07142857142857142
+Cognac	compani	0.21428571428571427
+Cognac	lesprit	0.07142857142857142
+Cognac	de	0.14285714285714285
+Cognac	courvoisi	0.14285714285714285
+Cognac	courvoisi	0.14285714285714285
+Cognac	lead	0.07142857142857142
+Cognac	cognac	1.0
+Cognac	present	0.07142857142857142
+Cognac	handcut	0.07142857142857142
+Cognac	laliqu	0.07142857142857142
+Cognac	decant	0.07142857142857142
+Cognac	blend	0.5
+Cognac	eauxdevi	0.42857142857142855
+Cognac	200	0.14285714285714285
+Cognac	year	0.8571428571428571
+Cognac	old	0.35714285714285715
+Cognac	individu	0.14285714285714285
+Cognac	number	0.14285714285714285
+Cognac	moyet	0.14285714285714285
+Cognac	antiqu	0.07142857142857142
+Cognac	moyet	0.14285714285714285
+Cognac	tr¨s	0.14285714285714285
+Cognac	vieill	0.14285714285714285
+Cognac	fine	0.07142857142857142
+Cognac	champagn	0.14285714285714285
+Cognac	tr¨s	0.14285714285714285
+Cognac	vieill	0.14285714285714285
+Cognac	grand	0.07142857142857142
+Cognac	champagn	0.14285714285714285
+Cognac	cognac	1.0
+Cognac	blend	0.5
+Cognac	barrel	0.2857142857142857
+Cognac	150	0.07142857142857142
+Cognac	year	0.8571428571428571
+Cognac	old	0.35714285714285715
+Cognac	individu	0.14285714285714285
+Cognac	number	0.14285714285714285
+Cognac	sign	0.07142857142857142
+Cognac	cellar	0.14285714285714285
+Cognac	master	0.14285714285714285
+Cognac	cognac	1.0
+Cognac	name	0.14285714285714285
+Cognac	town	0.14285714285714285
+Cognac	cognac	1.0
+Cognac	franc	0.07142857142857142
+Cognac	kind	0.07142857142857142
+Cognac	brandi	0.2857142857142857
+Cognac	must	0.2857142857142857
+Cognac	produc	0.5
+Cognac	region	0.07142857142857142
+Cognac	surround	0.07142857142857142
+Cognac	town	0.14285714285714285
+Cognac	wine	0.42857142857142855
+Cognac	distil	0.5
+Cognac	must	0.2857142857142857
+Cognac	made	0.2857142857142857
+Cognac	least	0.42857142857142855
+Cognac	90	0.07142857142857142
+Cognac	percent	0.21428571428571427
+Cognac	ugni	0.14285714285714285
+Cognac	blanc	0.14285714285714285
+Cognac	foll	0.07142857142857142
+Cognac	blanch	0.07142857142857142
+Cognac	colombard	0.07142857142857142
+Cognac	grape	0.2857142857142857
+Cognac	rest	0.07142857142857142
+Cognac	wine	0.42857142857142855
+Cognac	consist	0.07142857142857142
+Cognac	ten	0.07142857142857142
+Cognac	select	0.07142857142857142
+Cognac	grape	0.2857142857142857
+Cognac	howev	0.07142857142857142
+Cognac	wine	0.42857142857142855
+Cognac	made	0.2857142857142857
+Cognac	ugni	0.14285714285714285
+Cognac	blanc	0.14285714285714285
+Cognac	must	0.2857142857142857
+Cognac	distil	0.5
+Cognac	twice	0.07142857142857142
+Cognac	copper	0.14285714285714285
+Cognac	pot	0.07142857142857142
+Cognac	still	0.14285714285714285
+Cognac	age	0.5714285714285714
+Cognac	least	0.42857142857142855
+Cognac	2	0.07142857142857142
+Cognac	12	0.07142857142857142
+Cognac	year	0.8571428571428571
+Cognac	oak	0.21428571428571427
+Cognac	barrel	0.2857142857142857
+Cognac	order	0.07142857142857142
+Cognac	call	0.14285714285714285
+Cognac	cognac	1.0
+Aquavit	earliest	0.14285714285714285
+Aquavit	known	0.14285714285714285
+Aquavit	refer	0.14285714285714285
+Aquavit	akvavit	0.8571428571428571
+Aquavit	found	0.2857142857142857
+Aquavit	1531	0.14285714285714285
+Aquavit	letter	0.2857142857142857
+Aquavit	danish	0.2857142857142857
+Aquavit	lord	0.14285714285714285
+Aquavit	bergenshus	0.14285714285714285
+Aquavit	castl	0.14285714285714285
+Aquavit	esk	0.14285714285714285
+Aquavit	bill	0.14285714285714285
+Aquavit	olav	0.14285714285714285
+Aquavit	engelbretsson	0.2857142857142857
+Aquavit	last	0.14285714285714285
+Aquavit	archbishop	0.42857142857142855
+Aquavit	norway	0.42857142857142855
+Aquavit	letter	0.2857142857142857
+Aquavit	accompani	0.14285714285714285
+Aquavit	packag	0.14285714285714285
+Aquavit	offer	0.14285714285714285
+Aquavit	archbishop	0.42857142857142855
+Aquavit	water	0.2857142857142857
+Aquavit	call	0.2857142857142857
+Aquavit	aqua	0.2857142857142857
+Aquavit	vite	0.14285714285714285
+Aquavit	help	0.2857142857142857
+Aquavit	sort	0.14285714285714285
+Aquavit	sick	0.14285714285714285
+Aquavit	man	0.14285714285714285
+Aquavit	intern	0.14285714285714285
+Aquavit	extern	0.14285714285714285
+Aquavit	accord	0.14285714285714285
+Aquavit	alcohol	0.2857142857142857
+Aquavit	aficionado	0.14285714285714285
+Aquavit	histori	0.14285714285714285
+Aquavit	aquavit	0.8571428571428571
+Aquavit	archbishop	0.42857142857142855
+Aquavit	engelbretsson	0.2857142857142857
+Aquavit	went	0.14285714285714285
+Aquavit	introduc	0.14285714285714285
+Aquavit	norwegian	1.0
+Aquavit	public	0.14285714285714285
+Aquavit	strong	0.14285714285714285
+Aquavit	form	0.14285714285714285
+Aquavit	aquavit	0.8571428571428571
+Aquavit	exist	0.14285714285714285
+Aquavit	today	0.14285714285714285
+Aquavit	claim	0.42857142857142855
+Aquavit	medicin	0.14285714285714285
+Aquavit	properti	0.14285714285714285
+Aquavit	drink	0.2857142857142857
+Aquavit	may	0.5714285714285714
+Aquavit	rather	0.14285714285714285
+Aquavit	inflat	0.14285714285714285
+Aquavit	popular	0.2857142857142857
+Aquavit	belief	0.14285714285714285
+Aquavit	aquavit	0.8571428571428571
+Aquavit	eas	0.14285714285714285
+Aquavit	digest	0.14285714285714285
+Aquavit	rich	0.14285714285714285
+Aquavit	food	0.14285714285714285
+Aquavit	norway	0.42857142857142855
+Aquavit	particular	0.2857142857142857
+Aquavit	drunk	0.42857142857142855
+Aquavit	celebr	0.2857142857142857
+Aquavit	christma	0.2857142857142857
+Aquavit	may	0.5714285714285714
+Aquavit	17	0.14285714285714285
+Aquavit	norwegian	1.0
+Aquavit	constitut	0.14285714285714285
+Aquavit	day	0.14285714285714285
+Aquavit	sweden	0.2857142857142857
+Aquavit	stapl	0.14285714285714285
+Aquavit	tradit	0.5714285714285714
+Aquavit	midsumm	0.14285714285714285
+Aquavit	celebr	0.2857142857142857
+Aquavit	dinner	0.14285714285714285
+Aquavit	usual	0.42857142857142855
+Aquavit	drunk	0.42857142857142855
+Aquavit	sing	0.14285714285714285
+Aquavit	one	0.2857142857142857
+Aquavit	mani	0.42857142857142855
+Aquavit	drink	0.2857142857142857
+Aquavit	song	0.14285714285714285
+Aquavit	usual	0.42857142857142855
+Aquavit	drunk	0.42857142857142855
+Aquavit	snap	0.2857142857142857
+Aquavit	meal	0.2857142857142857
+Aquavit	especi	0.14285714285714285
+Aquavit	appet	0.14285714285714285
+Aquavit	course—	0.14285714285714285
+Aquavit	along	0.14285714285714285
+Aquavit	pickl	0.14285714285714285
+Aquavit	herring	0.14285714285714285
+Aquavit	crayfish	0.14285714285714285
+Aquavit	lutefisk	0.14285714285714285
+Aquavit	smoke	0.14285714285714285
+Aquavit	fish	0.2857142857142857
+Aquavit	regard	0.14285714285714285
+Aquavit	popular	0.2857142857142857
+Aquavit	quip	0.14285714285714285
+Aquavit	akvavit	0.8571428571428571
+Aquavit	help	0.2857142857142857
+Aquavit	fish	0.2857142857142857
+Aquavit	swim	0.14285714285714285
+Aquavit	stomach	0.14285714285714285
+Aquavit	also	0.5714285714285714
+Aquavit	regular	0.14285714285714285
+Aquavit	tradit	0.5714285714285714
+Aquavit	norwegian	1.0
+Aquavit	christma	0.2857142857142857
+Aquavit	meal	0.2857142857142857
+Aquavit	includ	0.14285714285714285
+Aquavit	roast	0.14285714285714285
+Aquavit	rib	0.14285714285714285
+Aquavit	pork	0.14285714285714285
+Aquavit	stickmeat	0.14285714285714285
+Aquavit	pinnekjøtt	0.14285714285714285
+Aquavit	among	0.2857142857142857
+Aquavit	import	0.14285714285714285
+Aquavit	brand	0.5714285714285714
+Aquavit	gild	0.14285714285714285
+Aquavit	løiten	0.2857142857142857
+Aquavit	norway	0.42857142857142855
+Aquavit	aalborg	0.14285714285714285
+Aquavit	denmark	0.2857142857142857
+Aquavit	skåne	0.14285714285714285
+Aquavit	op	0.14285714285714285
+Aquavit	andersson	0.14285714285714285
+Aquavit	sweden	0.2857142857142857
+Aquavit	danish	0.2857142857142857
+Aquavit	swedish	0.14285714285714285
+Aquavit	variant	0.14285714285714285
+Aquavit	normal	0.2857142857142857
+Aquavit	light	0.14285714285714285
+Aquavit	colour	0.7142857142857143
+Aquavit	norwegian	1.0
+Aquavit	brand	0.5714285714285714
+Aquavit	matur	0.14285714285714285
+Aquavit	oak	0.42857142857142855
+Aquavit	cask	0.8571428571428571
+Aquavit	least	0.2857142857142857
+Aquavit	one	0.2857142857142857
+Aquavit	year	0.2857142857142857
+Aquavit	brand	0.5714285714285714
+Aquavit	even	0.14285714285714285
+Aquavit	long	0.14285714285714285
+Aquavit	12	0.14285714285714285
+Aquavit	year	0.2857142857142857
+Aquavit	member	0.14285714285714285
+Aquavit	three	0.14285714285714285
+Aquavit	nation	0.2857142857142857
+Aquavit	found	0.2857142857142857
+Aquavit	claim	0.42857142857142855
+Aquavit	style	0.14285714285714285
+Aquavit	akvavit	0.8571428571428571
+Aquavit	best	0.14285714285714285
+Aquavit	matter	0.14285714285714285
+Aquavit	nation	0.2857142857142857
+Aquavit	pride	0.14285714285714285
+Aquavit	norwegian	1.0
+Aquavit	akevitt	0.14285714285714285
+Aquavit	tend	0.14285714285714285
+Aquavit	distinct	0.14285714285714285
+Aquavit	charact	0.14285714285714285
+Aquavit	least	0.2857142857142857
+Aquavit	overpow	0.14285714285714285
+Aquavit	flavour	0.7142857142857143
+Aquavit	deepest	0.14285714285714285
+Aquavit	colour	0.7142857142857143
+Aquavit	due	0.14285714285714285
+Aquavit	age	0.42857142857142855
+Aquavit	process	0.14285714285714285
+Aquavit	particular	0.2857142857142857
+Aquavit	norwegian	1.0
+Aquavit	tradit	0.5714285714285714
+Aquavit	occurr	0.14285714285714285
+Aquavit	lini	0.7142857142857143
+Aquavit	akvavit	0.8571428571428571
+Aquavit	løiten	0.2857142857142857
+Aquavit	lini	0.7142857142857143
+Aquavit	lysholm	0.14285714285714285
+Aquavit	lini	0.7142857142857143
+Aquavit	carri	0.2857142857142857
+Aquavit	oak	0.42857142857142855
+Aquavit	cask	0.8571428571428571
+Aquavit	onboard	0.14285714285714285
+Aquavit	ship	0.42857142857142855
+Aquavit	cross	0.14285714285714285
+Aquavit	equat	0.14285714285714285
+Aquavit	lini	0.7142857142857143
+Aquavit	twice	0.14285714285714285
+Aquavit	sold	0.14285714285714285
+Aquavit	mani	0.42857142857142855
+Aquavit	expert	0.14285714285714285
+Aquavit	claim	0.42857142857142855
+Aquavit	tradit	0.5714285714285714
+Aquavit	littl	0.14285714285714285
+Aquavit	gimmick	0.14285714285714285
+Aquavit	argu	0.14285714285714285
+Aquavit	move	0.14285714285714285
+Aquavit	sea	0.14285714285714285
+Aquavit	frequent	0.14285714285714285
+Aquavit	temperatur	0.14285714285714285
+Aquavit	chang	0.14285714285714285
+Aquavit	caus	0.14285714285714285
+Aquavit	spirit	0.14285714285714285
+Aquavit	extract	0.14285714285714285
+Aquavit	flavour	0.7142857142857143
+Aquavit	cask	0.8571428571428571
+Aquavit	norwegian	1.0
+Aquavit	akvavit	0.8571428571428571
+Aquavit	distil	0.5714285714285714
+Aquavit	arcus	0.14285714285714285
+Aquavit	carri	0.2857142857142857
+Aquavit	scientif	0.14285714285714285
+Aquavit	test	0.14285714285714285
+Aquavit	tri	0.14285714285714285
+Aquavit	emul	0.14285714285714285
+Aquavit	rock	0.14285714285714285
+Aquavit	cask	0.8571428571428571
+Aquavit	aboard	0.2857142857142857
+Aquavit	lini	0.7142857142857143
+Aquavit	ship	0.42857142857142855
+Aquavit	cask	0.8571428571428571
+Aquavit	subject	0.14285714285714285
+Aquavit	weather	0.14285714285714285
+Aquavit	element	0.14285714285714285
+Aquavit	would	0.14285714285714285
+Aquavit	aboard	0.2857142857142857
+Aquavit	ship	0.42857142857142855
+Aquavit	mediev	0.14285714285714285
+Aquavit	latin	0.14285714285714285
+Aquavit	aqua	0.2857142857142857
+Aquavit	vita	0.14285714285714285
+Aquavit	water	0.2857142857142857
+Aquavit	life	0.14285714285714285
+Aquavit	also	0.5714285714285714
+Aquavit	spell	0.14285714285714285
+Aquavit	aquavit	0.8571428571428571
+Aquavit	akvavit	0.8571428571428571
+Aquavit	also	0.5714285714285714
+Aquavit	call	0.2857142857142857
+Aquavit	snap	0.2857142857142857
+Aquavit	denmark	0.2857142857142857
+Aquavit	scandinavian	0.14285714285714285
+Aquavit	flavour	0.7142857142857143
+Aquavit	distil	0.5714285714285714
+Aquavit	liquor	0.14285714285714285
+Aquavit	rang	0.14285714285714285
+Aquavit	alcohol	0.2857142857142857
+Aquavit	content	0.14285714285714285
+Aquavit	42	0.14285714285714285
+Aquavit	45	0.14285714285714285
+Aquavit	percent	0.14285714285714285
+Aquavit	volum	0.14285714285714285
+Aquavit	clear	0.14285714285714285
+Aquavit	pale	0.14285714285714285
+Aquavit	yellow	0.14285714285714285
+Aquavit	colour	0.7142857142857143
+Aquavit	distil	0.5714285714285714
+Aquavit	ferment	0.14285714285714285
+Aquavit	potato	0.2857142857142857
+Aquavit	grain	0.42857142857142855
+Aquavit	mash	0.14285714285714285
+Aquavit	flavor	0.14285714285714285
+Aquavit	caraway	0.42857142857142855
+Aquavit	seed	0.42857142857142855
+Aquavit	cumin	0.14285714285714285
+Aquavit	seed	0.42857142857142855
+Aquavit	other	0.2857142857142857
+Aquavit	may	0.5714285714285714
+Aquavit	use	0.42857142857142855
+Aquavit	lemon	0.14285714285714285
+Aquavit	orang	0.14285714285714285
+Aquavit	peel	0.14285714285714285
+Aquavit	cardamom	0.14285714285714285
+Aquavit	anise	0.14285714285714285
+Aquavit	fennel	0.2857142857142857
+Aquavit	like	0.14285714285714285
+Aquavit	vodka	0.14285714285714285
+Aquavit	aquavit	0.8571428571428571
+Aquavit	distil	0.5714285714285714
+Aquavit	potato	0.2857142857142857
+Aquavit	grain	0.42857142857142855
+Aquavit	flavour	0.7142857142857143
+Aquavit	herb	0.14285714285714285
+Aquavit	caraway	0.42857142857142855
+Aquavit	seed	0.42857142857142855
+Aquavit	anis	0.14285714285714285
+Aquavit	dill	0.14285714285714285
+Aquavit	fennel	0.2857142857142857
+Aquavit	coriand	0.14285714285714285
+Aquavit	grain	0.42857142857142855
+Aquavit	paradis	0.14285714285714285
+Aquavit	among	0.2857142857142857
+Aquavit	other	0.2857142857142857
+Aquavit	recip	0.14285714285714285
+Aquavit	differ	0.2857142857142857
+Aquavit	differ	0.2857142857142857
+Aquavit	brand	0.5714285714285714
+Aquavit	typic	0.14285714285714285
+Aquavit	caraway	0.42857142857142855
+Aquavit	domin	0.14285714285714285
+Aquavit	flavour	0.7142857142857143
+Aquavit	aquavit	0.8571428571428571
+Aquavit	usual	0.42857142857142855
+Aquavit	yellowish	0.14285714285714285
+Aquavit	brown	0.2857142857142857
+Aquavit	hue	0.14285714285714285
+Aquavit	avail	0.14285714285714285
+Aquavit	mani	0.42857142857142855
+Aquavit	shade	0.14285714285714285
+Aquavit	brown	0.2857142857142857
+Aquavit	depend	0.14285714285714285
+Aquavit	amount	0.14285714285714285
+Aquavit	time	0.14285714285714285
+Aquavit	age	0.42857142857142855
+Aquavit	oak	0.42857142857142855
+Aquavit	barrel	0.14285714285714285
+Aquavit	normal	0.2857142857142857
+Aquavit	darker	0.14285714285714285
+Aquavit	colour	0.7142857142857143
+Aquavit	suggest	0.14285714285714285
+Aquavit	higher	0.14285714285714285
+Aquavit	age	0.42857142857142855
+Aquavit	use	0.42857142857142855
+Aquavit	young	0.14285714285714285
+Aquavit	cask	0.8571428571428571
+Aquavit	may	0.5714285714285714
+Aquavit	also	0.5714285714285714
+Aquavit	come	0.14285714285714285
+Aquavit	use	0.42857142857142855
+Aquavit	artifici	0.14285714285714285
+Aquavit	colour	0.7142857142857143
+Aquavit	caramel	0.14285714285714285
+Aquavit	e150	0.14285714285714285
+Bloody Mary	bloodi	0.7272727272727273
+Bloody Mary	mari	1.0
+Bloody Mary	origin	0.18181818181818182
+Bloody Mary	unclear	0.09090909090909091
+Bloody Mary	multipl	0.09090909090909091
+Bloody Mary	conflict	0.09090909090909091
+Bloody Mary	claim	0.2727272727272727
+Bloody Mary	invent	0.18181818181818182
+Bloody Mary	bloodi	0.7272727272727273
+Bloody Mary	mari	1.0
+Bloody Mary	fernand	0.18181818181818182
+Bloody Mary	petiot	0.18181818181818182
+Bloody Mary	claim	0.2727272727272727
+Bloody Mary	invent	0.18181818181818182
+Bloody Mary	bloodi	0.7272727272727273
+Bloody Mary	mari	1.0
+Bloody Mary	1921	0.09090909090909091
+Bloody Mary	well	0.09090909090909091
+Bloody Mary	later	0.18181818181818182
+Bloody Mary	claim	0.2727272727272727
+Bloody Mary	work	0.18181818181818182
+Bloody Mary	new	0.18181818181818182
+Bloody Mary	york	0.18181818181818182
+Bloody Mary	bar	0.36363636363636365
+Bloody Mary	pari	0.18181818181818182
+Bloody Mary	time	0.09090909090909091
+Bloody Mary	later	0.18181818181818182
+Bloody Mary	becam	0.09090909090909091
+Bloody Mary	harri	0.18181818181818182
+Bloody Mary	new	0.18181818181818182
+Bloody Mary	york	0.18181818181818182
+Bloody Mary	bar	0.36363636363636365
+Bloody Mary	bloodi	0.7272727272727273
+Bloody Mary	mari	1.0
+Bloody Mary	fame	0.09090909090909091
+Bloody Mary	hair	0.09090909090909091
+Bloody Mary	dog	0.09090909090909091
+Bloody Mary	remedi	0.09090909090909091
+Bloody Mary	mean	0.09090909090909091
+Bloody Mary	consum	0.09090909090909091
+Bloody Mary	much	0.09090909090909091
+Bloody Mary	alcohol	0.2727272727272727
+Bloody Mary	night	0.09090909090909091
+Bloody Mary	suppos	0.09090909090909091
+Bloody Mary	help	0.09090909090909091
+Bloody Mary	assuag	0.09090909090909091
+Bloody Mary	pain	0.09090909090909091
+Bloody Mary	next	0.09090909090909091
+Bloody Mary	morn	0.18181818181818182
+Bloody Mary	name	0.45454545454545453
+Bloody Mary	bloodi	0.7272727272727273
+Bloody Mary	mari	1.0
+Bloody Mary	associ	0.09090909090909091
+Bloody Mary	number	0.09090909090909091
+Bloody Mary	histor	0.09090909090909091
+Bloody Mary	figur	0.09090909090909091
+Bloody Mary	particular	0.09090909090909091
+Bloody Mary	queen	0.09090909090909091
+Bloody Mary	mari	1.0
+Bloody Mary	england	0.18181818181818182
+Bloody Mary	nicknam	0.09090909090909091
+Bloody Mary	fox	0.09090909090909091
+Bloody Mary	book	0.09090909090909091
+Bloody Mary	martyr	0.09090909090909091
+Bloody Mary	attempt	0.09090909090909091
+Bloody Mary	reestablish	0.09090909090909091
+Bloody Mary	cathol	0.09090909090909091
+Bloody Mary	church	0.09090909090909091
+Bloody Mary	england	0.18181818181818182
+Bloody Mary	fiction	0.09090909090909091
+Bloody Mary	women	0.09090909090909091
+Bloody Mary	folklor	0.09090909090909091
+Bloody Mary	drink	0.6363636363636364
+Bloody Mary	aficionado	0.09090909090909091
+Bloody Mary	believ	0.09090909090909091
+Bloody Mary	inspir	0.09090909090909091
+Bloody Mary	name	0.45454545454545453
+Bloody Mary	hollywood	0.09090909090909091
+Bloody Mary	star	0.09090909090909091
+Bloody Mary	mari	1.0
+Bloody Mary	pickford	0.09090909090909091
+Bloody Mary	other	0.09090909090909091
+Bloody Mary	trace	0.09090909090909091
+Bloody Mary	name	0.45454545454545453
+Bloody Mary	waitress	0.09090909090909091
+Bloody Mary	name	0.45454545454545453
+Bloody Mary	mari	1.0
+Bloody Mary	work	0.18181818181818182
+Bloody Mary	chicago	0.09090909090909091
+Bloody Mary	bar	0.36363636363636365
+Bloody Mary	call	0.2727272727272727
+Bloody Mary	bucket	0.09090909090909091
+Bloody Mary	blood	0.09090909090909091
+Bloody Mary	howev	0.09090909090909091
+Bloody Mary	anoth	0.09090909090909091
+Bloody Mary	argument	0.09090909090909091
+Bloody Mary	origin	0.18181818181818182
+Bloody Mary	bloodi	0.7272727272727273
+Bloody Mary	mari	1.0
+Bloody Mary	name	0.45454545454545453
+Bloody Mary	english	0.09090909090909091
+Bloody Mary	simpli	0.09090909090909091
+Bloody Mary	aros	0.09090909090909091
+Bloody Mary	failur	0.09090909090909091
+Bloody Mary	pronounc	0.09090909090909091
+Bloody Mary	slav	0.09090909090909091
+Bloody Mary	syllabl	0.09090909090909091
+Bloody Mary	drink	0.6363636363636364
+Bloody Mary	call	0.2727272727272727
+Bloody Mary	vladimir	0.18181818181818182
+Bloody Mary	gain	0.09090909090909091
+Bloody Mary	credibl	0.09090909090909091
+Bloody Mary	observ	0.09090909090909091
+Bloody Mary	custom	0.09090909090909091
+Bloody Mary	harri	0.18181818181818182
+Bloody Mary	bar	0.36363636363636365
+Bloody Mary	pari	0.18181818181818182
+Bloody Mary	fernand	0.18181818181818182
+Bloody Mary	petiot	0.18181818181818182
+Bloody Mary	prepar	0.09090909090909091
+Bloody Mary	drink	0.6363636363636364
+Bloody Mary	1920	0.09090909090909091
+Bloody Mary	vladimir	0.18181818181818182
+Bloody Mary	smirnov	0.09090909090909091
+Bloody Mary	smirnoff	0.09090909090909091
+Bloody Mary	vodka	0.2727272727272727
+Bloody Mary	famili	0.09090909090909091
+Bloody Mary	bloodi	0.7272727272727273
+Bloody Mary	mari	1.0
+Bloody Mary	usual	0.09090909090909091
+Bloody Mary	serv	0.09090909090909091
+Bloody Mary	ontherock	0.09090909090909091
+Bloody Mary	oldfashion	0.09090909090909091
+Bloody Mary	glass	0.18181818181818182
+Bloody Mary	tall	0.09090909090909091
+Bloody Mary	collin	0.09090909090909091
+Bloody Mary	glass	0.18181818181818182
+Bloody Mary	drink	0.6363636363636364
+Bloody Mary	that	0.09090909090909091
+Bloody Mary	75	0.09090909090909091
+Bloody Mary	percent	0.18181818181818182
+Bloody Mary	tomato	0.36363636363636365
+Bloody Mary	juic	0.45454545454545453
+Bloody Mary	20	0.09090909090909091
+Bloody Mary	percent	0.18181818181818182
+Bloody Mary	alcohol	0.2727272727272727
+Bloody Mary	peopl	0.18181818181818182
+Bloody Mary	surpris	0.09090909090909091
+Bloody Mary	strong	0.09090909090909091
+Bloody Mary	opinion	0.09090909090909091
+Bloody Mary	goe	0.09090909090909091
+Bloody Mary	last	0.09090909090909091
+Bloody Mary	5	0.09090909090909091
+Bloody Mary	bloodi	0.7272727272727273
+Bloody Mary	mari	1.0
+Bloody Mary	popular	0.09090909090909091
+Bloody Mary	cocktail	0.18181818181818182
+Bloody Mary	contain	0.09090909090909091
+Bloody Mary	vodka	0.2727272727272727
+Bloody Mary	tomato	0.36363636363636365
+Bloody Mary	juic	0.45454545454545453
+Bloody Mary	combin	0.09090909090909091
+Bloody Mary	spice	0.18181818181818182
+Bloody Mary	flavor	0.18181818181818182
+Bloody Mary	includ	0.09090909090909091
+Bloody Mary	worcestershir	0.09090909090909091
+Bloody Mary	sauc	0.2727272727272727
+Bloody Mary	tabasco	0.18181818181818182
+Bloody Mary	sauc	0.2727272727272727
+Bloody Mary	piri	0.18181818181818182
+Bloody Mary	piri	0.18181818181818182
+Bloody Mary	sauc	0.2727272727272727
+Bloody Mary	beef	0.09090909090909091
+Bloody Mary	consommé	0.09090909090909091
+Bloody Mary	bouillon	0.09090909090909091
+Bloody Mary	horseradish	0.09090909090909091
+Bloody Mary	celeri	0.18181818181818182
+Bloody Mary	oliv	0.09090909090909091
+Bloody Mary	salt	0.18181818181818182
+Bloody Mary	black	0.09090909090909091
+Bloody Mary	pepper	0.18181818181818182
+Bloody Mary	cayenn	0.09090909090909091
+Bloody Mary	pepper	0.18181818181818182
+Bloody Mary	lemon	0.09090909090909091
+Bloody Mary	juic	0.45454545454545453
+Bloody Mary	celeri	0.18181818181818182
+Bloody Mary	salt	0.18181818181818182
+Bloody Mary	call	0.2727272727272727
+Bloody Mary	world	0.09090909090909091
+Bloody Mary	complex	0.09090909090909091
+Bloody Mary	cocktail	0.18181818181818182
+Bloody Mary	spici	0.18181818181818182
+Bloody Mary	favorit	0.18181818181818182
+Bloody Mary	own	0.09090909090909091
+Bloody Mary	sunday	0.09090909090909091
+Bloody Mary	morn	0.18181818181818182
+Bloody Mary	piquant	0.09090909090909091
+Bloody Mary	mix	0.09090909090909091
+Bloody Mary	tomato	0.36363636363636365
+Bloody Mary	juic	0.45454545454545453
+Bloody Mary	vodka	0.2727272727272727
+Bloody Mary	forenoon	0.09090909090909091
+Bloody Mary	favorit	0.18181818181818182
+Bloody Mary	tomato	0.36363636363636365
+Bloody Mary	juic	0.45454545454545453
+Bloody Mary	give	0.09090909090909091
+Bloody Mary	maximum	0.09090909090909091
+Bloody Mary	beverag	0.09090909090909091
+Bloody Mary	volum	0.09090909090909091
+Bloody Mary	minim	0.09090909090909091
+Bloody Mary	alcohol	0.2727272727272727
+Bloody Mary	plus	0.09090909090909091
+Bloody Mary	drink	0.6363636363636364
+Bloody Mary	hold	0.09090909090909091
+Bloody Mary	assert	0.09090909090909091
+Bloody Mary	flavor	0.18181818181818182
+Bloody Mary	common	0.09090909090909091
+Bloody Mary	brunch	0.09090909090909091
+Bloody Mary	fare	0.09090909090909091
+Bloody Mary	like	0.2727272727272727
+Bloody Mary	bacon	0.09090909090909091
+Bloody Mary	sausag	0.09090909090909091
+Bloody Mary	egg	0.09090909090909091
+Bloody Mary	tast	0.18181818181818182
+Bloody Mary	robust	0.09090909090909091
+Bloody Mary	peopl	0.18181818181818182
+Bloody Mary	rare	0.09090909090909091
+Bloody Mary	want	0.18181818181818182
+Bloody Mary	one	0.09090909090909091
+Bloody Mary	spice	0.18181818181818182
+Bloody Mary	suit	0.18181818181818182
+Bloody Mary	prefer	0.09090909090909091
+Bloody Mary	bask	0.09090909090909091
+Bloody Mary	satisfi	0.09090909090909091
+Bloody Mary	smile	0.09090909090909091
+Bloody Mary	sip	0.09090909090909091
+Bloody Mary	expert	0.09090909090909091
+Bloody Mary	concoct	0.09090909090909091
+Bloody Mary	drink	0.6363636363636364
+Bloody Mary	want	0.18181818181818182
+Bloody Mary	experi	0.18181818181818182
+Bloody Mary	everyon	0.09090909090909091
+Bloody Mary	like	0.2727272727272727
+Bloody Mary	differ	0.09090909090909091
+Bloody Mary	level	0.09090909090909091
+Bloody Mary	spici	0.18181818181818182
+Bloody Mary	whatev	0.09090909090909091
+Bloody Mary	secondari	0.09090909090909091
+Bloody Mary	ingredi	0.09090909090909091
+Bloody Mary	use	0.09090909090909091
+Bloody Mary	feel	0.18181818181818182
+Bloody Mary	free	0.09090909090909091
+Bloody Mary	experi	0.18181818181818182
+Bloody Mary	measur	0.09090909090909091
+Bloody Mary	find	0.09090909090909091
+Bloody Mary	formula	0.09090909090909091
+Bloody Mary	suit	0.18181818181818182
+Bloody Mary	tast	0.18181818181818182
+Bloody Mary	tabasco	0.18181818181818182
+Bloody Mary	must	0.09090909090909091
+Bloody Mary	spicier	0.09090909090909091
+Bloody Mary	better	0.09090909090909091
+Bloody Mary	refresh	0.09090909090909091
+Bloody Mary	feel	0.18181818181818182
+Bloody Mary	almost	0.18181818181818182
+Bloody Mary	like	0.2727272727272727
+Bloody Mary	food	0.09090909090909091
+Bloody Mary	fill	0.09090909090909091
+Bloody Mary	love	0.09090909090909091
+Bloody Mary	versatil	0.09090909090909091
+Bloody Mary	drink	0.6363636363636364
+Bloody Mary	realli	0.09090909090909091
+Bloody Mary	almost	0.18181818181818182
+Bloody Mary	becom	0.09090909090909091
+Bloody Mary	meal	0.09090909090909091
+Margarita	one	0.375
+Margarita	earliest	0.0625
+Margarita	stori	0.1875
+Margarita	margarita	1.0
+Margarita	invent	0.125
+Margarita	1938	0.0625
+Margarita	carlo	0.25
+Margarita	danni	0.0625
+Margarita	herrera	0.0625
+Margarita	restaur	0.0625
+Margarita	rancho	0.0625
+Margarita	la	0.0625
+Margarita	gloria	0.0625
+Margarita	halfway	0.0625
+Margarita	tijuana	0.0625
+Margarita	rosarito	0.0625
+Margarita	mexico	0.125
+Margarita	creat	0.0625
+Margarita	custom	0.0625
+Margarita	former	0.0625
+Margarita	ziegfeld	0.0625
+Margarita	dancer	0.0625
+Margarita	marjori	0.0625
+Margarita	king	0.0625
+Margarita	allerg	0.0625
+Margarita	mani	0.0625
+Margarita	spirit	0.0625
+Margarita	tequila	0.3125
+Margarita	common	0.0625
+Margarita	accept	0.125
+Margarita	origin	0.0625
+Margarita	stori	0.1875
+Margarita	margarita	1.0
+Margarita	invent	0.125
+Margarita	octob	0.0625
+Margarita	1941	0.0625
+Margarita	hussong	0.0625
+Margarita	cantina	0.125
+Margarita	ensenada	0.0625
+Margarita	mexico	0.125
+Margarita	bartend	0.0625
+Margarita	carlo	0.25
+Margarita	orozco	0.0625
+Margarita	one	0.375
+Margarita	afternoon	0.0625
+Margarita	margarita	1.0
+Margarita	henkel	0.0625
+Margarita	daughter	0.0625
+Margarita	german	0.0625
+Margarita	ambassador	0.0625
+Margarita	visit	0.0625
+Margarita	cantina	0.125
+Margarita	carlo	0.25
+Margarita	experi	0.0625
+Margarita	drink	0.4375
+Margarita	offer	0.0625
+Margarita	one	0.375
+Margarita	cocktail	0.4375
+Margarita	consist	0.125
+Margarita	equal	0.0625
+Margarita	part	0.1875
+Margarita	tequila	0.3125
+Margarita	mexican	0.0625
+Margarita	orang	0.0625
+Margarita	liqueur	0.0625
+Margarita	call	0.0625
+Margarita	controy	0.0625
+Margarita	aka	0.0625
+Margarita	naranja	0.0625
+Margarita	unit	0.0625
+Margarita	state	0.0625
+Margarita	lime	0.5
+Margarita	shaken	0.125
+Margarita	serv	0.375
+Margarita	ice	0.3125
+Margarita	saltrim	0.0625
+Margarita	glass	0.4375
+Margarita	first	0.0625
+Margarita	tri	0.125
+Margarita	drink	0.4375
+Margarita	carlo	0.25
+Margarita	decid	0.0625
+Margarita	name	0.0625
+Margarita	margarita	1.0
+Margarita	born	0.0625
+Margarita	littl	0.0625
+Margarita	addit	0.0625
+Margarita	sweet	0.25
+Margarita	help	0.0625
+Margarita	balanc	0.1875
+Margarita	recip	0.1875
+Margarita	bridg	0.0625
+Margarita	gap	0.0625
+Margarita	classic	0.125
+Margarita	lime	0.5
+Margarita	slushi	0.0625
+Margarita	know	0.0625
+Margarita	jimmi	0.0625
+Margarita	buffett	0.0625
+Margarita	song	0.0625
+Margarita	margaritavill	0.0625
+Margarita	import	0.0625
+Margarita	ingredi	0.0625
+Margarita	drink	0.4375
+Margarita	tequila	0.3125
+Margarita	want	0.0625
+Margarita	use	0.0625
+Margarita	someth	0.125
+Margarita	decent	0.125
+Margarita	over	0.0625
+Margarita	fanci	0.0625
+Margarita	cocktail	0.4375
+Margarita	consist	0.125
+Margarita	tequila	0.3125
+Margarita	tripl	0.125
+Margarita	sec	0.125
+Margarita	cointreau	0.0625
+Margarita	lime	0.5
+Margarita	lemon	0.125
+Margarita	juic	0.1875
+Margarita	often	0.125
+Margarita	serv	0.375
+Margarita	salt	0.125
+Margarita	rim	0.125
+Margarita	glass	0.4375
+Margarita	one	0.375
+Margarita	thing	0.0625
+Margarita	clear	0.0625
+Margarita	margarita	1.0
+Margarita	basic	0.0625
+Margarita	sour	0.375
+Margarita	like	0.1875
+Margarita	whiskey	0.0625
+Margarita	sour	0.375
+Margarita	sidecar	0.0625
+Margarita	classic	0.125
+Margarita	daiquiri	0.0625
+Margarita	drink	0.4375
+Margarita	made	0.125
+Margarita	liquor	0.0625
+Margarita	citrus	0.125
+Margarita	lemon	0.125
+Margarita	lime	0.5
+Margarita	someth	0.125
+Margarita	sweet	0.25
+Margarita	temper	0.0625
+Margarita	sour	0.375
+Margarita	citrus	0.125
+Margarita	simpl	0.125
+Margarita	syrup	0.0625
+Margarita	tripl	0.125
+Margarita	sec	0.125
+Margarita	find	0.125
+Margarita	work	0.0625
+Margarita	better	0.125
+Margarita	lime	0.5
+Margarita	tart	0.0625
+Margarita	give	0.125
+Margarita	smooth	0.0625
+Margarita	margarita	1.0
+Margarita	margarita	1.0
+Margarita	get	0.125
+Margarita	lot	0.0625
+Margarita	love	0.0625
+Margarita	us	0.0625
+Margarita	part	0.1875
+Margarita	that	0.0625
+Margarita	slight	0.125
+Margarita	sour	0.375
+Margarita	wonder	0.0625
+Margarita	refresh	0.125
+Margarita	lime	0.5
+Margarita	tast	0.25
+Margarita	part	0.1875
+Margarita	drink	0.4375
+Margarita	becom	0.125
+Margarita	synonym	0.0625
+Margarita	carefre	0.0625
+Margarita	easygo	0.0625
+Margarita	lifestyl	0.0625
+Margarita	drink	0.4375
+Margarita	serv	0.375
+Margarita	shaken	0.125
+Margarita	ice	0.3125
+Margarita	rock	0.0625
+Margarita	blend	0.0625
+Margarita	ice	0.3125
+Margarita	frozen	0.125
+Margarita	margarita	1.0
+Margarita	without	0.0625
+Margarita	ice	0.3125
+Margarita	straight	0.0625
+Margarita	although	0.0625
+Margarita	becom	0.125
+Margarita	accept	0.125
+Margarita	serv	0.375
+Margarita	margarita	1.0
+Margarita	wide	0.0625
+Margarita	varieti	0.0625
+Margarita	glass	0.4375
+Margarita	type	0.0625
+Margarita	rang	0.0625
+Margarita	cocktail	0.4375
+Margarita	wine	0.0625
+Margarita	glass	0.4375
+Margarita	pint	0.0625
+Margarita	glass	0.4375
+Margarita	even	0.0625
+Margarita	larg	0.0625
+Margarita	schooner	0.0625
+Margarita	drink	0.4375
+Margarita	tradit	0.1875
+Margarita	serv	0.375
+Margarita	eponym	0.0625
+Margarita	margarita	1.0
+Margarita	glass	0.4375
+Margarita	steppeddiamet	0.0625
+Margarita	variant	0.0625
+Margarita	cocktail	0.4375
+Margarita	glass	0.4375
+Margarita	champagn	0.0625
+Margarita	coup	0.0625
+Margarita	somewhat	0.0625
+Margarita	resembl	0.0625
+Margarita	invert	0.0625
+Margarita	sombrero	0.0625
+Margarita	simplest	0.0625
+Margarita	exampl	0.0625
+Margarita	balanc	0.1875
+Margarita	sweet	0.25
+Margarita	sour	0.375
+Margarita	sinc	0.0625
+Margarita	well	0.0625
+Margarita	known	0.0625
+Margarita	simpl	0.125
+Margarita	cocktail	0.4375
+Margarita	youd	0.0625
+Margarita	think	0.0625
+Margarita	get	0.125
+Margarita	decent	0.125
+Margarita	margarita	1.0
+Margarita	would	0.0625
+Margarita	easi	0.0625
+Margarita	margarita	1.0
+Margarita	recip	0.1875
+Margarita	one	0.375
+Margarita	easier	0.0625
+Margarita	cocktail	0.4375
+Margarita	recip	0.1875
+Margarita	consid	0.0625
+Margarita	base	0.0625
+Margarita	cocktail	0.4375
+Margarita	tradit	0.1875
+Margarita	margarita	1.0
+Margarita	serv	0.375
+Margarita	ice	0.3125
+Margarita	salti	0.1875
+Margarita	rim	0.125
+Margarita	peopl	0.0625
+Margarita	like	0.1875
+Margarita	frozen	0.125
+Margarita	give	0.125
+Margarita	slight	0.125
+Margarita	sweeter	0.0625
+Margarita	less	0.0625
+Margarita	potent	0.0625
+Margarita	tast	0.25
+Margarita	sweet	0.25
+Margarita	tangi	0.0625
+Margarita	tradit	0.1875
+Margarita	margarita	1.0
+Margarita	made	0.125
+Margarita	lime	0.5
+Margarita	juic	0.1875
+Margarita	sweeten	0.0625
+Margarita	often	0.125
+Margarita	sour	0.375
+Margarita	mix	0.125
+Margarita	tequila	0.3125
+Margarita	alcohol	0.0625
+Margarita	strong	0.0625
+Margarita	tast	0.25
+Margarita	salti	0.1875
+Margarita	super	0.0625
+Margarita	yummi	0.0625
+Margarita	one	0.375
+Margarita	properti	0.0625
+Margarita	crystallin	0.0625
+Margarita	fructos	0.125
+Margarita	caus	0.0625
+Margarita	cool	0.0625
+Margarita	sensat	0.0625
+Margarita	tongu	0.0625
+Margarita	crystal	0.0625
+Margarita	melt	0.0625
+Margarita	fresh	0.0625
+Margarita	squeez	0.0625
+Margarita	lime	0.5
+Margarita	juic	0.1875
+Margarita	must	0.0625
+Margarita	period	0.0625
+Margarita	end	0.0625
+Margarita	stori	0.1875
+Margarita	unless	0.0625
+Margarita	commit	0.0625
+Margarita	youll	0.0625
+Margarita	never	0.0625
+Margarita	abl	0.0625
+Margarita	produc	0.0625
+Margarita	truli	0.0625
+Margarita	great	0.0625
+Margarita	margarita	1.0
+Margarita	margarita	1.0
+Margarita	balanc	0.1875
+Margarita	tast	0.25
+Margarita	like	0.1875
+Margarita	salt	0.125
+Margarita	lick	0.0625
+Margarita	found	0.0625
+Margarita	farm	0.0625
+Margarita	still	0.0625
+Margarita	find	0.125
+Margarita	salti	0.1875
+Margarita	tri	0.125
+Margarita	mix	0.125
+Margarita	bit	0.0625
+Margarita	sugar	0.0625
+Margarita	better	0.125
+Margarita	yet	0.0625
+Margarita	fructos	0.125
+Margarita	anoth	0.0625
+Margarita	level	0.0625
+Margarita	refresh	0.125
+Vodka	origin	0.11320754716981132
+Vodka	vodka	1.0
+Vodka	name	0.07547169811320754
+Vodka	cannot	0.018867924528301886
+Vodka	trace	0.018867924528301886
+Vodka	definit	0.018867924528301886
+Vodka	believ	0.018867924528301886
+Vodka	origin	0.11320754716981132
+Vodka	graingrow	0.018867924528301886
+Vodka	region	0.018867924528301886
+Vodka	embrac	0.018867924528301886
+Vodka	poland	0.09433962264150944
+Vodka	belarus	0.018867924528301886
+Vodka	ukrain	0.03773584905660377
+Vodka	western	0.018867924528301886
+Vodka	russia	0.1320754716981132
+Vodka	also	0.07547169811320754
+Vodka	long	0.05660377358490566
+Vodka	tradit	0.07547169811320754
+Vodka	scandinavia	0.018867924528301886
+Vodka	littl	0.018867924528301886
+Vodka	known	0.018867924528301886
+Vodka	earli	0.018867924528301886
+Vodka	histori	0.03773584905660377
+Vodka	drink	0.03773584905660377
+Vodka	europ	0.03773584905660377
+Vodka	first	0.05660377358490566
+Vodka	written	0.03773584905660377
+Vodka	record	0.03773584905660377
+Vodka	vodka	1.0
+Vodka	poland	0.09433962264150944
+Vodka	date	0.05660377358490566
+Vodka	1405	0.018867924528301886
+Vodka	sandomierz	0.018867924528301886
+Vodka	court	0.018867924528301886
+Vodka	registri	0.018867924528301886
+Vodka	russia	0.1320754716981132
+Vodka	first	0.05660377358490566
+Vodka	written	0.03773584905660377
+Vodka	usag	0.018867924528301886
+Vodka	word	0.05660377358490566
+Vodka	vodka	1.0
+Vodka	offici	0.03773584905660377
+Vodka	document	0.018867924528301886
+Vodka	modern	0.03773584905660377
+Vodka	mean	0.03773584905660377
+Vodka	date	0.05660377358490566
+Vodka	decre	0.018867924528301886
+Vodka	empress	0.018867924528301886
+Vodka	catherin	0.018867924528301886
+Vodka	june	0.018867924528301886
+Vodka	8	0.018867924528301886
+Vodka	1751	0.018867924528301886
+Vodka	regul	0.018867924528301886
+Vodka	ownership	0.018867924528301886
+Vodka	vodka	1.0
+Vodka	distilleri	0.03773584905660377
+Vodka	anoth	0.018867924528301886
+Vodka	possibl	0.03773584905660377
+Vodka	origin	0.11320754716981132
+Vodka	word	0.05660377358490566
+Vodka	found	0.03773584905660377
+Vodka	novgorod	0.018867924528301886
+Vodka	chronicl	0.018867924528301886
+Vodka	record	0.03773584905660377
+Vodka	date	0.05660377358490566
+Vodka	1533	0.018867924528301886
+Vodka	term	0.07547169811320754
+Vodka	vodka	1.0
+Vodka	use	0.05660377358490566
+Vodka	context	0.018867924528301886
+Vodka	herbal	0.018867924528301886
+Vodka	alcohol	0.20754716981132076
+Vodka	tinctur	0.018867924528301886
+Vodka	number	0.05660377358490566
+Vodka	pharmaceut	0.018867924528301886
+Vodka	list	0.03773584905660377
+Vodka	contain	0.018867924528301886
+Vodka	term	0.07547169811320754
+Vodka	vodka	1.0
+Vodka	bread	0.05660377358490566
+Vodka	wine	0.05660377358490566
+Vodka	водка	0.03773584905660377
+Vodka	хлебного	0.03773584905660377
+Vodka	вина	0.03773584905660377
+Vodka	vodka	1.0
+Vodka	half	0.05660377358490566
+Vodka	bread	0.05660377358490566
+Vodka	wine	0.05660377358490566
+Vodka	водка	0.03773584905660377
+Vodka	вполу	0.018867924528301886
+Vodka	хлебного	0.03773584905660377
+Vodka	вина	0.03773584905660377
+Vodka	alcohol	0.20754716981132076
+Vodka	long	0.05660377358490566
+Vodka	use	0.05660377358490566
+Vodka	basi	0.018867924528301886
+Vodka	medicin	0.03773584905660377
+Vodka	impli	0.018867924528301886
+Vodka	term	0.07547169811320754
+Vodka	vodka	1.0
+Vodka	noun	0.018867924528301886
+Vodka	deriv	0.018867924528301886
+Vodka	verb	0.018867924528301886
+Vodka	vodit	0.018867924528301886
+Vodka	razvodit	0.018867924528301886
+Vodka	водить	0.018867924528301886
+Vodka	разводить	0.018867924528301886
+Vodka	dilut	0.03773584905660377
+Vodka	water	0.09433962264150944
+Vodka	henc	0.018867924528301886
+Vodka	vodka	1.0
+Vodka	bread	0.05660377358490566
+Vodka	wine	0.05660377358490566
+Vodka	would	0.018867924528301886
+Vodka	water	0.09433962264150944
+Vodka	dilut	0.03773584905660377
+Vodka	distil	0.09433962264150944
+Vodka	spirit	0.16981132075471697
+Vodka	word	0.05660377358490566
+Vodka	could	0.018867924528301886
+Vodka	found	0.03773584905660377
+Vodka	manuscript	0.018867924528301886
+Vodka	lubok	0.018867924528301886
+Vodka	лубок	0.018867924528301886
+Vodka	pictur	0.018867924528301886
+Vodka	text	0.018867924528301886
+Vodka	explain	0.018867924528301886
+Vodka	plot	0.018867924528301886
+Vodka	russian	0.16981132075471697
+Vodka	predecessor	0.018867924528301886
+Vodka	comic	0.018867924528301886
+Vodka	began	0.018867924528301886
+Vodka	appear	0.018867924528301886
+Vodka	russian	0.16981132075471697
+Vodka	dictionari	0.018867924528301886
+Vodka	mid19th	0.018867924528301886
+Vodka	centuri	0.03773584905660377
+Vodka	vodka	1.0
+Vodka	one	0.03773584905660377
+Vodka	world	0.05660377358490566
+Vodka	popular	0.09433962264150944
+Vodka	spirit	0.16981132075471697
+Vodka	rare	0.018867924528301886
+Vodka	drunk	0.018867924528301886
+Vodka	outsid	0.018867924528301886
+Vodka	europ	0.03773584905660377
+Vodka	1950s	0.018867924528301886
+Vodka	popular	0.09433962264150944
+Vodka	spread	0.018867924528301886
+Vodka	new	0.018867924528301886
+Vodka	world	0.05660377358490566
+Vodka	way	0.03773584905660377
+Vodka	postwar	0.03773584905660377
+Vodka	franc	0.03773584905660377
+Vodka	pablo	0.018867924528301886
+Vodka	picasso	0.018867924528301886
+Vodka	defin	0.018867924528301886
+Vodka	notabl	0.018867924528301886
+Vodka	featur	0.018867924528301886
+Vodka	postwar	0.03773584905660377
+Vodka	franc	0.03773584905660377
+Vodka	brigitt	0.018867924528301886
+Vodka	bardot	0.018867924528301886
+Vodka	modern	0.03773584905660377
+Vodka	jazz	0.018867924528301886
+Vodka	polish	0.05660377358490566
+Vodka	vodka	1.0
+Vodka	1975	0.018867924528301886
+Vodka	vodka	1.0
+Vodka	sale	0.018867924528301886
+Vodka	unit	0.018867924528301886
+Vodka	state	0.018867924528301886
+Vodka	overtook	0.018867924528301886
+Vodka	bourbon	0.018867924528301886
+Vodka	whiskey	0.018867924528301886
+Vodka	previous	0.018867924528301886
+Vodka	popular	0.09433962264150944
+Vodka	hard	0.018867924528301886
+Vodka	liquor	0.09433962264150944
+Vodka	second	0.05660377358490566
+Vodka	half	0.05660377358490566
+Vodka	20th	0.018867924528301886
+Vodka	centuri	0.03773584905660377
+Vodka	vodka	1.0
+Vodka	owe	0.018867924528301886
+Vodka	popular	0.09433962264150944
+Vodka	part	0.018867924528301886
+Vodka	reput	0.018867924528301886
+Vodka	alcohol	0.20754716981132076
+Vodka	beverag	0.03773584905660377
+Vodka	leav	0.03773584905660377
+Vodka	breathless	0.018867924528301886
+Vodka	one	0.03773584905660377
+Vodka	ad	0.03773584905660377
+Vodka	put	0.018867924528301886
+Vodka	—	0.05660377358490566
+Vodka	smell	0.018867924528301886
+Vodka	liquor	0.09433962264150944
+Vodka	remain	0.018867924528301886
+Vodka	detect	0.018867924528301886
+Vodka	breath	0.018867924528301886
+Vodka	accord	0.03773584905660377
+Vodka	penguin	0.018867924528301886
+Vodka	book	0.05660377358490566
+Vodka	spirit	0.16981132075471697
+Vodka	liqueur	0.018867924528301886
+Vodka	low	0.018867924528301886
+Vodka	level	0.018867924528301886
+Vodka	fusel	0.018867924528301886
+Vodka	oil	0.03773584905660377
+Vodka	congener	0.018867924528301886
+Vodka	—	0.05660377358490566
+Vodka	impur	0.018867924528301886
+Vodka	flavor	0.16981132075471697
+Vodka	spirit	0.16981132075471697
+Vodka	contribut	0.018867924528301886
+Vodka	aftereffect	0.018867924528301886
+Vodka	heavi	0.018867924528301886
+Vodka	consumpt	0.018867924528301886
+Vodka	—	0.05660377358490566
+Vodka	led	0.018867924528301886
+Vodka	consid	0.05660377358490566
+Vodka	among	0.03773584905660377
+Vodka	safer	0.018867924528301886
+Vodka	spirit	0.16981132075471697
+Vodka	though	0.018867924528301886
+Vodka	term	0.07547169811320754
+Vodka	power	0.018867924528301886
+Vodka	intox	0.018867924528301886
+Vodka	depend	0.018867924528301886
+Vodka	strength	0.03773584905660377
+Vodka	may	0.05660377358490566
+Vodka	consider	0.018867924528301886
+Vodka	interest	0.018867924528301886
+Vodka	peopl	0.018867924528301886
+Vodka	area	0.03773584905660377
+Vodka	vodka	1.0
+Vodka	probabl	0.018867924528301886
+Vodka	origin	0.11320754716981132
+Vodka	name	0.07547169811320754
+Vodka	vodka	1.0
+Vodka	root	0.03773584905660377
+Vodka	mean	0.03773584905660377
+Vodka	burn	0.018867924528301886
+Vodka	polish	0.05660377358490566
+Vodka	gorzałka	0.018867924528301886
+Vodka	ukrainian	0.05660377358490566
+Vodka	горілка	0.018867924528301886
+Vodka	horilka	0.018867924528301886
+Vodka	belarusian	0.03773584905660377
+Vodka	гарэлка	0.018867924528301886
+Vodka	harelka	0.018867924528301886
+Vodka	lithuanian	0.018867924528301886
+Vodka	degtinė	0.018867924528301886
+Vodka	second	0.05660377358490566
+Vodka	half	0.05660377358490566
+Vodka	1970s	0.018867924528301886
+Vodka	wit	0.018867924528301886
+Vodka	two	0.03773584905660377
+Vodka	massiv	0.018867924528301886
+Vodka	attack	0.018867924528301886
+Vodka	prioriti	0.07547169811320754
+Vodka	right	0.018867924528301886
+Vodka	soviet	0.09433962264150944
+Vodka	union	0.05660377358490566
+Vodka	market	0.03773584905660377
+Vodka	liquor	0.09433962264150944
+Vodka	name	0.07547169811320754
+Vodka	vodka	1.0
+Vodka	first	0.05660377358490566
+Vodka	assault	0.03773584905660377
+Vodka	along	0.018867924528301886
+Vodka	line	0.018867924528301886
+Vodka	russian	0.16981132075471697
+Vodka	revolut	0.018867924528301886
+Vodka	discontinu	0.018867924528301886
+Vodka	russia	0.1320754716981132
+Vodka	trademark	0.03773584905660377
+Vodka	vodka	1.0
+Vodka	natur	0.018867924528301886
+Vodka	transfer	0.018867924528301886
+Vodka	emigr	0.018867924528301886
+Vodka	manufactur	0.03773584905660377
+Vodka	vodka	1.0
+Vodka	smirnoff	0.03773584905660377
+Vodka	particular	0.03773584905660377
+Vodka	prohibit	0.018867924528301886
+Vodka	soviet	0.09433962264150944
+Vodka	offici	0.03773584905660377
+Vodka	soviet	0.09433962264150944
+Vodka	union	0.05660377358490566
+Vodka	start	0.018867924528301886
+Vodka	manufactur	0.03773584905660377
+Vodka	vodka	1.0
+Vodka	1923	0.018867924528301886
+Vodka	refut	0.018867924528301886
+Vodka	fair	0.018867924528301886
+Vodka	easili	0.018867924528301886
+Vodka	second	0.05660377358490566
+Vodka	assault	0.03773584905660377
+Vodka	around	0.018867924528301886
+Vodka	1977	0.018867924528301886
+Vodka	poland	0.09433962264150944
+Vodka	serious	0.03773584905660377
+Vodka	soviet	0.09433962264150944
+Vodka	union	0.05660377358490566
+Vodka	undertook	0.018867924528301886
+Vodka	histor	0.018867924528301886
+Vodka	research	0.05660377358490566
+Vodka	substanti	0.03773584905660377
+Vodka	russia	0.1320754716981132
+Vodka	prioriti	0.07547169811320754
+Vodka	complet	0.018867924528301886
+Vodka	1979	0.018867924528301886
+Vodka	1982	0.018867924528301886
+Vodka	intern	0.018867924528301886
+Vodka	arbitrag	0.018867924528301886
+Vodka	consid	0.05660377358490566
+Vodka	convinc	0.018867924528301886
+Vodka	enough	0.018867924528301886
+Vodka	grant	0.018867924528301886
+Vodka	ussr	0.018867924528301886
+Vodka	prioriti	0.07547169811320754
+Vodka	vodka	1.0
+Vodka	russian	0.16981132075471697
+Vodka	origin	0.11320754716981132
+Vodka	alcohol	0.20754716981132076
+Vodka	beverag	0.03773584905660377
+Vodka	recognis	0.018867924528301886
+Vodka	soviet	0.09433962264150944
+Vodka	trademark	0.03773584905660377
+Vodka	motto	0.018867924528301886
+Vodka	vodka	1.0
+Vodka	russia	0.1320754716981132
+Vodka	genuin	0.018867924528301886
+Vodka	russian	0.16981132075471697
+Vodka	vodka	1.0
+Vodka	author	0.018867924528301886
+Vodka	research	0.05660377358490566
+Vodka	publish	0.018867924528301886
+Vodka	find	0.018867924528301886
+Vodka	alia	0.018867924528301886
+Vodka	william	0.018867924528301886
+Vodka	pokhlebkin	0.018867924528301886
+Vodka	book	0.05660377358490566
+Vodka	histori	0.03773584905660377
+Vodka	vodka	1.0
+Vodka	see	0.03773584905660377
+Vodka	refer	0.018867924528301886
+Vodka	despit	0.018867924528301886
+Vodka	clear	0.03773584905660377
+Vodka	bias	0.018867924528301886
+Vodka	exposit	0.018867924528301886
+Vodka	book	0.05660377358490566
+Vodka	toward	0.018867924528301886
+Vodka	goal	0.018867924528301886
+Vodka	prove	0.018867924528301886
+Vodka	russian	0.16981132075471697
+Vodka	prioriti	0.07547169811320754
+Vodka	serious	0.03773584905660377
+Vodka	substanti	0.03773584905660377
+Vodka	research	0.05660377358490566
+Vodka	reveal	0.018867924528301886
+Vodka	quit	0.018867924528301886
+Vodka	fact	0.018867924528301886
+Vodka	well	0.03773584905660377
+Vodka	debunk	0.018867924528301886
+Vodka	number	0.05660377358490566
+Vodka	myth	0.018867924528301886
+Vodka	origin	0.11320754716981132
+Vodka	vodka	1.0
+Vodka	product	0.018867924528301886
+Vodka	name	0.07547169811320754
+Vodka	among	0.03773584905660377
+Vodka	grain	0.03773584905660377
+Vodka	vodka	1.0
+Vodka	rye	0.018867924528301886
+Vodka	wheat	0.018867924528301886
+Vodka	vodka	1.0
+Vodka	general	0.018867924528301886
+Vodka	consid	0.05660377358490566
+Vodka	superior	0.018867924528301886
+Vodka	vodka	1.0
+Vodka	made	0.03773584905660377
+Vodka	potato	0.03773584905660377
+Vodka	molass	0.018867924528301886
+Vodka	soybean	0.018867924528301886
+Vodka	grape	0.018867924528301886
+Vodka	sometim	0.018867924528301886
+Vodka	even	0.018867924528301886
+Vodka	byproduct	0.018867924528301886
+Vodka	oil	0.03773584905660377
+Vodka	refin	0.018867924528301886
+Vodka	wood	0.018867924528301886
+Vodka	pulp	0.018867924528301886
+Vodka	process	0.018867924528301886
+Vodka	central	0.018867924528301886
+Vodka	european	0.018867924528301886
+Vodka	countri	0.03773584905660377
+Vodka	like	0.018867924528301886
+Vodka	poland	0.09433962264150944
+Vodka	vodka	1.0
+Vodka	produc	0.11320754716981132
+Vodka	ferment	0.03773584905660377
+Vodka	solut	0.018867924528301886
+Vodka	crystal	0.03773584905660377
+Vodka	sugar	0.018867924528301886
+Vodka	salt	0.018867924528301886
+Vodka	yeast	0.018867924528301886
+Vodka	distil	0.09433962264150944
+Vodka	week	0.018867924528301886
+Vodka	today	0.018867924528301886
+Vodka	vodka	1.0
+Vodka	produc	0.11320754716981132
+Vodka	throughout	0.018867924528301886
+Vodka	world	0.05660377358490566
+Vodka	see	0.03773584905660377
+Vodka	list	0.03773584905660377
+Vodka	vodka	1.0
+Vodka	common	0.05660377358490566
+Vodka	properti	0.018867924528301886
+Vodka	vodka	1.0
+Vodka	compar	0.018867924528301886
+Vodka	spirit	0.16981132075471697
+Vodka	flavour	0.03773584905660377
+Vodka	ad	0.03773584905660377
+Vodka	neutral	0.03773584905660377
+Vodka	far	0.018867924528301886
+Vodka	possibl	0.03773584905660377
+Vodka	often	0.07547169811320754
+Vodka	done	0.018867924528301886
+Vodka	filter	0.03773584905660377
+Vodka	column	0.018867924528301886
+Vodka	still	0.018867924528301886
+Vodka	distil	0.09433962264150944
+Vodka	filter	0.03773584905660377
+Vodka	charcoal	0.018867924528301886
+Vodka	media	0.018867924528301886
+Vodka	distil	0.09433962264150944
+Vodka	idea	0.018867924528301886
+Vodka	remov	0.018867924528301886
+Vodka	everyth	0.018867924528301886
+Vodka	except	0.03773584905660377
+Vodka	pure	0.05660377358490566
+Vodka	water	0.09433962264150944
+Vodka	pure	0.05660377358490566
+Vodka	alcohol	0.20754716981132076
+Vodka	liquid	0.018867924528301886
+Vodka	result	0.018867924528301886
+Vodka	vodka	1.0
+Vodka	neutral	0.03773584905660377
+Vodka	tast	0.03773584905660377
+Vodka	apart	0.018867924528301886
+Vodka	alcohol	0.20754716981132076
+Vodka	content	0.09433962264150944
+Vodka	vodka	1.0
+Vodka	may	0.05660377358490566
+Vodka	classifi	0.018867924528301886
+Vodka	two	0.03773584905660377
+Vodka	main	0.018867924528301886
+Vodka	group	0.018867924528301886
+Vodka	clear	0.03773584905660377
+Vodka	vodka	1.0
+Vodka	flavor	0.16981132075471697
+Vodka	vodka	1.0
+Vodka	due	0.018867924528301886
+Vodka	high	0.018867924528301886
+Vodka	alcohol	0.20754716981132076
+Vodka	content	0.09433962264150944
+Vodka	certain	0.018867924528301886
+Vodka	brand	0.03773584905660377
+Vodka	vodka	1.0
+Vodka	store	0.03773584905660377
+Vodka	ice	0.018867924528301886
+Vodka	freezer	0.018867924528301886
+Vodka	without	0.03773584905660377
+Vodka	crystal	0.03773584905660377
+Vodka	water	0.09433962264150944
+Vodka	vodka	1.0
+Vodka	unflavor	0.018867924528301886
+Vodka	wide	0.018867924528301886
+Vodka	varieti	0.07547169811320754
+Vodka	flavor	0.16981132075471697
+Vodka	vodka	1.0
+Vodka	long	0.05660377358490566
+Vodka	produc	0.11320754716981132
+Vodka	tradit	0.07547169811320754
+Vodka	vodkadrink	0.018867924528301886
+Vodka	area	0.03773584905660377
+Vodka	often	0.07547169811320754
+Vodka	homemad	0.03773584905660377
+Vodka	recip	0.018867924528301886
+Vodka	improv	0.018867924528301886
+Vodka	vodka	1.0
+Vodka	tast	0.03773584905660377
+Vodka	medicin	0.03773584905660377
+Vodka	purpos	0.018867924528301886
+Vodka	flavor	0.16981132075471697
+Vodka	includ	0.05660377358490566
+Vodka	red	0.018867924528301886
+Vodka	pepper	0.03773584905660377
+Vodka	ginger	0.018867924528301886
+Vodka	various	0.03773584905660377
+Vodka	fruit	0.05660377358490566
+Vodka	flavor	0.16981132075471697
+Vodka	vanilla	0.018867924528301886
+Vodka	chocol	0.018867924528301886
+Vodka	without	0.03773584905660377
+Vodka	sweeten	0.018867924528301886
+Vodka	cinnamon	0.018867924528301886
+Vodka	ukrainian	0.05660377358490566
+Vodka	produc	0.11320754716981132
+Vodka	commerci	0.03773584905660377
+Vodka	vodka	1.0
+Vodka	includ	0.05660377358490566
+Vodka	st	0.018867924528301886
+Vodka	john	0.018867924528301886
+Vodka	wort	0.018867924528301886
+Vodka	pole	0.03773584905660377
+Vodka	belarusian	0.03773584905660377
+Vodka	add	0.018867924528301886
+Vodka	leav	0.03773584905660377
+Vodka	local	0.018867924528301886
+Vodka	bison	0.018867924528301886
+Vodka	grass	0.018867924528301886
+Vodka	produc	0.11320754716981132
+Vodka	żubrówka	0.018867924528301886
+Vodka	vodka	1.0
+Vodka	slight	0.018867924528301886
+Vodka	sweet	0.018867924528301886
+Vodka	flavor	0.16981132075471697
+Vodka	light	0.018867924528301886
+Vodka	amber	0.018867924528301886
+Vodka	color	0.018867924528301886
+Vodka	ukrain	0.03773584905660377
+Vodka	russia	0.1320754716981132
+Vodka	vodka	1.0
+Vodka	flavour	0.03773584905660377
+Vodka	honey	0.018867924528301886
+Vodka	pepper	0.03773584905660377
+Vodka	pertsovka	0.018867924528301886
+Vodka	russian	0.16981132075471697
+Vodka	pertsivka	0.018867924528301886
+Vodka	ukrainian	0.05660377358490566
+Vodka	also	0.07547169811320754
+Vodka	popular	0.09433962264150944
+Vodka	tradit	0.07547169811320754
+Vodka	flavor	0.16981132075471697
+Vodka	also	0.07547169811320754
+Vodka	preval	0.018867924528301886
+Vodka	nordic	0.018867924528301886
+Vodka	countri	0.03773584905660377
+Vodka	vodka	1.0
+Vodka	season	0.03773584905660377
+Vodka	various	0.03773584905660377
+Vodka	herb	0.03773584905660377
+Vodka	fruit	0.05660377358490566
+Vodka	spice	0.018867924528301886
+Vodka	appropri	0.018867924528301886
+Vodka	strong	0.018867924528301886
+Vodka	drink	0.03773584905660377
+Vodka	tradit	0.07547169811320754
+Vodka	season	0.03773584905660377
+Vodka	festiv	0.018867924528301886
+Vodka	midsumm	0.018867924528301886
+Vodka	particular	0.03773584905660377
+Vodka	sweden	0.018867924528301886
+Vodka	alon	0.018867924528301886
+Vodka	fortyodd	0.018867924528301886
+Vodka	common	0.05660377358490566
+Vodka	varieti	0.07547169811320754
+Vodka	herbflavor	0.018867924528301886
+Vodka	vodka	1.0
+Vodka	kryddat	0.018867924528301886
+Vodka	brännvin	0.018867924528301886
+Vodka	poland	0.09433962264150944
+Vodka	separ	0.018867924528301886
+Vodka	categori	0.018867924528301886
+Vodka	nalewka	0.018867924528301886
+Vodka	vodkabas	0.018867924528301886
+Vodka	spirit	0.16981132075471697
+Vodka	fruit	0.05660377358490566
+Vodka	root	0.03773584905660377
+Vodka	flower	0.018867924528301886
+Vodka	herb	0.03773584905660377
+Vodka	extract	0.018867924528301886
+Vodka	often	0.07547169811320754
+Vodka	homemad	0.03773584905660377
+Vodka	produc	0.11320754716981132
+Vodka	commerci	0.03773584905660377
+Vodka	small	0.018867924528301886
+Vodka	distilleri	0.03773584905660377
+Vodka	alcohol	0.20754716981132076
+Vodka	content	0.09433962264150944
+Vodka	may	0.05660377358490566
+Vodka	vari	0.018867924528301886
+Vodka	15	0.018867924528301886
+Vodka	75	0.018867924528301886
+Vodka	pole	0.03773584905660377
+Vodka	also	0.07547169811320754
+Vodka	make	0.018867924528301886
+Vodka	pure	0.05660377358490566
+Vodka	95	0.03773584905660377
+Vodka	190	0.018867924528301886
+Vodka	proof	0.03773584905660377
+Vodka	rectifi	0.018867924528301886
+Vodka	spirit	0.16981132075471697
+Vodka	polish	0.05660377358490566
+Vodka	languag	0.018867924528301886
+Vodka	spirytus	0.018867924528301886
+Vodka	rektyfikowani	0.018867924528301886
+Vodka	use	0.05660377358490566
+Vodka	varieti	0.07547169811320754
+Vodka	way	0.03773584905660377
+Vodka	technic	0.018867924528301886
+Vodka	form	0.018867924528301886
+Vodka	vodka	1.0
+Vodka	sold	0.018867924528301886
+Vodka	liquor	0.09433962264150944
+Vodka	store	0.03773584905660377
+Vodka	pharmaci	0.018867924528301886
+Vodka	similar	0.018867924528301886
+Vodka	german	0.018867924528301886
+Vodka	market	0.03773584905660377
+Vodka	often	0.07547169811320754
+Vodka	carri	0.018867924528301886
+Vodka	germanhungarianpolishukrainian	0.018867924528301886
+Vodka	made	0.03773584905660377
+Vodka	varieti	0.07547169811320754
+Vodka	vodka	1.0
+Vodka	90	0.018867924528301886
+Vodka	95	0.03773584905660377
+Vodka	alcohol	0.20754716981132076
+Vodka	content	0.09433962264150944
+Vodka	well	0.03773584905660377
+Vodka	straw	0.018867924528301886
+Vodka	rum	0.018867924528301886
+Vodka	potenc	0.018867924528301886
+Vodka	common	0.05660377358490566
+Vodka	avail	0.018867924528301886
+Vodka	flavor	0.16981132075471697
+Vodka	vodka	1.0
+Vodka	brand	0.03773584905660377
+Vodka	includ	0.05660377358490566
+Vodka	stolichnaya	0.018867924528301886
+Vodka	absolut	0.018867924528301886
+Vodka	smirnoff	0.03773584905660377
+Vodka	vodka	1.0
+Vodka	typic	0.018867924528301886
+Vodka	colourless	0.018867924528301886
+Vodka	liquor	0.09433962264150944
+Vodka	usual	0.03773584905660377
+Vodka	distil	0.09433962264150944
+Vodka	ferment	0.03773584905660377
+Vodka	grain	0.03773584905660377
+Vodka	potato	0.03773584905660377
+Vodka	except	0.03773584905660377
+Vodka	insignific	0.018867924528301886
+Vodka	amount	0.018867924528301886
+Vodka	flavor	0.16981132075471697
+Vodka	vodka	1.0
+Vodka	consist	0.018867924528301886
+Vodka	water	0.09433962264150944
+Vodka	alcohol	0.20754716981132076
+Vodka	ethanol	0.018867924528301886
+Vodka	vodka	1.0
+Vodka	usual	0.03773584905660377
+Vodka	alcohol	0.20754716981132076
+Vodka	content	0.09433962264150944
+Vodka	rang	0.018867924528301886
+Vodka	35	0.018867924528301886
+Vodka	70	0.018867924528301886
+Vodka	volum	0.018867924528301886
+Vodka	vodka	1.0
+Vodka	rassputin	0.018867924528301886
+Vodka	classic	0.018867924528301886
+Vodka	russian	0.16981132075471697
+Vodka	vodka	1.0
+Vodka	40	0.03773584905660377
+Vodka	80	0.018867924528301886
+Vodka	degre	0.018867924528301886
+Vodka	proof	0.03773584905660377
+Vodka	number	0.05660377358490566
+Vodka	attribut	0.018867924528301886
+Vodka	famous	0.018867924528301886
+Vodka	russian	0.16981132075471697
+Vodka	chemist	0.018867924528301886
+Vodka	dmitri	0.018867924528301886
+Vodka	mendeleev	0.03773584905660377
+Vodka	accord	0.03773584905660377
+Vodka	vodka	1.0
+Vodka	museum	0.018867924528301886
+Vodka	stpetersburg	0.018867924528301886
+Vodka	russia	0.1320754716981132
+Vodka	mendeleev	0.03773584905660377
+Vodka	thought	0.018867924528301886
+Vodka	perfect	0.018867924528301886
+Vodka	percentag	0.03773584905660377
+Vodka	38	0.018867924528301886
+Vodka	sinc	0.018867924528301886
+Vodka	spirit	0.16981132075471697
+Vodka	time	0.018867924528301886
+Vodka	tax	0.03773584905660377
+Vodka	strength	0.03773584905660377
+Vodka	percentag	0.03773584905660377
+Vodka	round	0.018867924528301886
+Vodka	40	0.03773584905660377
+Vodka	simplifi	0.018867924528301886
+Vodka	tax	0.03773584905660377
+Vodka	comput	0.018867924528301886
+Californication	outdon	0.16666666666666666
+Californication	california	0.16666666666666666
+Californication	put	0.16666666666666666
+Californication	twist	0.3333333333333333
+Californication	long	0.3333333333333333
+Californication	island	0.3333333333333333
+Californication	ice	0.16666666666666666
+Californication	tea	0.16666666666666666
+Californication	creation	0.16666666666666666
+Californication	californ	0.6666666666666666
+Californication	golden	0.16666666666666666
+Californication	state	0.16666666666666666
+Californication	variat	0.16666666666666666
+Californication	popular	0.16666666666666666
+Californication	long	0.3333333333333333
+Californication	island	0.3333333333333333
+Californication	cocktail	0.5
+Californication	californ	0.6666666666666666
+Californication	mixtur	0.3333333333333333
+Californication	rum	0.16666666666666666
+Californication	vodka	0.16666666666666666
+Californication	tequila	0.16666666666666666
+Californication	gin	0.16666666666666666
+Californication	finish	0.3333333333333333
+Californication	orang	1.0
+Californication	liqueur	0.3333333333333333
+Californication	lemon	0.16666666666666666
+Californication	juic	0.5
+Californication	orang	1.0
+Californication	juic	0.5
+Californication	tast	0.16666666666666666
+Californication	strong	0.16666666666666666
+Californication	sweet	0.16666666666666666
+Californication	mix	0.16666666666666666
+Californication	drink	0.16666666666666666
+Californication	finish	0.3333333333333333
+Californication	either	0.16666666666666666
+Californication	piec	0.16666666666666666
+Californication	orang	1.0
+Californication	twist	0.3333333333333333
+Californication	peel	0.16666666666666666
+Californication	orang	1.0
+Californication	rind	0.16666666666666666
+Californication	californ	0.6666666666666666
+Californication	subtl	0.16666666666666666
+Californication	cocktail	0.5
+Californication	citrus	0.16666666666666666
+Californication	flavor	0.16666666666666666
+Californication	impart	0.16666666666666666
+Californication	orang	1.0
+Californication	liqueur	0.3333333333333333
+Californication	orang	1.0
+Californication	juic	0.5
+Californication	attempt	0.16666666666666666
+Californication	disguis	0.16666666666666666
+Californication	punch	0.16666666666666666
+Californication	pack	0.16666666666666666
+Californication	mixtur	0.3333333333333333
+Californication	spirit	0.16666666666666666
+Californication	name	0.3333333333333333
+Californication	cocktail	0.5
+Californication	californ	0.6666666666666666
+Californication	base	0.16666666666666666
+Californication	term	0.16666666666666666
+Californication	promin	0.16666666666666666
+Californication	lyric	0.16666666666666666
+Californication	song	0.16666666666666666
+Californication	rock	0.16666666666666666
+Californication	group	0.16666666666666666
+Californication	red	0.16666666666666666
+Californication	hot	0.16666666666666666
+Californication	chili	0.16666666666666666
+Californication	pepper	0.16666666666666666
+Californication	also	0.16666666666666666
+Californication	televis	0.16666666666666666
+Californication	seri	0.16666666666666666
+Californication	run	0.16666666666666666
+Californication	sinc	0.16666666666666666
+Californication	august	0.16666666666666666
+Californication	2007	0.16666666666666666
+Californication	name	0.3333333333333333
+Porn Star Martini	anoth	0.14285714285714285
+Porn Star Martini	ankrah	0.14285714285714285
+Porn Star Martini	origin	0.14285714285714285
+Porn Star Martini	first	0.5714285714285714
+Porn Star Martini	dub	0.14285714285714285
+Porn Star Martini	maverick	0.14285714285714285
+Porn Star Martini	martini	1.0
+Porn Star Martini	shadi	0.14285714285714285
+Porn Star Martini	club	0.14285714285714285
+Porn Star Martini	capetown	0.14285714285714285
+Porn Star Martini	south	0.14285714285714285
+Porn Star Martini	africa	0.14285714285714285
+Porn Star Martini	renam	0.14285714285714285
+Porn Star Martini	pornstar	0.5714285714285714
+Porn Star Martini	martini	1.0
+Porn Star Martini	passion	0.8571428571428571
+Porn Star Martini	ankhar	0.14285714285714285
+Porn Star Martini	would	0.14285714285714285
+Porn Star Martini	put	0.14285714285714285
+Porn Star Martini	drink	0.8571428571428571
+Porn Star Martini	idea	0.14285714285714285
+Porn Star Martini	eat	0.14285714285714285
+Porn Star Martini	passion	0.8571428571428571
+Porn Star Martini	fruit	0.7142857142857143
+Porn Star Martini	first	0.5714285714285714
+Porn Star Martini	drink	0.8571428571428571
+Porn Star Martini	champagn	0.14285714285714285
+Porn Star Martini	enjoy	0.14285714285714285
+Porn Star Martini	lavish	0.14285714285714285
+Porn Star Martini	bol	0.14285714285714285
+Porn Star Martini	passion	0.8571428571428571
+Porn Star Martini	fruit	0.7142857142857143
+Porn Star Martini	martini	1.0
+Porn Star Martini	drink	0.8571428571428571
 Porn Star Martini	despit	0.14285714285714285
 Porn Star Martini	name	0.14285714285714285
 Porn Star Martini	pornstar	0.5714285714285714
@@ -1454,6 +4682,37 @@ Porn Star Martini	version	0.14285714285714285
 Porn Star Martini	cocktail	0.7142857142857143
 Porn Star Martini	share	0.14285714285714285
 Porn Star Martini	friend	0.14285714285714285
+Porn Star Martini	pornstar	0.5714285714285714
+Porn Star Martini	martini	1.0
+Porn Star Martini	delight	0.14285714285714285
+Porn Star Martini	mixtur	0.14285714285714285
+Porn Star Martini	vanilla	0.42857142857142855
+Porn Star Martini	vodka	0.2857142857142857
+Porn Star Martini	passoa	0.14285714285714285
+Porn Star Martini	fresh	0.14285714285714285
+Porn Star Martini	passion	0.8571428571428571
+Porn Star Martini	fruit	0.7142857142857143
+Porn Star Martini	vanilla	0.42857142857142855
+Porn Star Martini	syrup	0.14285714285714285
+Porn Star Martini	serv	0.5714285714285714
+Porn Star Martini	straight	0.14285714285714285
+Porn Star Martini	prosecco	0.42857142857142855
+Porn Star Martini	sweet	0.42857142857142855
+Porn Star Martini	vanilla	0.42857142857142855
+Porn Star Martini	vodka	0.2857142857142857
+Porn Star Martini	flavour	0.14285714285714285
+Porn Star Martini	balanc	0.14285714285714285
+Porn Star Martini	sharp	0.14285714285714285
+Porn Star Martini	passion	0.8571428571428571
+Porn Star Martini	fruit	0.7142857142857143
+Porn Star Martini	complement	0.14285714285714285
+Porn Star Martini	shot	0.42857142857142855
+Porn Star Martini	prosecco	0.42857142857142855
+Porn Star Martini	give	0.14285714285714285
+Porn Star Martini	differ	0.14285714285714285
+Porn Star Martini	experi	0.14285714285714285
+Porn Star Martini	fizzi	0.14285714285714285
+Porn Star Martini	dri	0.14285714285714285
 Porn Star Martini	need	0.14285714285714285
 Porn Star Martini	said	0.14285714285714285
 Porn Star Martini	cocktail	0.7142857142857143
@@ -1532,213 +4791,853 @@ Porn Star Martini	refin	0.14285714285714285
 Porn Star Martini	littl	0.14285714285714285
 Porn Star Martini	bit	0.14285714285714285
 Porn Star Martini	wild	0.14285714285714285
-Porn Star Martini	pornstar	0.5714285714285714
-Porn Star Martini	martini	1.0
-Porn Star Martini	delight	0.14285714285714285
-Porn Star Martini	mixtur	0.14285714285714285
-Porn Star Martini	vanilla	0.42857142857142855
-Porn Star Martini	vodka	0.2857142857142857
-Porn Star Martini	passoa	0.14285714285714285
-Porn Star Martini	fresh	0.14285714285714285
-Porn Star Martini	passion	0.8571428571428571
-Porn Star Martini	fruit	0.7142857142857143
-Porn Star Martini	vanilla	0.42857142857142855
-Porn Star Martini	syrup	0.14285714285714285
-Porn Star Martini	serv	0.5714285714285714
-Porn Star Martini	straight	0.14285714285714285
-Porn Star Martini	prosecco	0.42857142857142855
-Porn Star Martini	sweet	0.42857142857142855
-Porn Star Martini	vanilla	0.42857142857142855
-Porn Star Martini	vodka	0.2857142857142857
-Porn Star Martini	flavour	0.14285714285714285
-Porn Star Martini	balanc	0.14285714285714285
-Porn Star Martini	sharp	0.14285714285714285
-Porn Star Martini	passion	0.8571428571428571
-Porn Star Martini	fruit	0.7142857142857143
-Porn Star Martini	complement	0.14285714285714285
-Porn Star Martini	shot	0.42857142857142855
-Porn Star Martini	prosecco	0.42857142857142855
-Porn Star Martini	give	0.14285714285714285
-Porn Star Martini	differ	0.14285714285714285
-Porn Star Martini	experi	0.14285714285714285
-Porn Star Martini	fizzi	0.14285714285714285
-Porn Star Martini	dri	0.14285714285714285
-Porn Star Martini	anoth	0.14285714285714285
-Porn Star Martini	ankrah	0.14285714285714285
-Porn Star Martini	origin	0.14285714285714285
-Porn Star Martini	first	0.5714285714285714
-Porn Star Martini	dub	0.14285714285714285
-Porn Star Martini	maverick	0.14285714285714285
-Porn Star Martini	martini	1.0
-Porn Star Martini	shadi	0.14285714285714285
-Porn Star Martini	club	0.14285714285714285
-Porn Star Martini	capetown	0.14285714285714285
-Porn Star Martini	south	0.14285714285714285
-Porn Star Martini	africa	0.14285714285714285
-Porn Star Martini	renam	0.14285714285714285
-Porn Star Martini	pornstar	0.5714285714285714
-Porn Star Martini	martini	1.0
-Porn Star Martini	passion	0.8571428571428571
-Porn Star Martini	ankhar	0.14285714285714285
-Porn Star Martini	would	0.14285714285714285
-Porn Star Martini	put	0.14285714285714285
-Porn Star Martini	drink	0.8571428571428571
-Porn Star Martini	idea	0.14285714285714285
-Porn Star Martini	eat	0.14285714285714285
-Porn Star Martini	passion	0.8571428571428571
-Porn Star Martini	fruit	0.7142857142857143
-Porn Star Martini	first	0.5714285714285714
-Porn Star Martini	drink	0.8571428571428571
-Porn Star Martini	champagn	0.14285714285714285
-Porn Star Martini	enjoy	0.14285714285714285
-Porn Star Martini	lavish	0.14285714285714285
-Porn Star Martini	bol	0.14285714285714285
-Porn Star Martini	passion	0.8571428571428571
-Porn Star Martini	fruit	0.7142857142857143
-Porn Star Martini	martini	1.0
-Porn Star Martini	drink	0.8571428571428571
-Liquid nitrogen cocktail	liquid	1.0
-Liquid nitrogen cocktail	nitrogen	1.0
-Liquid nitrogen cocktail	cocktail	0.375
-Liquid nitrogen cocktail	mix	0.125
-Liquid nitrogen cocktail	drink	0.25
-Liquid nitrogen cocktail	whose	0.125
-Liquid nitrogen cocktail	prepar	0.375
-Liquid nitrogen cocktail	involv	0.125
-Liquid nitrogen cocktail	use	0.5
-Liquid nitrogen cocktail	liquid	1.0
-Liquid nitrogen cocktail	nitrogen	1.0
-Liquid nitrogen cocktail	popular	0.25
-Liquid nitrogen cocktail	novelti	0.125
-Liquid nitrogen cocktail	smoki	0.25
-Liquid nitrogen cocktail	bubbl	0.125
-Liquid nitrogen cocktail	cauldron	0.125
-Liquid nitrogen cocktail	effect	0.25
-Liquid nitrogen cocktail	produc	0.125
-Liquid nitrogen cocktail	liquid	1.0
-Liquid nitrogen cocktail	nitrogen	1.0
-Liquid nitrogen cocktail	controversi	0.125
-Liquid nitrogen cocktail	cocktail	0.375
-Liquid nitrogen cocktail	ingredi	0.25
-Liquid nitrogen cocktail	boil	0.125
-Liquid nitrogen cocktail	196	0.125
-Liquid nitrogen cocktail	°c	0.125
-Liquid nitrogen cocktail	77	0.125
-Liquid nitrogen cocktail	k	0.125
-Liquid nitrogen cocktail	321	0.125
-Liquid nitrogen cocktail	°f	0.125
-Liquid nitrogen cocktail	consumpt	0.125
-Liquid nitrogen cocktail	thus	0.125
-Liquid nitrogen cocktail	potenti	0.125
-Liquid nitrogen cocktail	lethal	0.125
-Liquid nitrogen cocktail	low	0.125
-Liquid nitrogen cocktail	temperatur	0.125
-Liquid nitrogen cocktail	liquid	1.0
-Liquid nitrogen cocktail	nitrogen	1.0
-Liquid nitrogen cocktail	extrem	0.125
-Liquid nitrogen cocktail	damag	0.25
-Liquid nitrogen cocktail	bodi	0.125
-Liquid nitrogen cocktail	tissu	0.25
-Liquid nitrogen cocktail	caus	0.125
-Liquid nitrogen cocktail	frostbit	0.125
-Liquid nitrogen cocktail	cryogen	0.125
-Liquid nitrogen cocktail	burn	0.125
-Liquid nitrogen cocktail	contact	0.25
-Liquid nitrogen cocktail	ingest	0.125
-Liquid nitrogen cocktail	lead	0.125
-Liquid nitrogen cocktail	sever	0.125
-Liquid nitrogen cocktail	intern	0.125
-Liquid nitrogen cocktail	damag	0.25
-Liquid nitrogen cocktail	destroy	0.125
-Liquid nitrogen cocktail	tissu	0.25
-Liquid nitrogen cocktail	mouth	0.125
-Liquid nitrogen cocktail	digest	0.125
-Liquid nitrogen cocktail	tract	0.125
-Liquid nitrogen cocktail	furthermor	0.125
-Liquid nitrogen cocktail	evapor	0.125
-Liquid nitrogen cocktail	liquid	1.0
-Liquid nitrogen cocktail	nitrogen	1.0
-Liquid nitrogen cocktail	releas	0.125
-Liquid nitrogen cocktail	larg	0.25
-Liquid nitrogen cocktail	volum	0.125
-Liquid nitrogen cocktail	gas	0.125
-Liquid nitrogen cocktail	mean	0.125
-Liquid nitrogen cocktail	burst	0.125
-Liquid nitrogen cocktail	stomach	0.125
-Liquid nitrogen cocktail	swallow	0.125
-Liquid nitrogen cocktail	suffici	0.125
-Liquid nitrogen cocktail	larg	0.25
-Liquid nitrogen cocktail	amount	0.125
-Liquid nitrogen cocktail	howev	0.125
-Liquid nitrogen cocktail	regul	0.125
-Liquid nitrogen cocktail	substanc	0.125
-Liquid nitrogen cocktail	countri	0.125
-Liquid nitrogen cocktail	littl	0.125
-Liquid nitrogen cocktail	control	0.125
-Liquid nitrogen cocktail	use	0.5
-Liquid nitrogen cocktail	culinari	0.125
-Liquid nitrogen cocktail	use	0.5
-Liquid nitrogen cocktail	liquid	1.0
-Liquid nitrogen cocktail	nitrogen	1.0
-Liquid nitrogen cocktail	mention	0.125
-Liquid nitrogen cocktail	1890	0.125
-Liquid nitrogen cocktail	recip	0.125
-Liquid nitrogen cocktail	book	0.125
-Liquid nitrogen cocktail	titl	0.125
-Liquid nitrogen cocktail	fanci	0.125
-Liquid nitrogen cocktail	ice	0.25
-Liquid nitrogen cocktail	author	0.125
-Liquid nitrogen cocktail	mrs	0.125
-Liquid nitrogen cocktail	agn	0.125
-Liquid nitrogen cocktail	marshal	0.125
-Liquid nitrogen cocktail	employ	0.125
-Liquid nitrogen cocktail	recent	0.125
-Liquid nitrogen cocktail	time	0.125
-Liquid nitrogen cocktail	restaur	0.125
-Liquid nitrogen cocktail	prepar	0.375
-Liquid nitrogen cocktail	frozen	0.125
-Liquid nitrogen cocktail	dessert	0.125
-Liquid nitrogen cocktail	ice	0.25
-Liquid nitrogen cocktail	cream	0.125
-Liquid nitrogen cocktail	creat	0.25
-Liquid nitrogen cocktail	within	0.125
-Liquid nitrogen cocktail	moment	0.125
-Liquid nitrogen cocktail	tabl	0.125
-Liquid nitrogen cocktail	speed	0.125
-Liquid nitrogen cocktail	cool	0.125
-Liquid nitrogen cocktail	food	0.125
-Liquid nitrogen cocktail	similar	0.125
-Liquid nitrogen cocktail	liquid	1.0
-Liquid nitrogen cocktail	nitrogen	1.0
-Liquid nitrogen cocktail	becom	0.125
-Liquid nitrogen cocktail	popular	0.25
-Liquid nitrogen cocktail	prepar	0.375
-Liquid nitrogen cocktail	cocktail	0.375
-Liquid nitrogen cocktail	use	0.5
-Liquid nitrogen cocktail	quick	0.125
-Liquid nitrogen cocktail	chill	0.125
-Liquid nitrogen cocktail	glass	0.125
-Liquid nitrogen cocktail	freez	0.125
-Liquid nitrogen cocktail	ingredi	0.25
-Liquid nitrogen cocktail	also	0.125
-Liquid nitrogen cocktail	ad	0.125
-Liquid nitrogen cocktail	drink	0.25
-Liquid nitrogen cocktail	creat	0.25
-Liquid nitrogen cocktail	smoki	0.25
-Liquid nitrogen cocktail	effect	0.25
-Liquid nitrogen cocktail	occur	0.125
-Liquid nitrogen cocktail	tini	0.125
-Liquid nitrogen cocktail	droplet	0.125
-Liquid nitrogen cocktail	liquid	1.0
-Liquid nitrogen cocktail	nitrogen	1.0
-Liquid nitrogen cocktail	come	0.125
-Liquid nitrogen cocktail	contact	0.25
-Liquid nitrogen cocktail	surround	0.125
-Liquid nitrogen cocktail	air	0.125
-Liquid nitrogen cocktail	condens	0.125
-Liquid nitrogen cocktail	vapour	0.125
-Liquid nitrogen cocktail	natur	0.125
-Liquid nitrogen cocktail	present	0.125
+Appletini	drink	0.3157894736842105
+Appletini	proper	0.05263157894736842
+Appletini	call	0.05263157894736842
+Appletini	adam	0.10526315789473684
+Appletini	appl	1.0
+Appletini	martini	0.3684210526315789
+Appletini	creat	0.05263157894736842
+Appletini	popular	0.05263157894736842
+Appletini	1997	0.05263157894736842
+Appletini	adam	0.10526315789473684
+Appletini	karsten	0.05263157894736842
+Appletini	bartend	0.05263157894736842
+Appletini	lola	0.05263157894736842
+Appletini	west	0.05263157894736842
+Appletini	hollywood	0.05263157894736842
+Appletini	california	0.05263157894736842
+Appletini	appletini	0.3157894736842105
+Appletini	favorit	0.10526315789473684
+Appletini	alcohol	0.05263157894736842
+Appletini	drink	0.3157894736842105
+Appletini	john	0.05263157894736842
+Appletini	jd	0.05263157894736842
+Appletini	dorian	0.05263157894736842
+Appletini	sitcom	0.05263157894736842
+Appletini	scrub	0.05263157894736842
+Appletini	often	0.05263157894736842
+Appletini	character	0.05263157894736842
+Appletini	somewhat	0.05263157894736842
+Appletini	effemin	0.05263157894736842
+Appletini	along	0.05263157894736842
+Appletini	rum	0.05263157894736842
+Appletini	diet	0.05263157894736842
+Appletini	coke	0.05263157894736842
+Appletini	also	0.05263157894736842
+Appletini	favorit	0.10526315789473684
+Appletini	drink	0.3157894736842105
+Appletini	alan	0.05263157894736842
+Appletini	harper	0.05263157894736842
+Appletini	two	0.05263157894736842
+Appletini	half	0.05263157894736842
+Appletini	men	0.05263157894736842
+Appletini	2010	0.05263157894736842
+Appletini	film	0.15789473684210525
+Appletini	social	0.05263157894736842
+Appletini	network	0.05263157894736842
+Appletini	initi	0.05263157894736842
+Appletini	meet	0.05263157894736842
+Appletini	facebook	0.10526315789473684
+Appletini	cofound	0.10526315789473684
+Appletini	mark	0.05263157894736842
+Appletini	zuckerberg	0.15789473684210525
+Appletini	eduardo	0.05263157894736842
+Appletini	saverin	0.05263157894736842
+Appletini	napster	0.05263157894736842
+Appletini	cofound	0.10526315789473684
+Appletini	sean	0.05263157894736842
+Appletini	parker	0.10526315789473684
+Appletini	parker	0.10526315789473684
+Appletini	buy	0.05263157894736842
+Appletini	tabl	0.05263157894736842
+Appletini	round	0.05263157894736842
+Appletini	drink	0.3157894736842105
+Appletini	real	0.05263157894736842
+Appletini	life	0.05263157894736842
+Appletini	zuckerberg	0.15789473684210525
+Appletini	never	0.05263157894736842
+Appletini	appletini	0.3157894736842105
+Appletini	attend	0.05263157894736842
+Appletini	film	0.15789473684210525
+Appletini	premier	0.05263157894736842
+Appletini	see	0.05263157894736842
+Appletini	film	0.15789473684210525
+Appletini	zuckerberg	0.15789473684210525
+Appletini	made	0.05263157894736842
+Appletini	appletini	0.3157894736842105
+Appletini	facebook	0.10526315789473684
+Appletini	offici	0.05263157894736842
+Appletini	drink	0.3157894736842105
+Appletini	appl	1.0
+Appletini	martini	0.3684210526315789
+Appletini	appletini	0.3157894736842105
+Appletini	short	0.05263157894736842
+Appletini	cocktail	0.10526315789473684
+Appletini	contain	0.05263157894736842
+Appletini	vodka	0.2631578947368421
+Appletini	one	0.10526315789473684
+Appletini	appl	1.0
+Appletini	juic	0.21052631578947367
+Appletini	appl	1.0
+Appletini	cider	0.05263157894736842
+Appletini	appl	1.0
+Appletini	liqueur	0.10526315789473684
+Appletini	appl	1.0
+Appletini	brandi	0.05263157894736842
+Appletini	option	0.05263157894736842
+Appletini	vermouth	0.05263157894736842
+Appletini	may	0.05263157894736842
+Appletini	includ	0.05263157894736842
+Appletini	regular	0.05263157894736842
+Appletini	martini	0.3684210526315789
+Appletini	typic	0.10526315789473684
+Appletini	appl	1.0
+Appletini	vodka	0.2631578947368421
+Appletini	shaken	0.05263157894736842
+Appletini	stir	0.05263157894736842
+Appletini	sweet	0.10526315789473684
+Appletini	sour	0.05263157894736842
+Appletini	mix	0.05263157894736842
+Appletini	strain	0.05263157894736842
+Appletini	cocktail	0.10526315789473684
+Appletini	glass	0.10526315789473684
+Appletini	appletini	0.3157894736842105
+Appletini	variat	0.05263157894736842
+Appletini	vodka	0.2631578947368421
+Appletini	martini	0.3684210526315789
+Appletini	diverg	0.05263157894736842
+Appletini	tast	0.3157894736842105
+Appletini	typic	0.10526315789473684
+Appletini	dri	0.05263157894736842
+Appletini	martini	0.3684210526315789
+Appletini	ad	0.05263157894736842
+Appletini	appl	1.0
+Appletini	juic	0.21052631578947367
+Appletini	andor	0.05263157894736842
+Appletini	appl	1.0
+Appletini	liqueur	0.10526315789473684
+Appletini	appl	1.0
+Appletini	schnapp	0.05263157894736842
+Appletini	tend	0.05263157894736842
+Appletini	serv	0.05263157894736842
+Appletini	standard	0.05263157894736842
+Appletini	martini	0.3684210526315789
+Appletini	glass	0.10526315789473684
+Appletini	truli	0.05263157894736842
+Appletini	differ	0.05263157894736842
+Appletini	martini	0.3684210526315789
+Appletini	tast	0.3157894736842105
+Appletini	sinc	0.05263157894736842
+Appletini	fruiti	0.05263157894736842
+Appletini	tast	0.3157894736842105
+Appletini	drink	0.3157894736842105
+Appletini	appl	1.0
+Appletini	flavor	0.2631578947368421
+Appletini	usual	0.05263157894736842
+Appletini	mask	0.05263157894736842
+Appletini	vodka	0.2631578947368421
+Appletini	appletini	0.3157894736842105
+Appletini	anyth	0.05263157894736842
+Appletini	bright	0.05263157894736842
+Appletini	green	0.21052631578947367
+Appletini	instead	0.05263157894736842
+Appletini	light	0.05263157894736842
+Appletini	sage	0.05263157894736842
+Appletini	green	0.21052631578947367
+Appletini	love	0.15789473684210525
+Appletini	granni	0.05263157894736842
+Appletini	smith	0.05263157894736842
+Appletini	appl	1.0
+Appletini	tast	0.3157894736842105
+Appletini	like	0.10526315789473684
+Appletini	nice	0.15789473684210525
+Appletini	clean	0.05263157894736842
+Appletini	appl	1.0
+Appletini	flavor	0.2631578947368421
+Appletini	love	0.15789473684210525
+Appletini	appl	1.0
+Appletini	flavor	0.2631578947368421
+Appletini	jolli	0.10526315789473684
+Appletini	rancher	0.10526315789473684
+Appletini	smell	0.05263157894736842
+Appletini	juic	0.21052631578947367
+Appletini	get	0.05263157894736842
+Appletini	keep	0.05263157894736842
+Appletini	think	0.05263157894736842
+Appletini	eat	0.05263157894736842
+Appletini	green	0.21052631578947367
+Appletini	appl	1.0
+Appletini	jolli	0.10526315789473684
+Appletini	rancher	0.10526315789473684
+Appletini	amaz	0.05263157894736842
+Appletini	love	0.15789473684210525
+Appletini	fruit	0.05263157894736842
+Appletini	want	0.05263157894736842
+Appletini	tast	0.3157894736842105
+Appletini	appl	1.0
+Appletini	one	0.10526315789473684
+Appletini	juic	0.21052631578947367
+Appletini	nice	0.15789473684210525
+Appletini	appl	1.0
+Appletini	flavor	0.2631578947368421
+Appletini	overwhelm	0.05263157894736842
+Appletini	hint	0.05263157894736842
+Appletini	vodka	0.2631578947368421
+Appletini	tast	0.3157894736842105
+Appletini	like	0.10526315789473684
+Appletini	nice	0.15789473684210525
+Appletini	fresh	0.05263157894736842
+Appletini	green	0.21052631578947367
+Appletini	appl	1.0
+Appletini	right	0.05263157894736842
+Appletini	fridg	0.05263157894736842
+Appletini	there	0.05263157894736842
+Appletini	notic	0.05263157894736842
+Appletini	tart	0.05263157894736842
+Appletini	look	0.10526315789473684
+Appletini	crisp	0.05263157894736842
+Appletini	refresh	0.05263157894736842
+Appletini	sweet	0.10526315789473684
+Appletini	slight	0.05263157894736842
+Appletini	tangi	0.05263157894736842
+Appletini	appl	1.0
+Appletini	flavor	0.2631578947368421
+Appletini	look	0.10526315789473684
+Long Island Iced Tea	disput	0.058823529411764705
+Long Island Iced Tea	origin	0.17647058823529413
+Long Island Iced Tea	long	0.47058823529411764
+Long Island Iced Tea	island	0.47058823529411764
+Long Island Iced Tea	ice	0.7058823529411765
+Long Island Iced Tea	tea	1.0
+Long Island Iced Tea	howev	0.11764705882352941
+Long Island Iced Tea	numer	0.058823529411764705
+Long Island Iced Tea	sourc	0.058823529411764705
+Long Island Iced Tea	attribut	0.058823529411764705
+Long Island Iced Tea	origin	0.17647058823529413
+Long Island Iced Tea	one	0.058823529411764705
+Long Island Iced Tea	two	0.058823529411764705
+Long Island Iced Tea	inventor	0.058823529411764705
+Long Island Iced Tea	1920s	0.058823529411764705
+Long Island Iced Tea	1970s	0.058823529411764705
+Long Island Iced Tea	long	0.47058823529411764
+Long Island Iced Tea	island	0.47058823529411764
+Long Island Iced Tea	ice	0.7058823529411765
+Long Island Iced Tea	tea	1.0
+Long Island Iced Tea	appear	0.058823529411764705
+Long Island Iced Tea	literatur	0.058823529411764705
+Long Island Iced Tea	earli	0.058823529411764705
+Long Island Iced Tea	1961	0.058823529411764705
+Long Island Iced Tea	robert	0.058823529411764705
+Long Island Iced Tea	rosebud	0.058823529411764705
+Long Island Iced Tea	butt	0.17647058823529413
+Long Island Iced Tea	claim	0.11764705882352941
+Long Island Iced Tea	invent	0.058823529411764705
+Long Island Iced Tea	drink	0.5882352941176471
+Long Island Iced Tea	entri	0.058823529411764705
+Long Island Iced Tea	contest	0.058823529411764705
+Long Island Iced Tea	creat	0.058823529411764705
+Long Island Iced Tea	new	0.11764705882352941
+Long Island Iced Tea	mix	0.4117647058823529
+Long Island Iced Tea	drink	0.5882352941176471
+Long Island Iced Tea	includ	0.17647058823529413
+Long Island Iced Tea	tripl	0.23529411764705882
+Long Island Iced Tea	sec	0.23529411764705882
+Long Island Iced Tea	1972	0.058823529411764705
+Long Island Iced Tea	work	0.058823529411764705
+Long Island Iced Tea	oak	0.11764705882352941
+Long Island Iced Tea	beach	0.11764705882352941
+Long Island Iced Tea	inn	0.11764705882352941
+Long Island Iced Tea	long	0.47058823529411764
+Long Island Iced Tea	island	0.47058823529411764
+Long Island Iced Tea	ny	0.058823529411764705
+Long Island Iced Tea	various	0.058823529411764705
+Long Island Iced Tea	local	0.11764705882352941
+Long Island Iced Tea	new	0.11764705882352941
+Long Island Iced Tea	york	0.058823529411764705
+Long Island Iced Tea	refer	0.058823529411764705
+Long Island Iced Tea	echo	0.058823529411764705
+Long Island Iced Tea	butt	0.17647058823529413
+Long Island Iced Tea	claim	0.11764705882352941
+Long Island Iced Tea	local	0.11764705882352941
+Long Island Iced Tea	rumor	0.058823529411764705
+Long Island Iced Tea	also	0.17647058823529413
+Long Island Iced Tea	ascrib	0.058823529411764705
+Long Island Iced Tea	origin	0.17647058823529413
+Long Island Iced Tea	either	0.058823529411764705
+Long Island Iced Tea	butt	0.17647058823529413
+Long Island Iced Tea	anoth	0.058823529411764705
+Long Island Iced Tea	bartend	0.058823529411764705
+Long Island Iced Tea	oak	0.11764705882352941
+Long Island Iced Tea	beach	0.11764705882352941
+Long Island Iced Tea	inn	0.11764705882352941
+Long Island Iced Tea	chris	0.058823529411764705
+Long Island Iced Tea	bendicksen	0.058823529411764705
+Long Island Iced Tea	restaur	0.058823529411764705
+Long Island Iced Tea	substitut	0.058823529411764705
+Long Island Iced Tea	brandi	0.058823529411764705
+Long Island Iced Tea	tequila	0.17647058823529413
+Long Island Iced Tea	variant	0.23529411764705882
+Long Island Iced Tea	drink	0.5882352941176471
+Long Island Iced Tea	altern	0.058823529411764705
+Long Island Iced Tea	name	0.11764705882352941
+Long Island Iced Tea	texa	0.058823529411764705
+Long Island Iced Tea	ice	0.7058823529411765
+Long Island Iced Tea	tea	1.0
+Long Island Iced Tea	georgia	0.058823529411764705
+Long Island Iced Tea	ice	0.7058823529411765
+Long Island Iced Tea	tea	1.0
+Long Island Iced Tea	tokyo	0.058823529411764705
+Long Island Iced Tea	tea	1.0
+Long Island Iced Tea	three	0.058823529411764705
+Long Island Iced Tea	mile	0.058823529411764705
+Long Island Iced Tea	island	0.47058823529411764
+Long Island Iced Tea	adio	0.058823529411764705
+Long Island Iced Tea	mother	0.058823529411764705
+Long Island Iced Tea	fucker	0.058823529411764705
+Long Island Iced Tea	drink	0.5882352941176471
+Long Island Iced Tea	much	0.058823529411764705
+Long Island Iced Tea	higher	0.058823529411764705
+Long Island Iced Tea	alcohol	0.23529411764705882
+Long Island Iced Tea	concentr	0.058823529411764705
+Long Island Iced Tea	approxim	0.058823529411764705
+Long Island Iced Tea	22	0.058823529411764705
+Long Island Iced Tea	percent	0.058823529411764705
+Long Island Iced Tea	highbal	0.058823529411764705
+Long Island Iced Tea	drink	0.5882352941176471
+Long Island Iced Tea	due	0.058823529411764705
+Long Island Iced Tea	relat	0.11764705882352941
+Long Island Iced Tea	small	0.11764705882352941
+Long Island Iced Tea	amount	0.11764705882352941
+Long Island Iced Tea	mixer	0.11764705882352941
+Long Island Iced Tea	long	0.47058823529411764
+Long Island Iced Tea	island	0.47058823529411764
+Long Island Iced Tea	order	0.058823529411764705
+Long Island Iced Tea	extra	0.058823529411764705
+Long Island Iced Tea	long	0.47058823529411764
+Long Island Iced Tea	increas	0.058823529411764705
+Long Island Iced Tea	alcohol	0.23529411764705882
+Long Island Iced Tea	mixer	0.11764705882352941
+Long Island Iced Tea	ratio	0.058823529411764705
+Long Island Iced Tea	long	0.47058823529411764
+Long Island Iced Tea	island	0.47058823529411764
+Long Island Iced Tea	ice	0.7058823529411765
+Long Island Iced Tea	tea	1.0
+Long Island Iced Tea	type	0.058823529411764705
+Long Island Iced Tea	alcohol	0.23529411764705882
+Long Island Iced Tea	mix	0.4117647058823529
+Long Island Iced Tea	drink	0.5882352941176471
+Long Island Iced Tea	typic	0.058823529411764705
+Long Island Iced Tea	made	0.11764705882352941
+Long Island Iced Tea	among	0.058823529411764705
+Long Island Iced Tea	ingredi	0.058823529411764705
+Long Island Iced Tea	tequila	0.17647058823529413
+Long Island Iced Tea	vodka	0.11764705882352941
+Long Island Iced Tea	light	0.058823529411764705
+Long Island Iced Tea	rum	0.11764705882352941
+Long Island Iced Tea	tripl	0.23529411764705882
+Long Island Iced Tea	sec	0.23529411764705882
+Long Island Iced Tea	gin	0.11764705882352941
+Long Island Iced Tea	name	0.11764705882352941
+Long Island Iced Tea	resembl	0.058823529411764705
+Long Island Iced Tea	color	0.058823529411764705
+Long Island Iced Tea	tast	0.35294117647058826
+Long Island Iced Tea	ice	0.7058823529411765
+Long Island Iced Tea	tea	1.0
+Long Island Iced Tea	popular	0.058823529411764705
+Long Island Iced Tea	version	0.058823529411764705
+Long Island Iced Tea	mix	0.4117647058823529
+Long Island Iced Tea	equal	0.11764705882352941
+Long Island Iced Tea	part	0.17647058823529413
+Long Island Iced Tea	vodka	0.11764705882352941
+Long Island Iced Tea	gin	0.11764705882352941
+Long Island Iced Tea	tequila	0.17647058823529413
+Long Island Iced Tea	rum	0.11764705882352941
+Long Island Iced Tea	tripl	0.23529411764705882
+Long Island Iced Tea	sec	0.23529411764705882
+Long Island Iced Tea	15	0.058823529411764705
+Long Island Iced Tea	part	0.17647058823529413
+Long Island Iced Tea	sour	0.11764705882352941
+Long Island Iced Tea	mix	0.4117647058823529
+Long Island Iced Tea	splash	0.058823529411764705
+Long Island Iced Tea	cola	0.17647058823529413
+Long Island Iced Tea	give	0.058823529411764705
+Long Island Iced Tea	drink	0.5882352941176471
+Long Island Iced Tea	amber	0.058823529411764705
+Long Island Iced Tea	hue	0.058823529411764705
+Long Island Iced Tea	namesak	0.058823529411764705
+Long Island Iced Tea	variant	0.23529411764705882
+Long Island Iced Tea	use	0.058823529411764705
+Long Island Iced Tea	equal	0.11764705882352941
+Long Island Iced Tea	part	0.17647058823529413
+Long Island Iced Tea	main	0.058823529411764705
+Long Island Iced Tea	liquor	0.11764705882352941
+Long Island Iced Tea	includ	0.17647058823529413
+Long Island Iced Tea	smaller	0.058823529411764705
+Long Island Iced Tea	amount	0.11764705882352941
+Long Island Iced Tea	tripl	0.23529411764705882
+Long Island Iced Tea	sec	0.23529411764705882
+Long Island Iced Tea	orangeflavor	0.058823529411764705
+Long Island Iced Tea	liqueur	0.058823529411764705
+Long Island Iced Tea	close	0.058823529411764705
+Long Island Iced Tea	variant	0.23529411764705882
+Long Island Iced Tea	often	0.058823529411764705
+Long Island Iced Tea	replac	0.11764705882352941
+Long Island Iced Tea	sour	0.11764705882352941
+Long Island Iced Tea	mix	0.4117647058823529
+Long Island Iced Tea	lemon	0.058823529411764705
+Long Island Iced Tea	juic	0.058823529411764705
+Long Island Iced Tea	replac	0.11764705882352941
+Long Island Iced Tea	cola	0.17647058823529413
+Long Island Iced Tea	diet	0.058823529411764705
+Long Island Iced Tea	cola	0.17647058823529413
+Long Island Iced Tea	actual	0.058823529411764705
+Long Island Iced Tea	ice	0.7058823529411765
+Long Island Iced Tea	tea	1.0
+Long Island Iced Tea	add	0.058823529411764705
+Long Island Iced Tea	white	0.058823529411764705
+Long Island Iced Tea	crème	0.058823529411764705
+Long Island Iced Tea	de	0.058823529411764705
+Long Island Iced Tea	menth	0.058823529411764705
+Long Island Iced Tea	howev	0.11764705882352941
+Long Island Iced Tea	variant	0.23529411764705882
+Long Island Iced Tea	includ	0.17647058823529413
+Long Island Iced Tea	tea	1.0
+Long Island Iced Tea	long	0.47058823529411764
+Long Island Iced Tea	island	0.47058823529411764
+Long Island Iced Tea	ice	0.7058823529411765
+Long Island Iced Tea	tea	1.0
+Long Island Iced Tea	contain	0.058823529411764705
+Long Island Iced Tea	twoounc	0.058823529411764705
+Long Island Iced Tea	mix	0.4117647058823529
+Long Island Iced Tea	spirit	0.058823529411764705
+Long Island Iced Tea	make	0.11764705882352941
+Long Island Iced Tea	relat	0.11764705882352941
+Long Island Iced Tea	potent	0.058823529411764705
+Long Island Iced Tea	drink	0.5882352941176471
+Long Island Iced Tea	although	0.058823529411764705
+Long Island Iced Tea	halfounc	0.058823529411764705
+Long Island Iced Tea	liquor	0.11764705882352941
+Long Island Iced Tea	portion	0.058823529411764705
+Long Island Iced Tea	may	0.058823529411764705
+Long Island Iced Tea	seem	0.058823529411764705
+Long Island Iced Tea	small	0.11764705882352941
+Long Island Iced Tea	signific	0.058823529411764705
+Long Island Iced Tea	cumul	0.058823529411764705
+Long Island Iced Tea	affect	0.058823529411764705
+Long Island Iced Tea	stealth	0.058823529411764705
+Long Island Iced Tea	drink	0.5882352941176471
+Long Island Iced Tea	goe	0.058823529411764705
+Long Island Iced Tea	easi	0.058823529411764705
+Long Island Iced Tea	high	0.058823529411764705
+Long Island Iced Tea	alcohol	0.23529411764705882
+Long Island Iced Tea	content	0.058823529411764705
+Long Island Iced Tea	sneak	0.058823529411764705
+Long Island Iced Tea	also	0.17647058823529413
+Long Island Iced Tea	great	0.058823529411764705
+Long Island Iced Tea	premix	0.058823529411764705
+Long Island Iced Tea	make	0.11764705882352941
+Long Island Iced Tea	pitcher	0.058823529411764705
+Long Island Iced Tea	serv	0.17647058823529413
+Long Island Iced Tea	parti	0.058823529411764705
+Long Island Iced Tea	summertim	0.058823529411764705
+Long Island Iced Tea	ideal	0.058823529411764705
+Long Island Iced Tea	time	0.058823529411764705
+Long Island Iced Tea	serv	0.17647058823529413
+Long Island Iced Tea	long	0.47058823529411764
+Long Island Iced Tea	island	0.47058823529411764
+Long Island Iced Tea	ice	0.7058823529411765
+Long Island Iced Tea	tea	1.0
+Long Island Iced Tea	tast	0.35294117647058826
+Long Island Iced Tea	reminisc	0.058823529411764705
+Long Island Iced Tea	ice	0.7058823529411765
+Long Island Iced Tea	tea	1.0
+Long Island Iced Tea	even	0.058823529411764705
+Long Island Iced Tea	though	0.058823529411764705
+Long Island Iced Tea	there	0.058823529411764705
+Long Island Iced Tea	tea	1.0
+Long Island Iced Tea	drink	0.5882352941176471
+Long Island Iced Tea	also	0.17647058823529413
+Long Island Iced Tea	share	0.058823529411764705
+Long Island Iced Tea	similar	0.058823529411764705
+Long Island Iced Tea	tast	0.35294117647058826
+Long Island Iced Tea	tea	1.0
+Long Island Iced Tea	think	0.058823529411764705
+Long Island Iced Tea	tast	0.35294117647058826
+Long Island Iced Tea	like	0.23529411764705882
+Long Island Iced Tea	artifici	0.058823529411764705
+Long Island Iced Tea	sweeten	0.058823529411764705
+Long Island Iced Tea	tea	1.0
+Long Island Iced Tea	beverag	0.058823529411764705
+Long Island Iced Tea	ie	0.058823529411764705
+Long Island Iced Tea	nestea	0.058823529411764705
+Long Island Iced Tea	someth	0.058823529411764705
+Long Island Iced Tea	like	0.23529411764705882
+Long Island Iced Tea	tast	0.35294117647058826
+Long Island Iced Tea	like	0.23529411764705882
+Long Island Iced Tea	sweet	0.058823529411764705
+Long Island Iced Tea	ice	0.7058823529411765
+Long Island Iced Tea	tea	1.0
+Long Island Iced Tea	made	0.11764705882352941
+Long Island Iced Tea	mix	0.4117647058823529
+Long Island Iced Tea	serv	0.17647058823529413
+Long Island Iced Tea	cheap	0.058823529411764705
+Long Island Iced Tea	bar	0.058823529411764705
+Long Island Iced Tea	diner	0.058823529411764705
+Long Island Iced Tea	tast	0.35294117647058826
+Long Island Iced Tea	like	0.23529411764705882
+Long Island Iced Tea	nonalcohol	0.058823529411764705
+Long Island Iced Tea	ice	0.7058823529411765
+Long Island Iced Tea	tea	1.0
+Pina Colada	pina	1.0
+Pina Colada	colada	1.0
+Pina Colada	root	0.1
+Pina Colada	trace	0.1
+Pina Colada	puerto	0.5
+Pina Colada	rico	0.4
+Pina Colada	long	0.1
+Pina Colada	consid	0.1
+Pina Colada	island	0.1
+Pina Colada	countri	0.1
+Pina Colada	nation	0.3
+Pina Colada	drink	0.7
+Pina Colada	cocktail	0.5
+Pina Colada	said	0.1
+Pina Colada	invent	0.1
+Pina Colada	bartend	0.1
+Pina Colada	luxuri	0.1
+Pina Colada	carib	0.2
+Pina Colada	hilton	0.2
+Pina Colada	hotel	0.1
+Pina Colada	beachcomb	0.2
+Pina Colada	bar	0.2
+Pina Colada	1952	0.1
+Pina Colada	short	0.1
+Pina Colada	key	0.1
+Pina Colada	ingredi	0.1
+Pina Colada	coco	0.1
+Pina Colada	lopez	0.1
+Pina Colada	cream	0.3
+Pina Colada	coconut	0.5
+Pina Colada	develop	0.1
+Pina Colada	puerto	0.5
+Pina Colada	rico	0.4
+Pina Colada	honor	0.1
+Pina Colada	cocktail	0.5
+Pina Colada	nation	0.3
+Pina Colada	pina	1.0
+Pina Colada	colada	1.0
+Pina Colada	day	0.1
+Pina Colada	celebr	0.1
+Pina Colada	year	0.2
+Pina Colada	juli	0.1
+Pina Colada	10th	0.1
+Pina Colada	creat	0.1
+Pina Colada	byramon	0.1
+Pina Colada	monchito	0.1
+Pina Colada	marrero	0.1
+Pina Colada	beachcomb	0.2
+Pina Colada	bar	0.2
+Pina Colada	carib	0.2
+Pina Colada	hilton	0.2
+Pina Colada	san	0.1
+Pina Colada	juan	0.1
+Pina Colada	puerto	0.5
+Pina Colada	rico	0.4
+Pina Colada	year	0.2
+Pina Colada	1954	0.1
+Pina Colada	name	0.1
+Pina Colada	pina	1.0
+Pina Colada	colada	1.0
+Pina Colada	liter	0.1
+Pina Colada	mean	0.1
+Pina Colada	strain	0.2
+Pina Colada	pineappl	0.7
+Pina Colada	refer	0.1
+Pina Colada	fresh	0.1
+Pina Colada	press	0.1
+Pina Colada	strain	0.2
+Pina Colada	pineappl	0.7
+Pina Colada	juic	0.2
+Pina Colada	use	0.2
+Pina Colada	drink	0.7
+Pina Colada	prepar	0.1
+Pina Colada	earliest	0.1
+Pina Colada	known	0.2
+Pina Colada	stori	0.1
+Pina Colada	state	0.1
+Pina Colada	19th	0.1
+Pina Colada	centuri	0.1
+Pina Colada	puerto	0.5
+Pina Colada	rican	0.1
+Pina Colada	pirat	0.1
+Pina Colada	roberto	0.1
+Pina Colada	cofresí	0.1
+Pina Colada	boost	0.1
+Pina Colada	crew	0.1
+Pina Colada	moral	0.1
+Pina Colada	gave	0.1
+Pina Colada	beverag	0.2
+Pina Colada	cocktail	0.5
+Pina Colada	contain	0.1
+Pina Colada	coconut	0.5
+Pina Colada	pineappl	0.7
+Pina Colada	white	0.1
+Pina Colada	rum	0.4
+Pina Colada	would	0.1
+Pina Colada	later	0.1
+Pina Colada	known	0.2
+Pina Colada	famous	0.1
+Pina Colada	pina	1.0
+Pina Colada	colada	1.0
+Pina Colada	death	0.1
+Pina Colada	1825	0.1
+Pina Colada	recip	0.2
+Pina Colada	pina	1.0
+Pina Colada	colada	1.0
+Pina Colada	lost	0.1
+Pina Colada	pina	1.0
+Pina Colada	colada	1.0
+Pina Colada	nation	0.3
+Pina Colada	drink	0.7
+Pina Colada	puerto	0.5
+Pina Colada	rico	0.4
+Pina Colada	sinc	0.1
+Pina Colada	1978	0.1
+Pina Colada	sweet	0.1
+Pina Colada	cocktail	0.5
+Pina Colada	made	0.1
+Pina Colada	rum	0.4
+Pina Colada	cream	0.3
+Pina Colada	coconut	0.5
+Pina Colada	pineappl	0.7
+Pina Colada	juic	0.2
+Pina Colada	usual	0.1
+Pina Colada	serv	0.1
+Pina Colada	either	0.1
+Pina Colada	blend	0.1
+Pina Colada	shaken	0.1
+Pina Colada	ice	0.1
+Pina Colada	may	0.1
+Pina Colada	garnish	0.1
+Pina Colada	pineappl	0.7
+Pina Colada	wedg	0.1
+Pina Colada	maraschino	0.1
+Pina Colada	cherri	0.1
+Pina Colada	instead	0.1
+Pina Colada	enjoy	0.2
+Pina Colada	comfort	0.1
+Pina Colada	home	0.2
+Pina Colada	pina	1.0
+Pina Colada	colada	1.0
+Pina Colada	flavor	0.2
+Pina Colada	like	0.1
+Pina Colada	favorit	0.1
+Pina Colada	tropic	0.3
+Pina Colada	beverag	0.2
+Pina Colada	pina	1.0
+Pina Colada	colada	1.0
+Pina Colada	smooth	0.2
+Pina Colada	rather	0.1
+Pina Colada	subdu	0.1
+Pina Colada	tast	0.1
+Pina Colada	make	0.3
+Pina Colada	perfect	0.1
+Pina Colada	everyday	0.1
+Pina Colada	use	0.2
+Pina Colada	haha	0.1
+Pina Colada	wasnt	0.1
+Pina Colada	awar	0.1
+Pina Colada	quit	0.1
+Pina Colada	high	0.1
+Pina Colada	calori	0.1
+Pina Colada	though	0.1
+Pina Colada	kind	0.1
+Pina Colada	calor	0.1
+Pina Colada	drink	0.7
+Pina Colada	classic	0.2
+Pina Colada	tropic	0.3
+Pina Colada	cocktail	0.5
+Pina Colada	rum	0.4
+Pina Colada	pineappl	0.7
+Pina Colada	coconut	0.5
+Pina Colada	milk	0.1
+Pina Colada	classic	0.2
+Pina Colada	recip	0.2
+Pina Colada	transport	0.1
+Pina Colada	paradis	0.1
+Pina Colada	mind	0.1
+Pina Colada	sort	0.1
+Pina Colada	weekend	0.1
+Pina Colada	go	0.2
+Pina Colada	nice	0.1
+Pina Colada	exot	0.2
+Pina Colada	locat	0.1
+Pina Colada	prefer	0.1
+Pina Colada	one	0.2
+Pina Colada	beach	0.2
+Pina Colada	relax	0.2
+Pina Colada	tall	0.1
+Pina Colada	cool	0.1
+Pina Colada	refresh	0.1
+Pina Colada	drink	0.7
+Pina Colada	forget	0.1
+Pina Colada	rest	0.1
+Pina Colada	world	0.1
+Pina Colada	although	0.1
+Pina Colada	rum	0.4
+Pina Colada	add	0.1
+Pina Colada	wonder	0.1
+Pina Colada	subflavor	0.1
+Pina Colada	drink	0.7
+Pina Colada	realli	0.1
+Pina Colada	flavor	0.2
+Pina Colada	pineappl	0.7
+Pina Colada	coconut	0.5
+Pina Colada	cream	0.3
+Pina Colada	domin	0.1
+Pina Colada	often	0.1
+Pina Colada	vacat	0.2
+Pina Colada	exot	0.2
+Pina Colada	destin	0.1
+Pina Colada	cruis	0.1
+Pina Colada	must	0.1
+Pina Colada	pretti	0.1
+Pina Colada	smooth	0.2
+Pina Colada	drink	0.7
+Pina Colada	make	0.3
+Pina Colada	want	0.1
+Pina Colada	go	0.2
+Pina Colada	beach	0.2
+Pina Colada	hang	0.1
+Pina Colada	enjoy	0.2
+Pina Colada	one	0.2
+Pina Colada	right	0.1
+Pina Colada	ooh	0.1
+Pina Colada	yummi	0.1
+Pina Colada	love	0.1
+Pina Colada	pina	1.0
+Pina Colada	colada	1.0
+Pina Colada	summer	0.1
+Pina Colada	pool	0.1
+Pina Colada	im	0.1
+Pina Colada	readi	0.1
+Pina Colada	tropic	0.3
+Pina Colada	vacat	0.2
+Pina Colada	mayb	0.1
+Pina Colada	pina	1.0
+Pina Colada	colada	1.0
+Pina Colada	relax	0.2
+Pina Colada	even	0.1
+Pina Colada	home	0.2
+Pina Colada	think	0.1
+Pina Colada	need	0.1
+Pina Colada	make	0.3
+Pina Colada	bring	0.1
+Pina Colada	back	0.1
+Pina Colada	happi	0.1
+Pina Colada	memori	0.1
+Pina Colada	fun	0.1
+Pina Colada	sun	0.1
+The Alexander	common	0.16666666666666666
+The Alexander	variat	0.3333333333333333
+The Alexander	alexand	1.0
+The Alexander	brandi	0.3333333333333333
+The Alexander	alexand	1.0
+The Alexander	made	0.16666666666666666
+The Alexander	brandi	0.3333333333333333
+The Alexander	similar	0.16666666666666666
+The Alexander	coffe	0.3333333333333333
+The Alexander	alexand	1.0
+The Alexander	substitut	0.3333333333333333
+The Alexander	coffe	0.3333333333333333
+The Alexander	liqueur	0.3333333333333333
+The Alexander	kahlua	0.16666666666666666
+The Alexander	gin	0.16666666666666666
+The Alexander	blue	0.3333333333333333
+The Alexander	alexand	1.0
+The Alexander	substitut	0.3333333333333333
+The Alexander	blue	0.3333333333333333
+The Alexander	curacao	0.16666666666666666
+The Alexander	creme	0.3333333333333333
+The Alexander	de	0.3333333333333333
+The Alexander	cacao	0.3333333333333333
+The Alexander	variat	0.3333333333333333
+The Alexander	exist	0.16666666666666666
+The Alexander	jack	0.16666666666666666
+The Alexander	manual	0.16666666666666666
+The Alexander	1910	0.16666666666666666
+The Alexander	anoth	0.16666666666666666
+The Alexander	cocktail	0.3333333333333333
+The Alexander	call	0.16666666666666666
+The Alexander	alexand	1.0
+The Alexander	mixtur	0.16666666666666666
+The Alexander	rye	0.16666666666666666
+The Alexander	whiskey	0.16666666666666666
+The Alexander	benedictin	0.16666666666666666
+The Alexander	unclear	0.16666666666666666
+The Alexander	whether	0.16666666666666666
+The Alexander	relat	0.16666666666666666
+The Alexander	creambas	0.16666666666666666
+The Alexander	version	0.16666666666666666
+The Alexander	alexand	1.0
+The Alexander	cocktail	0.3333333333333333
+The Alexander	consist	0.16666666666666666
+The Alexander	form	0.16666666666666666
+The Alexander	alcohol	0.16666666666666666
+The Alexander	cocoa	0.16666666666666666
+The Alexander	liqueur	0.3333333333333333
+The Alexander	creme	0.3333333333333333
+The Alexander	de	0.3333333333333333
+The Alexander	cacao	0.3333333333333333
+The Alexander	cream	0.16666666666666666
+Caipirinha	although	0.14285714285714285
+Caipirinha	real	0.07142857142857142
+Caipirinha	origin	0.07142857142857142
+Caipirinha	caipirinha	0.42857142857142855
+Caipirinha	know	0.07142857142857142
+Caipirinha	today	0.07142857142857142
+Caipirinha	unknown	0.14285714285714285
+Caipirinha	accord	0.07142857142857142
+Caipirinha	one	0.21428571428571427
+Caipirinha	account	0.07142857142857142
+Caipirinha	began	0.07142857142857142
+Caipirinha	around	0.07142857142857142
+Caipirinha	1918	0.07142857142857142
+Caipirinha	state	0.07142857142857142
+Caipirinha	sao	0.07142857142857142
+Caipirinha	paulo	0.07142857142857142
+Caipirinha	popular	0.14285714285714285
+Caipirinha	recip	0.14285714285714285
+Caipirinha	made	0.35714285714285715
+Caipirinha	lime	0.2857142857142857
+Caipirinha	garlic	0.14285714285714285
+Caipirinha	honey	0.14285714285714285
+Caipirinha	indic	0.07142857142857142
+Caipirinha	patient	0.07142857142857142
+Caipirinha	spanish	0.07142857142857142
+Caipirinha	flu	0.07142857142857142
+Caipirinha	quit	0.21428571428571427
+Caipirinha	common	0.2857142857142857
+Caipirinha	add	0.21428571428571427
+Caipirinha	distil	0.21428571428571427
+Caipirinha	spirit	0.14285714285714285
+Caipirinha	home	0.07142857142857142
+Caipirinha	remedi	0.07142857142857142
+Caipirinha	order	0.07142857142857142
+Caipirinha	expedit	0.07142857142857142
+Caipirinha	therapeut	0.07142857142857142
+Caipirinha	effect	0.07142857142857142
+Caipirinha	rum	0.21428571428571427
+Caipirinha	common	0.2857142857142857
+Caipirinha	use	0.21428571428571427
+Caipirinha	one	0.21428571428571427
+Caipirinha	day	0.07142857142857142
+Caipirinha	someon	0.14285714285714285
+Caipirinha	decid	0.07142857142857142
+Caipirinha	remov	0.07142857142857142
+Caipirinha	garlic	0.14285714285714285
+Caipirinha	honey	0.14285714285714285
 Caipirinha	caipirinha	0.42857142857142855
 Caipirinha	strongest	0.07142857142857142
 Caipirinha	nation	0.14285714285714285
@@ -1814,6 +5713,50 @@ Caipirinha	drink	1.0
 Caipirinha	rather	0.07142857142857142
 Caipirinha	class	0.07142857142857142
 Caipirinha	person	0.07142857142857142
+Caipirinha	brazil	0.5
+Caipirinha	nation	0.14285714285714285
+Caipirinha	cocktail	0.21428571428571427
+Caipirinha	made	0.35714285714285715
+Caipirinha	cachaca	0.5714285714285714
+Caipirinha	sugar	0.5
+Caipirinha	cane	0.21428571428571427
+Caipirinha	hard	0.07142857142857142
+Caipirinha	liquor	0.07142857142857142
+Caipirinha	sugar	0.5
+Caipirinha	lime	0.2857142857142857
+Caipirinha	cachaca	0.5714285714285714
+Caipirinha	brazil	0.5
+Caipirinha	common	0.2857142857142857
+Caipirinha	distil	0.21428571428571427
+Caipirinha	alcohol	0.14285714285714285
+Caipirinha	beverag	0.07142857142857142
+Caipirinha	also	0.07142857142857142
+Caipirinha	known	0.07142857142857142
+Caipirinha	pinga	0.07142857142857142
+Caipirinha	caninha	0.07142857142857142
+Caipirinha	although	0.14285714285714285
+Caipirinha	rum	0.21428571428571427
+Caipirinha	cachaca	0.5714285714285714
+Caipirinha	made	0.35714285714285715
+Caipirinha	sugarcan	0.14285714285714285
+Caipirinha	deriv	0.07142857142857142
+Caipirinha	product	0.07142857142857142
+Caipirinha	specif	0.07142857142857142
+Caipirinha	cachaca	0.5714285714285714
+Caipirinha	alcohol	0.14285714285714285
+Caipirinha	result	0.07142857142857142
+Caipirinha	ferment	0.07142857142857142
+Caipirinha	fresh	0.07142857142857142
+Caipirinha	sugarcan	0.14285714285714285
+Caipirinha	juic	0.07142857142857142
+Caipirinha	afterward	0.07142857142857142
+Caipirinha	distil	0.21428571428571427
+Caipirinha	rum	0.21428571428571427
+Caipirinha	usual	0.14285714285714285
+Caipirinha	made	0.35714285714285715
+Caipirinha	byproduct	0.07142857142857142
+Caipirinha	refineri	0.07142857142857142
+Caipirinha	molass	0.07142857142857142
 Caipirinha	imagin	0.07142857142857142
 Caipirinha	cross	0.07142857142857142
 Caipirinha	mojito	0.14285714285714285
@@ -1964,1585 +5907,570 @@ Caipirinha	great	0.14285714285714285
 Caipirinha	tast	0.07142857142857142
 Caipirinha	drink	1.0
 Caipirinha	though	0.14285714285714285
-Caipirinha	brazil	0.5
-Caipirinha	nation	0.14285714285714285
-Caipirinha	cocktail	0.21428571428571427
-Caipirinha	made	0.35714285714285715
-Caipirinha	cachaca	0.5714285714285714
-Caipirinha	sugar	0.5
-Caipirinha	cane	0.21428571428571427
-Caipirinha	hard	0.07142857142857142
-Caipirinha	liquor	0.07142857142857142
-Caipirinha	sugar	0.5
-Caipirinha	lime	0.2857142857142857
-Caipirinha	cachaca	0.5714285714285714
-Caipirinha	brazil	0.5
-Caipirinha	common	0.2857142857142857
-Caipirinha	distil	0.21428571428571427
-Caipirinha	alcohol	0.14285714285714285
-Caipirinha	beverag	0.07142857142857142
-Caipirinha	also	0.07142857142857142
-Caipirinha	known	0.07142857142857142
-Caipirinha	pinga	0.07142857142857142
-Caipirinha	caninha	0.07142857142857142
-Caipirinha	although	0.14285714285714285
-Caipirinha	rum	0.21428571428571427
-Caipirinha	cachaca	0.5714285714285714
-Caipirinha	made	0.35714285714285715
-Caipirinha	sugarcan	0.14285714285714285
-Caipirinha	deriv	0.07142857142857142
-Caipirinha	product	0.07142857142857142
-Caipirinha	specif	0.07142857142857142
-Caipirinha	cachaca	0.5714285714285714
-Caipirinha	alcohol	0.14285714285714285
-Caipirinha	result	0.07142857142857142
-Caipirinha	ferment	0.07142857142857142
-Caipirinha	fresh	0.07142857142857142
-Caipirinha	sugarcan	0.14285714285714285
-Caipirinha	juic	0.07142857142857142
-Caipirinha	afterward	0.07142857142857142
-Caipirinha	distil	0.21428571428571427
-Caipirinha	rum	0.21428571428571427
-Caipirinha	usual	0.14285714285714285
-Caipirinha	made	0.35714285714285715
-Caipirinha	byproduct	0.07142857142857142
-Caipirinha	refineri	0.07142857142857142
-Caipirinha	molass	0.07142857142857142
-Caipirinha	although	0.14285714285714285
-Caipirinha	real	0.07142857142857142
-Caipirinha	origin	0.07142857142857142
-Caipirinha	caipirinha	0.42857142857142855
-Caipirinha	know	0.07142857142857142
-Caipirinha	today	0.07142857142857142
-Caipirinha	unknown	0.14285714285714285
-Caipirinha	accord	0.07142857142857142
-Caipirinha	one	0.21428571428571427
-Caipirinha	account	0.07142857142857142
-Caipirinha	began	0.07142857142857142
-Caipirinha	around	0.07142857142857142
-Caipirinha	1918	0.07142857142857142
-Caipirinha	state	0.07142857142857142
-Caipirinha	sao	0.07142857142857142
-Caipirinha	paulo	0.07142857142857142
-Caipirinha	popular	0.14285714285714285
-Caipirinha	recip	0.14285714285714285
-Caipirinha	made	0.35714285714285715
-Caipirinha	lime	0.2857142857142857
-Caipirinha	garlic	0.14285714285714285
-Caipirinha	honey	0.14285714285714285
-Caipirinha	indic	0.07142857142857142
-Caipirinha	patient	0.07142857142857142
-Caipirinha	spanish	0.07142857142857142
-Caipirinha	flu	0.07142857142857142
-Caipirinha	quit	0.21428571428571427
-Caipirinha	common	0.2857142857142857
-Caipirinha	add	0.21428571428571427
-Caipirinha	distil	0.21428571428571427
-Caipirinha	spirit	0.14285714285714285
-Caipirinha	home	0.07142857142857142
-Caipirinha	remedi	0.07142857142857142
-Caipirinha	order	0.07142857142857142
-Caipirinha	expedit	0.07142857142857142
-Caipirinha	therapeut	0.07142857142857142
-Caipirinha	effect	0.07142857142857142
-Caipirinha	rum	0.21428571428571427
-Caipirinha	common	0.2857142857142857
-Caipirinha	use	0.21428571428571427
-Caipirinha	one	0.21428571428571427
-Caipirinha	day	0.07142857142857142
-Caipirinha	someon	0.14285714285714285
-Caipirinha	decid	0.07142857142857142
-Caipirinha	remov	0.07142857142857142
-Caipirinha	garlic	0.14285714285714285
-Caipirinha	honey	0.14285714285714285
-Bloody Mary	bloodi	0.7272727272727273
-Bloody Mary	mari	1.0
-Bloody Mary	fame	0.09090909090909091
-Bloody Mary	hair	0.09090909090909091
-Bloody Mary	dog	0.09090909090909091
-Bloody Mary	remedi	0.09090909090909091
-Bloody Mary	mean	0.09090909090909091
-Bloody Mary	consum	0.09090909090909091
-Bloody Mary	much	0.09090909090909091
-Bloody Mary	alcohol	0.2727272727272727
-Bloody Mary	night	0.09090909090909091
-Bloody Mary	suppos	0.09090909090909091
-Bloody Mary	help	0.09090909090909091
-Bloody Mary	assuag	0.09090909090909091
-Bloody Mary	pain	0.09090909090909091
-Bloody Mary	next	0.09090909090909091
-Bloody Mary	morn	0.18181818181818182
-Bloody Mary	name	0.45454545454545453
-Bloody Mary	bloodi	0.7272727272727273
-Bloody Mary	mari	1.0
-Bloody Mary	associ	0.09090909090909091
-Bloody Mary	number	0.09090909090909091
-Bloody Mary	histor	0.09090909090909091
-Bloody Mary	figur	0.09090909090909091
-Bloody Mary	particular	0.09090909090909091
-Bloody Mary	queen	0.09090909090909091
-Bloody Mary	mari	1.0
-Bloody Mary	england	0.18181818181818182
-Bloody Mary	nicknam	0.09090909090909091
-Bloody Mary	fox	0.09090909090909091
-Bloody Mary	book	0.09090909090909091
-Bloody Mary	martyr	0.09090909090909091
-Bloody Mary	attempt	0.09090909090909091
-Bloody Mary	reestablish	0.09090909090909091
-Bloody Mary	cathol	0.09090909090909091
-Bloody Mary	church	0.09090909090909091
-Bloody Mary	england	0.18181818181818182
-Bloody Mary	fiction	0.09090909090909091
-Bloody Mary	women	0.09090909090909091
-Bloody Mary	folklor	0.09090909090909091
-Bloody Mary	drink	0.6363636363636364
-Bloody Mary	aficionado	0.09090909090909091
-Bloody Mary	believ	0.09090909090909091
-Bloody Mary	inspir	0.09090909090909091
-Bloody Mary	name	0.45454545454545453
-Bloody Mary	hollywood	0.09090909090909091
-Bloody Mary	star	0.09090909090909091
-Bloody Mary	mari	1.0
-Bloody Mary	pickford	0.09090909090909091
-Bloody Mary	other	0.09090909090909091
-Bloody Mary	trace	0.09090909090909091
-Bloody Mary	name	0.45454545454545453
-Bloody Mary	waitress	0.09090909090909091
-Bloody Mary	name	0.45454545454545453
-Bloody Mary	mari	1.0
-Bloody Mary	work	0.18181818181818182
-Bloody Mary	chicago	0.09090909090909091
-Bloody Mary	bar	0.36363636363636365
-Bloody Mary	call	0.2727272727272727
-Bloody Mary	bucket	0.09090909090909091
-Bloody Mary	blood	0.09090909090909091
-Bloody Mary	howev	0.09090909090909091
-Bloody Mary	anoth	0.09090909090909091
-Bloody Mary	argument	0.09090909090909091
-Bloody Mary	origin	0.18181818181818182
-Bloody Mary	bloodi	0.7272727272727273
-Bloody Mary	mari	1.0
-Bloody Mary	name	0.45454545454545453
-Bloody Mary	english	0.09090909090909091
-Bloody Mary	simpli	0.09090909090909091
-Bloody Mary	aros	0.09090909090909091
-Bloody Mary	failur	0.09090909090909091
-Bloody Mary	pronounc	0.09090909090909091
-Bloody Mary	slav	0.09090909090909091
-Bloody Mary	syllabl	0.09090909090909091
-Bloody Mary	drink	0.6363636363636364
-Bloody Mary	call	0.2727272727272727
-Bloody Mary	vladimir	0.18181818181818182
-Bloody Mary	gain	0.09090909090909091
-Bloody Mary	credibl	0.09090909090909091
-Bloody Mary	observ	0.09090909090909091
-Bloody Mary	custom	0.09090909090909091
-Bloody Mary	harri	0.18181818181818182
-Bloody Mary	bar	0.36363636363636365
-Bloody Mary	pari	0.18181818181818182
-Bloody Mary	fernand	0.18181818181818182
-Bloody Mary	petiot	0.18181818181818182
-Bloody Mary	prepar	0.09090909090909091
-Bloody Mary	drink	0.6363636363636364
-Bloody Mary	1920	0.09090909090909091
-Bloody Mary	vladimir	0.18181818181818182
-Bloody Mary	smirnov	0.09090909090909091
-Bloody Mary	smirnoff	0.09090909090909091
-Bloody Mary	vodka	0.2727272727272727
-Bloody Mary	famili	0.09090909090909091
-Bloody Mary	bloodi	0.7272727272727273
-Bloody Mary	mari	1.0
-Bloody Mary	usual	0.09090909090909091
-Bloody Mary	serv	0.09090909090909091
-Bloody Mary	ontherock	0.09090909090909091
-Bloody Mary	oldfashion	0.09090909090909091
-Bloody Mary	glass	0.18181818181818182
-Bloody Mary	tall	0.09090909090909091
-Bloody Mary	collin	0.09090909090909091
-Bloody Mary	glass	0.18181818181818182
-Bloody Mary	drink	0.6363636363636364
-Bloody Mary	that	0.09090909090909091
-Bloody Mary	75	0.09090909090909091
-Bloody Mary	percent	0.18181818181818182
-Bloody Mary	tomato	0.36363636363636365
-Bloody Mary	juic	0.45454545454545453
-Bloody Mary	20	0.09090909090909091
-Bloody Mary	percent	0.18181818181818182
-Bloody Mary	alcohol	0.2727272727272727
-Bloody Mary	peopl	0.18181818181818182
-Bloody Mary	surpris	0.09090909090909091
-Bloody Mary	strong	0.09090909090909091
-Bloody Mary	opinion	0.09090909090909091
-Bloody Mary	goe	0.09090909090909091
-Bloody Mary	last	0.09090909090909091
-Bloody Mary	5	0.09090909090909091
-Bloody Mary	spici	0.18181818181818182
-Bloody Mary	favorit	0.18181818181818182
-Bloody Mary	own	0.09090909090909091
-Bloody Mary	sunday	0.09090909090909091
-Bloody Mary	morn	0.18181818181818182
-Bloody Mary	piquant	0.09090909090909091
-Bloody Mary	mix	0.09090909090909091
-Bloody Mary	tomato	0.36363636363636365
-Bloody Mary	juic	0.45454545454545453
-Bloody Mary	vodka	0.2727272727272727
-Bloody Mary	forenoon	0.09090909090909091
-Bloody Mary	favorit	0.18181818181818182
-Bloody Mary	tomato	0.36363636363636365
-Bloody Mary	juic	0.45454545454545453
-Bloody Mary	give	0.09090909090909091
-Bloody Mary	maximum	0.09090909090909091
-Bloody Mary	beverag	0.09090909090909091
-Bloody Mary	volum	0.09090909090909091
-Bloody Mary	minim	0.09090909090909091
-Bloody Mary	alcohol	0.2727272727272727
-Bloody Mary	plus	0.09090909090909091
-Bloody Mary	drink	0.6363636363636364
-Bloody Mary	hold	0.09090909090909091
-Bloody Mary	assert	0.09090909090909091
-Bloody Mary	flavor	0.18181818181818182
-Bloody Mary	common	0.09090909090909091
-Bloody Mary	brunch	0.09090909090909091
-Bloody Mary	fare	0.09090909090909091
-Bloody Mary	like	0.2727272727272727
-Bloody Mary	bacon	0.09090909090909091
-Bloody Mary	sausag	0.09090909090909091
-Bloody Mary	egg	0.09090909090909091
-Bloody Mary	tast	0.18181818181818182
-Bloody Mary	robust	0.09090909090909091
-Bloody Mary	peopl	0.18181818181818182
-Bloody Mary	rare	0.09090909090909091
-Bloody Mary	want	0.18181818181818182
-Bloody Mary	one	0.09090909090909091
-Bloody Mary	spice	0.18181818181818182
-Bloody Mary	suit	0.18181818181818182
-Bloody Mary	prefer	0.09090909090909091
-Bloody Mary	bask	0.09090909090909091
-Bloody Mary	satisfi	0.09090909090909091
-Bloody Mary	smile	0.09090909090909091
-Bloody Mary	sip	0.09090909090909091
-Bloody Mary	expert	0.09090909090909091
-Bloody Mary	concoct	0.09090909090909091
-Bloody Mary	drink	0.6363636363636364
-Bloody Mary	want	0.18181818181818182
-Bloody Mary	experi	0.18181818181818182
-Bloody Mary	everyon	0.09090909090909091
-Bloody Mary	like	0.2727272727272727
-Bloody Mary	differ	0.09090909090909091
-Bloody Mary	level	0.09090909090909091
-Bloody Mary	spici	0.18181818181818182
-Bloody Mary	whatev	0.09090909090909091
-Bloody Mary	secondari	0.09090909090909091
-Bloody Mary	ingredi	0.09090909090909091
-Bloody Mary	use	0.09090909090909091
-Bloody Mary	feel	0.18181818181818182
-Bloody Mary	free	0.09090909090909091
-Bloody Mary	experi	0.18181818181818182
-Bloody Mary	measur	0.09090909090909091
-Bloody Mary	find	0.09090909090909091
-Bloody Mary	formula	0.09090909090909091
-Bloody Mary	suit	0.18181818181818182
-Bloody Mary	tast	0.18181818181818182
-Bloody Mary	tabasco	0.18181818181818182
-Bloody Mary	must	0.09090909090909091
-Bloody Mary	spicier	0.09090909090909091
-Bloody Mary	better	0.09090909090909091
-Bloody Mary	refresh	0.09090909090909091
-Bloody Mary	feel	0.18181818181818182
-Bloody Mary	almost	0.18181818181818182
-Bloody Mary	like	0.2727272727272727
-Bloody Mary	food	0.09090909090909091
-Bloody Mary	fill	0.09090909090909091
-Bloody Mary	love	0.09090909090909091
-Bloody Mary	versatil	0.09090909090909091
-Bloody Mary	drink	0.6363636363636364
-Bloody Mary	realli	0.09090909090909091
-Bloody Mary	almost	0.18181818181818182
-Bloody Mary	becom	0.09090909090909091
-Bloody Mary	meal	0.09090909090909091
-Bloody Mary	bloodi	0.7272727272727273
-Bloody Mary	mari	1.0
-Bloody Mary	popular	0.09090909090909091
-Bloody Mary	cocktail	0.18181818181818182
-Bloody Mary	contain	0.09090909090909091
-Bloody Mary	vodka	0.2727272727272727
-Bloody Mary	tomato	0.36363636363636365
-Bloody Mary	juic	0.45454545454545453
-Bloody Mary	combin	0.09090909090909091
-Bloody Mary	spice	0.18181818181818182
-Bloody Mary	flavor	0.18181818181818182
-Bloody Mary	includ	0.09090909090909091
-Bloody Mary	worcestershir	0.09090909090909091
-Bloody Mary	sauc	0.2727272727272727
-Bloody Mary	tabasco	0.18181818181818182
-Bloody Mary	sauc	0.2727272727272727
-Bloody Mary	piri	0.18181818181818182
-Bloody Mary	piri	0.18181818181818182
-Bloody Mary	sauc	0.2727272727272727
-Bloody Mary	beef	0.09090909090909091
-Bloody Mary	consommé	0.09090909090909091
-Bloody Mary	bouillon	0.09090909090909091
-Bloody Mary	horseradish	0.09090909090909091
-Bloody Mary	celeri	0.18181818181818182
-Bloody Mary	oliv	0.09090909090909091
-Bloody Mary	salt	0.18181818181818182
-Bloody Mary	black	0.09090909090909091
-Bloody Mary	pepper	0.18181818181818182
-Bloody Mary	cayenn	0.09090909090909091
-Bloody Mary	pepper	0.18181818181818182
-Bloody Mary	lemon	0.09090909090909091
-Bloody Mary	juic	0.45454545454545453
-Bloody Mary	celeri	0.18181818181818182
-Bloody Mary	salt	0.18181818181818182
-Bloody Mary	call	0.2727272727272727
-Bloody Mary	world	0.09090909090909091
-Bloody Mary	complex	0.09090909090909091
-Bloody Mary	cocktail	0.18181818181818182
-Bloody Mary	bloodi	0.7272727272727273
-Bloody Mary	mari	1.0
-Bloody Mary	origin	0.18181818181818182
-Bloody Mary	unclear	0.09090909090909091
-Bloody Mary	multipl	0.09090909090909091
-Bloody Mary	conflict	0.09090909090909091
-Bloody Mary	claim	0.2727272727272727
-Bloody Mary	invent	0.18181818181818182
-Bloody Mary	bloodi	0.7272727272727273
-Bloody Mary	mari	1.0
-Bloody Mary	fernand	0.18181818181818182
-Bloody Mary	petiot	0.18181818181818182
-Bloody Mary	claim	0.2727272727272727
-Bloody Mary	invent	0.18181818181818182
-Bloody Mary	bloodi	0.7272727272727273
-Bloody Mary	mari	1.0
-Bloody Mary	1921	0.09090909090909091
-Bloody Mary	well	0.09090909090909091
-Bloody Mary	later	0.18181818181818182
-Bloody Mary	claim	0.2727272727272727
-Bloody Mary	work	0.18181818181818182
-Bloody Mary	new	0.18181818181818182
-Bloody Mary	york	0.18181818181818182
-Bloody Mary	bar	0.36363636363636365
-Bloody Mary	pari	0.18181818181818182
-Bloody Mary	time	0.09090909090909091
-Bloody Mary	later	0.18181818181818182
-Bloody Mary	becam	0.09090909090909091
-Bloody Mary	harri	0.18181818181818182
-Bloody Mary	new	0.18181818181818182
-Bloody Mary	york	0.18181818181818182
-Bloody Mary	bar	0.36363636363636365
-Pina Colada	name	0.1
-Pina Colada	pina	1.0
-Pina Colada	colada	1.0
-Pina Colada	liter	0.1
-Pina Colada	mean	0.1
-Pina Colada	strain	0.2
-Pina Colada	pineappl	0.7
-Pina Colada	refer	0.1
-Pina Colada	fresh	0.1
-Pina Colada	press	0.1
-Pina Colada	strain	0.2
-Pina Colada	pineappl	0.7
-Pina Colada	juic	0.2
-Pina Colada	use	0.2
-Pina Colada	drink	0.7
-Pina Colada	prepar	0.1
-Pina Colada	earliest	0.1
-Pina Colada	known	0.2
-Pina Colada	stori	0.1
-Pina Colada	state	0.1
-Pina Colada	19th	0.1
-Pina Colada	centuri	0.1
-Pina Colada	puerto	0.5
-Pina Colada	rican	0.1
-Pina Colada	pirat	0.1
-Pina Colada	roberto	0.1
-Pina Colada	cofresí	0.1
-Pina Colada	boost	0.1
-Pina Colada	crew	0.1
-Pina Colada	moral	0.1
-Pina Colada	gave	0.1
-Pina Colada	beverag	0.2
-Pina Colada	cocktail	0.5
-Pina Colada	contain	0.1
-Pina Colada	coconut	0.5
-Pina Colada	pineappl	0.7
-Pina Colada	white	0.1
-Pina Colada	rum	0.4
-Pina Colada	would	0.1
-Pina Colada	later	0.1
-Pina Colada	known	0.2
-Pina Colada	famous	0.1
-Pina Colada	pina	1.0
-Pina Colada	colada	1.0
-Pina Colada	death	0.1
-Pina Colada	1825	0.1
-Pina Colada	recip	0.2
-Pina Colada	pina	1.0
-Pina Colada	colada	1.0
-Pina Colada	lost	0.1
-Pina Colada	pina	1.0
-Pina Colada	colada	1.0
-Pina Colada	nation	0.3
-Pina Colada	drink	0.7
-Pina Colada	puerto	0.5
-Pina Colada	rico	0.4
-Pina Colada	sinc	0.1
-Pina Colada	1978	0.1
-Pina Colada	classic	0.2
-Pina Colada	tropic	0.3
-Pina Colada	cocktail	0.5
-Pina Colada	rum	0.4
-Pina Colada	pineappl	0.7
-Pina Colada	coconut	0.5
-Pina Colada	milk	0.1
-Pina Colada	classic	0.2
-Pina Colada	recip	0.2
-Pina Colada	transport	0.1
-Pina Colada	paradis	0.1
-Pina Colada	mind	0.1
-Pina Colada	sort	0.1
-Pina Colada	weekend	0.1
-Pina Colada	go	0.2
-Pina Colada	nice	0.1
-Pina Colada	exot	0.2
-Pina Colada	locat	0.1
-Pina Colada	prefer	0.1
-Pina Colada	one	0.2
-Pina Colada	beach	0.2
-Pina Colada	relax	0.2
-Pina Colada	tall	0.1
-Pina Colada	cool	0.1
-Pina Colada	refresh	0.1
-Pina Colada	drink	0.7
-Pina Colada	forget	0.1
-Pina Colada	rest	0.1
-Pina Colada	world	0.1
-Pina Colada	although	0.1
-Pina Colada	rum	0.4
-Pina Colada	add	0.1
-Pina Colada	wonder	0.1
-Pina Colada	subflavor	0.1
-Pina Colada	drink	0.7
-Pina Colada	realli	0.1
-Pina Colada	flavor	0.2
-Pina Colada	pineappl	0.7
-Pina Colada	coconut	0.5
-Pina Colada	cream	0.3
-Pina Colada	domin	0.1
-Pina Colada	often	0.1
-Pina Colada	vacat	0.2
-Pina Colada	exot	0.2
-Pina Colada	destin	0.1
-Pina Colada	cruis	0.1
-Pina Colada	must	0.1
-Pina Colada	pretti	0.1
-Pina Colada	smooth	0.2
-Pina Colada	drink	0.7
-Pina Colada	make	0.3
-Pina Colada	want	0.1
-Pina Colada	go	0.2
-Pina Colada	beach	0.2
-Pina Colada	hang	0.1
-Pina Colada	enjoy	0.2
-Pina Colada	one	0.2
-Pina Colada	right	0.1
-Pina Colada	ooh	0.1
-Pina Colada	yummi	0.1
-Pina Colada	love	0.1
-Pina Colada	pina	1.0
-Pina Colada	colada	1.0
-Pina Colada	summer	0.1
-Pina Colada	pool	0.1
-Pina Colada	im	0.1
-Pina Colada	readi	0.1
-Pina Colada	tropic	0.3
-Pina Colada	vacat	0.2
-Pina Colada	mayb	0.1
-Pina Colada	pina	1.0
-Pina Colada	colada	1.0
-Pina Colada	relax	0.2
-Pina Colada	even	0.1
-Pina Colada	home	0.2
-Pina Colada	think	0.1
-Pina Colada	need	0.1
-Pina Colada	make	0.3
-Pina Colada	bring	0.1
-Pina Colada	back	0.1
-Pina Colada	happi	0.1
-Pina Colada	memori	0.1
-Pina Colada	fun	0.1
-Pina Colada	sun	0.1
-Pina Colada	sweet	0.1
-Pina Colada	cocktail	0.5
-Pina Colada	made	0.1
-Pina Colada	rum	0.4
-Pina Colada	cream	0.3
-Pina Colada	coconut	0.5
-Pina Colada	pineappl	0.7
-Pina Colada	juic	0.2
-Pina Colada	usual	0.1
-Pina Colada	serv	0.1
-Pina Colada	either	0.1
-Pina Colada	blend	0.1
-Pina Colada	shaken	0.1
-Pina Colada	ice	0.1
-Pina Colada	may	0.1
-Pina Colada	garnish	0.1
-Pina Colada	pineappl	0.7
-Pina Colada	wedg	0.1
-Pina Colada	maraschino	0.1
-Pina Colada	cherri	0.1
-Pina Colada	instead	0.1
-Pina Colada	enjoy	0.2
-Pina Colada	comfort	0.1
-Pina Colada	home	0.2
-Pina Colada	pina	1.0
-Pina Colada	colada	1.0
-Pina Colada	flavor	0.2
-Pina Colada	like	0.1
-Pina Colada	favorit	0.1
-Pina Colada	tropic	0.3
-Pina Colada	beverag	0.2
-Pina Colada	pina	1.0
-Pina Colada	colada	1.0
-Pina Colada	smooth	0.2
-Pina Colada	rather	0.1
-Pina Colada	subdu	0.1
-Pina Colada	tast	0.1
-Pina Colada	make	0.3
-Pina Colada	perfect	0.1
-Pina Colada	everyday	0.1
-Pina Colada	use	0.2
-Pina Colada	haha	0.1
-Pina Colada	wasnt	0.1
-Pina Colada	awar	0.1
-Pina Colada	quit	0.1
-Pina Colada	high	0.1
-Pina Colada	calori	0.1
-Pina Colada	though	0.1
-Pina Colada	kind	0.1
-Pina Colada	calor	0.1
-Pina Colada	drink	0.7
-Pina Colada	pina	1.0
-Pina Colada	colada	1.0
-Pina Colada	root	0.1
-Pina Colada	trace	0.1
-Pina Colada	puerto	0.5
-Pina Colada	rico	0.4
-Pina Colada	long	0.1
-Pina Colada	consid	0.1
-Pina Colada	island	0.1
-Pina Colada	countri	0.1
-Pina Colada	nation	0.3
-Pina Colada	drink	0.7
-Pina Colada	cocktail	0.5
-Pina Colada	said	0.1
-Pina Colada	invent	0.1
-Pina Colada	bartend	0.1
-Pina Colada	luxuri	0.1
-Pina Colada	carib	0.2
-Pina Colada	hilton	0.2
-Pina Colada	hotel	0.1
-Pina Colada	beachcomb	0.2
-Pina Colada	bar	0.2
-Pina Colada	1952	0.1
-Pina Colada	short	0.1
-Pina Colada	key	0.1
-Pina Colada	ingredi	0.1
-Pina Colada	coco	0.1
-Pina Colada	lopez	0.1
-Pina Colada	cream	0.3
-Pina Colada	coconut	0.5
-Pina Colada	develop	0.1
-Pina Colada	puerto	0.5
-Pina Colada	rico	0.4
-Pina Colada	honor	0.1
-Pina Colada	cocktail	0.5
-Pina Colada	nation	0.3
-Pina Colada	pina	1.0
-Pina Colada	colada	1.0
-Pina Colada	day	0.1
-Pina Colada	celebr	0.1
-Pina Colada	year	0.2
-Pina Colada	juli	0.1
-Pina Colada	10th	0.1
-Pina Colada	creat	0.1
-Pina Colada	byramon	0.1
-Pina Colada	monchito	0.1
-Pina Colada	marrero	0.1
-Pina Colada	beachcomb	0.2
-Pina Colada	bar	0.2
-Pina Colada	carib	0.2
-Pina Colada	hilton	0.2
-Pina Colada	san	0.1
-Pina Colada	juan	0.1
-Pina Colada	puerto	0.5
-Pina Colada	rico	0.4
-Pina Colada	year	0.2
-Pina Colada	1954	0.1
-White Russian	white	0.6666666666666666
-White Russian	russian	0.8888888888888888
-White Russian	signatur	0.1111111111111111
-White Russian	drink	1.0
-White Russian	dude	0.5555555555555556
-White Russian	protagonist	0.1111111111111111
-White Russian	cult	0.1111111111111111
-White Russian	classic	0.2222222222222222
-White Russian	big	0.2222222222222222
-White Russian	lebowski	0.2222222222222222
-White Russian	movi	0.2222222222222222
-White Russian	dude	0.5555555555555556
-White Russian	refer	0.2222222222222222
-White Russian	caucasian	0.2222222222222222
-White Russian	cocktail	0.5555555555555556
-White Russian	promin	0.1111111111111111
-White Russian	film	0.1111111111111111
-White Russian	connect	0.1111111111111111
-White Russian	reviv	0.1111111111111111
-White Russian	popular	0.1111111111111111
-White Russian	like	0.5555555555555556
-White Russian	liquid	0.1111111111111111
-White Russian	ice	0.5555555555555556
-White Russian	cream	1.0
-White Russian	key	0.1111111111111111
-White Russian	charact	0.1111111111111111
-White Russian	movi	0.2222222222222222
-White Russian	slacker	0.2222222222222222
-White Russian	known	0.2222222222222222
-White Russian	dude	0.5555555555555556
-White Russian	drink	1.0
-White Russian	often	0.1111111111111111
-White Russian	mix	0.1111111111111111
-White Russian	vodka	0.4444444444444444
-White Russian	kahlua	0.3333333333333333
-White Russian	sweet	0.4444444444444444
-White Russian	cream	1.0
-White Russian	drink	1.0
-White Russian	tast	0.2222222222222222
-White Russian	like	0.5555555555555556
-White Russian	boozi	0.3333333333333333
-White Russian	ice	0.5555555555555556
-White Russian	cream	1.0
-White Russian	big	0.2222222222222222
-White Russian	lebowski	0.2222222222222222
-White Russian	written	0.1111111111111111
-White Russian	produc	0.1111111111111111
-White Russian	direct	0.1111111111111111
-White Russian	coen	0.1111111111111111
-White Russian	brother	0.1111111111111111
-White Russian	joel	0.1111111111111111
-White Russian	ethan	0.1111111111111111
-White Russian	dude	0.5555555555555556
-White Russian	play	0.1111111111111111
-White Russian	jeff	0.1111111111111111
-White Russian	bridg	0.1111111111111111
-White Russian	unemploy	0.1111111111111111
-White Russian	slacker	0.2222222222222222
-White Russian	live	0.1111111111111111
-White Russian	los	0.1111111111111111
-White Russian	angel	0.1111111111111111
-White Russian	drink	1.0
-White Russian	white	0.6666666666666666
-White Russian	russian	0.8888888888888888
-White Russian	chief	0.1111111111111111
-White Russian	interest	0.1111111111111111
-White Russian	bowl	0.3333333333333333
-White Russian	hang	0.1111111111111111
-White Russian	dude	0.5555555555555556
-White Russian	refer	0.2222222222222222
-White Russian	white	0.6666666666666666
-White Russian	russian	0.8888888888888888
-White Russian	cocktail	0.5555555555555556
-White Russian	caucasian	0.2222222222222222
-White Russian	care	0.1111111111111111
-White Russian	man	0.1111111111111111
-White Russian	there	0.1111111111111111
-White Russian	beverag	0.1111111111111111
-White Russian	bowl	0.3333333333333333
-White Russian	said	0.1111111111111111
-White Russian	mrs	0.1111111111111111
-White Russian	k	0.1111111111111111
-White Russian	r	0.1111111111111111
-White Russian	fact	0.1111111111111111
-White Russian	part	0.1111111111111111
-White Russian	event	0.1111111111111111
-White Russian	take	0.1111111111111111
-White Russian	place	0.1111111111111111
-White Russian	bowl	0.3333333333333333
-White Russian	alley	0.1111111111111111
-White Russian	think	0.1111111111111111
-White Russian	prefer	0.1111111111111111
-White Russian	white	0.6666666666666666
-White Russian	russian	0.8888888888888888
-White Russian	smooth	0.1111111111111111
-White Russian	creami	0.2222222222222222
-White Russian	oh	0.2222222222222222
-White Russian	delici	0.3333333333333333
-White Russian	yes	0.1111111111111111
-White Russian	inde	0.1111111111111111
-White Russian	heavi	0.1111111111111111
-White Russian	calori	0.1111111111111111
-White Russian	oh	0.2222222222222222
-White Russian	worth	0.1111111111111111
-White Russian	drinkabl	0.1111111111111111
-White Russian	dessert	0.1111111111111111
-White Russian	fun	0.1111111111111111
-White Russian	boozi	0.3333333333333333
-White Russian	one	0.1111111111111111
-White Russian	parti	0.1111111111111111
-White Russian	mouth	0.1111111111111111
-White Russian	like	0.5555555555555556
-White Russian	drink	1.0
-White Russian	melt	0.1111111111111111
-White Russian	ice	0.5555555555555556
-White Russian	cream	1.0
-White Russian	terrif	0.1111111111111111
-White Russian	throw	0.1111111111111111
-White Russian	back	0.1111111111111111
-White Russian	recip	0.1111111111111111
-White Russian	vodka	0.4444444444444444
-White Russian	kahlua	0.3333333333333333
-White Russian	sweet	0.4444444444444444
-White Russian	cream	1.0
-White Russian	drink	1.0
-White Russian	tast	0.2222222222222222
-White Russian	like	0.5555555555555556
-White Russian	boozi	0.3333333333333333
-White Russian	ice	0.5555555555555556
-White Russian	cream	1.0
-White Russian	creami	0.2222222222222222
-White Russian	dreami	0.1111111111111111
-White Russian	good	0.1111111111111111
-White Russian	cocktail	0.5555555555555556
-White Russian	delici	0.3333333333333333
-White Russian	realli	0.1111111111111111
-White Russian	delici	0.3333333333333333
-White Russian	milkshak	0.1111111111111111
-White Russian	seem	0.1111111111111111
-White Russian	like	0.5555555555555556
-White Russian	sweet	0.4444444444444444
-White Russian	tasti	0.1111111111111111
-White Russian	drink	1.0
-White Russian	white	0.6666666666666666
-White Russian	russian	0.8888888888888888
-White Russian	sweet	0.4444444444444444
-White Russian	cocktail	0.5555555555555556
-White Russian	classic	0.2222222222222222
-White Russian	made	0.1111111111111111
-White Russian	vodka	0.4444444444444444
-White Russian	coffe	0.1111111111111111
-White Russian	liqueur	0.1111111111111111
-White Russian	eg	0.1111111111111111
-White Russian	kahlua	0.3333333333333333
-White Russian	tia	0.1111111111111111
-White Russian	maria	0.1111111111111111
-White Russian	cream	1.0
-White Russian	serv	0.1111111111111111
-White Russian	ice	0.5555555555555556
-White Russian	old	0.1111111111111111
-White Russian	fashion	0.1111111111111111
-White Russian	glass	0.1111111111111111
-White Russian	modern	0.1111111111111111
-White Russian	time	0.1111111111111111
-White Russian	mani	0.1111111111111111
-White Russian	establish	0.1111111111111111
-White Russian	substitut	0.1111111111111111
-White Russian	milk	0.1111111111111111
-White Russian	cream	1.0
-White Russian	tradit	0.1111111111111111
-White Russian	cocktail	0.5555555555555556
-White Russian	known	0.2222222222222222
-White Russian	black	0.1111111111111111
-White Russian	russian	0.8888888888888888
-White Russian	first	0.1111111111111111
-White Russian	appear	0.1111111111111111
-White Russian	1949	0.1111111111111111
-White Russian	becom	0.1111111111111111
-White Russian	white	0.6666666666666666
-White Russian	russian	0.8888888888888888
-White Russian	addit	0.1111111111111111
-White Russian	cream	1.0
-White Russian	neither	0.1111111111111111
-White Russian	drink	1.0
-White Russian	russian	0.8888888888888888
-White Russian	origin	0.1111111111111111
-White Russian	name	0.1111111111111111
-White Russian	due	0.1111111111111111
-White Russian	vodka	0.4444444444444444
-White Russian	primari	0.1111111111111111
-White Russian	ingredi	0.1111111111111111
-White Russian	unclear	0.1111111111111111
-White Russian	drink	1.0
-White Russian	preced	0.1111111111111111
-Cosmopolitan	juici	0.4
-Cosmopolitan	cosmo	0.4
-Cosmopolitan	popular	0.6
-Cosmopolitan	among	0.2
-Cosmopolitan	young	0.2
-Cosmopolitan	women	0.2
-Cosmopolitan	frequent	0.2
-Cosmopolitan	mention	0.2
-Cosmopolitan	televis	0.2
-Cosmopolitan	program	0.2
-Cosmopolitan	sex	0.2
-Cosmopolitan	citi	0.2
-Cosmopolitan	sarah	0.2
-Cosmopolitan	jessica	0.2
-Cosmopolitan	parker	0.2
-Cosmopolitan	charact	0.2
-Cosmopolitan	carri	0.4
-Cosmopolitan	bradshaw	0.2
-Cosmopolitan	common	0.2
-Cosmopolitan	order	0.2
-Cosmopolitan	drink	0.6
-Cosmopolitan	girlfriend	0.2
-Cosmopolitan	film	0.2
-Cosmopolitan	adapt	0.2
-Cosmopolitan	made	0.4
-Cosmopolitan	refer	0.2
-Cosmopolitan	popular	0.6
-Cosmopolitan	miranda	0.2
-Cosmopolitan	ask	0.2
-Cosmopolitan	stop	0.2
-Cosmopolitan	drink	0.6
-Cosmopolitan	carri	0.4
-Cosmopolitan	repli	0.2
-Cosmopolitan	everyon	0.2
-Cosmopolitan	els	0.2
-Cosmopolitan	start	0.2
-Cosmopolitan	sweet	0.4
-Cosmopolitan	fruiti	0.2
-Cosmopolitan	juici	0.4
-Cosmopolitan	strong	0.2
-Cosmopolitan	quit	0.2
-Cosmopolitan	sweet	0.4
-Cosmopolitan	first	0.2
-Cosmopolitan	alway	0.2
-Cosmopolitan	use	0.2
-Cosmopolitan	cointreau	0.2
-Cosmopolitan	second	0.2
-Cosmopolitan	cranberri	0.6
-Cosmopolitan	juic	0.6
-Cosmopolitan	most	0.2
-Cosmopolitan	color	0.4
-Cosmopolitan	littl	0.2
-Cosmopolitan	bit	0.2
-Cosmopolitan	tast	0.2
-Cosmopolitan	cosmopolitan	1.0
-Cosmopolitan	reddish	0.2
-Cosmopolitan	hue	0.2
-Cosmopolitan	transluc	0.2
-Cosmopolitan	solid	0.2
-Cosmopolitan	red	0.2
-Cosmopolitan	color	0.4
-Cosmopolitan	best	0.2
-Cosmopolitan	cosmopolitan	1.0
-Cosmopolitan	ive	0.2
-Cosmopolitan	tini	0.2
-Cosmopolitan	ice	0.2
-Cosmopolitan	crystal	0.2
-Cosmopolitan	float	0.2
-Cosmopolitan	top	0.2
-Cosmopolitan	cosmopolitan	1.0
-Cosmopolitan	inform	0.2
-Cosmopolitan	cosmo	0.4
-Cosmopolitan	cocktail	0.2
-Cosmopolitan	made	0.4
-Cosmopolitan	vodka	0.4
-Cosmopolitan	tripl	0.2
-Cosmopolitan	sec	0.2
-Cosmopolitan	cranberri	0.6
-Cosmopolitan	juic	0.6
-Cosmopolitan	fresh	0.2
-Cosmopolitan	squeez	0.2
-Cosmopolitan	sweeten	0.2
-Cosmopolitan	lime	0.2
-Cosmopolitan	juic	0.6
-Cosmopolitan	drink	0.6
-Cosmopolitan	frothi	0.2
-Cosmopolitan	bright	0.2
-Cosmopolitan	pink	0.2
-Cosmopolitan	colour	0.2
-Cosmopolitan	accord	0.2
-Cosmopolitan	intern	0.2
-Cosmopolitan	bartend	0.2
-Cosmopolitan	associ	0.2
-Cosmopolitan	origin	0.2
-Cosmopolitan	recip	0.2
-Cosmopolitan	base	0.2
-Cosmopolitan	vodka	0.4
-Cosmopolitan	citron	0.2
-Cosmopolitan	cosmopolitan	1.0
-Cosmopolitan	relat	0.2
-Cosmopolitan	cranberri	0.6
-Cosmopolitan	cooler	0.2
-Cosmopolitan	like	0.2
-Cosmopolitan	cape	0.2
-Cosmopolitan	codder	0.2
-Cosmopolitan	cosmopolitan	1.0
-Cosmopolitan	gain	0.2
-Cosmopolitan	popular	0.6
-Cosmopolitan	1990s	0.2
-Corpse Reviver #2	harri	0.3333333333333333
-Corpse Reviver #2	craddock	0.3333333333333333
-Corpse Reviver #2	four	0.16666666666666666
-Corpse Reviver #2	taken	0.16666666666666666
-Corpse Reviver #2	swift	0.16666666666666666
-Corpse Reviver #2	success	0.16666666666666666
-Corpse Reviver #2	unrev	0.16666666666666666
-Corpse Reviver #2	corps	1.0
-Corpse Reviver #2	that	0.16666666666666666
-Corpse Reviver #2	poor	0.16666666666666666
-Corpse Reviver #2	overtippl	0.16666666666666666
-Corpse Reviver #2	soul	0.16666666666666666
-Corpse Reviver #2	desper	0.16666666666666666
-Corpse Reviver #2	search	0.16666666666666666
-Corpse Reviver #2	remedi	0.3333333333333333
-Corpse Reviver #2	sooth	0.16666666666666666
-Corpse Reviver #2	ach	0.16666666666666666
-Corpse Reviver #2	be	0.16666666666666666
-Corpse Reviver #2	unfortun	0.16666666666666666
-Corpse Reviver #2	tippl	0.16666666666666666
-Corpse Reviver #2	way	0.16666666666666666
-Corpse Reviver #2	much	0.16666666666666666
-Corpse Reviver #2	swear	0.16666666666666666
-Corpse Reviver #2	hair	0.3333333333333333
-Corpse Reviver #2	dog	0.3333333333333333
-Corpse Reviver #2	remedi	0.3333333333333333
-Corpse Reviver #2	idea	0.16666666666666666
-Corpse Reviver #2	drink	0.16666666666666666
-Corpse Reviver #2	booz	0.16666666666666666
-Corpse Reviver #2	cancel	0.16666666666666666
-Corpse Reviver #2	hangov	0.3333333333333333
-Corpse Reviver #2	least	0.16666666666666666
-Corpse Reviver #2	dull	0.16666666666666666
-Corpse Reviver #2	pain	0.16666666666666666
-Corpse Reviver #2	corpsereviv	0.16666666666666666
-Corpse Reviver #2	one	0.16666666666666666
-Corpse Reviver #2	class	0.16666666666666666
-Corpse Reviver #2	name	0.3333333333333333
-Corpse Reviver #2	could	0.16666666666666666
-Corpse Reviver #2	figur	0.16666666666666666
-Corpse Reviver #2	speak	0.16666666666666666
-Corpse Reviver #2	bring	0.16666666666666666
-Corpse Reviver #2	drinker	0.16666666666666666
-Corpse Reviver #2	back	0.16666666666666666
-Corpse Reviver #2	dead	0.16666666666666666
-Corpse Reviver #2	corps	1.0
-Corpse Reviver #2	reviv	0.8333333333333334
-Corpse Reviver #2	famili	0.16666666666666666
-Corpse Reviver #2	cocktail	0.6666666666666666
-Corpse Reviver #2	intend	0.16666666666666666
-Corpse Reviver #2	hair	0.3333333333333333
-Corpse Reviver #2	dog	0.3333333333333333
-Corpse Reviver #2	hangov	0.3333333333333333
-Corpse Reviver #2	cure	0.16666666666666666
-Corpse Reviver #2	henc	0.16666666666666666
-Corpse Reviver #2	name	0.3333333333333333
-Corpse Reviver #2	corps	1.0
-Corpse Reviver #2	reviv	0.8333333333333334
-Corpse Reviver #2	cocktail	0.6666666666666666
-Corpse Reviver #2	lost	0.16666666666666666
-Corpse Reviver #2	time	0.16666666666666666
-Corpse Reviver #2	cognac	0.16666666666666666
-Corpse Reviver #2	ginbas	0.16666666666666666
-Corpse Reviver #2	corps	1.0
-Corpse Reviver #2	reviv	0.8333333333333334
-Corpse Reviver #2	cocktail	0.6666666666666666
-Corpse Reviver #2	first	0.16666666666666666
-Corpse Reviver #2	list	0.16666666666666666
-Corpse Reviver #2	savoy	0.16666666666666666
-Corpse Reviver #2	cocktail	0.6666666666666666
-Corpse Reviver #2	handbook	0.16666666666666666
-Corpse Reviver #2	harri	0.3333333333333333
-Corpse Reviver #2	craddock	0.3333333333333333
-Corpse Reviver #2	1930	0.16666666666666666
-Corpse Reviver #2	surviv	0.16666666666666666
-Corpse Reviver #2	day	0.16666666666666666
-Corpse Reviver #2	corps	1.0
-Corpse Reviver #2	reviv	0.8333333333333334
-Corpse Reviver #2	appear	0.16666666666666666
-Corpse Reviver #2	literatur	0.3333333333333333
-Corpse Reviver #2	earli	0.5
-Corpse Reviver #2	issu	0.16666666666666666
-Corpse Reviver #2	punch	0.16666666666666666
-Corpse Reviver #2	1861	0.16666666666666666
-Corpse Reviver #2	earli	0.5
-Corpse Reviver #2	recip	0.16666666666666666
-Corpse Reviver #2	corps	1.0
-Corpse Reviver #2	reviv	0.8333333333333334
-Corpse Reviver #2	found	0.16666666666666666
-Corpse Reviver #2	literatur	0.3333333333333333
-Corpse Reviver #2	earli	0.5
-Corpse Reviver #2	1903	0.16666666666666666
-Mojito	ernest	0.18181818181818182
-Mojito	hemingway	0.18181818181818182
-Mojito	spent	0.09090909090909091
-Mojito	much	0.09090909090909091
-Mojito	time	0.18181818181818182
-Mojito	cuba	0.18181818181818182
-Mojito	like	0.2727272727272727
-Mojito	mojito	0.8181818181818182
-Mojito	also	0.09090909090909091
-Mojito	except	0.09090909090909091
-Mojito	easi	0.18181818181818182
-Mojito	make	0.2727272727272727
-Mojito	tradit	0.36363636363636365
-Mojito	make	0.2727272727272727
-Mojito	drink	1.0
-Mojito	glass	0.5454545454545454
-Mojito	add	0.18181818181818182
-Mojito	ingredi	0.5454545454545454
-Mojito	glass	0.5454545454545454
-Mojito	stir	0.18181818181818182
-Mojito	spoon	0.09090909090909091
-Mojito	drink	1.0
-Mojito	use	0.36363636363636365
-Mojito	tall	0.18181818181818182
-Mojito	glass	0.5454545454545454
-Mojito	hold	0.09090909090909091
-Mojito	10	0.18181818181818182
-Mojito	14	0.09090909090909091
-Mojito	ounc	0.09090909090909091
-Mojito	12	0.09090909090909091
-Mojito	ideal	0.09090909090909091
-Mojito	recip	0.2727272727272727
-Mojito	yield	0.09090909090909091
-Mojito	one	0.36363636363636365
-Mojito	drink	1.0
-Mojito	take	0.09090909090909091
-Mojito	5	0.09090909090909091
-Mojito	minut	0.09090909090909091
-Mojito	prepar	0.18181818181818182
-Mojito	easi	0.18181818181818182
-Mojito	scale	0.09090909090909091
-Mojito	your	0.09090909090909091
-Mojito	serv	0.09090909090909091
-Mojito	thirsti	0.09090909090909091
-Mojito	hord	0.09090909090909091
-Mojito	peopl	0.09090909090909091
-Mojito	like	0.2727272727272727
-Mojito	add	0.18181818181818182
-Mojito	empti	0.09090909090909091
-Mojito	shell	0.09090909090909091
-Mojito	lime	0.6363636363636364
-Mojito	half	0.09090909090909091
-Mojito	one	0.36363636363636365
-Mojito	squeez	0.09090909090909091
-Mojito	juic	0.5454545454545454
-Mojito	bottom	0.18181818181818182
-Mojito	glass	0.5454545454545454
-Mojito	addit	0.09090909090909091
-Mojito	garnish	0.18181818181818182
-Mojito	gorgeous	0.09090909090909091
-Mojito	day	0.09090909090909091
-Mojito	sit	0.09090909090909091
-Mojito	sand	0.09090909090909091
-Mojito	outsid	0.09090909090909091
-Mojito	beach	0.09090909090909091
-Mojito	hut	0.09090909090909091
-Mojito	bar	0.18181818181818182
-Mojito	bay	0.09090909090909091
-Mojito	pig	0.09090909090909091
-Mojito	barman	0.09090909090909091
-Mojito	ask	0.09090909090909091
-Mojito	id	0.09090909090909091
-Mojito	like	0.2727272727272727
-Mojito	mojito	0.8181818181818182
-Mojito	drank	0.09090909090909091
-Mojito	one	0.36363636363636365
-Mojito	sever	0.18181818181818182
-Mojito	went	0.18181818181818182
-Mojito	back	0.18181818181818182
-Mojito	havana	0.2727272727272727
-Mojito	hook	0.09090909090909091
-Mojito	love	0.09090909090909091
-Mojito	fresh	0.09090909090909091
-Mojito	clean	0.09090909090909091
-Mojito	flavor	0.2727272727272727
-Mojito	lime	0.6363636363636364
-Mojito	rum	0.5454545454545454
-Mojito	sugar	0.5454545454545454
-Mojito	drink	1.0
-Mojito	refresh	0.36363636363636365
-Mojito	thirst	0.18181818181818182
-Mojito	quench	0.09090909090909091
-Mojito	mojito	0.8181818181818182
-Mojito	fantast	0.09090909090909091
-Mojito	drink	1.0
-Mojito	undecid	0.09090909090909091
-Mojito	order	0.09090909090909091
-Mojito	someth	0.09090909090909091
-Mojito	bar	0.18181818181818182
-Mojito	prepar	0.18181818181818182
-Mojito	mojito	0.8181818181818182
-Mojito	lime	0.6363636363636364
-Mojito	juic	0.5454545454545454
-Mojito	ad	0.2727272727272727
-Mojito	sugar	0.5454545454545454
-Mojito	syrup	0.09090909090909091
-Mojito	mint	0.7272727272727273
-Mojito	leav	0.36363636363636365
-Mojito	mixtur	0.18181818181818182
-Mojito	gentl	0.09090909090909091
-Mojito	mash	0.09090909090909091
-Mojito	muddler	0.09090909090909091
-Mojito	mint	0.7272727272727273
-Mojito	leav	0.36363636363636365
-Mojito	bruis	0.09090909090909091
-Mojito	releas	0.09090909090909091
-Mojito	essenti	0.09090909090909091
-Mojito	oil	0.09090909090909091
-Mojito	shred	0.09090909090909091
-Mojito	rum	0.5454545454545454
-Mojito	ad	0.2727272727272727
-Mojito	mixtur	0.18181818181818182
-Mojito	briefli	0.09090909090909091
-Mojito	stir	0.18181818181818182
-Mojito	dissolv	0.09090909090909091
-Mojito	sugar	0.5454545454545454
-Mojito	lift	0.09090909090909091
-Mojito	mint	0.7272727272727273
-Mojito	leav	0.36363636363636365
-Mojito	bottom	0.18181818181818182
-Mojito	better	0.09090909090909091
-Mojito	present	0.09090909090909091
-Mojito	final	0.09090909090909091
-Mojito	drink	1.0
-Mojito	top	0.09090909090909091
-Mojito	whole	0.09090909090909091
-Mojito	ice	0.09090909090909091
-Mojito	cube	0.09090909090909091
-Mojito	sparkl	0.18181818181818182
-Mojito	soda	0.09090909090909091
-Mojito	water	0.2727272727272727
-Mojito	mint	0.7272727272727273
-Mojito	leav	0.36363636363636365
-Mojito	lime	0.6363636363636364
-Mojito	wedg	0.09090909090909091
-Mojito	use	0.36363636363636365
-Mojito	garnish	0.18181818181818182
-Mojito	glass	0.5454545454545454
-Mojito	mojito	0.8181818181818182
-Mojito	tradit	0.36363636363636365
-Mojito	cuban	0.18181818181818182
-Mojito	highbal	0.18181818181818182
-Mojito	refresh	0.36363636363636365
-Mojito	cocktail	0.45454545454545453
-Mojito	pack	0.09090909090909091
-Mojito	lot	0.09090909090909091
-Mojito	flavor	0.2727272727272727
-Mojito	pleasur	0.09090909090909091
-Mojito	tall	0.18181818181818182
-Mojito	cool	0.09090909090909091
-Mojito	glass	0.5454545454545454
-Mojito	make	0.2727272727272727
-Mojito	excel	0.09090909090909091
-Mojito	thirst	0.18181818181818182
-Mojito	quencher	0.09090909090909091
-Mojito	long	0.18181818181818182
-Mojito	hot	0.09090909090909091
-Mojito	summer	0.18181818181818182
-Mojito	afternoon	0.09090909090909091
-Mojito	two	0.09090909090909091
-Mojito	still	0.18181818181818182
-Mojito	keep	0.09090909090909091
-Mojito	wit	0.09090909090909091
-Mojito	tradit	0.36363636363636365
-Mojito	mojito	0.8181818181818182
-Mojito	cocktail	0.45454545454545453
-Mojito	consist	0.09090909090909091
-Mojito	five	0.09090909090909091
-Mojito	ingredi	0.5454545454545454
-Mojito	white	0.09090909090909091
-Mojito	rum	0.5454545454545454
-Mojito	sugar	0.5454545454545454
-Mojito	tradit	0.36363636363636365
-Mojito	sugar	0.5454545454545454
-Mojito	cane	0.18181818181818182
-Mojito	juic	0.5454545454545454
-Mojito	lime	0.6363636363636364
-Mojito	juic	0.5454545454545454
-Mojito	sparkl	0.18181818181818182
-Mojito	water	0.2727272727272727
-Mojito	mint	0.7272727272727273
-Mojito	origin	0.36363636363636365
-Mojito	cuban	0.18181818181818182
-Mojito	recip	0.2727272727272727
-Mojito	use	0.36363636363636365
-Mojito	spearmint	0.09090909090909091
-Mojito	yerba	0.09090909090909091
-Mojito	buena	0.09090909090909091
-Mojito	mint	0.7272727272727273
-Mojito	varieti	0.09090909090909091
-Mojito	popular	0.18181818181818182
-Mojito	island	0.09090909090909091
-Mojito	combin	0.18181818181818182
-Mojito	sweet	0.09090909090909091
-Mojito	refresh	0.36363636363636365
-Mojito	citrus	0.09090909090909091
-Mojito	mint	0.7272727272727273
-Mojito	flavor	0.2727272727272727
-Mojito	intend	0.09090909090909091
-Mojito	complement	0.09090909090909091
-Mojito	potent	0.09090909090909091
-Mojito	kick	0.09090909090909091
-Mojito	rum	0.5454545454545454
-Mojito	made	0.09090909090909091
-Mojito	clear	0.09090909090909091
-Mojito	highbal	0.18181818181818182
-Mojito	popular	0.18181818181818182
-Mojito	summer	0.18181818181818182
-Mojito	drink	1.0
-Mojito	cocktail	0.45454545454545453
-Mojito	relat	0.09090909090909091
-Mojito	low	0.09090909090909091
-Mojito	alcohol	0.18181818181818182
-Mojito	content	0.09090909090909091
-Mojito	10	0.18181818181818182
-Mojito	percent	0.09090909090909091
-Mojito	alcohol	0.18181818181818182
-Mojito	volum	0.09090909090909091
-Mojito	havana	0.2727272727272727
-Mojito	birthplac	0.09090909090909091
-Mojito	mojito	0.8181818181818182
-Mojito	although	0.09090909090909091
-Mojito	exact	0.09090909090909091
-Mojito	origin	0.36363636363636365
-Mojito	classic	0.09090909090909091
-Mojito	cocktail	0.45454545454545453
-Mojito	subject	0.09090909090909091
-Mojito	debat	0.09090909090909091
-Mojito	one	0.36363636363636365
-Mojito	stori	0.2727272727272727
-Mojito	trace	0.09090909090909091
-Mojito	mojito	0.8181818181818182
-Mojito	similar	0.09090909090909091
-Mojito	16th	0.09090909090909091
-Mojito	centuri	0.09090909090909091
-Mojito	drink	1.0
-Mojito	known	0.2727272727272727
-Mojito	el	0.09090909090909091
-Mojito	draqu	0.09090909090909091
-Mojito	franci	0.09090909090909091
-Mojito	drake	0.18181818181818182
-Mojito	1586	0.09090909090909091
-Mojito	success	0.09090909090909091
-Mojito	raid	0.09090909090909091
-Mojito	cartagena	0.09090909090909091
-Mojito	de	0.18181818181818182
-Mojito	india	0.09090909090909091
-Mojito	drake	0.18181818181818182
-Mojito	ship	0.09090909090909091
-Mojito	sail	0.09090909090909091
-Mojito	toward	0.09090909090909091
-Mojito	havana	0.2727272727272727
-Mojito	epidem	0.09090909090909091
-Mojito	dysenteri	0.18181818181818182
-Mojito	scurvi	0.18181818181818182
-Mojito	board	0.18181818181818182
-Mojito	known	0.2727272727272727
-Mojito	local	0.18181818181818182
-Mojito	south	0.09090909090909091
-Mojito	american	0.09090909090909091
-Mojito	indian	0.09090909090909091
-Mojito	remedi	0.09090909090909091
-Mojito	various	0.09090909090909091
-Mojito	tropic	0.18181818181818182
-Mojito	ill	0.09090909090909091
-Mojito	small	0.09090909090909091
-Mojito	board	0.18181818181818182
-Mojito	parti	0.09090909090909091
-Mojito	went	0.18181818181818182
-Mojito	ashor	0.09090909090909091
-Mojito	cuba	0.18181818181818182
-Mojito	came	0.09090909090909091
-Mojito	back	0.18181818181818182
-Mojito	ingredi	0.5454545454545454
-Mojito	medicin	0.09090909090909091
-Mojito	effect	0.09090909090909091
-Mojito	ingredi	0.5454545454545454
-Mojito	aguardient	0.09090909090909091
-Mojito	de	0.18181818181818182
-Mojito	cana	0.09090909090909091
-Mojito	crude	0.09090909090909091
-Mojito	form	0.09090909090909091
-Mojito	rum	0.5454545454545454
-Mojito	translat	0.09090909090909091
-Mojito	fire	0.09090909090909091
-Mojito	water	0.2727272727272727
-Mojito	sugar	0.5454545454545454
-Mojito	cane	0.18181818181818182
-Mojito	ad	0.2727272727272727
-Mojito	local	0.18181818181818182
-Mojito	tropic	0.18181818181818182
-Mojito	ingredi	0.5454545454545454
-Mojito	lime	0.6363636363636364
-Mojito	sugarcan	0.09090909090909091
-Mojito	juic	0.5454545454545454
-Mojito	mint	0.7272727272727273
-Mojito	drink	1.0
-Mojito	lime	0.6363636363636364
-Mojito	juic	0.5454545454545454
-Mojito	would	0.09090909090909091
-Mojito	great	0.18181818181818182
-Mojito	help	0.09090909090909091
-Mojito	stave	0.09090909090909091
-Mojito	scurvi	0.18181818181818182
-Mojito	dysenteri	0.18181818181818182
-Mojito	tafia	0.09090909090909091
-Mojito	rum	0.5454545454545454
-Mojito	use	0.36363636363636365
-Mojito	soon	0.09090909090909091
-Mojito	becam	0.09090909090909091
-Mojito	wide	0.09090909090909091
-Mojito	avail	0.09090909090909091
-Mojito	british	0.09090909090909091
-Mojito	ca	0.09090909090909091
-Mojito	1650	0.09090909090909091
-Mojito	drink	1.0
-Mojito	call	0.09090909090909091
-Mojito	mojito	0.8181818181818182
-Mojito	time	0.18181818181818182
-Mojito	still	0.18181818181818182
-Mojito	origin	0.36363636363636365
-Mojito	combin	0.18181818181818182
-Mojito	ingredi	0.5454545454545454
-Mojito	sever	0.18181818181818182
-Mojito	stori	0.2727272727272727
-Mojito	exist	0.18181818181818182
-Mojito	regard	0.09090909090909091
-Mojito	cocktail	0.45454545454545453
-Mojito	true	0.09090909090909091
-Mojito	origin	0.36363636363636365
-Mojito	stori	0.2727272727272727
-Mojito	simpli	0.09090909090909091
-Mojito	provid	0.09090909090909091
-Mojito	evid	0.09090909090909091
-Mojito	long	0.18181818181818182
-Mojito	general	0.09090909090909091
-Mojito	recip	0.2727272727272727
-Mojito	exist	0.18181818181818182
-Mojito	great	0.18181818181818182
-Mojito	author	0.09090909090909091
-Mojito	ernest	0.18181818181818182
-Mojito	hemingway	0.18181818181818182
-Mojito	known	0.2727272727272727
-Mojito	develop	0.09090909090909091
-Mojito	quit	0.09090909090909091
-Mojito	tast	0.09090909090909091
-Mojito	refresh	0.36363636363636365
-Mojito	drink	1.0
-Appletini	drink	0.3157894736842105
-Appletini	proper	0.05263157894736842
-Appletini	call	0.05263157894736842
-Appletini	adam	0.10526315789473684
-Appletini	appl	1.0
-Appletini	martini	0.3684210526315789
-Appletini	creat	0.05263157894736842
-Appletini	popular	0.05263157894736842
-Appletini	1997	0.05263157894736842
-Appletini	adam	0.10526315789473684
-Appletini	karsten	0.05263157894736842
-Appletini	bartend	0.05263157894736842
-Appletini	lola	0.05263157894736842
-Appletini	west	0.05263157894736842
-Appletini	hollywood	0.05263157894736842
-Appletini	california	0.05263157894736842
-Appletini	appletini	0.3157894736842105
-Appletini	favorit	0.10526315789473684
-Appletini	alcohol	0.05263157894736842
-Appletini	drink	0.3157894736842105
-Appletini	john	0.05263157894736842
-Appletini	jd	0.05263157894736842
-Appletini	dorian	0.05263157894736842
-Appletini	sitcom	0.05263157894736842
-Appletini	scrub	0.05263157894736842
-Appletini	often	0.05263157894736842
-Appletini	character	0.05263157894736842
-Appletini	somewhat	0.05263157894736842
-Appletini	effemin	0.05263157894736842
-Appletini	along	0.05263157894736842
-Appletini	rum	0.05263157894736842
-Appletini	diet	0.05263157894736842
-Appletini	coke	0.05263157894736842
-Appletini	also	0.05263157894736842
-Appletini	favorit	0.10526315789473684
-Appletini	drink	0.3157894736842105
-Appletini	alan	0.05263157894736842
-Appletini	harper	0.05263157894736842
-Appletini	two	0.05263157894736842
-Appletini	half	0.05263157894736842
-Appletini	men	0.05263157894736842
-Appletini	2010	0.05263157894736842
-Appletini	film	0.15789473684210525
-Appletini	social	0.05263157894736842
-Appletini	network	0.05263157894736842
-Appletini	initi	0.05263157894736842
-Appletini	meet	0.05263157894736842
-Appletini	facebook	0.10526315789473684
-Appletini	cofound	0.10526315789473684
-Appletini	mark	0.05263157894736842
-Appletini	zuckerberg	0.15789473684210525
-Appletini	eduardo	0.05263157894736842
-Appletini	saverin	0.05263157894736842
-Appletini	napster	0.05263157894736842
-Appletini	cofound	0.10526315789473684
-Appletini	sean	0.05263157894736842
-Appletini	parker	0.10526315789473684
-Appletini	parker	0.10526315789473684
-Appletini	buy	0.05263157894736842
-Appletini	tabl	0.05263157894736842
-Appletini	round	0.05263157894736842
-Appletini	drink	0.3157894736842105
-Appletini	real	0.05263157894736842
-Appletini	life	0.05263157894736842
-Appletini	zuckerberg	0.15789473684210525
-Appletini	never	0.05263157894736842
-Appletini	appletini	0.3157894736842105
-Appletini	attend	0.05263157894736842
-Appletini	film	0.15789473684210525
-Appletini	premier	0.05263157894736842
-Appletini	see	0.05263157894736842
-Appletini	film	0.15789473684210525
-Appletini	zuckerberg	0.15789473684210525
-Appletini	made	0.05263157894736842
-Appletini	appletini	0.3157894736842105
-Appletini	facebook	0.10526315789473684
-Appletini	offici	0.05263157894736842
-Appletini	drink	0.3157894736842105
-Appletini	appletini	0.3157894736842105
-Appletini	anyth	0.05263157894736842
-Appletini	bright	0.05263157894736842
-Appletini	green	0.21052631578947367
-Appletini	instead	0.05263157894736842
-Appletini	light	0.05263157894736842
-Appletini	sage	0.05263157894736842
-Appletini	green	0.21052631578947367
-Appletini	love	0.15789473684210525
-Appletini	granni	0.05263157894736842
-Appletini	smith	0.05263157894736842
-Appletini	appl	1.0
-Appletini	tast	0.3157894736842105
-Appletini	like	0.10526315789473684
-Appletini	nice	0.15789473684210525
-Appletini	clean	0.05263157894736842
-Appletini	appl	1.0
-Appletini	flavor	0.2631578947368421
-Appletini	love	0.15789473684210525
-Appletini	appl	1.0
-Appletini	flavor	0.2631578947368421
-Appletini	jolli	0.10526315789473684
-Appletini	rancher	0.10526315789473684
-Appletini	smell	0.05263157894736842
-Appletini	juic	0.21052631578947367
-Appletini	get	0.05263157894736842
-Appletini	keep	0.05263157894736842
-Appletini	think	0.05263157894736842
-Appletini	eat	0.05263157894736842
-Appletini	green	0.21052631578947367
-Appletini	appl	1.0
-Appletini	jolli	0.10526315789473684
-Appletini	rancher	0.10526315789473684
-Appletini	amaz	0.05263157894736842
-Appletini	love	0.15789473684210525
-Appletini	fruit	0.05263157894736842
-Appletini	want	0.05263157894736842
-Appletini	tast	0.3157894736842105
-Appletini	appl	1.0
-Appletini	one	0.10526315789473684
-Appletini	juic	0.21052631578947367
-Appletini	nice	0.15789473684210525
-Appletini	appl	1.0
-Appletini	flavor	0.2631578947368421
-Appletini	overwhelm	0.05263157894736842
-Appletini	hint	0.05263157894736842
-Appletini	vodka	0.2631578947368421
-Appletini	tast	0.3157894736842105
-Appletini	like	0.10526315789473684
-Appletini	nice	0.15789473684210525
-Appletini	fresh	0.05263157894736842
-Appletini	green	0.21052631578947367
-Appletini	appl	1.0
-Appletini	right	0.05263157894736842
-Appletini	fridg	0.05263157894736842
-Appletini	there	0.05263157894736842
-Appletini	notic	0.05263157894736842
-Appletini	tart	0.05263157894736842
-Appletini	look	0.10526315789473684
-Appletini	crisp	0.05263157894736842
-Appletini	refresh	0.05263157894736842
-Appletini	sweet	0.10526315789473684
-Appletini	slight	0.05263157894736842
-Appletini	tangi	0.05263157894736842
-Appletini	appl	1.0
-Appletini	flavor	0.2631578947368421
-Appletini	look	0.10526315789473684
-Appletini	appl	1.0
-Appletini	martini	0.3684210526315789
-Appletini	appletini	0.3157894736842105
-Appletini	short	0.05263157894736842
-Appletini	cocktail	0.10526315789473684
-Appletini	contain	0.05263157894736842
-Appletini	vodka	0.2631578947368421
-Appletini	one	0.10526315789473684
-Appletini	appl	1.0
-Appletini	juic	0.21052631578947367
-Appletini	appl	1.0
-Appletini	cider	0.05263157894736842
-Appletini	appl	1.0
-Appletini	liqueur	0.10526315789473684
-Appletini	appl	1.0
-Appletini	brandi	0.05263157894736842
-Appletini	option	0.05263157894736842
-Appletini	vermouth	0.05263157894736842
-Appletini	may	0.05263157894736842
-Appletini	includ	0.05263157894736842
-Appletini	regular	0.05263157894736842
-Appletini	martini	0.3684210526315789
-Appletini	typic	0.10526315789473684
-Appletini	appl	1.0
-Appletini	vodka	0.2631578947368421
-Appletini	shaken	0.05263157894736842
-Appletini	stir	0.05263157894736842
-Appletini	sweet	0.10526315789473684
-Appletini	sour	0.05263157894736842
-Appletini	mix	0.05263157894736842
-Appletini	strain	0.05263157894736842
-Appletini	cocktail	0.10526315789473684
-Appletini	glass	0.10526315789473684
-Appletini	appletini	0.3157894736842105
-Appletini	variat	0.05263157894736842
-Appletini	vodka	0.2631578947368421
-Appletini	martini	0.3684210526315789
-Appletini	diverg	0.05263157894736842
-Appletini	tast	0.3157894736842105
-Appletini	typic	0.10526315789473684
-Appletini	dri	0.05263157894736842
-Appletini	martini	0.3684210526315789
-Appletini	ad	0.05263157894736842
-Appletini	appl	1.0
-Appletini	juic	0.21052631578947367
-Appletini	andor	0.05263157894736842
-Appletini	appl	1.0
-Appletini	liqueur	0.10526315789473684
-Appletini	appl	1.0
-Appletini	schnapp	0.05263157894736842
-Appletini	tend	0.05263157894736842
-Appletini	serv	0.05263157894736842
-Appletini	standard	0.05263157894736842
-Appletini	martini	0.3684210526315789
-Appletini	glass	0.10526315789473684
-Appletini	truli	0.05263157894736842
-Appletini	differ	0.05263157894736842
-Appletini	martini	0.3684210526315789
-Appletini	tast	0.3157894736842105
-Appletini	sinc	0.05263157894736842
-Appletini	fruiti	0.05263157894736842
-Appletini	tast	0.3157894736842105
-Appletini	drink	0.3157894736842105
-Appletini	appl	1.0
-Appletini	flavor	0.2631578947368421
-Appletini	usual	0.05263157894736842
-Appletini	mask	0.05263157894736842
-Appletini	vodka	0.2631578947368421
+Whiskey	common	0.125
+Whiskey	type	0.125
+Whiskey	whiskey	1.0
+Whiskey	includ	0.125
+Whiskey	bourbon	0.25
+Whiskey	whiskey	1.0
+Whiskey	american	0.25
+Whiskey	whiskey	1.0
+Whiskey	made	0.75
+Whiskey	51	0.25
+Whiskey	79	0.125
+Whiskey	corn	0.125
+Whiskey	maiz	0.125
+Whiskey	canadian	0.125
+Whiskey	whiski	0.875
+Whiskey	age	0.25
+Whiskey	least	0.25
+Whiskey	three	0.125
+Whiskey	year	0.125
+Whiskey	barrel	0.125
+Whiskey	blend	0.125
+Whiskey	multigrain	0.125
+Whiskey	whisk	0.125
+Whiskey	irish	0.125
+Whiskey	whiskey	1.0
+Whiskey	general	0.25
+Whiskey	threetim	0.125
+Whiskey	distil	0.25
+Whiskey	spirit	0.25
+Whiskey	primarili	0.25
+Whiskey	made	0.75
+Whiskey	malt	0.25
+Whiskey	barley	0.25
+Whiskey	rye	0.25
+Whiskey	whiskey	1.0
+Whiskey	american	0.25
+Whiskey	whiskey	1.0
+Whiskey	ade	0.125
+Whiskey	least	0.25
+Whiskey	51	0.25
+Whiskey	rye	0.25
+Whiskey	scotch	0.25
+Whiskey	whiski	0.875
+Whiskey	usual	0.125
+Whiskey	twicedistil	0.125
+Whiskey	spirit	0.25
+Whiskey	made	0.75
+Whiskey	primarili	0.25
+Whiskey	peatsmok	0.125
+Whiskey	malt	0.25
+Whiskey	barley	0.25
+Whiskey	tennesse	0.125
+Whiskey	whiskey	1.0
+Whiskey	bourbon	0.25
+Whiskey	filter	0.125
+Whiskey	sugar	0.125
+Whiskey	mapl	0.125
+Whiskey	charcoal	0.125
+Whiskey	give	0.125
+Whiskey	uniqu	0.125
+Whiskey	flavor	0.125
+Whiskey	aroma	0.125
+Whiskey	scotland	0.125
+Whiskey	ireland	0.125
+Whiskey	canada	0.125
+Whiskey	unit	0.125
+Whiskey	state	0.125
+Whiskey	make	0.125
+Whiskey	four	0.125
+Whiskey	countri	0.125
+Whiskey	whikey	0.125
+Whiskey	tradit	0.125
+Whiskey	made	0.75
+Whiskey	howev	0.125
+Whiskey	whiski	0.875
+Whiskey	also	0.125
+Whiskey	made	0.75
+Whiskey	franc	0.125
+Whiskey	japan	0.125
+Whiskey	suntori	0.125
+Whiskey	whiski	0.875
+Whiskey	taiwan	0.125
+Whiskey	kavalan	0.125
+Whiskey	whiski	0.875
+Whiskey	made	0.75
+Whiskey	style	0.125
+Whiskey	scotch	0.25
+Whiskey	whiski	0.875
+Whiskey	whiskey	1.0
+Whiskey	whiski	0.875
+Whiskey	refer	0.125
+Whiskey	broad	0.125
+Whiskey	categori	0.125
+Whiskey	alcohol	0.125
+Whiskey	beverag	0.125
+Whiskey	distil	0.25
+Whiskey	ferment	0.125
+Whiskey	grain	0.125
+Whiskey	mash	0.125
+Whiskey	age	0.25
+Whiskey	wooden	0.125
+Whiskey	cask	0.125
+Whiskey	general	0.25
+Whiskey	oak	0.125
+Mai Tai	said	0.09090909090909091
+Mai Tai	invent	0.18181818181818182
+Mai Tai	proprietor	0.09090909090909091
+Mai Tai	trader	0.18181818181818182
+Mai Tai	vic	0.18181818181818182
+Mai Tai	oakland	0.09090909090909091
+Mai Tai	california	0.18181818181818182
+Mai Tai	1944	0.09090909090909091
+Mai Tai	creat	0.09090909090909091
+Mai Tai	drink	0.8181818181818182
+Mai Tai	friend	0.09090909090909091
+Mai Tai	visit	0.09090909090909091
+Mai Tai	tahiti	0.09090909090909091
+Mai Tai	one	0.36363636363636365
+Mai Tai	exclaim	0.09090909090909091
+Mai Tai	drink	0.8181818181818182
+Mai Tai	maitai	0.09090909090909091
+Mai Tai	good	0.09090909090909091
+Mai Tai	tahitian	0.09090909090909091
+Mai Tai	name	0.09090909090909091
+Mai Tai	stuck	0.09090909090909091
+Mai Tai	rival	0.09090909090909091
+Mai Tai	restaur	0.09090909090909091
+Mai Tai	beachcomb	0.09090909090909091
+Mai Tai	also	0.2727272727272727
+Mai Tai	claim	0.09090909090909091
+Mai Tai	invent	0.18181818181818182
+Mai Tai	cocktail	0.5454545454545454
+Mai Tai	1933	0.09090909090909091
+Mai Tai	complex	0.09090909090909091
+Mai Tai	version	0.09090909090909091
+Mai Tai	drink	0.8181818181818182
+Mai Tai	truth	0.09090909090909091
+Mai Tai	probabl	0.09090909090909091
+Mai Tai	lie	0.09090909090909091
+Mai Tai	somewher	0.18181818181818182
+Mai Tai	california	0.18181818181818182
+Mai Tai	like	0.09090909090909091
+Mai Tai	birthplac	0.09090909090909091
+Mai Tai	popular	0.09090909090909091
+Mai Tai	cocktail	0.5454545454545454
+Mai Tai	imposs	0.09090909090909091
+Mai Tai	duplic	0.09090909090909091
+Mai Tai	trader	0.18181818181818182
+Mai Tai	vic	0.18181818181818182
+Mai Tai	origin	0.09090909090909091
+Mai Tai	mai	1.0
+Mai Tai	tai	1.0
+Mai Tai	use	0.09090909090909091
+Mai Tai	17yearold	0.09090909090909091
+Mai Tai	wray	0.09090909090909091
+Mai Tai	nephew	0.09090909090909091
+Mai Tai	rum	0.36363636363636365
+Mai Tai	longer	0.09090909090909091
+Mai Tai	avail	0.09090909090909091
+Mai Tai	mai	1.0
+Mai Tai	tai	1.0
+Mai Tai	also	0.2727272727272727
+Mai Tai	promin	0.09090909090909091
+Mai Tai	featur	0.09090909090909091
+Mai Tai	elvi	0.09090909090909091
+Mai Tai	presley	0.09090909090909091
+Mai Tai	film	0.09090909090909091
+Mai Tai	blue	0.09090909090909091
+Mai Tai	hawaii	0.09090909090909091
+Mai Tai	today	0.09090909090909091
+Mai Tai	mai	1.0
+Mai Tai	tai	1.0
+Mai Tai	synonym	0.09090909090909091
+Mai Tai	tiki	0.18181818181818182
+Mai Tai	cultur	0.09090909090909091
+Mai Tai	past	0.09090909090909091
+Mai Tai	present	0.09090909090909091
+Mai Tai	richard	0.09090909090909091
+Mai Tai	nixon	0.09090909090909091
+Mai Tai	also	0.2727272727272727
+Mai Tai	hit	0.09090909090909091
+Mai Tai	high	0.09090909090909091
+Mai Tai	point	0.09090909090909091
+Mai Tai	1950s	0.09090909090909091
+Mai Tai	60s	0.09090909090909091
+Mai Tai	disappear	0.09090909090909091
+Mai Tai	speak	0.18181818181818182
+Mai Tai	70s	0.09090909090909091
+Mai Tai	fit	0.09090909090909091
+Mai Tai	mai	1.0
+Mai Tai	tai	1.0
+Mai Tai	favorit	0.09090909090909091
+Mai Tai	cocktail	0.5454545454545454
+Mai Tai	mai	1.0
+Mai Tai	tai	1.0
+Mai Tai	alcohol	0.09090909090909091
+Mai Tai	cocktail	0.5454545454545454
+Mai Tai	base	0.09090909090909091
+Mai Tai	rum	0.36363636363636365
+Mai Tai	curacao	0.09090909090909091
+Mai Tai	liqueur	0.09090909090909091
+Mai Tai	lime	0.2727272727272727
+Mai Tai	juic	0.09090909090909091
+Mai Tai	associ	0.09090909090909091
+Mai Tai	polynesianstyl	0.09090909090909091
+Mai Tai	set	0.09090909090909091
+Mai Tai	mai	1.0
+Mai Tai	tai	1.0
+Mai Tai	perfect	0.09090909090909091
+Mai Tai	summer	0.09090909090909091
+Mai Tai	cocktail	0.5454545454545454
+Mai Tai	sultri	0.09090909090909091
+Mai Tai	yet	0.09090909090909091
+Mai Tai	cool	0.09090909090909091
+Mai Tai	refresh	0.09090909090909091
+Mai Tai	time	0.09090909090909091
+Mai Tai	lest	0.09090909090909091
+Mai Tai	harbor	0.09090909090909091
+Mai Tai	suspicion	0.09090909090909091
+Mai Tai	mai	1.0
+Mai Tai	tai	1.0
+Mai Tai	parasol	0.09090909090909091
+Mai Tai	persuas	0.09090909090909091
+Mai Tai	let	0.09090909090909091
+Mai Tai	hasten	0.09090909090909091
+Mai Tai	add	0.09090909090909091
+Mai Tai	arguabl	0.09090909090909091
+Mai Tai	one	0.36363636363636365
+Mai Tai	world	0.18181818181818182
+Mai Tai	top	0.09090909090909091
+Mai Tai	ten	0.09090909090909091
+Mai Tai	drink	0.8181818181818182
+Mai Tai	real	0.09090909090909091
+Mai Tai	mai	1.0
+Mai Tai	tai	1.0
+Mai Tai	contain	0.09090909090909091
+Mai Tai	ingredi	0.18181818181818182
+Mai Tai	ingredi	0.18181818181818182
+Mai Tai	qualiti	0.18181818181818182
+Mai Tai	import	0.18181818181818182
+Mai Tai	drink	0.8181818181818182
+Mai Tai	choos	0.09090909090909091
+Mai Tai	proper	0.09090909090909091
+Mai Tai	one	0.36363636363636365
+Mai Tai	import	0.18181818181818182
+Mai Tai	consider	0.09090909090909091
+Mai Tai	well	0.18181818181818182
+Mai Tai	discuss	0.09090909090909091
+Mai Tai	note	0.09090909090909091
+Mai Tai	umbrella	0.2727272727272727
+Mai Tai	option	0.09090909090909091
+Mai Tai	cocktail	0.5454545454545454
+Mai Tai	straw	0.18181818181818182
+Mai Tai	make	0.09090909090909091
+Mai Tai	enjoy	0.09090909090909091
+Mai Tai	higher	0.09090909090909091
+Mai Tai	qualiti	0.18181818181818182
+Mai Tai	rum	0.36363636363636365
+Mai Tai	better	0.09090909090909091
+Mai Tai	drink	0.8181818181818182
+Mai Tai	tast	0.09090909090909091
+Mai Tai	jamaican	0.09090909090909091
+Mai Tai	rum	0.36363636363636365
+Mai Tai	ideal	0.09090909090909091
+Mai Tai	mai	1.0
+Mai Tai	tai	1.0
+Mai Tai	mai	1.0
+Mai Tai	tai	1.0
+Mai Tai	requir	0.09090909090909091
+Mai Tai	orgeat	0.09090909090909091
+Mai Tai	syrup	0.18181818181818182
+Mai Tai	sweet	0.09090909090909091
+Mai Tai	syrup	0.18181818181818182
+Mai Tai	flavor	0.09090909090909091
+Mai Tai	almond	0.09090909090909091
+Mai Tai	orang	0.09090909090909091
+Mai Tai	rose	0.09090909090909091
+Mai Tai	water	0.09090909090909091
+Mai Tai	world	0.18181818181818182
+Mai Tai	best	0.09090909090909091
+Mai Tai	umbrella	0.2727272727272727
+Mai Tai	drink	0.8181818181818182
+Mai Tai	speak	0.18181818181818182
+Mai Tai	straw	0.18181818181818182
+Mai Tai	that	0.09090909090909091
+Mai Tai	one	0.36363636363636365
+Mai Tai	garnish	0.18181818181818182
+Mai Tai	think	0.09090909090909091
+Mai Tai	necessari	0.09090909090909091
+Mai Tai	drink	0.8181818181818182
+Mai Tai	common	0.09090909090909091
+Mai Tai	garnish	0.18181818181818182
+Mai Tai	mai	1.0
+Mai Tai	tai	1.0
+Mai Tai	includ	0.09090909090909091
+Mai Tai	lime	0.2727272727272727
+Mai Tai	wedg	0.18181818181818182
+Mai Tai	empti	0.09090909090909091
+Mai Tai	lime	0.2727272727272727
+Mai Tai	shell	0.09090909090909091
+Mai Tai	half	0.09090909090909091
+Mai Tai	chuck	0.09090909090909091
+Mai Tai	glass	0.09090909090909091
+Mai Tai	nice	0.09090909090909091
+Mai Tai	spot	0.09090909090909091
+Mai Tai	color	0.09090909090909091
+Mai Tai	pineappl	0.09090909090909091
+Mai Tai	wedg	0.18181818181818182
+Mai Tai	maraschino	0.09090909090909091
+Mai Tai	cherri	0.09090909090909091
+Mai Tai	mint	0.09090909090909091
+Mai Tai	sprig	0.09090909090909091
+Mai Tai	cours	0.09090909090909091
+Mai Tai	umbrella	0.2727272727272727
+Mai Tai	happen	0.09090909090909091
+Mai Tai	tiki	0.18181818181818182
+Mai Tai	mug	0.09090909090909091
+Mai Tai	lurk	0.09090909090909091
+Mai Tai	somewher	0.18181818181818182
+Mai Tai	cupboard	0.09090909090909091
+Mai Tai	well	0.18181818181818182
+Mai Tai	haul	0.09090909090909091
+Mai Tai	serv	0.09090909090909091
+Mai Tai	drink	0.8181818181818182
+Mai Tai	cowabunga	0.09090909090909091
+Mai Tai	dude	0.09090909090909091
+Liquid nitrogen cocktail	culinari	0.125
+Liquid nitrogen cocktail	use	0.5
+Liquid nitrogen cocktail	liquid	1.0
+Liquid nitrogen cocktail	nitrogen	1.0
+Liquid nitrogen cocktail	mention	0.125
+Liquid nitrogen cocktail	1890	0.125
+Liquid nitrogen cocktail	recip	0.125
+Liquid nitrogen cocktail	book	0.125
+Liquid nitrogen cocktail	titl	0.125
+Liquid nitrogen cocktail	fanci	0.125
+Liquid nitrogen cocktail	ice	0.25
+Liquid nitrogen cocktail	author	0.125
+Liquid nitrogen cocktail	mrs	0.125
+Liquid nitrogen cocktail	agn	0.125
+Liquid nitrogen cocktail	marshal	0.125
+Liquid nitrogen cocktail	employ	0.125
+Liquid nitrogen cocktail	recent	0.125
+Liquid nitrogen cocktail	time	0.125
+Liquid nitrogen cocktail	restaur	0.125
+Liquid nitrogen cocktail	prepar	0.375
+Liquid nitrogen cocktail	frozen	0.125
+Liquid nitrogen cocktail	dessert	0.125
+Liquid nitrogen cocktail	ice	0.25
+Liquid nitrogen cocktail	cream	0.125
+Liquid nitrogen cocktail	creat	0.25
+Liquid nitrogen cocktail	within	0.125
+Liquid nitrogen cocktail	moment	0.125
+Liquid nitrogen cocktail	tabl	0.125
+Liquid nitrogen cocktail	speed	0.125
+Liquid nitrogen cocktail	cool	0.125
+Liquid nitrogen cocktail	food	0.125
+Liquid nitrogen cocktail	similar	0.125
+Liquid nitrogen cocktail	liquid	1.0
+Liquid nitrogen cocktail	nitrogen	1.0
+Liquid nitrogen cocktail	becom	0.125
+Liquid nitrogen cocktail	popular	0.25
+Liquid nitrogen cocktail	prepar	0.375
+Liquid nitrogen cocktail	cocktail	0.375
+Liquid nitrogen cocktail	use	0.5
+Liquid nitrogen cocktail	quick	0.125
+Liquid nitrogen cocktail	chill	0.125
+Liquid nitrogen cocktail	glass	0.125
+Liquid nitrogen cocktail	freez	0.125
+Liquid nitrogen cocktail	ingredi	0.25
+Liquid nitrogen cocktail	also	0.125
+Liquid nitrogen cocktail	ad	0.125
+Liquid nitrogen cocktail	drink	0.25
+Liquid nitrogen cocktail	creat	0.25
+Liquid nitrogen cocktail	smoki	0.25
+Liquid nitrogen cocktail	effect	0.25
+Liquid nitrogen cocktail	occur	0.125
+Liquid nitrogen cocktail	tini	0.125
+Liquid nitrogen cocktail	droplet	0.125
+Liquid nitrogen cocktail	liquid	1.0
+Liquid nitrogen cocktail	nitrogen	1.0
+Liquid nitrogen cocktail	come	0.125
+Liquid nitrogen cocktail	contact	0.25
+Liquid nitrogen cocktail	surround	0.125
+Liquid nitrogen cocktail	air	0.125
+Liquid nitrogen cocktail	condens	0.125
+Liquid nitrogen cocktail	vapour	0.125
+Liquid nitrogen cocktail	natur	0.125
+Liquid nitrogen cocktail	present	0.125
+Liquid nitrogen cocktail	liquid	1.0
+Liquid nitrogen cocktail	nitrogen	1.0
+Liquid nitrogen cocktail	cocktail	0.375
+Liquid nitrogen cocktail	mix	0.125
+Liquid nitrogen cocktail	drink	0.25
+Liquid nitrogen cocktail	whose	0.125
+Liquid nitrogen cocktail	prepar	0.375
+Liquid nitrogen cocktail	involv	0.125
+Liquid nitrogen cocktail	use	0.5
+Liquid nitrogen cocktail	liquid	1.0
+Liquid nitrogen cocktail	nitrogen	1.0
+Liquid nitrogen cocktail	popular	0.25
+Liquid nitrogen cocktail	novelti	0.125
+Liquid nitrogen cocktail	smoki	0.25
+Liquid nitrogen cocktail	bubbl	0.125
+Liquid nitrogen cocktail	cauldron	0.125
+Liquid nitrogen cocktail	effect	0.25
+Liquid nitrogen cocktail	produc	0.125
+Liquid nitrogen cocktail	liquid	1.0
+Liquid nitrogen cocktail	nitrogen	1.0
+Liquid nitrogen cocktail	controversi	0.125
+Liquid nitrogen cocktail	cocktail	0.375
+Liquid nitrogen cocktail	ingredi	0.25
+Liquid nitrogen cocktail	boil	0.125
+Liquid nitrogen cocktail	196	0.125
+Liquid nitrogen cocktail	°c	0.125
+Liquid nitrogen cocktail	77	0.125
+Liquid nitrogen cocktail	k	0.125
+Liquid nitrogen cocktail	321	0.125
+Liquid nitrogen cocktail	°f	0.125
+Liquid nitrogen cocktail	consumpt	0.125
+Liquid nitrogen cocktail	thus	0.125
+Liquid nitrogen cocktail	potenti	0.125
+Liquid nitrogen cocktail	lethal	0.125
+Liquid nitrogen cocktail	low	0.125
+Liquid nitrogen cocktail	temperatur	0.125
+Liquid nitrogen cocktail	liquid	1.0
+Liquid nitrogen cocktail	nitrogen	1.0
+Liquid nitrogen cocktail	extrem	0.125
+Liquid nitrogen cocktail	damag	0.25
+Liquid nitrogen cocktail	bodi	0.125
+Liquid nitrogen cocktail	tissu	0.25
+Liquid nitrogen cocktail	caus	0.125
+Liquid nitrogen cocktail	frostbit	0.125
+Liquid nitrogen cocktail	cryogen	0.125
+Liquid nitrogen cocktail	burn	0.125
+Liquid nitrogen cocktail	contact	0.25
+Liquid nitrogen cocktail	ingest	0.125
+Liquid nitrogen cocktail	lead	0.125
+Liquid nitrogen cocktail	sever	0.125
+Liquid nitrogen cocktail	intern	0.125
+Liquid nitrogen cocktail	damag	0.25
+Liquid nitrogen cocktail	destroy	0.125
+Liquid nitrogen cocktail	tissu	0.25
+Liquid nitrogen cocktail	mouth	0.125
+Liquid nitrogen cocktail	digest	0.125
+Liquid nitrogen cocktail	tract	0.125
+Liquid nitrogen cocktail	furthermor	0.125
+Liquid nitrogen cocktail	evapor	0.125
+Liquid nitrogen cocktail	liquid	1.0
+Liquid nitrogen cocktail	nitrogen	1.0
+Liquid nitrogen cocktail	releas	0.125
+Liquid nitrogen cocktail	larg	0.25
+Liquid nitrogen cocktail	volum	0.125
+Liquid nitrogen cocktail	gas	0.125
+Liquid nitrogen cocktail	mean	0.125
+Liquid nitrogen cocktail	burst	0.125
+Liquid nitrogen cocktail	stomach	0.125
+Liquid nitrogen cocktail	swallow	0.125
+Liquid nitrogen cocktail	suffici	0.125
+Liquid nitrogen cocktail	larg	0.25
+Liquid nitrogen cocktail	amount	0.125
+Liquid nitrogen cocktail	howev	0.125
+Liquid nitrogen cocktail	regul	0.125
+Liquid nitrogen cocktail	substanc	0.125
+Liquid nitrogen cocktail	countri	0.125
+Liquid nitrogen cocktail	littl	0.125
+Liquid nitrogen cocktail	control	0.125
+Liquid nitrogen cocktail	use	0.5
+Grappa	flavour	0.16666666666666666
+Grappa	grappa	1.0
+Grappa	like	0.16666666666666666
+Grappa	wine	0.5
+Grappa	depend	0.16666666666666666
+Grappa	type	0.16666666666666666
+Grappa	qualiti	0.16666666666666666
+Grappa	grape	0.3333333333333333
+Grappa	use	0.3333333333333333
+Grappa	howev	0.16666666666666666
+Grappa	mani	0.16666666666666666
+Grappa	produc	0.16666666666666666
+Grappa	ad	0.3333333333333333
+Grappa	fruit	0.16666666666666666
+Grappa	syrup	0.16666666666666666
+Grappa	sweeten	0.16666666666666666
+Grappa	soften	0.16666666666666666
+Grappa	mix	0.3333333333333333
+Grappa	appeal	0.16666666666666666
+Grappa	american	0.16666666666666666
+Grappa	market	0.16666666666666666
+Grappa	grappa	1.0
+Grappa	tast	0.16666666666666666
+Grappa	similar	0.16666666666666666
+Grappa	balkan	0.16666666666666666
+Grappa	slivovitz	0.16666666666666666
+Grappa	grappa	1.0
+Grappa	frequent	0.16666666666666666
+Grappa	serv	0.16666666666666666
+Grappa	cold	0.16666666666666666
+Grappa	rare	0.16666666666666666
+Grappa	mix	0.3333333333333333
+Grappa	sometim	0.16666666666666666
+Grappa	usual	0.16666666666666666
+Grappa	itali	0.16666666666666666
+Grappa	grappa	1.0
+Grappa	ad	0.3333333333333333
+Grappa	espresso	0.16666666666666666
+Grappa	known	0.3333333333333333
+Grappa	caffè	0.3333333333333333
+Grappa	corretto	0.16666666666666666
+Grappa	also	0.3333333333333333
+Grappa	made	0.5
+Grappa	alcohol	0.3333333333333333
+Grappa	sambuca	0.16666666666666666
+Grappa	variat	0.16666666666666666
+Grappa	amazza	0.16666666666666666
+Grappa	caffè	0.3333333333333333
+Grappa	liter	0.16666666666666666
+Grappa	kill	0.16666666666666666
+Grappa	coffe	0.16666666666666666
+Grappa	grappa	1.0
+Grappa	also	0.3333333333333333
+Grappa	known	0.3333333333333333
+Grappa	grappa	1.0
+Grappa	wine	0.5
+Grappa	italian	0.16666666666666666
+Grappa	grapebas	0.16666666666666666
+Grappa	spirit	0.16666666666666666
+Grappa	40	0.16666666666666666
+Grappa	50	0.16666666666666666
+Grappa	alcohol	0.3333333333333333
+Grappa	volum	0.16666666666666666
+Grappa	80	0.16666666666666666
+Grappa	100	0.16666666666666666
+Grappa	proof	0.16666666666666666
+Grappa	made	0.5
+Grappa	distil	0.16666666666666666
+Grappa	pomac	0.16666666666666666
+Grappa	one	0.16666666666666666
+Grappa	occasion	0.16666666666666666
+Grappa	see	0.16666666666666666
+Grappa	french	0.16666666666666666
+Grappa	word	0.16666666666666666
+Grappa	marc	0.16666666666666666
+Grappa	ie	0.16666666666666666
+Grappa	residu	0.16666666666666666
+Grappa	grape	0.3333333333333333
+Grappa	includ	0.16666666666666666
+Grappa	stem	0.16666666666666666
+Grappa	seed	0.16666666666666666
+Grappa	press	0.16666666666666666
+Grappa	winemak	0.16666666666666666
+Grappa	process	0.16666666666666666
+Grappa	origin	0.16666666666666666
+Grappa	made	0.5
+Grappa	prevent	0.16666666666666666
+Grappa	wastag	0.16666666666666666
+Grappa	use	0.3333333333333333
+Grappa	leftov	0.16666666666666666
+Grappa	end	0.16666666666666666
+Grappa	wine	0.5
+Grappa	season	0.16666666666666666
+Grappa	quick	0.16666666666666666
+Grappa	becam	0.16666666666666666
+Grappa	commerci	0.16666666666666666
+Grappa	massproduc	0.16666666666666666
+Grappa	sold	0.16666666666666666
+Grappa	world	0.16666666666666666
