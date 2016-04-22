@@ -283,6 +283,11 @@ def calculate_similarity(docdict, invdict, idfdict, query):
     # normalizing query
     sq = [sst.stem(term) for term in query.lower().translate(trans).split()
           if term not in stop]
+    # handle insufficient info in a query    
+    if not sq:
+        print("Nothing, since you're drunk already :D")
+        exit()
+
     # create query vector
     qcnts = Counter(sq)
     maxqt = qcnts.most_common(1)[0][1]
